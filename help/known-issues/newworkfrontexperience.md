@@ -3,9 +3,9 @@ title: 新 [!DNL Adobe Workfront] 体验
 description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
 keywords: 新文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '482'
 ht-degree: 1%
 
 ---
@@ -42,7 +42,6 @@ ht-degree: 1%
 | [自定义表单：元素在左侧面板中重叠](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022年9月16日 |
 | [工时单：使用 [!UICONTROL 选项卡] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 2022年9月16日 |
 | [校样： [!UICONTROL 活动校样阶段] 字段留空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
-| [列表：内联编辑状态时未显示新状态](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | 2022年9月9日 |
 | [集成：从提交请求时出错 [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022年8月30日 |
 | [[!DNL Workfront Proof]:每日摘要电子邮件中不包含“[!UICONTROL 查看详细信息]“ ”按钮](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022年8月5日 |
 | [功能板：在功能板中查看的报表图表使用的颜色与在报表中查看时的颜色不同](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022年8月5日 |

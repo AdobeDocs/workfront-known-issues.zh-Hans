@@ -2,15 +2,19 @@
 title: “列表：内联编辑状态时未显示新状态”
 description: “当内联用户编辑列表中某个对象的状态时，新状态会显示一段时间，然后还原为旧状态。 如果列表具有过滤器，并且该过滤器未应用于新状态，则该对象将继续显示在列表中，即使它不应该显示。 "
 hidefromtoc: true
-source-git-commit: 7f3a23b4097489b62d06fde075db9f9a548b44ac
+source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # 列表：内联编辑状态时未显示新状态
+
+>[!NOTE]
+>
+>此问题已于2022年9月16日修复。
 
 当内联用户编辑列表中某个对象的状态时，将显示新状态，然后还原为旧状态。 如果列表具有过滤器，并且该过滤器未应用于新状态，则该对象将继续显示在列表中，即使它不应该显示。
 
