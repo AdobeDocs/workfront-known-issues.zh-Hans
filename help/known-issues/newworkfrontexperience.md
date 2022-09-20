@@ -3,9 +3,9 @@ title: 新 [!DNL Adobe Workfront] 体验
 description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
 keywords: 新文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
 
 | **问题** | **上次修改** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [校样：无法在中打开校样 [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 2022年9月20日 |
 | [更新：无法关闭更新流中的用户卡](known-issues-workfront/wf-updates-cant-close-user-card.md) | 2022年9月20日 |
 | [自定义表单：元素在左侧面板中重叠](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022年9月16日 |
 | [工时单：使用 [!UICONTROL 选项卡] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 2022年9月16日 |
