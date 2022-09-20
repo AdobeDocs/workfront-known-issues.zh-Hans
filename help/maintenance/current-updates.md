@@ -2,9 +2,9 @@
 title: Workfront维护更新
 description: 的维护更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69fbacd0de7751bf9d9b597e6862fe3406a49fde
+source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
 workflow-type: tm+mt
-source-wordcount: '13283'
+source-wordcount: '13341'
 ht-degree: 2%
 
 ---
@@ -30,6 +30,16 @@ ht-degree: 2%
 有关2022年之前的维护更新，请参阅 [以前的维护更新](#previous-maintenance-updates)
 
 ## 2022年9月更新
+
++++**2022年9月22日的维护更新**
+
+**无法关闭更新流中的用户卡**
+
+*更新*
+
+当用户查看更新并悬停在某个名称上时，卡片中会显示有关该用户名称的详细信息，该用户名称随即打开，并且不会自动关闭。 在通过单击右上角的X手动关闭信息卡之前，页面无响应。
+
++++
 
 +++**2022年9月15日的维护更新**
 

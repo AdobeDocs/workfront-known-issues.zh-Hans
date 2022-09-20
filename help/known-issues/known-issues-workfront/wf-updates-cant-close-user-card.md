@@ -2,19 +2,15 @@
 title: “更新：无法关闭更新流中的用户卡”
 description: “当用户查看更新并悬停在某个名称上时，卡片中会显示打开该名称的用户的详细信息，并且不会自动关闭该用户。 在通过单击右上角的X手动关闭信息卡之前，页面无响应。”
 hidefromtoc: true
-source-git-commit: 7b08d32dbdc06d224a30cde787a05276efc782dd
+source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
 
 # 更新：无法关闭更新流中的用户卡
-
->[!NOTE]
->
->此问题已于2022年9月15日修复。
 
 当用户查看更新并悬停在某个名称上时，卡片中会显示有关该用户名称的详细信息，该用户名称随即打开，并且不会自动关闭。 在通过单击右上角的X手动关闭信息卡之前，页面无响应。
 
