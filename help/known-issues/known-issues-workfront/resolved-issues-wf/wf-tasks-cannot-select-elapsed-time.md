@@ -3,14 +3,14 @@ title: “任务：在内联编辑任务持续时间时无法选择已用时间
 description: 当用户正在查看任务列表并尝试编辑任务持续时间时，已用的持续时间单位不可用。
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 任务：在内联编辑任务持续时间时，无法选择已用时间
+# 任务：无法选择 [!UICONTROL 已用时间] 内联编辑任务持续时间时
 
 >[!NOTE]
 >
