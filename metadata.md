@@ -6,9 +6,9 @@ type: Troubleshooting
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-known-issues.zh-Hans
 index: true
-source-git-commit: 00264bafd4247fbc7f3e0ac1bb12190f4fe55649
+source-git-commit: 88aad8bbf8fb7beaaefefa4b0e86dfd081289d50
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
