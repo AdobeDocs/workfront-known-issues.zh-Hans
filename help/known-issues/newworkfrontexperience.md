@@ -3,9 +3,9 @@ title: 新 [!DNL Adobe Workfront] 体验
 description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
 keywords: 新文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '445'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 1%
 | **问题** | **上次修改** |
 |---|---|
 | [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年9月19日 |
-| [校样：关闭校样时，用户不会返回到上一页](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 2022年9月19日 |
 | [通知：访问电子邮件通知设置时出错](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022年9月15日 |
 | [任务和问题：创建任务或问题时意外退出](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022年9月9日 |
 | [报表：在中创建和编辑报表时出现问题 [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 2022年9月6日 |
@@ -37,9 +36,7 @@ ht-degree: 1%
 
 | **问题** | **上次修改** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [校样：无法在中打开校样 [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 2022年9月20日 |
 | [自定义表单：元素在左侧面板中重叠](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022年9月16日 |
-| [工时单：使用 [!UICONTROL 选项卡] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 2022年9月16日 |
 | [校样： [!UICONTROL 活动校样阶段] 字段留空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [集成：从提交请求时出错 [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022年8月30日 |
 | [[!DNL Workfront Proof]:每日摘要电子邮件中不包含“[!UICONTROL 查看详细信息]“ ”按钮](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022年8月5日 |

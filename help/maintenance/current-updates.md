@@ -2,9 +2,9 @@
 title: Workfront维护更新
 description: 的维护更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '13341'
+source-wordcount: '13519'
 ht-degree: 2%
 
 ---
@@ -30,6 +30,36 @@ ht-degree: 2%
 有关2022年之前的维护更新，请参阅 [以前的维护更新](#previous-maintenance-updates)
 
 ## 2022年9月更新
+
++++**2022年9月29日的维护更新**
+
+**关闭校样时，用户不会返回到上一页**
+
+*验证*
+
+在中查看校样的用户 [!DNL Workfront] 关闭校样，他们不会返回在打开校样之前所在的页面。 而是会将用户重定向到 [!DNL Workfront].
+
+**无法在中打开校样[!DNL Workfront]**
+
+*验证*
+
+当用户在 [!DNL Workfront] 并尝试打开校样，校样未打开，用户将返回到 [!UICONTROL 文档详细信息] 页面。
+
+**使用 [!UICONTROL 选项卡] key**
+
+*工时表*
+
+当用户填写时间表并在单元格之间导航时，使用 [!UICONTROL 选项卡] 键，则小时不会保存。 的 [!UICONTROL 自动保存] 通知不会显示在屏幕底部，如果用户刷新页面，他们可以看到未保存的小时数。
+
+**查看包含多个页面的校样时显示空白页面**
+
+*[!DNL Workfront Proof]*
+
+当用户查看包含多个页面的校样时，用户可以查看页面的缩略图，但页面不会在主查看器中打开。
+
+
+
++++
 
 +++**2022年9月22日的维护更新**
 
@@ -72,6 +102,8 @@ ht-degree: 2%
 *[!DNL Workfront Scenario Planner]*
 
 现在，当您与具有其他子组的组共享项目过滤器时，该过滤器对在 [!UICONTROL 导入项目] 一个计划的盒子 [!DNL Scenario Planner].
+
++++
 
 +++**2022年9月8日的维护更新**
 
