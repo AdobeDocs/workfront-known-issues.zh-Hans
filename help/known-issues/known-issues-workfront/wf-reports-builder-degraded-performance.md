@@ -2,15 +2,20 @@
 title: “报告：在Report Builder中创建和编辑报表时出现问题”
 description: “在报表生成器中创建和编辑报表时，报告了多个问题。”
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
 
 # 报表：在Report Builder中创建和编辑报表时出现问题
+
+>[!NOTE]
+>
+>此问题已解决。
+
 
 在报表生成器中创建和编辑报表时，报告了以下问题：
 
