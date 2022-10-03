@@ -3,10 +3,10 @@ title: 中的已知问题 [!DNL Adobe Workfront Fusion]
 description: 报告的已知问题 [!DNL Adobe Workfront Fusion]
 keywords: 新文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 8%
 
 | **问题** | **上次修改** |
 |-----------------------------------------------------------------------------------|-------------------|
-| 无 |  |
+* | [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Custom API Call] 模块返回404或422错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md) | 2022年10月3日 |
 
 ## 当前问题
 

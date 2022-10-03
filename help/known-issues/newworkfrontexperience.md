@@ -3,10 +3,10 @@ title: 新 [!DNL Adobe Workfront] 体验
 description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
 keywords: 新文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,6 @@ ht-degree: 1%
 | **问题** | **上次修改** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年9月30日 |
-| [工时单：向时间表添加注释时出错](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 2022年9月29日 |
 | [自定义表单：元素在左侧面板中重叠](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022年9月16日 |
 | [校样： [!UICONTROL 活动校样阶段] 字段留空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [集成：从提交请求时出错 [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022年8月30日 |

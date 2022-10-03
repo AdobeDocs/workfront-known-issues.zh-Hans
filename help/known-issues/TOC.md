@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 的已知问题 [!DNL Adobe Workfront]
-source-git-commit: e1d537f182d5c86f6f06d39b806b29f225143e3f
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '1230'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -147,6 +147,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion中的已知问题](workfrontfusion.md)
    + 中的当前问题 [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  自定义API调用] 模块返回404或422错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL 提取文本] 模块未生成文本](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]:“无法验证连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]:创建或编辑方案时，模块未加载](known-issues-workfront-fusion/fusion-module-does-not-load.md)
