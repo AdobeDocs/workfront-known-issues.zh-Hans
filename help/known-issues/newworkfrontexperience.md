@@ -3,10 +3,10 @@ title: 新 [!DNL Adobe Workfront] 体验
 description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
 keywords: 新文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '468'
+ht-degree: 1%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [团队：分配多个团队会导致只分配一个团队](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 2022年10月4日 |
 | [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年9月30日 |
 | [自定义表单：元素在左侧面板中重叠](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022年9月16日 |
 | [校样： [!UICONTROL 活动校样阶段] 字段留空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
