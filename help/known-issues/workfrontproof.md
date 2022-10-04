@@ -3,10 +3,10 @@ title: 中的已知问题 [!DNL Adobe Workfront Proof]
 description: 报告的已知问题 [!DNL Adobe Workfront Proof]
 keywords: 新文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 | 问题 | 上次修改 |
 |---|---|
-| 无 |  |
+| [文档：&quot;[!UICONTROL 上传文件失败]“错误”](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 
 {style=&quot;table-layout:auto&quot;}
 
