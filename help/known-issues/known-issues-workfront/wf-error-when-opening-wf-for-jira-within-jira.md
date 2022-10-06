@@ -2,7 +2,7 @@
 title: “集成：为打开Workfront时出错 [!DNL Jira] 在吉拉"
 description: “当用户在 [!DNL Jira] 和尝试添加或打开 [!DNL Workfront for Jira] 加载项时，该加载项未打开，用户会看到错误消息。”
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 2%
@@ -11,8 +11,6 @@ ht-degree: 2%
 
 
 # 集成：打开时出错 [!DNL Workfront for Jira] within [!DNL Jira]
-
-<!--Becky recheck DNL-->
 
 >[!NOTE]
 >
