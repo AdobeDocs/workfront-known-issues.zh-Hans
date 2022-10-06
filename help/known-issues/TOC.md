@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 的已知问题 [!DNL Adobe Workfront]
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '1284'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知问题 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的当前问题 [!DNL Adobe Workfront] {#wf-current}
+      + [布局模板：在布局模板中自定义列表时出错](known-issues-workfront/wf-layout-templates-error-lists-users.md)
+      + [校样：“New proof recipients”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [校样：无法自动比较校样](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [文档：&quot;[!UICONTROL 上传文件失败]“错误”](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [团队：分配多个团队会导致只分配一个团队](known-issues-workfront/wf-teams-multiple-team-assignments.md)

@@ -3,10 +3,10 @@ title: 新 [!DNL Adobe Workfront] 体验
 description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
 keywords: 新文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '454'
+ht-degree: 2%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [布局模板：在布局模板中自定义列表时出错](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022年10月6日 |
+| [校样：“New proof recipients”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月6日 |
 | [文档：&quot;[!UICONTROL 上传文件失败]“错误”](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 | [通知：用户在评论中提及或包含时未收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年9月29日 |
 | [通知：访问电子邮件通知设置时出错](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022年9月15日 |

@@ -3,10 +3,10 @@ title: 中的已知问题 [!DNL Adobe Workfront Proof]
 description: 报告的已知问题 [!DNL Adobe Workfront Proof]
 keywords: 新文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 5%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：“New proof recipients”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月6日 |
 | [文档：&quot;[!UICONTROL 上传文件失败]“错误”](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 
 {style=&quot;table-layout:auto&quot;}
