@@ -3,14 +3,18 @@ title: 功能板：无法从对象的左侧导航中访问功能板
 description: 当用户单击 [!DNL Workfront] 对象时，功能板不显示。
 hidefromtoc: true
 exl-id: f140f758-32ff-4b5a-b690-0ece22461c50
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
+source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 功能板：无法从对象的左侧导航中访问功能板
+
+>[!NOTE]
+>
+>此问题已于2022年9月29日修复。
 
 当用户单击 [!DNL Workfront] 对象时，功能板不显示。
 
