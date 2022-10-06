@@ -2,9 +2,9 @@
 title: Workfront维护更新
 description: 的维护更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
 workflow-type: tm+mt
-source-wordcount: '13805'
+source-wordcount: '13831'
 ht-degree: 2%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 2%
 ## 2022年10月更新
 
 +++**2022年10月6日的维护更新**
+
+**新的Blueprint类型**
+
+*Blueprint*
+
+Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提供项目模板和组织结构蓝图。
 
 **元素在左侧面板中重叠**
 
