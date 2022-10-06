@@ -2,9 +2,9 @@
 title: Workfront维护更新
 description: 的维护更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '13746'
+source-wordcount: '13805'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 2%
 
 ## 2022年10月更新
 
-+++**2022年10月6日的维护更新（计划中）**
++++**2022年10月6日的维护更新**
 
 **元素在左侧面板中重叠**
 
@@ -45,7 +45,17 @@ ht-degree: 2%
 
 现在，当通过键盘导航时，当收到键盘焦点时，日期选取器将不再自动打开和激活。
 
-&quot;[!UICONTROL 您最近的更改未保存]“在时间表上自动保存更改时出错
+**分配多个团队会导致只分配一个团队**
+
+*团队*
+
+>[!NOTE]
+>
+>此问题仅在“预览”环境中存在。
+
+当用户为任务或问题分配多个团队时，分配列表中只显示一个团队。 此问题也会影响报表。 显示团队分配的报表不准确，因为只有一个团队显示为任务或问题的分配。
+
+**&quot;[!UICONTROL 您最近的更改未保存]“在时间表上自动保存更改时出错**
 
 *工时表*
 
@@ -58,7 +68,7 @@ ht-degree: 2%
 * 小时
 * 任务
 
-电子邮件通知延迟
+**电子邮件通知延迟**
 
 *Workfront Proof*
 

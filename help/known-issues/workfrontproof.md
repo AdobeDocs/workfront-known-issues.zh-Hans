@@ -3,7 +3,7 @@ title: 中的已知问题 [!DNL Adobe Workfront Proof]
 description: 报告的已知问题 [!DNL Adobe Workfront Proof]
 keywords: 新文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -30,7 +30,7 @@ ht-degree: 3%
 
 | **问题** | **上次修改** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]:电子邮件通知延迟](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 2022年9月15日 |
+| [校样：无法自动比较校样](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022年10月6日 |
 | [校样： [!UICONTROL 活动校样阶段] 字段留空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [[!DNL Workfront Proof]:请求者和审阅者计入组织的许可证计数](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022年8月12日 |
 | [校样：中显示的校样批准截止日期不准确 [!UICONTROL 家庭工作列表]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 2022年4月25日 |

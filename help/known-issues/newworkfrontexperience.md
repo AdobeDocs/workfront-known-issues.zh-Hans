@@ -3,9 +3,9 @@ title: 新 [!DNL Adobe Workfront] 体验
 description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
 keywords: 新文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---
@@ -37,14 +37,12 @@ ht-degree: 1%
 
 | **问题** | **上次修改** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [团队：分配多个团队会导致只分配一个团队](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 2022年10月4日 |
+| [校样：无法自动比较校样](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022年10月6日 |
 | [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年9月30日 |
-| [自定义表单：元素在左侧面板中重叠](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022年9月16日 |
 | [校样： [!UICONTROL 活动校样阶段] 字段留空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [集成：从提交请求时出错 [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022年8月30日 |
 | [[!DNL Workfront Proof]:每日摘要电子邮件中不包含“[!UICONTROL 查看详细信息]“ ”按钮](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022年8月5日 |
 | [功能板：在功能板中查看的报表图表使用的颜色与在报表中查看时的颜色不同](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022年8月5日 |
-| [工时单：&quot;[!UICONTROL 您最近的更改未保存]“在时间表上自动保存更改时出错](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | 2022年7月28日 |
 | [[!UICONTROL 主页]:自定义术语未应用于“主页”区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022年6月3日 |
 | [敏捷：无法编辑信息卡上自定义表单的字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022年5月11日 |
 | [布局模板：创建布局模板时无法选择组](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022年5月4日 |

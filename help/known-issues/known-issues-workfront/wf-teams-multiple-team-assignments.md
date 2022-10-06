@@ -2,15 +2,19 @@
 title: “团队：分配多个团队会导致仅分配一个团队”
 description: “当用户为任务或问题分配多个团队时，分配列表中只显示一个团队。 此问题也会影响报表。 显示团队分配的报表不准确，因为只有一个团队显示为任务或问题的分配。”
 hidefromtoc: true
-source-git-commit: ed675a0d4f5dfd0f66b6756df3cae0935f33a286
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
 # 团队：分配多个团队会导致只分配一个团队
+
+>[!NOTE]
+>
+>此问题已于2022年10月6日修复。
 
 >[!NOTE]
 >

@@ -3,14 +3,18 @@ title: 工时单：在时间表上自动保存更改时，您最近的更改未�
 description: 当用户尝试以触发自动保存的方式编辑时间表时，不会保存更改，并且用户看到消息您最近的更改未保存。 刷新要查看的页面。
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '126'
 ht-degree: 1%
 
 ---
 
 # 工时单：&quot;[!UICONTROL 您最近的更改未保存]“在时间表上自动保存更改时出错
+
+>[!NOTE]
+>
+>此问题已于2022年10月6日修复。
 
 当用户尝试以触发自动保存的方式编辑时间表时，不会保存更改，并且用户会看到以下消息：
 
