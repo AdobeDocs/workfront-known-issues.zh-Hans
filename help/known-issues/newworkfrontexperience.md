@@ -3,9 +3,9 @@ title: 新 [!DNL Adobe Workfront] 体验
 description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
 keywords: 新文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '493'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 2%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：向校样添加群组不会添加该群组的所有成员](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022年10月10日 |
 | [布局模板：在布局模板中自定义列表时出错](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022年10月6日 |
 | [校样：“New proof recipients”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月6日 |
 | [文档：&quot;[!UICONTROL 上传文件失败]“错误”](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
@@ -39,6 +40,8 @@ ht-degree: 2%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [任务： [!UICONTROL 前置] 任务标题中缺少图标](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022年10月10日 |
+| [任务和问题：无法编辑任务或问题的名称或完成百分比](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 2022年10月10日 |
 | [校样：无法自动比较校样](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022年10月6日 |
 | [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年9月30日 |
 | [集成：从提交请求时出错 [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022年8月30日 |
