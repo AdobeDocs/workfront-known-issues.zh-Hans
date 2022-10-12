@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '1347'
-ht-degree: 86%
+source-wordcount: '1354'
+ht-degree: 85%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [工时单：无法输入小时 [!UICONTROL 一般时间]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [列表： [!UICONTROL 快速筛选] 搜索团队时不返回任何结果](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [导航：删除页面固定后，无法重新固定页面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
       + [分配：批量分配团队时出错](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
