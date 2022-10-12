@@ -1,22 +1,22 @@
 ---
-title: 新 [!DNL Adobe Workfront] 体验
-description: 新的已知问题报告 [!DNL Adobe Workfront] 体验
-keywords: 新文件，添加文件
+title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
+description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
+keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '512'
-ht-degree: 2%
+source-wordcount: '523'
+ht-degree: 66%
 
 ---
 
-# 中的已知问题 [!DNL Adobe Workfront]
+# 存在于 [!DNL Adobe Workfront] 的已知问题
 
-本页包含当前在 [!DNL Adobe Workfront].
+此页面包含当前在 [!DNL Adobe Workfront] 中发现的问题。
 
 >[!IMPORTANT]
 >
->有关服务器正常运行时间或中断的信息，请参阅 [status.adobe.com](https://status.adobe.com). 有关最近修复的问题的信息，请参阅 [[!DNL Workfront] 维护更新](../maintenance/current-updates.md).
+>有关服务器正常运行时间或中断的信息，请见 [status.adobe.com ](https://status.adobe.com)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新 ](../maintenance/current-updates.md)。
 
 ## 新建
 
@@ -29,8 +29,8 @@ ht-degree: 2%
 | [布局模板：在布局模板中自定义列表时出错](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022年10月6日 |
 | [校样：“New proof recipients”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月6日 |
 | [文档：&quot;[!UICONTROL 上传文件失败]“错误”](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
-| [通知：用户在评论中提及或包含时未收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年9月29日 |
-| [通知：访问电子邮件通知设置时出错](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022年9月15日 |
+| [通知：用户在评论中提及或包含时未收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 29 月 9 日 |
+| [通知：访问电子邮件通知设置时出错](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022 年 9 月 15 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -41,13 +41,14 @@ ht-degree: 2%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [列表： [!UICONTROL 快速筛选] 搜索团队时不返回任何结果](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022年10月12日 |
 | [导航：删除页面固定后，无法重新固定页面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022年10月11日 |
 | [任务： [!UICONTROL 前置] 任务标题中缺少图标](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022年10月10日 |
 | [任务和问题：无法编辑任务或问题的名称或完成百分比](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 2022年10月10日 |
 | [校样：无法自动比较校样](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022年10月6日 |
-| [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022年9月30日 |
-| [集成：从提交请求时出错 [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022年8月30日 |
-| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] 支持案例Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |
+| [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 30 月 9 日 |
+| [集成：从  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交请求时出错 | 2022 年 8 月 30 日 |
+| [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -57,32 +58,32 @@ ht-degree: 2%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样： [!UICONTROL 活动校样阶段] 字段留空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
-| [功能板：在功能板中查看的报表图表使用的颜色与在报表中查看时的颜色不同](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022年8月5日 |
-| [[!UICONTROL 主页]:自定义术语未应用于“主页”区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022年6月3日 |
-| [敏捷：无法编辑信息卡上自定义表单的字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022年5月11日 |
-| [布局模板：创建布局模板时无法选择组](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022年5月4日 |
-| [敏捷：在 [!UICONTROL 敏捷] 展示板](known-issues-workfront/wf-agile-issues-moving-cards.md) | 2022年4月27日 |
-| [批准：设置的审批委派天数不正确](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022年4月20日 |
-| [[!UICONTROL 主页]:显示 [!UICONTROL 分配给] 字段](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 2021年10月1日 |
-| [更新：团队名称未显示在@mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021年10月1日 |
-| [日历：问题 [!UICONTROL 结束时间] 日历](known-issues-workfront/wf-calendars-issue-time-off.md) | 2021年6月25日 |
-| [敏捷：差异 [!UICONTROL 已完成的点数] 对于迭代](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021年6月22日 |
-| [[!UICONTROL 主页]: [!UICONTROL 校样回复] 按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021年6月21日 |
-| [电子邮件通知：&quot;[!UICONTROL 我被指派处理问题]“ ”设置显示](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021年6月2日 |
-| [电子邮件通知：未将用户定向到注释线程](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021年4月23日 |
-| [日历： [!DNL OR] 过滤器规则排除语句](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021年4月23日 |
-| [[!UICONTROL Workfront校样]: [!UICONTROL 校样批准] 报告无法准确确定截止时间](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日 |
-| [[!UICONTROL 主页]:在 [!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021年6月14日 |
-| [报表：在功能板上查看时，无法水平滚动报表](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021年3月30日 |
-| [[!UICONTROL 主页]:项目名称在 [!UICONTROL 工作列表]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | 2021年2月11日 |
-| [文档：校样工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年1月25日 |
-| [报表：日历默认为旧日期](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 2021年2月5日 |
-| [电子邮件通知：电子邮件在 [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) | 2021年3月30日 |
-| [[!UICONTROL 主页]:无法在 [!UICONTROL 工作列表]](known-issues-workfront/wf-home-unable-to-view-document-image.md) | 2020年11月9日 |
-| [列表：显示名称未应用于自定义字段分组](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | 2020年11月9日 |
-| [主页：批准委派日期在刷新后发生更改，并发出2封电子邮件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 2020年11月9日 |
-| [日历：任务未显示](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 2020年11月9日 |
+| [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
+| [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 5 日 |
+| [[!UICONTROL 主页]：自定义术语不适用于”主页“区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 3 日 |
+| [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
+| [布局模板：创建布局模板时无法选择组](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022 年 5 月 4 日 |
+| [敏捷：在 [!UICONTROL Agile] 展示板](known-issues-workfront/wf-agile-issues-moving-cards.md)移动信息卡时的问题 | 2022 年 4 月 27 日 |
+| [审批：为不正确的天数设置了审批委派](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022 年 4 月 20 日 |
+| [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)显示已停用的用户 | 2021 年 10 月 1 日 |
+| [更新：团队名称未出现在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021 年 10 月 1 日 |
+| [日程表：[!UICONTROL 休息时间]日程表](known-issues-workfront/wf-calendars-issue-time-off.md)问题 | 2021 年 6 月 25 日 |
+| [敏捷：开发周期[!UICONTROL 完成点]的差异](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021 年 6 月 22 日 |
+| [[!UICONTROL 主页]：[!UICONTROL 在验证中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
+| [电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021 年 6 月 2 日 |
+| [电子邮件通知：用户未定向到评论会话](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 23 日 |
+| [日程表： [!DNL OR]  过滤语句不包括过滤规则](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021 年 4 月 23 日 |
+| [[!UICONTROL Workfront Proof]：[!UICONTROL 验证审批]报告无法准确确定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
+| [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021 年 6 月 14 日 |
+| [报告：在仪表板上查看时无法水平滚动报告](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021 年 3 月 30 日 |
+| [[!UICONTROL 主页]：项目名称在[!UICONTROL 工作列表]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)显示为 GUID | 2021 年 2 月 11 日 |
+| [文档：验证工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 1 月 25 日 |
+| [报告：日程表默认为旧日期](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 2021 年 2 月 5 日 |
+| [电子邮件通知： [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) 中的电子邮件格式不正确 | 2021 年 3 月 30 日 |
+| [[!UICONTROL 主页]：无法在[!UICONTROL 工作列表]](known-issues-workfront/wf-home-unable-to-view-document-image.md)中查看文档图像 | 2020 年 11 月 9 日 |
+| [列表：显示名称未应用于自定义字段分组](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | 2020 年 11 月 9 日 |
+| [主页：刷新后审批委派日期发生变化并发送 2 封电子邮件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 2020 年 11 月 9 日 |
+| [日程表：未显示任务](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 2020 年 11 月 9 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
