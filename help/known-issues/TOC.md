@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 的已知问题 [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [中的已知问题 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + 中的当前问题 [!DNL Adobe Workfront] {#wf-current}
+      + [导航：删除页面固定后，无法重新固定页面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [分配：批量分配团队时出错](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [任务： [!UICONTROL 前置] 任务标题中缺少图标](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [校样：向校样添加群组不会添加该群组的所有成员](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [任务和问题：无法编辑任务或问题的名称或完成百分比](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
