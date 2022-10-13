@@ -2,15 +2,19 @@
 title: “工时单：不能在“一般时间”中输入小时
 description: “当用户尝试在其时间表的“一般时间”部分记录小时时，没有可供他们输入小时的框。 如果用户在将进入小时的区域上游，则他们会看到消息选择要记录小时的作业标题。”
 hidefromtoc: true
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '155'
 ht-degree: 3%
 
 ---
 
 
 # 工时单：无法输入小时 [!UICONTROL 一般时间]
+
+>[!NOTE]
+>
+>此问题已于2022年10月13日修复。
 
 当用户尝试在 [!UICONTROL 一般时间] 在工时单的部分中，没有可输入小时的框。 如果用户在进入小时的区域上游，则会看到消息“[!UICONTROL 选择作业标题以记录小时数。]&quot;
 

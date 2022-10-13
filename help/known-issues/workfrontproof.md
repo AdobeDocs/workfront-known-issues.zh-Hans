@@ -1,22 +1,22 @@
 ---
-title: 中的已知问题 [!DNL Adobe Workfront Proof]
-description: 报告的已知问题 [!DNL Adobe Workfront Proof]
-keywords: 新文件，添加文件
+title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
+description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
+keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: '191'
+ht-degree: 65%
 
 ---
 
-# 中的已知问题 [!DNL Adobe Workfront Proof]
+# 存在于 [!DNL Adobe Workfront Proof] 的已知问题
 
-本页包含当前在 [!DNL Adobe Workfront Proof].
+此页面包含当前在 [!DNL Adobe Workfront Proof] 中发现的问题。
 
 >[!IMPORTANT]
 >
->有关服务器正常运行时间或中断的信息，请参阅 [status.adobe.com](https://status.adobe.com). 有关最近修复的问题的信息，请参阅 [[!DNL Workfront] 维护更新](../maintenance/current-updates.md).
+>有关服务器正常运行时间或中断的信息，请见 [status.adobe.com ](https://status.adobe.com)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新 ](../maintenance/current-updates.md)。
 
 ## 新建
 
@@ -24,7 +24,6 @@ ht-degree: 5%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：向校样添加群组不会添加该群组的所有成员](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022年10月10日 |
 | [校样：“New proof recipients”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月6日 |
 | [文档：&quot;[!UICONTROL 上传文件失败]“错误”](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 
@@ -36,8 +35,7 @@ ht-degree: 5%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：无法自动比较校样](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022年10月6日 |
-| [[!DNL Workfront Proof]:请求者和审阅者计入组织的许可证计数](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022年8月12日 |
+| 无 |  |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -47,13 +45,13 @@ ht-degree: 5%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样： [!UICONTROL 活动校样阶段] 字段留空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
-| [[!DNL Workfront Proof]:无法通过在评论中标记用户来向校样添加用户](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022年3月23日 |
-| [[!UICONTROL 主页]: [!UICONTROL 校样回复] 按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021年6月21日 |
-| [[!DNL Workfront Proof]:自动访问校样会延迟](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021年6月14日 |
-| [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] 报告无法准确确定截止时间](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日 |
-| [[!UICONTROL 主页]:在 [!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021年6月14日 |
-| [文档：校样工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年3月5日 |
+| [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
+| [[!DNL Workfront Proof]：无法通过在评论中标记用户来将用户添加到验证中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
+| [[!UICONTROL 主页]：[!UICONTROL 在验证中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
+| [[!DNL Workfront Proof]：自动访问验证延迟](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021 年 6 月 14 日 |
+| [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] 报告无法准确确定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
+| [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021 年 6 月 14 日 |
+| [文档：验证工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 3 月 5 日 |
 
 {style=&quot;table-layout:auto&quot;}
 

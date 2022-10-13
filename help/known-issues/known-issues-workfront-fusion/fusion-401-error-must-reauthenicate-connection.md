@@ -2,10 +2,10 @@
 title: '"[!DNL Workfront Fusion]:无法验证连接错误”'
 description: “与Workfront帐户的Workfront Fusion连接可能无法进行身份验证，从而导致出现以下错误：无法验证连接。”
 hidefromtoc: true
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 6%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 **解决方法**
 
-重新授权连接可以暂时解决此问题。
+创建新连接，并将Workfront模块中的当前连接替换为新连接。
 
-_第一次报告是在2022年9月8日。_
+_首次报告于 2022 年 9 月 8 日。_
 

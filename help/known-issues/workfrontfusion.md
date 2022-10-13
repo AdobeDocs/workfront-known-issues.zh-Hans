@@ -1,22 +1,22 @@
 ---
-title: 中的已知问题 [!DNL Adobe Workfront Fusion]
-description: 报告的已知问题 [!DNL Adobe Workfront Fusion]
-keywords: 新文件，添加文件
+title: 存在于  [!DNL Adobe Workfront Fusion] 的已知问题
+description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
+keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '140'
+ht-degree: 60%
 
 ---
 
-# 中的已知问题 [!DNL Adobe Workfront Fusion]
+# 存在于 [!DNL Adobe Workfront Fusion] 的已知问题
 
-本页包含当前在 [!DNL Adobe Workfront Fusion].
+此页面包含当前在 [!DNL Adobe Workfront Fusion] 中发现的问题。
 
 >[!IMPORTANT]
 >
->有关服务器正常运行时间或中断的信息，请参阅 [status.adobe.com](https://status.adobe.com). 有关最近修复的问题的信息，请参阅 [[!DNL Workfront] 维护更新](../maintenance/current-updates.md).
+>有关服务器正常运行时间或中断的信息，请见 [status.adobe.com ](https://status.adobe.com)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新 ](../maintenance/current-updates.md)。
 
 ## 新建
 
@@ -35,8 +35,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]:&quot;[!UICONTROL 无法加载数据]“错误”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 2022年10月3日 |
-| [[!DNL Workfront Fusion]: [!DNL Fusion] 应用程序内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022年8月2日 |
+| [[!DNL Workfront Fusion]: [!DNL Fusion]  应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022 年 8 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -46,7 +45,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]:“无法验证连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022年9月29日 |
-| [[!DNL Workfront Fusion]: [!DNL Fusion] 模块返回404错误，没有进一步信息](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022年9月9日 |
+| [[!DNL Workfront Fusion]:“无法验证连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022 年 29 月 9 日 |
+| [[!DNL Workfront Fusion]: [!DNL Fusion]  模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022 年 9 月 9 日 |
 
 {style=&quot;table-layout:auto&quot;}
