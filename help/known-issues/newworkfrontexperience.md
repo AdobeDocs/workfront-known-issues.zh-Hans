@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 71%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,6 +38,8 @@ ht-degree: 71%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [敏捷：添加到小版本的任务出现问题](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022年10月13日 |
+| [自定义表单：设置计算字段时出现“Whoops”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022年10月13日 |
 | [分配：批量分配团队时出错](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022年10月13日 |
 | [布局模板：在布局模板中自定义列表时出错](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022年10月13日 |
 | [列表： [!UICONTROL 快速筛选] 搜索团队时不返回任何结果](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022年10月12日 |
