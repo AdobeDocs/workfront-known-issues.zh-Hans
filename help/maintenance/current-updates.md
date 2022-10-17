@@ -2,7 +2,7 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
 workflow-type: tm+mt
 source-wordcount: '14290'
 ht-degree: 94%
@@ -65,7 +65,7 @@ ht-degree: 94%
 
 +++
 
-+++** 2022年10月11日的维护更新
++++**2022年10月11日的维护更新**
 
 **删除页面固定后，无法重新固定页面**
 
