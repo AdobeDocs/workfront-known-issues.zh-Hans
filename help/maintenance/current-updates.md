@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '14290'
-ht-degree: 94%
+source-wordcount: '14458'
+ht-degree: 93%
 
 ---
 
@@ -30,6 +30,39 @@ ht-degree: 94%
 有关 2022 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)
 
 ## 2022 年 10 月更新
+
++++**2022 年 10 月 20 日维护更新**
+
+**批量分配团队时出错**
+
+*分派*
+
+当用户在分配个人后批量编辑任务或问题并分配团队时，不会保存分配，并且用户会看到以下错误：
+
+&quot;[!UICONTROL 我们再试一次 — 出现以下错误：teamAssignments必须是对象列表或ID列表]&quot;
+
+**[!UICONTROL 上传文件失败]“错误”**
+
+*文档*
+
+当用户尝试将文件上传到 [!UICONTROL 文档] 区域，文件不会上传，用户会看到错误“[!UICONTROL 上传文件失败].&quot;
+
+尝试上传MP4文件时报告了此问题。
+
+**任务左导航中的问题计数不正确**
+
+*问题*
+
+当用户查看任务时， [!UICONTROL 问题] 左侧导航部分不能准确表示附加到任务的实际问题数。
+
+
+**[!UICONTROL 前置] 任务标题中缺少图标**
+
+*任务*
+
+当用户查看任务时，标题中缺少任务前置图标。
+
++++
 
 +++**2022 年 10 月 13 日维护更新**
 
