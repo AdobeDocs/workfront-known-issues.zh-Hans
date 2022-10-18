@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '1398'
-ht-degree: 83%
+source-wordcount: '1424'
+ht-degree: 81%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [文档：外部文档请求链接导致登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [程序：分配 [!UICONTROL 项目所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [报表：“移动到”选项在问题报表中不可用](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [问题：任务左导航中的问题计数不正确](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -131,6 +133,7 @@ ht-degree: 83%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [校样：校样不会在校样工作流中共享给用户](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]:查看包含多个页面的校样时显示空白页面](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [验证：从  [!DNL Workfront]  Proof 向  [!DNL Workfront]  添加验证时出错](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]：将文件上传到评论时出错](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
