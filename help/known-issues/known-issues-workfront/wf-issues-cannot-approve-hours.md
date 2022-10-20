@@ -1,12 +1,12 @@
 ---
-title: ‘问题：无法批准或拒绝问题的小时数”
-description: 当用户尝试批准或拒绝 [!UICONTROL 小时] 的 [!UICONTROL 批准] 和 [!UICONTROL 拒绝] 缺少按钮。
+title: '问题：无法批准或拒绝问题的小时数'
+description: 当用户尝试在问题的[!UICONTROL 小时数]选项卡审批或拒绝小时数时，[!UICONTROL 审批]和[!UICONTROL 拒绝]按钮缺失。
 exl-id: ee01b27a-acca-433f-9661-32ffaf683a58
 hidefromtoc: true
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->此问题已于2022年9月1日修复。
+>此问题已于 2022 年 9 月 1 日修复。
 
-当用户尝试批准或拒绝 [!UICONTROL 小时] 的 [!UICONTROL 批准] 和 [!UICONTROL 拒绝] 缺少按钮。
+当用户尝试在问题的[!UICONTROL 小时数]选项卡审批或拒绝小时数时，[!UICONTROL 审批]和[!UICONTROL 拒绝]按钮缺失。
 
-_第一次报告是在2022年6月13日。_
+_首次报告于 2022 年 6 月 13 日。_
