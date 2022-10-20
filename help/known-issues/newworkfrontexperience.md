@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 51b03717b9db0e9247954ce72a58c25764766a18
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '578'
-ht-degree: 60%
+source-wordcount: '557'
+ht-degree: 62%
 
 ---
 
@@ -24,11 +24,8 @@ ht-degree: 60%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [敏捷：通过批量编辑分配的任务不会显示在团队的积压工作中](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022年10月20日 |
 | [校样：打印摘要不显示所有校样页](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
-| [[!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022年10月18日 |
-| [文档：外部文档请求链接导致登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月18日 |
-| [问题：任务左导航中的问题计数不正确](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 2022年10月12日 |
-| [文档：&quot;[!UICONTROL 上传文件失败]“错误”](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022年10月4日 |
 | [通知：用户在评论中提及或包含时未收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 29 月 9 日 |
 | [通知：访问电子邮件通知设置时出错](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022 年 9 月 15 日 |
 
@@ -41,6 +38,8 @@ ht-degree: 60%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：外部文档请求链接导致登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
+| [[!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022年10月20日 |
 | [报表：报表使用情况信息未更新](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022年10月19日 |
 | [导航：无法固定对象](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022年10月19日 |
 | [校样：“New proof recipients”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月18日 |
@@ -48,10 +47,8 @@ ht-degree: 60%
 | [报表：“移动到”选项在问题报表中不可用](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022年10月13日 |
 | [敏捷：添加到小版本的任务出现问题](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022年10月13日 |
 | [自定义表单：设置计算字段时出现“Whoops”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022年10月13日 |
-| [分配：批量分配团队时出错](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022年10月13日 |
 | [列表： [!UICONTROL 快速筛选] 搜索团队时不返回任何结果](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022年10月12日 |
 | [导航：删除页面固定后，无法重新固定页面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022年10月11日 |
-| [任务： [!UICONTROL 前置] 任务标题中缺少图标](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022年10月10日 |
 | [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 30 月 9 日 |
 | [集成：从  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交请求时出错 | 2022 年 8 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

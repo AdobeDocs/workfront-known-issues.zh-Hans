@@ -2,15 +2,19 @@
 title: “任务：批量分配团队时出错”
 description: “当用户在分配个人后批量编辑任务或问题并分配团队时，分配不会保存，用户会看到错误。”
 hidefromtoc: true
-source-git-commit: f16da861a5138c57722eea15a130e0b50cc167d0
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
 
 # 分配：批量分配团队时出错
+
+>[!NOTE]
+>
+>此问题已于2022年10月20日修复。
 
 当用户在分配个人后批量编辑任务或问题并分配团队时，不会保存分配，并且用户会看到以下错误：
 
@@ -20,5 +24,5 @@ ht-degree: 0%
 
 先分配团队，然后是个人。
 
-_第一次报告是在2022年10月7日。_
+_首次报告于 2022 年 10 月 7 日。_
 

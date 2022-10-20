@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1467'
 ht-degree: 79%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [敏捷：通过批量编辑分配的任务不会显示在团队的积压工作中](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [报表：报表使用情况信息未更新](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [导航：无法固定对象](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载](known-issues-workfront/wf-boards-boards-do-not-load.md)
