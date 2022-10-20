@@ -1,21 +1,21 @@
 ---
-title: ‘报告：滚动时矩阵报表显示不正确'
-description: 当用户查看矩阵报表并滚动时，报表的某些可视化元素可能会重叠或重复。
+title: '报告：滚动时 Matrix 报告显示不正确'
+description: 当用户查看 Matrix 报告并滚动时，报告的某些可视元素可能会重叠或重复。
 exl-id: 7eedc50d-c137-42b4-bc3f-e4a467bdc292
 hidefromtoc: true
 source-git-commit: 3e3ecae9120b27515154ddd3a76f15353f0b84e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 报表：滚动时矩阵报表显示不正确
+# 报告：滚动时 Matrix 报告显示不正确
 
 >[!NOTE]
 >
->本文已于2022年8月18日修复。
+>该文章已于 2022 年 8 月 18 日修复。
 
-当用户查看矩阵报表并滚动时，报表的某些可视化元素可能会重叠或重复。
+当用户查看 Matrix 报告并滚动时，报告的某些可视元素可能会重叠或重复。
 
-_第一次报告是在2022年6月3日。_
+_首次报告于 2022 年 6 月 3 日。_
