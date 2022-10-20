@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1454'
 ht-degree: 79%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 79%
    + [!DNL Workfront] Proof {#proof-resolved} 中已解决的问题
       + [[!DNL Workfront Proof]：创建、移动或存档验证时， [!DNL Workfront Proof]  区域不会更新](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [验证：验证显示为“[!UICONTROL 正在生成验证]”的时间过长](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [用户无法将自己移动到验证的另一个阶段](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion]：当场景包含检查 Workfront 中的验证决策的模块时出现 502 错误](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + [!DNL Workfront Fusion] {#fusion-resolved} 中已解决的问题
-      + [ [!DNL Workfront]  模块出现 401 错误](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [自定义表单中的数据在  [!DNL Workfront Fusion] [!DNL Workfront] 模块不可用](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront 模板] {#goals}
