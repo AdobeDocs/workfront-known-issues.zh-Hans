@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 81%
+source-wordcount: '1455'
+ht-degree: 79%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 81%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报表：报表使用情况信息未更新](known-issues-workfront/wf-reports-usage-not-updating.md)
+      + [导航：无法固定对象](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载](known-issues-workfront/wf-boards-boards-do-not-load.md)
       + [文档：外部文档请求链接导致登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [程序：分配 [!UICONTROL 项目所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
@@ -133,6 +135,7 @@ ht-degree: 81%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [校样：打印摘要不显示所有校样页](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [校样：校样不会在校样工作流中共享给用户](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]:查看包含多个页面的校样时显示空白页面](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [验证：从  [!DNL Workfront]  Proof 向  [!DNL Workfront]  添加验证时出错](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
@@ -167,6 +170,7 @@ ht-degree: 81%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+      + [[!DNL Workfront Fusion]:在方案执行历史记录中查看错误时出错](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]:409错误 [!DNL Fusion] 方案](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]:&quot;[!UICONTROL 无法加载数据]“错误”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  自定义API调用] 模块返回404或422错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)

@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
+source-git-commit: 51b03717b9db0e9247954ce72a58c25764766a18
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 62%
+source-wordcount: '578'
+ht-degree: 60%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 62%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：打印摘要不显示所有校样页](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
 | [[!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022年10月18日 |
 | [文档：外部文档请求链接导致登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月18日 |
 | [问题：任务左导航中的问题计数不正确](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 2022年10月12日 |
@@ -40,6 +41,8 @@ ht-degree: 62%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报表：报表使用情况信息未更新](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022年10月19日 |
+| [导航：无法固定对象](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022年10月19日 |
 | [校样：“New proof recipients”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月18日 |
 | [程序：分配 [!UICONTROL 项目所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022年10月17日 |
 | [报表：“移动到”选项在问题报表中不可用](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022年10月13日 |
