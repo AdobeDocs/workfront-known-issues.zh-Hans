@@ -1,21 +1,21 @@
 ---
-title: “文档：校样工作流图标未显示
-description: 当新 [!DNL Workfront] 体验会创建校样，在用户刷新页面之前，校样状态图标“SOCD”有时不会显示在“文档”列表中。
+title: '文档：验证工作流图标未显示'
+description: 当用户在新版  [!DNL Workfront]  Experience 创建验证时，在用户刷新页面之前，验证状态图标“SOCD”有时不会显示在文档列表中。
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 文档：校样工作流图标未显示
+# 文档：验证工作流图标未显示
 
 >[!NOTE]
 >
->产品团队当前正在评估此问题解决方案。 此问题解决后，将在产品公告中传递，而不是与维护更新一起传递。
+>产品团队目前正在评估此问题的解决方案。 解决此问题后，将在“产品公告”中进行沟通，而非在“维护更新”中进行沟通。
 
-当新 [!DNL Workfront] 体验会创建校样，校样状态图标“[!UICONTROL SOCD]“有时不会在 [!UICONTROL 文档] 列表，直到用户刷新页面为止。
+当用户在新版 [!DNL Workfront] Experience 创建验证时，在用户刷新页面之前，验证状态图标“[!UICONTROL SOCD]”有时不会显示在[!UICONTROL 文档]列表中。
 
-2020年11月3日首次报道
+首次报告于 2020 年 11 月 3 日
