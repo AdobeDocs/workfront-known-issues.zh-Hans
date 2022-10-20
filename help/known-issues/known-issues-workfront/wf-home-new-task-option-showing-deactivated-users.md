@@ -1,17 +1,17 @@
 ---
-title: “主页：“新建任务”选项，显示“分配给”字段中已停用的用户
-description: 当新 [!DNL Adobe Workfront] 体验会在“主页”区域创建新任务或问题，然后尝试分配用户，则已停用的用户会在 [!UICONTROL typeaid] 下拉列表。
+title: '主页：“新任务”选项在“分配给”字段显示已停用的用户'
+description: 当新  [!DNL Adobe Workfront]  Experience 中的用户在“主页”区域创建新任务或问题，并且尝试分配用户时，停用的用户在[!UICONTROL 预输入]下拉列表中显示为选择。
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 主页]: [!UICONTROL 新任务] 选项显示 [!UICONTROL 分配给] 字段
+# [!UICONTROL 主页]：[!UICONTROL 新任务]选项在[!UICONTROL 任务负责人]字段显示已停用的用户
 
-当新 [!DNL Adobe Workfront] 体验会在 [!UICONTROL 主页] 区域，且用户尝试分配用户时，已停用的用户会在typeahead下拉列表中显示为选择。
+当新 [!DNL Adobe Workfront] Experience 中的用户在[!UICONTROL 主页]区域创建新任务或问题，并且尝试分配用户时，停用的用户在预输入下拉列表中显示为选择。
 
-_第一次报告是在2021年6月15日。_
+_首次报告于 2021 年 6 月 15 日。_
