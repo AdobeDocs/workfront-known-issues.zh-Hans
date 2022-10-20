@@ -1,26 +1,26 @@
 ---
-title: “分配字段：用户和角色分配字段的名称临时更新”
-description: “9月1日，两个 [!DNL Workfront] 分配字段已引入生产。”
+title: “任务字段：临时更新的用户和角色任务字段名称”
+description: “9 月 1 日，生产中引入了两个  [!DNL Workfront]  任务字段的临时名称更改。”
 hidefromtoc: true
 source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 分配字段：用户和角色分配字段的名称临时更新
+# 任务字段：临时更新的用户和角色任务字段名称
 
 >[!NOTE]
 >
->此问题已于2022年9月8日解决。
+>此问题已于 2022 年 9 月 8 日解决。
 
-9月1日，两个 [!DNL Workfront] 分配字段已引入生产：
+9 月 1 日，生产中引入了两个 [!DNL Workfront] 任务字段的临时名称更改。
 
-* **[!UICONTROL 分配用户]** 临时 **[!UICONTROL 分配的用户]**.
-* **[!UICONTROL 分配角色]** 临时 **[!UICONTROL 分配的角色]**.
+* **[!UICONTROL 任务用户]**&#x200B;是暂时的&#x200B;**[!UICONTROL 任务负责人]**。
+* **[!UICONTROL 任务角色]**&#x200B;是暂时的&#x200B;**[!UICONTROL 任务负责角色]**。
 
-这两个字段下周都将恢复为生产中的原始标签。
+这两个字段将在下周的“生产”中恢复为其原始标签。
 
-在 [术语表 [!DNL Adobe Workfront] 术语](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html).
+临时注释已添加到  [!DNL Adobe Workfront]  术语的[词汇表](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html)。
