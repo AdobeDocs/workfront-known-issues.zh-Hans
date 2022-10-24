@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 62%
+source-wordcount: '567'
+ht-degree: 61%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 62%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [自定义表单： [!UICONTROL 小时] 函数使用UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 2022年10月24日 |
 | [文档：外部文档请求链接导致登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
 | [[!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022年10月20日 |
 | [报表：报表使用情况信息未更新](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022年10月19日 |
@@ -67,7 +68,7 @@ ht-degree: 62%
 | [[!UICONTROL 主页]：自定义术语不适用于”主页“区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 3 日 |
 | [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
 | [布局模板：创建布局模板时无法选择组](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022 年 5 月 4 日 |
-| [敏捷：在 [!UICONTROL Agile] 展示板](known-issues-workfront/wf-agile-issues-moving-cards.md)移动信息卡时的问题 | 2022 年 4 月 27 日 |
+| [敏捷：在[!UICONTROL 敏捷]展示板](known-issues-workfront/wf-agile-issues-moving-cards.md)移动信息卡时的问题 | 2022 年 4 月 27 日 |
 | [审批：为不正确的天数设置了审批委派](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022 年 4 月 20 日 |
 | [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)显示已停用的用户 | 2021 年 10 月 1 日 |
 | [更新：团队名称未出现在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021 年 10 月 1 日 |

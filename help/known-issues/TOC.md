@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '1454'
-ht-degree: 79%
+source-wordcount: '1463'
+ht-degree: 78%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [自定义表单： [!UICONTROL 小时] 函数使用UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [敏捷：通过批量编辑分配的任务不会显示在团队的积压工作中](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [报表：报表使用情况信息未更新](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [导航：无法固定对象](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
@@ -92,7 +93,7 @@ ht-degree: 79%
       + [问题：无法批准或拒绝问题的小时数](known-issues-workfront/wf-issues-cannot-approve-hours.md)
       + [报告：报告未按计划发送](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
       + [报告：滚动时 Matrix 报告显示不正确](known-issues-workfront/wf-reports-matrix-display-incorrectly.md)
-      + [敏捷：在敏捷展示板移动信息卡时的问题](known-issues-workfront/wf-agile-issues-moving-cards.md)
+      + [敏捷：在“敏捷”展示板移动信息卡时的问题](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [术语（德语）：当浏览器语言设置为德语时，某些区域的术语错误](known-issues-workfront/wf-terminology-in-german.md)
       + [更新：标记用户然后离开会移除已标记的用户](known-issues-workfront/resolved-issues-wf/wf-updates-tag-users-navigate-away-untags.md)
       + [搜索：无法按引用编号来搜索项目](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
@@ -153,7 +154,7 @@ ht-degree: 79%
       + [[!DNL Workfront Proof]：交互式验证中的超链接无效](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
       + [在工作流模板中进行初始配置后无法修改用户选项](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md)
       + [在验证中标记时，用户不会收到通知](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md)
-      + [在[!UICONTROL 验证查看者]中所做的评论无法实时显示](known-issues-workfront-proof/comments-not-visible-in-real-time.md)
+      + [在[!UICONTROL 验证查看器]中所做的评论无法实时显示](known-issues-workfront-proof/comments-not-visible-in-real-time.md)
       + [由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/new-stage-created.md)
       + [主页工作列表显示不准确的验证审批截止日期](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [无法通过在评论中标记用户来将用户添加到验证中](known-issues-workfront-proof/cannot-add-user-to-proof.md)
