@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
 workflow-type: tm+mt
-source-wordcount: '14458'
+source-wordcount: '14607'
 ht-degree: 93%
 
 ---
@@ -30,6 +30,28 @@ ht-degree: 93%
 有关 2022 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)
 
 ## 2022 年 10 月更新
+
++++**2022年10月27日的维护更新（计划中）**
+
+**[!UICONTROL 小时] 函数使用UTC**
+
+*自定义表单*
+
+当计算字段包含 [!UICONTROL 小时] 函数时，该函数会根据UTC而不是预期时区返回值。 因此，任何基于HOUR值的计算都不正确。
+
+**[!UICONTROL 快速筛选] 搜索团队时不返回任何结果**
+
+*列表*
+
+当用户尝试使用 [!UICONTROL 快速筛选] 在列表中搜索团队时，输入团队的名称不会返回任何结果，即使该团队在列表中可见(例如 [!UICONTROL 已分配给] 字段。 搜索单词“[!UICONTROL 团队]“也不会返回任何结果。
+
+**中列出的所有用户 [!UICONTROL 工作负载平衡器] 在 [!DNL Safari] 浏览器**
+
+*[!UICONTROL 工作负载均衡器]*
+
+当用户遵循指向 [!UICONTROL 工作负载平衡器] 使用 [!DNL Safari] 浏览器，则他们会看到所有用户，而不只是列出的团队成员。
+
++++
 
 +++**2022 年 10 月 20 日维护更新**
 
@@ -392,13 +414,13 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 当用户尝试更改[!UICONTROL 计划模式]设置为[!UICONTROL 手动保存]>[!UICONTROL 时间线计划]的项目的日期时，日期未更改，且用户看到错误消息。
 
-“[!UICONTROL “时间线计划”模式仅在加载 timelineDate 时可用。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复。]”
+“[!UICONTROL “时间线计划”模式仅在加载 timelineDate 时可用。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]”
 
 **使用“月”视图打开工作负载均衡器时的一致性问题**
 
 *工作负载均衡器*
 
-现在，工作负载均衡器在[!UICONTROL 天]、[!UICONTROL 星期]或者[!UICONTROL 月]视图中显示用户分配的工作项。 在此更新之前，分配的工作项在[!UICONTROL 天]和[!UICONTROL 周]视图中展开显示，在[!UICONTROL 月]视图下折叠显示。
+现在，工作负载均衡器在[!UICONTROL 天]、[!UICONTROL 周]或者[!UICONTROL 月]视图中显示用户分配的工作项。 在此更新之前，分配的工作项在[!UICONTROL 天]和[!UICONTROL 周]视图中展开显示，在[!UICONTROL 月]视图下折叠显示。
 
 
 +++
@@ -499,7 +521,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 +++**2022 年 8 月 4 日维护更新**
 
-这些问题仅在新 [!DNL Workfront] Experience 中得到修复。
+这些问题仅在新版 [!DNL Workfront] Experience 中得到修复。
 
 全部[!DNL Workfront Classic]功能已于 2022 年 7 月 14 日移除。
 
@@ -517,7 +539,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 +++**2022 年 7 月 28 日维护更新**
 
-这些问题仅在新 [!DNL Workfront] Experience 中得到修复。
+这些问题仅在新版 [!DNL Workfront] Experience 中得到修复。
 
 全部[!DNL Workfront Classic]功能已于 2022 年 7 月 14 日移除。
 
@@ -565,7 +587,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 已经报告了以下有关创建时间表的各种问题：
 
 * 当用户尝试为“角色”创建时间表时，未创建时间表并且用户看到错误“[!UICONTROL 未找到具有主键值’XXXXXXXXXXX‘的用户]。
-* 当用户尝试为团队创建时间表时，[!UICONTROL 预输入]字段不会填充团队，并且[!UICONTROL 创建时间表]按钮会禁用。
+* 当用户尝试为团队创建时间表时，[!UICONTROL 预输入]字段未填充团队，并且[!UICONTROL 创建时间表]按钮禁用。
 
 
 **创建、移动或存档验证时，[!DNL Workfront Proof] 区域不会更新**
@@ -582,7 +604,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 +++**2022 年 7 月 26 日维护更新（修补程序）**
 
-这些问题仅在新 [!DNL Workfront] Experience 中得到修复。
+这些问题仅在新版 [!DNL Workfront] Experience 中得到修复。
 
 全部[!DNL Workfront Classic]功能已于 2022 年 7 月 14 日移除。
 
@@ -603,7 +625,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 +++**2022 年 7 月 21 日维护更新**
 
-这些问题仅在新 [!DNL Workfront] Experience 中得到修复。
+这些问题仅在新版 [!DNL Workfront] Experience 中得到修复。
 
 全部[!DNL Workfront Classic]功能已于 2022 年 7 月 14 日移除。
 
@@ -640,7 +662,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 *更新*
 
-当用户尝试查看他们的[!UICONTROL 我的更新]页面时，该页面无法加载。 用户只能看到 [!DNL Workfront] 导航标题。
+当用户尝试查看[!UICONTROL 我的更新]页面时，该页面无法加载。 用户只能看到 [!DNL Workfront] 导航标题。
 
 **复制用户时缺少“[!UICONTROL 仅允许 SAML 2.0 身份验证]”设置**
 
@@ -652,7 +674,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 +++**2022 年 7 月 14 日维护更新**
 
-这些问题仅在新 [!DNL Workfront] Experience 中得到修复。
+这些问题仅在新版 [!DNL Workfront] Experience 中得到修复。
 
 全部[!DNL Workfront Classic]功能已于 2022 年 7 月 14 日移除。
 
@@ -847,7 +869,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 +++
 
-+++**[!DNL Workfront]2022 年 6 月 23 日场景规划器维护更新**
++++2022 年 6 月 23 日 **[!DNL Workfront]场景规划器维护更新**
 
 **具有计划[!UICONTROL 管理]权限的用户可以与其他人共享**
 
@@ -865,7 +887,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 **设置过滤器时未显示自定义季度**
 
-*筛选器*
+*过滤器*
 
 当用户按日期字段创建过滤器和过滤条件时，日期字段的可用运算符下拉菜单不包括任何最近添加的自定义季度。
 
@@ -875,7 +897,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 当用户尝试通过模板将问题转化为项目，并且该问题具有包含仅管理员部分的自定义表单时，该问题未转化并且用户会看到以下错误消息：
 
-”[!UICONTROL 让我们再试一次。 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复。]”
+”[!UICONTROL 让我们再试一次。 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]”
 
 **提交请求时未填写必填字段**
 
@@ -995,7 +1017,7 @@ Blueprint类型“功能板”已添加到Blueprint目录中。 以前，只提�
 
 +++**2022 年 5 月 26 日维护更新**
 
-这些问题仅在新 [!DNL Workfront] Experience 中得到修复。 [!DNL Adobe Workfront Classic] 不再受支持。
+这些问题仅在新版 [!DNL Workfront] Experience 中得到修复。 [!DNL Adobe Workfront Classic] 不再受支持。
 
 全部[!DNL Workfront Classic]功能将于 2022 年 7 月移除。 请尽快过渡到新 Experience。
 
@@ -1075,7 +1097,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 如果用户查看[!UICONTROL 组]页面并尝试使用标题中的[!UICONTROL 组管理员]添加或移除组管理员，更改不会保存，且用户会看到以下错误消息：
 
-[!UICONTROL “糟糕”错误！ 出现问题。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复。]
+[!UICONTROL “糟糕”错误！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]
 
 **水平滚动条阻止列表末尾的项**
 
@@ -1167,7 +1189,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 当分配给包含[!UICONTROL 用户管理员（组用户）]访问设置的访问级别的用户尝试查看其组中用户的详细信息时，他们会看到以下错误消息：
 
-”[!UICONTROL 让我们再试一次。 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复。]”
+”[!UICONTROL 让我们再试一次。 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]”
 
 **无法删除自定义组状态**
 
@@ -1662,7 +1684,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 当非管理员用户尝试将任务或问题添加到列表并填写自定义字段时，任务或问题未创建，并且用户看到以下错误消息：
 
-[!UICONTROL “糟糕”错误！ 出现问题。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复。]
+[!UICONTROL “糟糕”错误！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]
 
 **在状态更改后保留更新会将对象恢复到以前的状态**
 
@@ -1693,7 +1715,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 当用户从内联添加问题时，如果有一个带有自定义下拉字段的自定义视图应用于列表，则仅填写下拉字段时会出错。 用户有权编辑自定义表单，并且是具有项目管理权限的项目所有者。
 
-[!UICONTROL 错误：糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复！]
+[!UICONTROL 错误：糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复！]
 
 **将任务移动或复制到项目中，不需要向项目添加任务的权限**
 
@@ -1743,7 +1765,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 当用户查看报告时，报告标题中会显示以下错误：
 
-”[!UICONTROL 让我们再试一次。 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复。]”
+”[!UICONTROL 让我们再试一次。 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]”
 
 如果用户正在查看仪表板，则错误可能会出现在仪表板上所有报告的标题中。
 
@@ -1834,7 +1856,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 当用户尝试通过模板将问题转化为项目，并在模板中添加或删除自定义表单时，问题未转化，且用户看到以下消息：
 
-[!UICONTROL 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复。]
+[!UICONTROL 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]
 
 **无法打开验证；页面刷新**
 
@@ -1894,7 +1916,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 当用户尝试打开[!UICONTROL 用户]页面时，该页面无法打开，并且用户看到以下错误消息：
 
-[!UICONTROL 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们判断哪里出错误并加以修复。]
+[!UICONTROL 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]
 
 **仪表板上报告标题中存在重叠元素**
 
