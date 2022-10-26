@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
+source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
 workflow-type: tm+mt
-source-wordcount: '14607'
-ht-degree: 93%
+source-wordcount: '14720'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,18 @@ ht-degree: 93%
 ## 2022 年 10 月更新
 
 +++**2022年10月27日的维护更新（计划中）**
+
+**删除页面固定后，无法重新固定页面**
+
+*导航*
+
+>[!NOTE]
+>
+>此问题已在2022年10月13日的“预览”中修复。 将于2022年10月27日在生产中修复。
+
+当用户选择[!UICONTROL 删除针脚]“ ”选项，接收有关删除的消息，并尝试通过单击“[!UICONTROL 撤消]“ ”消息中，未在顶部导航中替换针脚，也未将其添加到 [!UICONTROL 更多针脚] 列表( [!UICONTROL 针脚] 区域)。
+
+如果用户尝试通过转到页面并固定页面来重新固定页面，则不会创建固定，用户无法固定页面。
 
 **[!UICONTROL 小时] 函数使用UTC**
 
