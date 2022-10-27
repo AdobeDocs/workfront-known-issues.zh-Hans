@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 77%
+source-wordcount: '1513'
+ht-degree: 75%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 77%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [请求：页面上查看的队列主题不能超过100个](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [问题：出现问题时，左侧导航会显示“(0)”问题](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [请求： [!UICONTROL 电子邮件队列设置] 不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL 展示板]: [!UICONTROL 摄入量] 列搜索无效](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 设置]:列表在中加载缓慢 [!UICONTROL 设置]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [自定义表单： [!UICONTROL 小时] 函数使用UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)

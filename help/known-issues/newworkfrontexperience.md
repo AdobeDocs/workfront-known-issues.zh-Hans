@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 60%
+source-wordcount: '602'
+ht-degree: 57%
 
 ---
 
@@ -24,6 +24,9 @@ ht-degree: 60%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [请求：页面上查看的队列主题不能超过100个](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022年10月27日 |
+| [问题：出现问题时，左侧导航会显示“(0)”问题](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | 2022年10月27日 |
+| [请求： [!UICONTROL 电子邮件队列设置] 不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022年10月27日 |
 | [[!UICONTROL 展示板]: [!UICONTROL 摄入量] 列搜索无效](known-issues-workfront/wf-boards-search-returns-no-results.md) | 2022年10月26日 |
 | [[!UICONTROL 设置]:列表在中加载缓慢 [!UICONTROL 设置]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022年10月24日 |
 | [敏捷：通过批量编辑分配的任务不会显示在团队的积压工作中](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022年10月20日 |
@@ -40,7 +43,7 @@ ht-degree: 60%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [自定义表单： [!UICONTROL 小时] 函数使用UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 2022年10月24日 |
+| [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年10月27日 |
 | [文档：外部文档请求链接导致登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
 | [[!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022年10月20日 |
 | [报表：报表使用情况信息未更新](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022年10月19日 |
@@ -50,7 +53,6 @@ ht-degree: 60%
 | [报表：“移动到”选项在问题报表中不可用](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022年10月13日 |
 | [敏捷：添加到小版本的任务出现问题](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022年10月13日 |
 | [自定义表单：设置计算字段时出现“Whoops”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022年10月13日 |
-| [列表： [!UICONTROL 快速筛选] 搜索团队时不返回任何结果](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022年10月12日 |
 | [导航：删除页面固定后，无法重新固定页面](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022年10月11日 |
 | [任务：在任务中输入小时时，不会保存小时 [!UICONTROL “摘要”面板]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 30 月 9 日 |
 | [集成：从  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交请求时出错 | 2022 年 8 月 30 日 |
