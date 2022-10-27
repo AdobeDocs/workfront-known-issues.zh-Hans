@@ -1,31 +1,31 @@
 ---
-title: “报告：在Report Builder中创建和编辑报表时出现问题”
-description: “在报表生成器中创建和编辑报表时，报告了多个问题。”
+title: “报告：在 Report Builder 中创建和编辑报告时的问题”
+description: “在 Report Builder 中创建和编辑报告时，报告了多个问题。”
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 94%
 
 ---
 
 
-# 报表：在Report Builder中创建和编辑报表时出现问题
+# 报告：在 Report Builder 中创建和编辑报告时的问题
 
 >[!NOTE]
 >
 >此问题已解决。
 
 
-在报表生成器中创建和编辑报表时，报告了以下问题：
+在 Report Builder 中创建和编辑报告时，报告了以下问题：
 
-* 未加载报表生成器。
+* Report Builder 未加载。
 * 图表分组（轴）消失。
-* 的 [!UICONTROL 保存并关闭] 按钮无响应。
+* [!UICONTROL 保存 + 关闭]按钮无反应。
 
 **解决方法**
 
-重新加载页面可能允许您创建或编辑报表。
+重新加载页面可能允许您创建或编辑报告。
 
-_第一次报告是在2022年9月2日。_
+_首次报告于 2022 年 9 月 2 日。_
 

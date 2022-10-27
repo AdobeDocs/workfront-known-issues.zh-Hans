@@ -1,29 +1,29 @@
 ---
-title: “集成：为打开Workfront时出错 [!DNL Jira] 在吉拉"
-description: “当用户在 [!DNL Jira] 和尝试添加或打开 [!DNL Workfront for Jira] 加载项时，该加载项未打开，用户会看到错误消息。”
+title: “集成：在 Jira 中打开  [!DNL Jira]  的 Workfront 时出错”
+description: “当用户使用  [!DNL Jira]  并尝试添加或打开  [!DNL Workfront for Jira]  插件时，插件未打开，且用户看到一条错误消息。”
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# 集成：打开时出错 [!DNL Workfront for Jira] within [!DNL Jira]
+# 集成：在 [!DNL Jira] 中打开 [!DNL Workfront for Jira] 出错
 
 >[!NOTE]
 >
->此问题已于2022年9月5日修复。
+>此问题已于 2022 年 9 月 5 日修复。
 
-当用户在 [!DNL Jira] 和尝试添加或打开 [!DNL Workfront for Jira] 加载项时，该加载项未打开，用户会看到以下消息：
+当用户使用 [!DNL Jira] 并尝试添加或打开 [!DNL Workfront for Jira] 插件时，插件未打开，且用户看到以下错误消息：
 
-&quot;[!UICONTROL 出现错误. 我们的团队已经接到通知。 如果问题仍然存在，请联系 [!UICONTROL 阿特兰] 支持。]&quot;
+“[!UICONTROL 出现错误。我们的团队已收到通知。 如果问题仍然存在，请联系 [!UICONTROL Atlassian] 支持部门。]”
 
-这种情况可能发生在以下情况下：
+在以下情形下可能会发生这种情况：
 
-* 尝试获取 [!DNL Workfront for Jira] 附加组件
-* 尝试配置以前获取的 [!DNL Workfront for Jira] 附加组件
+* 当试图获取 [!DNL Workfront for Jira] 插件时
+* 当尝试配置先前获取的 [!DNL Workfront for Jira] 插件时
 
-_第一次报告是在2022年8月23日。_
+_首次报告于 2022 年 8 月 23 日。_
 
