@@ -2,8 +2,8 @@
 title: 2021 年 Workfront 维护更新
 description: 2021 年  [!DNL Adobe Workfront] 维护更新历史记录
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
-workflow-type: ht
+source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -430,7 +430,7 @@ _请求_
 
 _敏捷_
 
-当用户尝试使用除了“[!UICONTROL 所有团队]”过滤器之外的任何其他过滤器查看 Scrum 故事板时，显示一个空白屏幕。 用户无法切换回“[!UICONTROL 所有团队]“过滤器。
+当用户尝试使用除了“[!UICONTROL 所有团队]”过滤器之外的任何其他过滤器查看 Scrum 故事板时，显示一个空白屏幕。用户无法切换回“[!UICONTROL 所有团队]“过滤器。
 
 +++
 
@@ -970,7 +970,7 @@ _请求_
 
 **列未显示**
 
-_Kanban_
+_看板_
 
 当新版 [!DNL Adobe Workfront] Experience 用户添加自定义[!UICONTROL 附加字段]列到 Kanban 展示板时，所有列标题停止显示在展示板上。
 
