@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '14719'
+source-wordcount: '14718'
 ht-degree: 92%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此问题已在2022年10月13日的“预览”中修复。 将于2022年10月27日在生产中修复。
+>此问题已在2022年10月13日的“预览”中修复。 已于2022年10月27日在生产中修复。
 
 当用户选择[!UICONTROL 删除针脚]“ ”选项，接收有关删除的消息，并尝试通过单击“[!UICONTROL 撤消]“ ”消息中，未在顶部导航中替换针脚，也未将其添加到 [!UICONTROL 更多针脚] 列表( [!UICONTROL 针脚] 区域)。
 
