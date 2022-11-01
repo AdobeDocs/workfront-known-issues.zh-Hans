@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
 workflow-type: tm+mt
-source-wordcount: '1537'
+source-wordcount: '1542'
 ht-degree: 74%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 74%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [搜索：搜索速度极慢](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]:404错误 [!DNL Workfront] 模块](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API:无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [校样：验证生成速度极慢](known-issues-workfront/wf-proofs-slow-proof-generation.md)
