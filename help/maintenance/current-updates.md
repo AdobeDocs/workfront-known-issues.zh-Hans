@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '14718'
+source-wordcount: '14801'
 ht-degree: 92%
 
 ---
@@ -28,6 +28,32 @@ ht-degree: 92%
 -->
 
 有关 2022 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)
+
+## 2022 年 10 月更新
+
++++**2022 年11 月 3 日维护更新**
+
+**访问电子邮件通知设置时出错**
+
+*通知*
+
+>[!NOTE]
+>
+>在生产和预览环境中都存在此问题。
+
+当用户尝试更改电子邮件通知设置时，可能会看到以下错误之一：
+
+* ”[!UICONTROL 让我们再试一次。 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]”
+
+* “[!UICONTROL 未能获取电子邮件通知]”
+
+该问题已在以下区域报告：
+
+* “[!UICONTROL 设置]”>“[!UICONTROL 电子邮件通知]”
+* “[!UICONTROL 用户]”>“[!UICONTROL 编辑用户]”
+* [!UICONTROL 组]
+
++++
 
 ## 2022 年 10 月更新
 
