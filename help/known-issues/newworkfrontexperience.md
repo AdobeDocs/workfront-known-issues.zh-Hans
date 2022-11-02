@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
+source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 55%
+source-wordcount: '641'
+ht-degree: 54%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 55%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [请求：编辑请求队列时显示“Whoops”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022年11月2日 |
 | [列表：用户的内联编辑错误不会导致错误消息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022年11月2日 |
 | [搜索：搜索速度极慢](known-issues-workfront/wf-search-basic-search-is-slow.md) | 2022年11月1日 |
 | [校样：验证生成速度极慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
