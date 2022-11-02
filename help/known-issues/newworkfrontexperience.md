@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 56%
+source-wordcount: '633'
+ht-degree: 55%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 56%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [列表：用户的内联编辑错误不会导致错误消息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022年11月2日 |
 | [搜索：搜索速度极慢](known-issues-workfront/wf-search-basic-search-is-slow.md) | 2022年11月1日 |
 | [校样：验证生成速度极慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
 | [请求：页面上查看的队列主题不能超过100个](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022年10月27日 |

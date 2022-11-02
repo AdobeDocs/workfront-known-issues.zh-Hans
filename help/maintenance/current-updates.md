@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
+source-wordcount: '14844'
 ht-degree: 92%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 92%
 ## 2022 年 10 月更新
 
 +++**2022 年11 月 3 日维护更新**
+
+**在布局模板中为团队和项目重命名“计划”和“计划”部分**
+
+*布局模板*
+
+在团队或项目左侧面板的布局模板中添加的“计划”和“计划”选项卡已重命名为“工作负载平衡器”。
 
 **访问电子邮件通知设置时出错**
 
