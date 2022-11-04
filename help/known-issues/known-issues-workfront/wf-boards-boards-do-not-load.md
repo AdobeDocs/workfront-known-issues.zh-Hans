@@ -1,18 +1,22 @@
 ---
-title: “董事会：展示板页面未加载”
-description: “当用户尝试访问展示板时，展示板的标题会短暂显示，但随后会消失，用户只会看到空白页面。”
+title: “展示板：展示板页面不加载”
+description: “当用户尝试访问展示板时，展示板的标题会短暂出现并消失，用户只会看到一个空白页面。”
 hidefromtoc: true
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 91%
 
 ---
 
 
-# [!UICONTROL 展示板]: [!UICONTROL 展示板] 页面未加载
+# [!UICONTROL 展示板]：[!UICONTROL 展示板]页面不加载
 
-用户尝试访问 [!UICONTROL 展示板]，的标题 [!UICONTROL 展示板] 短暂显示，但随后消失，用户只看到空白页面。
+>[!NOTE]
+>
+>此问题已于2022年11月3日修复。
+
+当用户尝试访问[!UICONTROL 展示板]时，[!UICONTROL 展示板]的标题会短暂出现并消失，用户只会看到一个空白页面。
 
 _首次报告于 2022 年 10 月 11 日。_
 

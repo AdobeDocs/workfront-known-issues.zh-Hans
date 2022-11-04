@@ -2,15 +2,19 @@
 title: “问题：出现问题时，左侧导航显示(0)问题”
 description: “当用户查看存在问题的任务时，该任务的左侧导航显示(0)在“问题”区域，表示没有问题。 如果用户查看了任务的“问题”区域，则他们会看到问题。
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 3%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
 
 # 问题：出现问题时，左侧导航会显示“(0)”问题
+
+>[!NOTE]
+>
+>此问题已关闭，因为它就是如此设计的。“问题”区域的数字是指未解决问题的数量，而不是总的问题。
 
 当用户查看存在问题的任务时，该任务的左侧导航在“问题”区域中显示“(0)”，表示没有问题。 如果用户查看了任务的“问题”区域，则他们会看到问题。
 
