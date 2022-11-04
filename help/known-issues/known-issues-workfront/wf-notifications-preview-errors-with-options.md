@@ -2,10 +2,10 @@
 title: “通知：访问电子邮件通知设置时出错”
 description: “当用户尝试更改电子邮件通知设置时，可能会看到错误。”
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 89%
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->在生产和预览环境中都存在此问题。
+>此问题已于2022年11月3日修复。
 
 当用户尝试更改电子邮件通知设置时，可能会看到以下错误之一：
 
