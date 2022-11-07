@@ -3,7 +3,7 @@ title: “列表：内联编辑状态时不显示新状态”
 description: “当用户内联编辑列表中对象的状态时，新状态会显示片刻，然后恢复到旧状态。 如果列表具有过滤器，并且该过滤器不适用于新状态，即使不应该，该对象仍将继续显示在列表中。 "
 hidefromtoc: true
 source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
