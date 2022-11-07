@@ -4,7 +4,7 @@ description: 当用户查看  [!DNL Workfront]  Proof 仪表板时，[!UICONTROL
 exl-id: 0f378fef-4d0d-414d-a51f-a5c3beda2f46
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
