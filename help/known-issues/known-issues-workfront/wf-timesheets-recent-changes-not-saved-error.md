@@ -4,9 +4,9 @@ description: 当用户尝试以触发自动保存的方式编辑时间表时，�
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2022年10月6日修复。
+>此问题已于 2022 年 10 月 6 日修复。
 
 当用户尝试以触发自动保存的方式编辑时间表时，更改未保存，并且用户看到以下消息：
 
