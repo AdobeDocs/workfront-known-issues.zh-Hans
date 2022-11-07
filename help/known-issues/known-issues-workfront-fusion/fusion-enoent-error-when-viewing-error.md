@@ -3,7 +3,7 @@ title: “Workfront Fusion：在场景执行历史记录中查看错误时出错
 description: “当用户查看场景执行历史记录并尝试通过单击错误来查看有关错误的更多详细信息时，详细信息未打开且用户看到错误消息。”
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 
