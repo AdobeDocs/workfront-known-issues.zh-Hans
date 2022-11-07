@@ -4,7 +4,7 @@ description: 当用户被指定为验证审批负责人时，无论该用户被�
 exl-id: 60dcc9c3-6c60-488e-921d-453d4b011f1b
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
 
