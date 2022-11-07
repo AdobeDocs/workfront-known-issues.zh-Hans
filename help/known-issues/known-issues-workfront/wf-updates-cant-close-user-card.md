@@ -3,7 +3,7 @@ title: “更新：无法在更新流中关闭用户信息卡”
 description: “当用户查看更新并将鼠标悬停在名称上时，会打开包含有关该名称的用户详情信息卡，但不会自动关闭。 在单击右上角的 X 手动关闭信息卡之前，该页面无响应。”
 hidefromtoc: true
 source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
