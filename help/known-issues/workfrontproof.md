@@ -42,11 +42,11 @@ ht-degree: 97%
 
 ## 无修复
 
-这些问题的修复当前不在路线图上。在某些情况下，这些问题将通过新功能或功能更新的方式修复。
+这些问题的修复尚未纳入规划中。 在某些情况下，这些问题将通过新功能或功能更新的方式修复。
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：不与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
+| [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
 | [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [[!DNL Workfront Proof]：无法通过在评论中标记用户来将用户添加到验证中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 在验证中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |

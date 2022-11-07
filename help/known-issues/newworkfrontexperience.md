@@ -60,13 +60,13 @@ ht-degree: 89%
 
 ## 无修复
 
-这些问题的修复当前不在路线图上。在某些情况下，这些问题将通过新功能或功能更新的方式修复。
+这些问题的修复尚未纳入规划中。 在某些情况下，这些问题将通过新功能或功能更新的方式修复。
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [API:无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
 | [[!UICONTROL 设置]：列表在[!UICONTROL 设置]](known-issues-workfront/wf-setup-lists-load-slowly.md)中加载缓慢 | 2022 年 10 月 28 日 |
-| [验证：不与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
+| [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
 | [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 5 日 |
 | [[!UICONTROL 主页]：自定义术语不适用于”主页“区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 3 日 |
