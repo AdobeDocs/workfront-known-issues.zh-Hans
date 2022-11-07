@@ -1,24 +1,24 @@
 ---
-title: “校样：关闭校样时，用户不会返回到上一页。”
-description: “当用户在 [!DNL Workfront] 关闭校样，他们不会返回在打开校样之前所在的页面。 而是会将用户重定向到 [!DNL Workfront]."
+title: “验证：关闭验证时，用户未返回上一页”
+description: “当正在  [!DNL Workfront]  中查看验证的用户关闭验证时，他们不会返回到打开验证之前所处的页面。反而被重定向到  [!DNL Workfront] 中的另一个页面。”
 hidefromtoc: true
 source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 校样：关闭校样时，用户不会返回到上一页
+# 验证：关闭验证时，用户未返回上一页
 
 >[!NOTE]
 >
->此问题已于2022年9月29日修复。
+>此问题已于 2022 年 9 月 29 日修复。
 
 <!--This is on the WF page as well as the WFP page-->
 
-在中查看校样的用户 [!DNL Workfront] 关闭校样，他们不会返回在打开校样之前所在的页面。 而是会将用户重定向到 [!DNL Workfront].
+当正在 [!DNL Workfront] 中查看验证的用户关闭验证时，他们不会返回到打开验证之前所处的页面。反而被重定向到 [!DNL Workfront] 中的另一个页面。
 
-_第一次报告是在2022年9月15日。_
+_首次报告于 2022 年 9 月 15 日。_
 
