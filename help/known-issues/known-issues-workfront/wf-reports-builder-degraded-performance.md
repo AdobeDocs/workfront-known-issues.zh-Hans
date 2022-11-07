@@ -3,9 +3,9 @@ title: “报告：在 Report Builder 中创建和编辑报告时的问题”
 description: “在 Report Builder 中创建和编辑报告时，报告了多个问题。”
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已解决。
+>此问题已得到解决。
 
 
 在 Report Builder 中创建和编辑报告时，报告了以下问题：
