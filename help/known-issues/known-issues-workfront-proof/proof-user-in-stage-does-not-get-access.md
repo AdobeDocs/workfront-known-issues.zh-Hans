@@ -1,16 +1,16 @@
 ---
-title: “校样：校样未在校样工作流上共享给用户”
-description: “当校样到达在创建校样时已添加用户的工作流中的阶段时，校样不会与用户共享，用户无法访问校样。”
+title: “验证：未与验证工作流中的用户共享验证”
+description: “当验证到达用户在创建证明期间被添加到的工作流阶段时，不会与用户共享验证，并且用户无法访问验证。”
 hidefromtoc: true
 source-git-commit: 4addd191c4d14a2661dfc670a65edd72fe3ed146
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '113'
+ht-degree: 100%
 
 ---
 
 
-# 校样：校样不会在校样工作流中共享给用户
+# 验证：未与验证工作流中的用户共享验证
 
 <!--This issue is on the WF and WFP TOCs-->
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >此问题已关闭，因为无法复制。
 
-当校样到达在创建校样时已添加用户的工作流中的阶段时，校样不会与用户共享，并且用户无法访问校样。
+当验证到达用户在创建证明期间被添加到的工作流阶段时，不会与用户共享验证，并且用户无法访问验证。
 
 **解决方法**
 
