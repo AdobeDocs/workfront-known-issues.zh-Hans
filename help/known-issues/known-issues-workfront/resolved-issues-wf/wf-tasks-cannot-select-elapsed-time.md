@@ -4,13 +4,13 @@ description: 当用户查看任务列表并尝试编辑“任务持续时间”�
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
 ---
 
-# 任务：内联编辑任务持续时间时无法选择占用时长
+# 任务：内联编辑任务持续时间时，无法选择[!UICONTROL 占用时长]
 
 >[!NOTE]
 >
