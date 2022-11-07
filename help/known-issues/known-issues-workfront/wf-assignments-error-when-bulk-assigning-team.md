@@ -1,11 +1,11 @@
 ---
-title: “任务：批量分配团队时出错”
-description: “当用户在分配个人后批量编辑任务或问题并分配团队时，分配不会保存，用户会看到错误。”
+title: “分配：批量分配团队时出错”
+description: “当用户批量编辑任务或问题并在分配个人后分配团队时，分配不会保存，并且用户会看到错误。”
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->此问题已于2022年10月20日修复。
+>此问题已于 2022 年 10 月 20 日修复。
 
-当用户在分配个人后批量编辑任务或问题并分配团队时，不会保存分配，并且用户会看到以下错误：
+当用户批量编辑任务或问题并在分配个人后分配团队时，分配不会保存，并且用户会看到以下错误：
 
-&quot;[!UICONTROL 我们再试一次 — 出现以下错误：teamAssignments必须是对象列表或ID列表]&quot;
+“[!UICONTROL 让我们再试一次 – 发生以下错误：teamAssignments 必须是对象列表或 ID 列表]”
 
 **解决方法**
 
-先分配团队，然后是个人。
+先分配团队，然后分配个人。
 
 _首次报告于 2022 年 10 月 7 日。_
 
