@@ -2,15 +2,19 @@
 title: “敏捷：将任务添加到开发周期时出现问题”
 description: “已报告关于添加到开发周期的任务的多个问题”
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+workflow-type: tm+mt
+source-wordcount: '114'
+ht-degree: 94%
 
 ---
 
 
 # 敏捷：将任务添加到开发周期时出现问题
+
+>[!NOTE]
+>
+>此问题已于2022年11月4日修复。
 
 已报告关于添加到开发周期的任务的以下问题：
 

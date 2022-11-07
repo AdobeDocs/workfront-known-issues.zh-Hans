@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 93%
+source-wordcount: '1591'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [敏捷：任务的看板积压订单为0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [任务：无法更改 [!UICONTROL 计划完成日期] 任务](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront:500错误：更改Workfront对象时](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [请求：编辑请求队列时显示“Whoops”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)

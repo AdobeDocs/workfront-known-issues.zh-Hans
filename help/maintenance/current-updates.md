@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
 workflow-type: tm+mt
-source-wordcount: '14844'
-ht-degree: 99%
+source-wordcount: '15198'
+ht-degree: 98%
 
 ---
 
@@ -30,6 +30,77 @@ ht-degree: 99%
 有关 2022 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)
 
 ## 2022 年 11 月更新
+
++++**2022年11月4日的维护更新（热修复程序）**
+
+**添加到小版本的任务出现问题**
+
+*敏捷*
+
+已报告关于添加到开发周期的任务的以下问题：
+
+* 已添加到开发周期的任务的某些子任务不会出现在[!UICONTROL 开发周期]页面上。
+* 当用户尝试将缺少的任务添加到开发周期时，不会添加该任务，并且用户看到以下消息：
+
+   “[!UICONTROL 出现以下错误：无法移动以下所选的项目，因为它们未分配给敏捷团队或不是敏捷项目]”
+
+**通过批量编辑分配的任务不会显示在团队的积压工作中**
+
+*敏捷*
+
+当用户使用批量编辑功能将任务分配给 Scrum 团队时，这些任务不会出现在团队的积压中。
+
+Kanban 团队不受此问题的影响。
+
+**&quot;[!UICONTROL 新校样收件人]&quot;文本框太小**
+
+*验证*
+
+当用户查看验证并尝试从[!UICONTROL 共享]选项卡共享验证时，[!UICONTROL 新验证收件人]文本框非常小。尽管用户可以键入名称，但由于此框太小，文本会以一种难以阅读的方式换行。
+
+**报表使用情况信息未更新**
+
+*报告*
+
+当用户查看报告时，上次查看信息（例如“上一个查看日期”和“上一个查看者”）未更新。这意味着使用情况信息可能不正确。
+
+已报告当用户通过以下方式访问报告时会发生此行为：
+
+* 搜索
+* 固定
+* 收藏夹
+* 最新内容
+
+通过仪表板访问报告会更新上次查看信息。
+
+**[!DNL Workfront]:500错误 [!DNL Workfront] 对象**
+
+*[!DNL Workfront]*
+
+当用户尝试对 [!DNL Workfront] 对象，更改不会保存，用户会看到以下错误：
+
+&quot;[!UICONTROL 500:由于SQL语句无效导致数据库错误。]&quot;
+
+已在以下情况下报告了此问题：
+
+* 更改对象的状态
+* 重新计算时间表
+* 附加模板
+* 记录时间
+
++++
+
++++**[!DNL Workfront Fusion]2022 年11 月 3 日维护更新**
+
+**有关 [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL 观看事件] 模块**
+
+*[!DNL Workfront Fusion]*
+
+当用户尝试将Webhook添加到 [!DNL Workfront] > [!UICONTROL 观看事件] 模块，它们会收到以下错误：
+
+&quot;[!UICONTROL 提供的apiKey为空或视为无效。]&quot;
+
++++
 
 +++**2022 年11 月 3 日维护更新**
 
