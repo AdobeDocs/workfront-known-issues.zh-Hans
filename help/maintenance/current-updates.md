@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '15198'
+source-wordcount: '15236'
 ht-degree: 98%
 
 ---
@@ -30,6 +30,18 @@ ht-degree: 98%
 有关 2022 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)
 
 ## 2022 年 11 月更新
+
++++**2022年11月10日维护更新（计划中）**
+
+**无法打开交互式校样**
+
+*Workfront Proof*
+
+当用户尝试打开交互式校样时，校样未打开，并且用户看到以下消息：
+
+&quot;[!UICONTROL 未加载校样(501)重试]&quot;
+
++++
 
 +++**2022年11月4日的维护更新（热修复程序）**
 
@@ -298,7 +310,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 **电子邮件通知延迟**
 
-*Workfront Proof*
+*Workfront校样*
 
 当事件发生在触发电子邮件通知的 [!DNL Workfront Proof] 时，用户不会立即收到通知。 通知可能会延迟几个小时。
 
