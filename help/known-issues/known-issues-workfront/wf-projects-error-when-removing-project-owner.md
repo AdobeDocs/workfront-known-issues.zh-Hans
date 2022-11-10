@@ -4,7 +4,7 @@ description: 当用户尝试从项目的标头中移除项目所有者时，未�
 hidefromtoc: true
 exl-id: 3a995df4-5d6a-44e4-a644-997931c044bf
 source-git-commit: a033108ac2c267d36e6bec1cdc53b5917b61bd16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
