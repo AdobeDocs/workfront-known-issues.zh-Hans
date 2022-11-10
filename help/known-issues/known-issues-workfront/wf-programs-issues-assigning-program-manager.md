@@ -2,15 +2,19 @@
 title: “项目群：分配项目群所有者时出现问题”
 description: “当用户创建项目群并分配项目群所有者时，出现本文中描述的问题。”
 hidefromtoc: true
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 
 # 项目群：分配[!UICONTROL 项目群所有者]时出现问题
+
+>[!NOTE]
+>
+>此问题已于 2022 年 11 月 7 日修复。
 
 当用户创建项目群并分配[!UICONTROL 项目群所有者]时，出现以下问题：
 

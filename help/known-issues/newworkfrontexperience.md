@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 86%
+source-wordcount: '554'
+ht-degree: 98%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 86%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [敏捷：任务的看板积压订单为0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022年11月7日 |
-| [请求：编辑请求队列时显示“Whoops”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022年11月2日 |
-| [校样：验证生成速度极慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
-| [请求： [!UICONTROL 电子邮件队列设置] 不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022 年 10 月 27 日 |
+| [敏捷：任务的看板积压订单为0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 7 日 |
+| [请求：编辑请求队列时出现“糟糕”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022 年 11 月 2 日 |
+| [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
+| [请求：[!UICONTROL 电子邮件队列设置]不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022 年 10 月 27 日 |
 | [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
 | [通知：用户在注释中被提及或包含时不会收到通知](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 9 月 29 日 |
 
@@ -40,13 +40,11 @@ ht-degree: 86%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [任务：批量编辑任务更改任务分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 2022年11月7日 |
-| [列表：用户的内联编辑错误不会导致错误消息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022年11月4日 |
-| [请求：页面上查看的队列主题不能超过100个](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022年11月4日 |
+| [列表：用户的内联编辑错误不会导致出现错误消息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 4 日 |
+| [请求：无法在一个页面上查看超过 100 个队列主题](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 4 日 |
 | [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 10 月 27 日 |
 | [文档：外部文档请求链接指向登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022 年 10 月 20 日 |
 | [导航：无法固定对象](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022 年 10 月 19 日 |
-| [项目群：分配[!UICONTROL 项目群所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)时出现问题 | 2022 年 10 月 17 日 |
 | [报告：问题报告中未提供“移至”选项](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022 年 10 月 13 日 |
 | [自定义表单：设置计算字段时出现“糟糕”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022 年 10 月 13 日 |
 | [任务：在任务的[!UICONTROL 摘要]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)面板中输入小时数时未保存该数值 | 2022 年 9 月 30 日 |
@@ -61,7 +59,7 @@ ht-degree: 86%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [API:无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
+| [API：无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
 | [[!UICONTROL 设置]：列表在[!UICONTROL 设置]](known-issues-workfront/wf-setup-lists-load-slowly.md)中加载缓慢 | 2022 年 10 月 28 日 |
 | [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
 | [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |

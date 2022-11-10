@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 97%
+source-wordcount: '196'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,6 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]:无法打开交互式校样](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 2022年11月3日 |
 | [文档：外部文档请求链接指向登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022 年 10 月 20 日 |
 
 {style=&quot;table-layout:auto&quot;}

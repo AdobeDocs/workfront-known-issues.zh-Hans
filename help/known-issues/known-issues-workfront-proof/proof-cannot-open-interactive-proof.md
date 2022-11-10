@@ -1,22 +1,26 @@
 ---
-title: “Workfront校样：无法打开交互式校样”
+title: “Workfront Proof：无法打开交互式验证”
 description: “当用户尝试打开交互式校样时，校样未打开，并且用户看到错误消息。”
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 5%
+source-wordcount: '79'
+ht-degree: 73%
 
 ---
 
 
-# [!DNL Workfront Proof]:无法打开交互式校样
+# [!DNL Workfront Proof]：无法打开交互式验证
 
-当用户尝试打开交互式校样时，校样未打开，并且用户看到以下消息：
+>[!NOTE]
+>
+>此问题已于 2022 年 11 月 10 日修复。
 
-&quot;[!UICONTROL 未加载校样(501)重试]&quot;
+当用户尝试打开交互式验证时，该验证未打开，并且用户看到以下消息：
 
-这在用户更新其版本之后发生 [!DNL Workfront Proof].
+“[!UICONTROL 未加载验证 (501)，请重试]”
+
+此情况在用户更新其 [!DNL Workfront Proof] 的版本后出现。
 
 _首次报告于 2022 年 11 月 3 日。_
 
