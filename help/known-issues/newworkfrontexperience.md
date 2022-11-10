@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [布局模板：隐藏项目会隐藏错误的项目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 2022 年 11 月 10 日 |
 | [列表：用户的内联编辑错误不会导致出现错误消息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 4 日 |
 | [请求：无法在一个页面上查看超过 100 个队列主题](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 4 日 |
 | [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 10 月 27 日 |

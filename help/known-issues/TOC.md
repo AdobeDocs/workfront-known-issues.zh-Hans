@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,20 +16,21 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [布局模板：隐藏项目会隐藏错误的项目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [任务：批量编辑任务更改任务分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [敏捷：任务的看板积压订单为0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
-      + [任务：无法更改 [!UICONTROL 计划完成日期] 任务](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
-      + [Workfront:500错误：更改Workfront对象时](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [请求：编辑请求队列时显示“Whoops”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
-      + [列表：用户的内联编辑错误不会导致错误消息](known-issues-workfront/wf-lists-error-messages-not-generated.md)
-      + [搜索：搜索速度极慢](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]:404错误 [!DNL Workfront] 模块](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
-      + [API:无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [校样：验证生成速度极慢](known-issues-workfront/wf-proofs-slow-proof-generation.md)
+      + [任务：无法更改任务的[!UICONTROL 规划完成日期]](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront：对 Workfront 对象进行更改时出现 500 错误](known-issues-workfront/wf-500-error-when-making-changes.md)
+      + [请求：编辑请求队列时出现“糟糕”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [列表：用户的内联编辑错误不会导致出现错误消息](known-issues-workfront/wf-lists-error-messages-not-generated.md)
+      + [搜索：搜索速度非常慢](known-issues-workfront/wf-search-basic-search-is-slow.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront]  模块出现 404 错误](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [API：无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
+      + [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [请求：页面上查看的队列主题不能超过100个](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
-      + [问题：出现问题时，左侧导航会显示“(0)”问题](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [请求： [!UICONTROL 电子邮件队列设置] 不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [请求：无法在一个页面上查看超过 100 个队列主题](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [问题：当出现问题时，左侧导航显示“(0)”问题](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [请求：[!UICONTROL 电子邮件队列设置]不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL 展示板]：[!UICONTROL 摄取]列搜索无效](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 设置]：列表在[!UICONTROL 设置]中加载缓慢](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [自定义表单：计算字段中的 [!UICONTROL 小时数]函数使用 UTC 时间](known-issues-workfront/wf-custom-form-hours-use-utc.md)
@@ -153,7 +154,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
-      + [[!DNL Workfront Proof]:无法打开交互式校样](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
+      + [[!DNL Workfront Proof]：无法打开交互式验证](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]：查看带多个页面的验证时显示空白页面](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
@@ -188,7 +189,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [[!DNL Workfront Fusion]:中的数组元素 [!UICONTROL 迭代器] 模块显示为“”[!UICONTROL 对象对象]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]：[!UICONTROL 迭代器]模块中的数组元素显示为[!UICONTROL 对象 Object]](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：在场景执行历史记录中查看错误时出错](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 场景中出现 409 错误](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]：“[!UICONTROL 无法加载数据]”错误](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
