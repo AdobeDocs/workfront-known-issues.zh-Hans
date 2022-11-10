@@ -4,7 +4,7 @@ description: 已报告  [!DNL Adobe Workfront]  移动应用程序的已知问�
 keywords: 新建文件，添加文件
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 source-git-commit: ea7b66fa2ef7d3a93250c7fe3b3ae804cad3bfb5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 

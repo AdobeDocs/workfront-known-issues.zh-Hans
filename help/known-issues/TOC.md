@@ -3,8 +3,8 @@ user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1607'
+ht-degree: 98%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 0%
       + [任务：任务标题中缺少[!UICONTROL 前置任务]图标](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [验证：将组添加到验证时未添加该组的所有成员](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [任务和问题：无法编辑任务或问题的名称或完成百分比](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
-      + [版面模板：在版面模板中自定义列表时出错](known-issues-workfront/wf-layout-templates-error-lists-users.md)
+      + [布局模板：在布局模板中自定义列表时出错](known-issues-workfront/wf-layout-templates-error-lists-users.md)
       + [验证：“新验证收件人”文本框太小](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [验证：无法自动比较验证](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [文档：[!UICONTROL 无法上传文件]错误](known-issues-workfront/wf-documents-failed-to-upload-file.md)
@@ -96,7 +96,7 @@ ht-degree: 0%
       + [时间表：在时间表上添加小时数时，出现“[!UICONTROL 计费时间已存在]” 错误](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md)
       + [任务和问题：在任务或问题的标题中更改[!UICONTROL 规划完成日期]时出错](known-issues-workfront/resolved-issues-wf/wf-500-error-planned-completion.md)
       + [时间表：与向处于[!UICONTROL 完成]或[!UICONTROL 终止]状态的项目添加小时数相关的问题](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
-      + [版面模板：版面模板不可分配给用户](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
+      + [布局模板：布局模板不可分配给用户](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
       + [报告：无法导出利用率报告](known-issues-workfront/wf-reports-cannot-export-utilization-report.md)
       + [时间表：在时间表上自动保存更改时，出现“您最近的更改未保存”错误](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
       + [时间表：小时数不自动保存](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md)
@@ -116,7 +116,7 @@ ht-degree: 0%
       + [搜索：无法按引用编号来搜索项目](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
       + [主页：自定义术语不适用于”主页“区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
       + [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
-      + [版面模板：创建版面模板时无法选择组](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
+      + [布局模板：创建布局模板时无法选择组](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
       + [审批：为不正确的天数设置了审批委派](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md)
       + [[!UICONTROL 主页]：当使用非  [!DNL Chrome] 浏览器时，出现[!UICONTROL 主页]摘要问题](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段显示已停用的用户](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
