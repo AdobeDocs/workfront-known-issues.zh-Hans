@@ -4,7 +4,7 @@ description: 已报告  [!DNL Adobe Workfront Scenario Planner] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
 source-git-commit: e224cfec1fc166f042b6c84d4dcfd35d35fd7559
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 
