@@ -2,15 +2,19 @@
 title: “通知：用户在注释中被提及或包含时不会收到电子邮件或应用程序内通知”
 description: “当用户在对象更新流的注释或更新中被提及或包含时，不会收到有关注释的预期的电子邮件或应用程序内通知。”
 hidefromtoc: true
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 通知：用户在注释中被提及或包含时不会收到通知
+
+>[!NOTE]
+>
+>产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
 
 当用户在对象更新流的注释或更新中被提及或包含时，不会收到有关注释的预期的电子邮件或应用程序内通知。
 
