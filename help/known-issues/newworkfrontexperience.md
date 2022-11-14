@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
+source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 95%
+source-wordcount: '583'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样： [!UICONTROL 打印摘要] 不显示图像缩略图](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022 年 11 月 14 日 |
 | [集成： [!UICONTROL 主日历] 显示事件的时间晚于 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 2022 年 11 月 11 日 |
 | [敏捷：任务的看板积压订单为0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 7 日 |
 | [请求：编辑请求队列时出现“糟糕”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022 年 11 月 2 日 |
