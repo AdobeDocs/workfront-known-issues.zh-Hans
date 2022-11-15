@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '15269'
+source-wordcount: '15307'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,17 @@ ht-degree: 99%
 有关 2022 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)
 
 ## 2022 年 11 月更新
+
++++**2022年11月17日维护更新（计划中）**
+
+**隐藏项目会隐藏错误的项目**
+
+*布局模板*
+
+当用户更改项目是隐藏还是显示时，这些更改将反映在布局模板上的其他项目上。
+
+
++++
 
 +++**2022 年11 月 10 日维护更新**
 
