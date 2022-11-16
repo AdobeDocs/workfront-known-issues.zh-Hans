@@ -3,9 +3,9 @@ title: “通知：用户在注释中被提及或包含时不会收到电子邮�
 description: “当用户在对象更新流的注释或更新中被提及或包含时，不会收到有关注释的预期的电子邮件或应用程序内通知。”
 hidefromtoc: true
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '0'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
