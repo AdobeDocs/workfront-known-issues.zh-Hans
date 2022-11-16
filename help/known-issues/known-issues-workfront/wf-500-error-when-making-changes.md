@@ -1,12 +1,12 @@
 ---
 title: 'Workfront：对 Workfront 对象进行更改时出现 500 错误'
-description: 当用户尝试更改Workfront对象时，不会保存更改，并且用户会看到错误
+description: 当用户尝试更改 Workfront 对象时，更改不会保存，用户会看到错误
 hidefromtoc: true
 exl-id: 67c686a8-3c4f-48c2-a120-eca27816a367
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
