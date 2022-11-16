@@ -1,11 +1,11 @@
 ---
 title: “Workfront Proof：无法打开交互式验证”
-description: “当用户尝试打开交互式校样时，校样未打开，并且用户看到错误消息。”
+description: “当用户尝试打开交互式验证时，该验证未打开，并且用户看到错误消息。”
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
