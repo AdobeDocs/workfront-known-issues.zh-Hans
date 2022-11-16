@@ -1,20 +1,20 @@
 ---
-title: “敏捷：将任务添加到开发周期时出现问题”
-description: “已报告关于添加到开发周期的任务的多个问题”
+title: '敏捷：将任务添加到开发周期时出现问题'
+description: 报告了多个关于添加到开发周期中的问题
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+exl-id: 25ca4bba-4e0e-470e-ac25-9dede2c6a3be
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
-
 
 # 敏捷：将任务添加到开发周期时出现问题
 
 >[!NOTE]
 >
->此问题已于2022年11月4日修复。
+>此问题已于 2022 年 11 月 4 日修复。
 
 已报告关于添加到开发周期的任务的以下问题：
 
@@ -24,4 +24,3 @@ ht-degree: 94%
    “[!UICONTROL 出现以下错误：无法移动以下所选的项目，因为它们未分配给敏捷团队或不是敏捷项目]”
 
 _首次报告于 2022 年 9 月 23 日。_
-
