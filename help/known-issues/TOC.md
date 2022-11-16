@@ -24,7 +24,7 @@ ht-degree: 96%
       + [集成： [!UICONTROL 主日历] 显示事件的时间晚于 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [布局模板：隐藏项目将隐藏不正确的项目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [任务：批量编辑任务会更改任务分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [敏捷：任务的看板代办事项顺序为 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [敏捷：任务的 Kanban 积压事项顺序为 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [任务：无法更改任务的[!UICONTROL 规划完成日期]](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront：对 Workfront 对象进行更改时出现 500 错误](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [请求：编辑请求队列时出现“糟糕”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
