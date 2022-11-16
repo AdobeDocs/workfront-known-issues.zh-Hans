@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 89%
+source-wordcount: '629'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 89%
 | -----------------------------------------------------------------| ----------------- |
 | [校样： [!UICONTROL 打印摘要] 不显示图像缩略图](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022 年 11 月 14 日 |
 | [集成： [!UICONTROL 主日历] 显示事件的时间晚于 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 2022 年 11 月 11 日 |
-| [敏捷：任务的看板积压订单为0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 7 日 |
+| [敏捷：任务的看板积压订单为 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 7 日 |
 | [请求：编辑请求队列时出现“糟糕”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022 年 11 月 2 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [请求：[!UICONTROL 电子邮件队列设置]不可用](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022 年 10 月 27 日 |
@@ -41,10 +41,11 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [自定义表单：&quot;[!UICONTROL 自定义表达式无效]引用“”时显示“”消息[!UICONTROL 所有者]“ ”](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 11 月 15 日 |
 | [报表：向问题报表添加新问题时出现“Whoops”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [报表：组合图将相同的数据显示两次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022 年 11 月 14 日 |
 | [校样：添加自定义消息会导致校样查看器中出现问题](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 14 日 |
-| [布局模板：隐藏项目会隐藏错误的项目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 2022 年 11 月 10 日 |
+| [布局模板：隐藏项目将隐藏不正确的项目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 2022 年 11 月 10 日 |
 | [列表：用户的内联编辑错误不会导致出现错误消息](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 4 日 |
 | [请求：无法在一个页面上查看超过 100 个队列主题](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 4 日 |
 | [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 10 月 27 日 |

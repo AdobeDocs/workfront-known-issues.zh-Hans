@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
-source-wordcount: '1653'
-ht-degree: 95%
+source-wordcount: '1666'
+ht-degree: 96%
 
 ---
 
@@ -16,14 +16,15 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [自定义表单：&quot;[!UICONTROL 自定义表达式无效]引用“”时显示“”消息[!UICONTROL 所有者]“ ”](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [报表：向问题报表添加新问题时出现“Whoops”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [报表：组合图将相同的数据显示两次](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
       + [校样：添加自定义消息会导致校样查看器中出现问题](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [校样：打印摘要不显示图像缩略图](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [集成： [!UICONTROL 主日历] 显示事件的时间晚于 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [布局模板：隐藏项目会隐藏错误的项目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
-      + [任务：批量编辑任务更改任务分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [敏捷：任务的看板积压订单为0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [布局模板：隐藏项目将隐藏不正确的项目](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
+      + [任务：批量编辑任务会更改任务分配](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [敏捷：任务的看板代办事项顺序为 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [任务：无法更改任务的[!UICONTROL 规划完成日期]](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront：对 Workfront 对象进行更改时出现 500 错误](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [请求：编辑请求队列时出现“糟糕”消息](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
