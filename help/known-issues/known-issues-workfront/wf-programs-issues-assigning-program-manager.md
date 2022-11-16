@@ -3,7 +3,7 @@ title: “项目群：分配项目群所有者时出现问题”
 description: “当用户创建项目群并分配项目群所有者时，出现本文中描述的问题。”
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
