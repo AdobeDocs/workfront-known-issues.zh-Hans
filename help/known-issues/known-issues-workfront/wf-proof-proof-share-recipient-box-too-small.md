@@ -3,9 +3,9 @@ title: “验证：‘新验证收件人’文本框太小”
 description: “当用户查看验证并尝试从‘共享’选项卡共享验证时，‘新验证收件人’文本框非常小。尽管用户可以键入名称，但由于此框太小，文本会以一种难以阅读的方式换行。”
 hidefromtoc: true
 source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2022年11月4日修复。
+>此问题已于 2022 年 11 月 4 日修复。
 
 <!--This article is on the WF and WFP TOCs-->
 
