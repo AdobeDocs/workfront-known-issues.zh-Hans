@@ -2,15 +2,19 @@
 title: “请求：编辑请求队列时出现‘糟糕’消息”
 description: “当用户编辑请求队列并尝试保存更改时，他们会看到一个错误。”
 hidefromtoc: true
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: ht
-source-wordcount: '115'
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+workflow-type: tm+mt
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # 请求：编辑请求队列时出现“糟糕”消息
+
+>[!NOTE]
+>
+>此问题已于 2022 年 11 月 10 日修复。
 
 当用户编辑请求队列并尝试保存更改时，他们会看到以下错误：
 
