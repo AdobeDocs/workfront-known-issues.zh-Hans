@@ -1,22 +1,21 @@
 ---
-title: “自定义表单：在计算字段中引用所有者时，自定义表达式消息无效"
-description: “当用户向问题级别的自定义表单添加计算字段并尝试向所有者添加任何引用（例如“ownerID”）时，该字段不会保存，并且用户会看到以下消息：这是无效的客户表达式，请重试。”
+title: '自定义表单：在计算字段中引用所有者时，出现“自定义表达式无效”消息'
+description: '当用户将计算字段添加到问题级自定义表单并尝试添加任何对所有者的引用（如 `ownerID`）时，并未保存该字段，而用户看到以下消息：这是无效的自定义表达式，请重试。'
 hidefromtoc: true
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
-workflow-type: tm+mt
+exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
+source-git-commit: d006691bff71466284c27b8c64ae4886e7c4c27d
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# 自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息
 
-# 自定义表单：&quot;[!UICONTROL 自定义表达式无效]引用“”时显示“”消息[!UICONTROL 所有者]“ ”
+当用户将计算字段添加到问题级自定义表单并尝试添加任何对“[!UICONTROL 所有者]”的引用（如 `ownerID`）时，并未保存该字段，而用户看到以下消息：
 
-当用户向问题级别的自定义表单添加计算字段并尝试向“[!UICONTROL 所有者]&quot;(例如 `ownerID`)，则不会保存该字段，并且用户会看到以下消息：
-
-&quot;[!UICONTROL 这是无效的客户表达式，请重试。]&quot;
+&quot;[!UICONTROL 这是无效的自定义表达式，请重试。]&quot;
 
 即使表达式有效，也会发生这种情况。
 
 _首次报告于 2022 年 11 月 8 日。_
-
