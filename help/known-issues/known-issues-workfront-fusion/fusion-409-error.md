@@ -1,12 +1,12 @@
 ---
-title: ‘Workfront融合：409 Fusion场景中的错误
-description: Workfront Fusion方案会返回以下错误409重复键值违反唯一约束。
+title: 'Workfront Fusion：Fusion 场景中出现 409 错误'
+description: Workfront Fusion 场景返回以下错误：409 重复的键值违反唯一约束。
 hidefromtoc: true
 exl-id: 8571d3f8-58c7-455f-b5a4-a91d1d1195a9
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 60%
 
 >[!NOTE]
 >
->此问题已关闭，因为它不构成问题。
+>此问题已关闭，因为它现在不构成问题。
 
 [!DNL Workfront Fusion] 场景返回以下错误：
 
