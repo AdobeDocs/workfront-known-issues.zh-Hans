@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 93%
+source-wordcount: '640'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：校样在校样查看器中显示的图像不如原始图像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
+| [敏捷：将工作项移动到迭代时出错](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022 年 11 月 23 日 |
+| [校样：Proof 查看器中的校样显示不如原始图像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
 | [集成：[!UICONTROL 主页日程表]显示的事件比  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) 晚一个小时 | 2022 年 11 月 11 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
@@ -38,7 +39,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [自定义表单：&quot;[!UICONTROL 您没有足够的访问权限]“编辑自定义表单时出错”](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
+| [工时单：选择工时单审批者时，可用的已停用用户](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 11 月 23 日 |
+| [自定义表单：编辑自定义表单时显示“[!UICONTROL 您没有足够的访问权限]”错误](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
 | [敏捷：任务的 Kanban 积压事项顺序为 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 21 日 |
 | [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 11 月 15 日 |
 | [报告：向问题报告添加新问题时出现“糟糕”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
