@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15397'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 99%
 
 ## 2022 年 11 月更新
 
-+++**2022 年11 月 17 日维护更新**
++++**2022 年 11 月 17 日维护更新**
 
-**放置在 [!UICONTROL 回收站] 如果在移动任务或问题时未选择**
+**如果在移动任务或问题时未选择文档，文档将被放置到[!UICONTROL 回收站]中**
 
 *文档*
 
-现在，当您取消选择 [!UICONTROL 文档] 在移动任务或问题的过程中，附加到该任务的文档或问题将放置在 [!UICONTROL 回收站] 30天。 管理员可以根据需要恢复这些权限。 在移动过程中取消选择文档的用户将在 [!UICONTROL 移动任务] 或 [!UICONTROL 移动问题] 框中。 在此增强之前，文档会被永久删除。
+现在，当您在移动任务或问题的过程中取消选择[!UICONTROL 文档]选项时，附加到该任务或问题的文件将被放置在[!UICONTROL 回收站]中 30 天。如果需要，管理员可以恢复它们。在移动过程中取消选择“文档”的用户将在[!UICONTROL 移动任务]或[!UICONTROL 移动问题]框中收到关于此行为的警告。在作出此改进之前，永久删除这些文档。
 
 **隐藏某项的操作所隐藏的项有误**
 
@@ -333,7 +333,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 **电子邮件通知延迟**
 
-*Workfront校样*
+*Workfront Proof*
 
 当事件发生在触发电子邮件通知的 [!DNL Workfront Proof] 时，用户不会立即收到通知。 通知可能会延迟几个小时。
 
@@ -884,7 +884,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 **验证电子邮件通知更新**
 
-*[!DNL Workfront]校样*
+*[!DNL Workfront]Proof*
 
 本月早些时候，作为 [!DNL Workfront] 生产环境补丁的一部分，我们修复了验证电子邮件通知系统的一些错误。 此更改在发布时未在维护更新中传达。 我们已将以下信息添加到 [2022 年 6 月 2 日维护更新](#maintenance-update-on-june-2-2022)：
 
