@@ -3,8 +3,8 @@ user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '1721'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
       + [敏捷：将工作项移动到迭代时出错](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [工时单：选择工时单审批者时，可用的已停用用户](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [自定义表单：跨对象自定义表单需要 [!UICONTROL 管理] 或 [!UICONTROL 编辑] 对编辑字段的访问权限](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
-      + [校样：Proof 查看器中的校样显示不如原始图像清晰](known-issues-workfront/wf-proofs-are-blurry.md)
+      + [校样：校样查看器中显示的校样没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md)
       + [自定义表单：编辑自定义表单时显示“[!UICONTROL 您没有足够的访问权限]”错误](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [报告：向问题报告添加新问题时出现“糟糕”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)

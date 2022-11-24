@@ -5,8 +5,8 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 95%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [敏捷：将工作项移动到迭代时出错](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022 年 11 月 23 日 |
-| [校样：Proof 查看器中的校样显示不如原始图像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
+| [校样：校样查看器中显示的校样没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
 | [集成：[!UICONTROL 主页日程表]显示的事件比  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) 晚一个小时 | 2022 年 11 月 11 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
