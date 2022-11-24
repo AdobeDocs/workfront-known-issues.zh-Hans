@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '208'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：校样在校样查看器中显示的图像不如原始图像清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
+| [校样：校样查看器中显示的校样没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
