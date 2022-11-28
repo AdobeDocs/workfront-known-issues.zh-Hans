@@ -1,7 +1,7 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,9 +16,11 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [敏捷：将工作项移动到迭代时出错](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [工时单：选择工时单审批者时，可用的已停用用户](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
-      + [自定义表单：跨对象自定义表单需要 [!UICONTROL 管理] 或 [!UICONTROL 编辑] 对编辑字段的访问权限](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
+      + [集成：无法访问的元素 [!DNL Workfront for Jira] 集成](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [敏捷：将工作项移动到开发周期时出错](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [时间表：选择时间表批准者时可用的停用用户](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [自定义表单：跨对象自定义表单需要[!UICONTROL 管理]或者[!UICONTROL 编辑]权限来编辑字段](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [校样：校样查看器中显示的校样没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md)
       + [自定义表单：编辑自定义表单时显示“[!UICONTROL 您没有足够的访问权限]”错误](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
@@ -200,6 +202,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+      + [[!DNL Workfront Fusion]:无法创建与的连接 [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL 迭代器]模块中的数组元素显示为[!UICONTROL 对象 Object]](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：在场景执行历史记录中查看错误时出错](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 场景中出现 409 错误](known-issues-workfront-fusion/fusion-409-error.md)
