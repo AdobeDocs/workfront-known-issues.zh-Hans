@@ -3,7 +3,7 @@ title: “请求：电子邮件队列设置不可用”
 description: “当用户编辑或查看配置为请求队列的项目的队列详细信息区域时，电子邮件队列设置区域不可用。反而，用户会看到错误‘无法访问请求队列电子邮件服务，请联系 Workfront。’”
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 
