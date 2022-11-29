@@ -3,7 +3,7 @@ title: “请求：编辑请求队列时出现‘糟糕’消息”
 description: “当用户编辑请求队列并尝试保存更改时，他们会看到一个错误。”
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
