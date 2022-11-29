@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
-workflow-type: ht
-source-wordcount: '15397'
-ht-degree: 100%
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+workflow-type: tm+mt
+source-wordcount: '15666'
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,56 @@ ht-degree: 100%
 -->
 
 有关 2022 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)
+
+## 2022 年 12 月更新
+
++++**2022年12月1日维修更新（计划中）**
+
+**任务的看板积压订单为0**
+
+*敏捷*
+
+当用户查看 Kanban 团队的积压事项时，一个或多个任务显示积压事项顺序为 0。
+
+**&quot;[!UICONTROL 自定义表达式无效]引用“”时显示“”消息[!UICONTROL 所有者]“ ”**
+
+*自定义表单*
+
+当用户将计算字段添加到问题级自定义表单并尝试添加任何对“[!UICONTROL 所有者]”的引用（如 `ownerID`）时，并未保存该字段，而用户看到以下消息：
+
+&quot;[!UICONTROL 这是无效的自定义表达式，请重试。]&quot;
+
+即使表达式有效，也会发生这种情况。
+
+**无法访问的元素 [!DNL Workfront for Jira] 集成**
+
+*集成*
+
+当前，无法在 [!DNL Workfront for Jira] 集成 [!DNL Jira Cloud]:
+
+* 的 [!UICONTROL 配置] 页面
+* “[!UICONTROL 打开Workfront]“ ”按钮 [!DNL Jira] 问题
+
+**添加自定义消息会导致校样查看器中出现问题**
+
+*验证*
+
+当用户共享校样并尝试添加自定义消息时出现以下问题：
+
+* 校样查看器放大校样。
+* 左侧导航中的区域不再响应。
+
+**选择工时单审批者时，可用的已停用用户**
+
+*时间表*
+
+当用户正在创建时间表并尝试分配审批者时，下拉列表包括已停用的用户。 如果选择了停用的用户，则不会保存时间表并且用户会看到以下错误消息：
+
+“[!UICONTROL 错误。 抱歉！只有拥有计划许可证的用户才能审批或拒绝时间表。 请联系您的系统管理员。]”
+
+由于无法分配已停用的用户，因此用户必须选择已激活的用户。 因此时间表按预期运行，但列表中停用的用户可能会给用户带来混淆或不便。
+
++++
 
 ## 2022 年 11 月更新
 
@@ -333,7 +383,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 **电子邮件通知延迟**
 
-*Workfront Proof*
+*Workfront校样*
 
 当事件发生在触发电子邮件通知的 [!DNL Workfront Proof] 时，用户不会立即收到通知。 通知可能会延迟几个小时。
 
@@ -884,7 +934,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 **验证电子邮件通知更新**
 
-*[!DNL Workfront]Proof*
+*[!DNL Workfront]校样*
 
 本月早些时候，作为 [!DNL Workfront] 生产环境补丁的一部分，我们修复了验证电子邮件通知系统的一些错误。 此更改在发布时未在维护更新中传达。 我们已将以下信息添加到 [2022 年 6 月 2 日维护更新](#maintenance-update-on-june-2-2022)：
 

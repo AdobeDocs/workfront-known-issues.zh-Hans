@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '1751'
-ht-degree: 98%
+source-wordcount: '1759'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 主页]:无法删除 [!UICONTROL 主页]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [工时单：未生成工时单](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [集成：无法访问的元素 [!DNL Workfront for Jira] 集成](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
