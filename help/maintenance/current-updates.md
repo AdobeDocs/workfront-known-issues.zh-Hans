@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '15666'
+source-wordcount: '15702'
 ht-degree: 99%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 99%
 
 ## 2022 年 12 月更新
 
-+++**2022年12月1日维修更新（计划中）**
++++**2022 年 12 月 1 日维护更新**
 
 **任务的看板积压订单为0**
 
@@ -76,6 +76,12 @@ ht-degree: 99%
 “[!UICONTROL 错误。 抱歉！只有拥有计划许可证的用户才能审批或拒绝时间表。 请联系您的系统管理员。]”
 
 由于无法分配已停用的用户，因此用户必须选择已激活的用户。 因此时间表按预期运行，但列表中停用的用户可能会给用户带来混淆或不便。
+
+**未生成工时单**
+
+*时间表*
+
+尽管工时单配置文件设置不会生成工时单。 由于从未生成时间表，因此用户无法输入时间，并且时间表在列表中不可见。
 
 +++
 
