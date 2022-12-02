@@ -2,15 +2,19 @@
 title: “列表：用户的内联编辑错误不会导致出现错误消息”
 description: “当用户内联编辑对象并出现应创建错误消息的错误时，不会出现错误消息。错误本身不会保存到 Workfront 中，因此数据不受影响，但缺少错误消息可能会导致混淆。”
 hidefromtoc: true
-source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '171'
+ht-degree: 96%
 
 ---
 
 
 # 列表：用户的内联编辑错误不会导致出现错误消息
+
+>[!NOTE]
+>
+>此问题已于2022年12月1日修复。
 
 当用户内联编辑对象并出现应创建错误消息的错误时，不会出现错误消息。错误本身不会保存到 Workfront 中，因此数据不受影响，但缺少错误消息可能会导致混淆。
 

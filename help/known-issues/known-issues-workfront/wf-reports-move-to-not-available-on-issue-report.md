@@ -2,15 +2,19 @@
 title: “报告：问题报告中未提供‘移至’选项”
 description: “当用户查看问题报告并尝试移动问题时，‘更多’（三个点）菜单下未提供‘移至’选项。”
 hidefromtoc: true
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 92%
 
 ---
 
 
 # 报告：问题报告中未提供“移至”选项
+
+>[!NOTE]
+>
+>此问题已于2022年12月1日修复。
 
 当用户查看问题报告并尝试移动问题时，“更多”（三个点）菜单下未提供“移至”选项。
 
