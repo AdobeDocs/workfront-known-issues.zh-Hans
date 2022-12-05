@@ -1,11 +1,11 @@
 ---
-title: ""
-description: '"'
+title: “工时单：无法输入工时单时间”
+description: “当用户尝试向时间表添加时间时，他们会看到任何“项目”时间或“任务时间”行中的“小时”框呈灰显状态，他们无法在这些框中输入时间。 他们只能在“一般时间”区域输入时间。
 hidefromtoc: true
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 3a66060667d5c90b4a2c7c17fd56e7003367ebc8
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '115'
+ht-degree: 4%
 
 ---
 
