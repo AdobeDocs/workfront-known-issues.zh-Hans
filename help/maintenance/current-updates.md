@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
 workflow-type: tm+mt
-source-wordcount: '15901'
+source-wordcount: '15954'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,18 @@ ht-degree: 99%
 有关 2022 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)
 
 ## 2022 年 12 月更新
+
++++**2022年12月8日的维护更新（计划）**
+
++++
+
+**项目状态不遵循组项目首选项**
+
+*项目*
+
+当用户从模板创建项目时，新项目不会采用组项目首选项中设置的状态。 如果创建的项目没有模板，则状态将按预期反映组项目首选项。
+
++++
 
 +++**2022 年 12 月 1 日维护更新（修补程序）**
 
@@ -82,10 +94,10 @@ ht-degree: 99%
 
 *集成*
 
-当前，无法在 [!DNL Workfront for Jira] 集成 [!DNL Jira Cloud]:
+当前无法在 [!DNL Jira Cloud] 的 [!DNL Workfront for Jira] 集成中访问以下元素：
 
-* 的 [!UICONTROL 配置] 页面
-* “[!UICONTROL 打开Workfront]“ ”按钮 [!DNL Jira] 问题
+* [!UICONTROL 配置]页面
+* [!DNL Jira] 问题上的“[!UICONTROL 打开 Workfront]”按钮
 
 **添加自定义消息会导致校样查看器中出现问题**
 
@@ -110,7 +122,7 @@ ht-degree: 99%
 
 *时间表*
 
-尽管工时单配置文件设置不会生成工时单。 由于从未生成时间表，因此用户无法输入时间，并且时间表在列表中不可见。
+尽管已设置时间表配置文件，时间表仍然未生成。 因为永远不会生成时间表，所以用户无法输入时间，并且在列表中不可见。
 
 +++
 
