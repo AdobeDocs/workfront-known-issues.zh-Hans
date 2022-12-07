@@ -3,7 +3,7 @@ title: “时间表：选择时间表批准者时可用的停用用户”
 description: “当用户正在创建时间表并尝试分配审批者时，下拉列表包括已停用的用户。 如果选择了停用的用户，则不会保存时间表并且用户会看到一条错误消息。”
 hidefromtoc: true
 source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
 ht-degree: 100%
 
