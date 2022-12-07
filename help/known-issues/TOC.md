@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '1793'
+source-wordcount: '1797'
 ht-degree: 97%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [任务：无法添加子任务](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [工时单：无法输入工时单的时间](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [校样：校样状态未在 [!UICONTROL 文档] 列表](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [项目：项目状态不遵循组项目首选项](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
