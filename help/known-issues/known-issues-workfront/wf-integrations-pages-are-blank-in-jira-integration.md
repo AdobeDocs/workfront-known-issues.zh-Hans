@@ -1,25 +1,25 @@
 ---
-title: “集成：无法访问Workfront的元素以进行Jira集成”
-description: “在Workfront中，当前无法访问某些元素，以便集成Jira Cloud。”
+title: “集成：无法访问 Workfront 集成的元素”
+description: “在 Jira Cloud 的 Workfront for Jira 集成中，有些元素目前无法访问。”
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 6%
+ht-degree: 90%
 
 ---
 
 
-# 集成：无法访问的元素 [!DNL Workfront for Jira] 集成
+# 集成：无法访问 [!DNL Workfront for Jira] 集成的元素
 
 >[!NOTE]
 >
 >此问题已于2022年12月1日修复。
 
-当前，无法在 [!DNL Workfront for Jira] 集成 [!DNL Jira Cloud]:
+当前无法在 [!DNL Jira Cloud] 的 [!DNL Workfront for Jira] 集成中访问以下元素：
 
-* 的 [!UICONTROL 配置] 页面
-* “[!UICONTROL 打开Workfront]“ ”按钮 [!DNL Jira] 问题
+* [!UICONTROL 配置]页面
+* [!DNL Jira] 问题上的“[!UICONTROL 打开 Workfront]”按钮
 
 _首次报告于 2022 年 11 月 18 日。_
 

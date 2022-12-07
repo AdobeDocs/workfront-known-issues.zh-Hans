@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
 source-wordcount: '1793'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 95%
       + [项目：项目状态不遵循组项目首选项](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [项目：从模板创建项目时出现“Whoops”错误](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL 主页]:无法删除 [!UICONTROL 主页]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
-      + [工时单：未生成工时单](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [集成：无法访问的元素 [!DNL Workfront for Jira] 集成](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [时间表：未生成时间表](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
+      + [集成：无法访问  [!DNL Workfront for Jira]  集成的元素](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [敏捷：将工作项移动到开发周期时出错](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [时间表：选择时间表批准者时可用的停用用户](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
@@ -208,7 +208,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [[!DNL Workfront Fusion]:无法创建与的连接 [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]：无法创建与  [!DNL Google] 的连接](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL 迭代器]模块中的数组元素显示为[!UICONTROL 对象 Object]](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：在场景执行历史记录中查看错误时出错](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 场景中出现 409 错误](known-issues-workfront-fusion/fusion-409-error.md)
