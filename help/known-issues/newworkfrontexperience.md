@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
+source-git-commit: 1dac681ce138ca2aec65c47833de02cfa1d3fd8f
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 89%
+source-wordcount: '636'
+ht-degree: 91%
 
 ---
 
@@ -44,7 +44,6 @@ ht-degree: 89%
 | [工时单：无法输入工时单的时间](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022年12月5日 |
 | [时间表：选择时间表批准者时可用的停用用户](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022年12月2日 |
 | [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
-| [项目：项目状态不遵循组项目首选项](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2022年12月2日 |
 | [项目：从模板创建项目时出现“Whoops”错误](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022年12月2日 |
 | [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
 | [自定义表单：编辑自定义表单时显示“[!UICONTROL 您没有足够的访问权限]”错误](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |

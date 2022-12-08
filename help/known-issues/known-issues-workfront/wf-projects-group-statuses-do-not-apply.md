@@ -2,15 +2,19 @@
 title: “项目：项目状态不遵循组项目首选项”
 description: “当用户从模板创建项目时，新项目不会采用组项目首选项中设置的状态。 如果创建的项目没有模板，则状态将按预期反映组项目首选项。”
 hidefromtoc: true
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 4%
+source-wordcount: '106'
+ht-degree: 3%
 
 ---
 
 
 # 项目：项目状态不遵循组项目首选项
+
+>[!NOTE]
+>
+>此问题已于2022年12月8日修复。
 
 当用户从模板创建项目时，新项目不会采用组项目首选项中设置的状态。 如果创建的项目没有模板，则状态将按预期反映组项目首选项。
 
