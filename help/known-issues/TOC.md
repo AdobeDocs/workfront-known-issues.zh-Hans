@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
 source-wordcount: '1805'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 97%
       + [文档：无法上载MP4文件](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [集成：无法打开 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [任务：无法添加子任务](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
-      + [工时单：无法输入工时单的时间](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
-      + [校样：校样状态未在 [!UICONTROL 文档] 列表](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
-      + [项目：项目状态不遵循组项目首选项](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
-      + [项目：从模板创建项目时出现“Whoops”错误](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
-      + [[!UICONTROL 主页]:无法删除 [!UICONTROL 主页]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
+      + [时间表：无法在时间表上输入时间](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
+      + [项目：项目状态不遵循组项目偏好设置](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [项目：从模板创建项目时出现“糟糕”错误](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
+      + [[!UICONTROL 主页]：无法移除[!UICONTROL 主页]中的问题分配](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [时间表：未生成时间表](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [集成：无法访问  [!DNL Workfront for Jira]  集成的元素](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)

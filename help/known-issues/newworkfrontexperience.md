@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
 workflow-type: tm+mt
 source-wordcount: '627'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [集成：无法打开 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2022年12月7日 |
+| [集成：无法打开 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2022 年 12 月 7 日 |
 | [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
@@ -38,12 +38,12 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：无法上载MP4文件](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022年12月8日 |
-| [任务：无法添加子任务](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022年12月7日 |
-| [工时单：无法输入工时单的时间](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022年12月5日 |
-| [时间表：选择时间表批准者时可用的停用用户](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022年12月2日 |
-| [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
-| [项目：从模板创建项目时出现“Whoops”错误](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022年12月2日 |
+| [文档：无法上载MP4文件](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |
+| [任务：无法添加子任务](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022 年 12 月 7 日 |
+| [时间表：无法在时间表上输入时间](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022 年 12 月 5 日 |
+| [时间表：选择时间表批准者时可用的停用用户](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 12 月 2 日 |
+| [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
+| [项目：从模板创建项目时出现“糟糕”错误](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
 | [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022 年 11 月 28 日 |
 | [自定义表单：编辑自定义表单时显示“[!UICONTROL 您没有足够的访问权限]”错误](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022 年 11 月 21 日 |
 | [报告：向问题报告添加新问题时出现“糟糕”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
@@ -60,9 +60,9 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：校样状态未在 [!UICONTROL 文档] 列表](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
-| [任务：在任务的[!UICONTROL 摘要]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)面板中输入小时数时未保存该数值 | 2022年12月2日 |
-| [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年12月2日 |
+| [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
+| [任务：在任务的[!UICONTROL 摘要]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)面板中输入小时数时未保存该数值 | 2022 年 12 月 2 日 |
+| [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
 | [自定义表单：跨对象自定义表单需要[!UICONTROL 管理]或者[!UICONTROL 编辑]权限来编辑字段](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |
 | [通知：在评论中提到或包括用户时不通知用户](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 11 月 11 日 |
 | [API：无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
