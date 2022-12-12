@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：校样查看器中显示的校样没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
+| [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -44,7 +44,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：校样状态未在 [!UICONTROL 文档] 列表](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
+| [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
 | [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
 | [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [[!DNL Workfront Proof]：无法通过在评论中标记用户来将用户添加到验证中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
