@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
 workflow-type: tm+mt
-source-wordcount: '16388'
+source-wordcount: '16460'
 ht-degree: 98%
 
 ---
@@ -60,6 +60,14 @@ ht-degree: 98%
 +++
 
 +++**2022年12月8日的维护更新**
+
+**将批准者添加到批准路径时的智能用户选择**
+
+*审批*
+
+我们改进了用户在将其添加到 [!UICONTROL 批准者] 字段。
+
+现在，当您将用户添加到 [!UICONTROL 批准者] 系统级别批准或单次使用批准的字段中，除了其名称和头像外，还显示其主要角色和电子邮件。 这有助于区分名称相似或相同的多个用户。
 
 **项目：项目状态不遵循组项目偏好设置**
 
