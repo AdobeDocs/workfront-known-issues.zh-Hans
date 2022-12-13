@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: 7452df87a128b5e6524d205c9114101dc295ad2d
 workflow-type: tm+mt
-source-wordcount: '1814'
+source-wordcount: '1222'
 ht-degree: 98%
 
 ---
@@ -90,53 +90,20 @@ ht-degree: 98%
       + [自定义表单：左侧面板中元素重叠](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md)
       + [列表：内联编辑状态时不显示新状态](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md)
       + [报告：在 [!UICONTROL Report Builder] 中创建和编辑报告时的问题](known-issues-workfront/wf-reports-builder-degraded-performance.md)
-      + [文档：无法从[!UICONTROL 文档详情]页面获得文档审批](known-issues-workfront/wf-documents-approvals-not-in-document-details.md)
-      + [报告：关于  [!DNL Workfront] 中的问题报告的问题](known-issues-workfront/wf-reports-issues-with-issue-reports.md)
-      + [任务字段：临时更新的用户和角色任务字段名称](known-issues-workfront/wf-assignments-temp-updated-names.md)
       + [自定义表单：&#39;描述性文本&#39;字段显示工具提示](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [集成：从  [!DNL SharePoint] [!UICONTROL （图形 API）]添加文档时出现 404 错误](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [集成： [!DNL SharePoint]  文件夹未向文件夹所有者显示](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [集成：从  [!DNL Outlook]  提交请求时出错](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
-      + [时间表：[!UICONTROL 糟糕！]打开时间表时出错](known-issues-workfront/wf-timesheet-whoops-error-when-opening-timesheet.md)
-      + [集成：在  [!DNL Jira] 中打开  [!DNL Workfront for Jira]  出错](known-issues-workfront/wf-error-when-opening-wf-for-jira-within-jira.md)
       + [时间表：输入小时数时，出现“[!UICONTROL 其他人在尝试保存此项目]”错误”](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [仪表板：无法从对象的左侧导航访问仪表板](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
-      + [项目、任务和问题：经调整的[!UICONTROL 描述]框回到原来的大小](known-issues-workfront/wf-projects-description-field-size-snaps-back.md)
-      + [项目：从标题中移除[!UICONTROL 项目所有者]时出错](known-issues-workfront/wf-projects-error-when-removing-project-owner.md)
       + [任务和问题：创建任务或问题时意外退出](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
-      + [问题：使用模板将问题转化为项目时，显示不正确的错误消息](known-issues-workfront/wf-converting-issue-to-project-missing-error-message.md)
-      + [仪表板：[!UICONTROL 工作负载均衡器]链接在仪表板中显示不正确](known-issues-workfront/wf-dashboard-workload-balancer-links-display-incorrectly.md)
       + [更新：无法在更新流中关闭用户信息卡](known-issues-workfront/wf-updates-cant-close-user-card.md)
-      + [报告：“[!UICONTROL 添加到开发周期]”和“[!UICONTROL 添加到 Kanban 展示板]”选项在内联编辑任务时不可用](known-issues-workfront/wf-reports-no-option-to-add-to-kanban.md)
       + [请求：无法打开超出第一页的请求列表页面](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [自定义表单：将请求转化为项目时，未保留由分区界限隐藏的字段中的数据](known-issues-workfront/wf-requests-cust-form-data-hidden-not-converted.md)
-      + [项目：更改项目日期时，“[!UICONTROL 时间线计划模式]”出错](known-issues-workfront/wf-projects-error-when-using-timeline-planning.md)
-      + [请求：创建请求时的团队分配情况未出现在新请求中](known-issues-workfront/wf-teams-assignment-lost-when-creating-requests.md)
       + [[!DNL Workfront]：在 Experience League 提交  [!DNL Workfront]  支持案例的问题](known-issues-workfront/wf-support-issues-submitting-support-case.md)
-      + [自定义表单：无法从自定义表单生成器的自定义字段中移除说明](known-issues-workfront/wf-cust-form-cannot-remove-instructions-from-field.md)
       + [通知：用户在评论中提及时不会收到电子邮件通知](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
-      + [时间表：未保存评论](known-issues-workfront/resolved-issues-wf/wf-timesheets-comments-not-save.md)
-      + [时间表：在时间表上添加小时数时，出现“[!UICONTROL 计费时间已存在]” 错误](known-issues-workfront/wf-timesheets-billed-hours-already-exist.md)
-      + [任务和问题：在任务或问题的标题中更改[!UICONTROL 规划完成日期]时出错](known-issues-workfront/resolved-issues-wf/wf-500-error-planned-completion.md)
-      + [时间表：与向处于[!UICONTROL 完成]或[!UICONTROL 终止]状态的项目添加小时数相关的问题](known-issues-workfront/wf-timesheets-add-hours-to-complete-dead.md)
-      + [布局模板：布局模板不可分配给用户](known-issues-workfront/wf-layout-templates-not-available-to-assign.md)
-      + [报告：无法导出利用率报告](known-issues-workfront/wf-reports-cannot-export-utilization-report.md)
       + [时间表：在时间表上自动保存更改时，出现“您最近的更改未保存”错误](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
-      + [时间表：小时数不自动保存](known-issues-workfront/wf-timesheets-hours-do-not-autosave.md)
-      + [自定义表单：将问题转化为项目时，未保留由分区界限隐藏的字段中的数据](known-issues-workfront/wf-custom-forms-data-lost-hidden-section-break.md)
-      + [展示板：展示板信息卡中链接项目的[!UICONTROL 状态]更改问题](known-issues-workfront/resolved-issues-wf/wf-boards-issues-status-change.md)
       + [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
-      + [自定义表单：由于[!UICONTROL 描述性文本]字段的字符限制不正确，无法编辑自定义表单](known-issues-workfront/wf-custom-form-incorrect-character-limit.md)
-      + [设置：无法创建新状态](known-issues-workfront/resolved-issues-wf/wf-cannot-create-new-status.md)
-      + [自定义表单：因为[!UICONTROL 描述性文本]字段而无法编辑自定义表单](known-issues-workfront/wf-cust-form-descr-text-label-error.md)
-      + [[!DNL Search]：在  [!DNL Workfront] 中使用[!UICONTROL 搜索]时出错](known-issues-workfront/wf-search-error-using-search.md)
-      + [问题：无法批准或拒绝问题的小时数](known-issues-workfront/wf-issues-cannot-approve-hours.md)
-      + [报告：报告未按计划发送](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
-      + [报告：滚动时 Matrix 报告显示不正确](known-issues-workfront/wf-reports-matrix-display-incorrectly.md)
       + [敏捷：在“敏捷”展示板移动信息卡时的问题](known-issues-workfront/wf-agile-issues-moving-cards.md)
-      + [术语（德语）：当浏览器语言设置为德语时，某些区域的术语错误](known-issues-workfront/wf-terminology-in-german.md)
-      + [更新：标记用户然后离开会移除已标记的用户](known-issues-workfront/resolved-issues-wf/wf-updates-tag-users-navigate-away-untags.md)
-      + [搜索：无法按引用编号来搜索项目](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
       + [主页：自定义术语不适用于”主页“区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
       + [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
       + [布局模板：创建布局模板时无法选择组](known-issues-workfront/wf-layout-templ-cannot-select-group.md)
@@ -157,19 +124,6 @@ ht-degree: 98%
       + [列表：显示名称未应用于自定义字段分组](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL 主页]：刷新后审批委派日期发生变化并发送 2 封电子邮件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
       + [日程表：未显示任务](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
-   + [!DNL Adobe Workfront] {#wf-resolved} 中已解决的问题
-      + [报告：新[!UICONTROL 报告画布]未加载](known-issues-workfront/resolved-issues-wf/wf-reports-new-canvas-does-not-load.md)
-      + [日程表：将项目添加到日程表时按钮显示不正确](known-issues-workfront/resolved-issues-wf/wf-calendar-button-displays-incorrectly.md)
-      + [时间表：创建时间表时出现问题](known-issues-workfront/resolved-issues-wf/wf-timesheets-issues-creating-timesheets.md)
-      + [模板：附加模板时无法取消选择任务](known-issues-workfront/resolved-issues-wf/wf-templ-cannot-deselect-tasks.md)
-      + [报告：计划报告未发送给所有收件人](known-issues-workfront/resolved-issues-wf/wf-reports-scheduled-not-sent-to-all.md)
-      + [[!UICONTROL 主页]：从[!UICONTROL 主页工作]列表打开项目时出错](known-issues-workfront/resolved-issues-wf/wf-home-error-opening-item-work-list.md)
-      + [时间表：时间表上显示的时间与时间表列表不同](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
-      + [请求：使用模板转化为项目的请求显示来自请求队列的组，而不是来自模板的组](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
-      + [时间表：时间表小时数未正确保存](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
-      + [任务：内联编辑任务持续时间时无法选择[!UICONTROL 占用]时长](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
-      + [更新：[!UICONTROL 我的更新]页面是空白的](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
-      + [用户：复制用户时缺少“[!UICONTROL 仅允许 SAML 2.0 身份验证]”设置](known-issues-workfront/resolved-issues-wf/wf-users-only-allow-saml-setting-missing.md)
 
 
 
@@ -182,21 +136,10 @@ ht-degree: 98%
       + [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]：查看带多个页面的验证时显示空白页面](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [验证：从  [!DNL Workfront]  Proof 向  [!DNL Workfront]  添加验证时出错](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
-      + [[!DNL Workfront Proof]：将文件上传到评论时出错](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
-      + [[!DNL Workfront Proof]：文件夹视图不显示验证](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
-      + [[!DNL Workfront Proof]：无法为超过 1.5GB 的文件创建验证](known-issues-workfront-proof/proof-cannot-proof-files-over-1-5gb.md)
-      + [[!DNL Workfront Proof]：[!UICONTROL 新验证]页面缺少文本字段](known-issues-workfront-proof/proof-new-page-missing-text-fields.md)
       + [[!DNL Workfront Proof]：电子邮件通知延迟](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
       + [[!DNL Workfront Proof]：请求者和查看者计入组织的许可证计数中](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
       + [[!DNL Workfront Proof]：“每日摘要”电子邮件不包含“查看详情“按钮](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
-      + [[!DNL Workfront Proof]：添加到验证的用户只有“[!UICONTROL 查看]“权限](known-issues-workfront-proof/proof-added-users-have-only-view.md)
       + [[!DNL Workfront Proof]：验证管理员对验证的权限有限](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
-      + [仪表板显示[!UICONTROL 要管理的验证]中的 0 个验证](known-issues-workfront-proof/zero-proofs-to-manage.md)
-      + [[!DNL Workfront Proof]：交互式验证中的超链接无效](known-issues-workfront-proof/proof-hyperlinks-are-not-active.md)
-      + [在工作流模板中进行初始配置后无法修改用户选项](known-issues-workfront-proof/user-options-cannot-be-modified-after-initial-configuration.md)
-      + [在验证中标记时，用户不会收到通知](known-issues-workfront-proof/users-do-not-receive-notifications-when-tagged-in-a-proof.md)
-      + [在[!UICONTROL 验证查看器]中所做的评论无法实时显示](known-issues-workfront-proof/comments-not-visible-in-real-time.md)
-      + [由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/new-stage-created.md)
       + [主页工作列表显示不准确的验证审批截止日期](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [无法通过在评论中标记用户来将用户添加到验证中](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [[!UICONTROL 在验证中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
@@ -205,7 +148,6 @@ ht-degree: 98%
       + [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [文档：验证工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + [!DNL Workfront] Proof {#proof-resolved} 中已解决的问题
-      + [[!DNL Workfront Proof]：创建、移动或存档验证时， [!DNL Workfront Proof]  区域不会更新](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [验证：验证显示为“[!UICONTROL 正在生成验证]”的时间过长](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -223,10 +165,7 @@ ht-degree: 98%
       + [[!DNL Workfront Fusion]：创建或编辑场景时不加载模块](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]：无法连接到 Fusion 中的 MS Dynamics 模块](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
-      + [[!DNL Workfront Fusion]：当场景包含检查 Workfront 中的验证决策的模块时出现 502 错误](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
-   + [!DNL Workfront Fusion] {#fusion-resolved} 中已解决的问题
-      + [自定义表单中的数据在  [!DNL Workfront Fusion] [!DNL Workfront] 模块不可用](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront 模板] {#goals}
    + [存在于  [!DNL Workfront Goals] 的已知问题](workfrontgoals.md)
