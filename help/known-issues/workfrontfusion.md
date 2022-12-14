@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Fusion] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: 2f8dbcb2fc5a2184b084aa87120b826d33f33d86
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +36,6 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] 模块显示为[!UICONTROL 对象 Object]](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022 年 11 月 1 日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022 年 8 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
