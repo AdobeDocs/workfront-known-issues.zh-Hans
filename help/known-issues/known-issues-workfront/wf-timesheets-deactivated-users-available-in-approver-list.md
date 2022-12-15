@@ -2,9 +2,9 @@
 title: “时间表：选择时间表批准者时可用的停用用户”
 description: “当用户正在创建时间表并尝试分配审批者时，下拉列表包括已停用的用户。 如果选择了停用的用户，则不会保存时间表并且用户会看到一条错误消息。”
 hidefromtoc: true
-source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
-workflow-type: ht
-source-wordcount: '146'
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+workflow-type: tm+mt
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
@@ -12,11 +12,9 @@ ht-degree: 100%
 
 # 时间表：选择时间表批准者时可用的停用用户
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 1, 2022.
--->
+>此问题已于 2022 年 12 月 15 日修复。
 
 当用户正在创建时间表并尝试分配审批者时，下拉列表包括已停用的用户。 如果选择了停用的用户，则不会保存时间表并且用户会看到以下错误消息：
 
