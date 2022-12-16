@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '16687'
+source-wordcount: '16738'
 ht-degree: 97%
 
 ---
@@ -73,6 +73,12 @@ ht-degree: 97%
 “[!UICONTROL 错误。 抱歉！只有拥有计划许可证的用户才能审批或拒绝时间表。 请联系您的系统管理员。]”
 
 由于无法分配已停用的用户，因此用户必须选择已激活的用户。 因此时间表按预期运行，但列表中停用的用户可能会给用户带来混淆或不便。
+
+**无法输入工时单的时间**
+
+*时间表*
+
+当用户尝试向时间表添加时间时，他们会看到任何项目时间或任务时间行中的小时框都显示为灰色，并且他们无法在这些框中输入时间。他们只能在通用时间区输入时间。
 
 +++
 
@@ -513,7 +519,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 **电子邮件通知延迟**
 
-*Workfront校样*
+*Workfront Proof*
 
 当事件发生在触发电子邮件通知的 [!DNL Workfront Proof] 时，用户不会立即收到通知。 通知可能会延迟几个小时。
 
@@ -1064,7 +1070,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 **验证电子邮件通知更新**
 
-*[!DNL Workfront]校样*
+*[!DNL Workfront]Proof*
 
 本月早些时候，作为 [!DNL Workfront] 生产环境补丁的一部分，我们修复了验证电子邮件通知系统的一些错误。 此更改在发布时未在维护更新中传达。 我们已将以下信息添加到 [2022 年 6 月 2 日维护更新](#maintenance-update-on-june-2-2022)：
 
