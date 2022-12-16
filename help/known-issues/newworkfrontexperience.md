@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 98%
+source-wordcount: '615'
+ht-degree: 96%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：将文档权限的父问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022 年 12 月 16 日 |
 | [报表：报表使用报表创建器，而不是通配符“$$”[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 2022 年 12 月 13 日 |
 | [集成：无法打开 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2022 年 12 月 7 日 |
 | [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |

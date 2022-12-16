@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 7452df87a128b5e6524d205c9114101dc295ad2d
+source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1237'
 ht-degree: 98%
 
 ---
@@ -16,9 +16,10 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：将文档权限的父问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [报表：报表使用报表创建器，而不是通配符“$$”[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
-      + [文档：无法上载MP4文件](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
-      + [集成：无法打开 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
+      + [文档：无法上传 MP4 文件](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
+      + [集成：无法打开  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [任务：无法添加子任务](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [时间表：无法在时间表上输入时间](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)

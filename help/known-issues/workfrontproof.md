@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 100%
+source-wordcount: '216'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：将文档权限的父问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022 年 12 月 16 日 |
 | [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
 
 {style=&quot;table-layout:auto&quot;}
