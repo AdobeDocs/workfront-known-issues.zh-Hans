@@ -3,7 +3,7 @@ title: “项目：项目状态不遵循组项目偏好设置”
 description: “当用户从模板创建项目时，新项目不会采用组项目偏好设置中设置的状态。如果项目是在没有模板的情况下创建的，则状态会按预期反映组项目偏好设置。”
 hidefromtoc: true
 source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
