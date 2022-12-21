@@ -3,7 +3,7 @@ title: ”主页：无法移除主页中的问题分配“
 description: “当用户查看主页工作列表中的问题并尝试移除分配任务时，页面会刷新并且任务未被移除。”
 hidefromtoc: true
 source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
