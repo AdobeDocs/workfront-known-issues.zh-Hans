@@ -1,18 +1,18 @@
 ---
-title: “集成：无法打开用于G Suite的Workfront”
-description: “当用户在G Suite应用程序中尝试打开Workfront for G Suite加载项时，该加载项未打开，并且用户看到消息“出现问题，请重试。 再次尝试是无效的。 ”
+title: "集成：无法打开 Workfront for G Suite"
+description: "当用户在 G Suite 应用程序中尝试打开 Workfront for G Suite 加载项时，该加载项不会打开，且用户会看到消息“出现错误，请重试”。重试也不起作用。"
 hidefromtoc: true
 source-git-commit: 835873c47203f6f13e0c5239ff2e68d18049762d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# 集成：无法打开用于G套件的Workfront
+# 集成：无法打开 Workfront for G Suite
 
-当用户在G Suite应用程序中尝试打开Workfront for G Suite加载项时，该加载项未打开，并且用户看到消息“出现问题，请重试”。 再次尝试是无效的。
+当用户在 G Suite 应用程序中尝试打开 Workfront for G Suite 加载项时，该加载项不会打开，且用户会看到消息“出现错误，请重试”。重试也不起作用。
 
 _首次报告于 2022 年 12 月 1 日。_
 
