@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1253'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [校样：校样不取消存档](known-issues-workfront/wf-proofs-do-not-unarchive.md)
-      + [文档：无法从 [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + [报表：“编辑报表”屏幕为空](known-issues-workfront/wf-reports-edit-report-is-blank.md)
-      + [文档：将文档权限的父问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
-      + [报表：报表使用报表创建器，而不是通配符“$$”[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [验证：验证不会取消存档](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [文档：无法添加来自  [!DNL Google Drive] 的文档](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [报告：编辑报告屏幕为空白](known-issues-workfront/wf-reports-edit-report-is-blank.md)
+      + [文档：当父项问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
+      + [报告：报告使用报告创建程序而不是通配符 &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [文档：无法上传 MP4 文件](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [集成：无法打开  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [任务：无法添加子任务](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
