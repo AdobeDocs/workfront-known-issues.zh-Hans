@@ -3,7 +3,7 @@ title: ”时间表：无法在时间表上输入时间“
 description: “当用户尝试向时间表添加时间时，他们会看到任何项目时间或任务时间行中的小时框都显示为灰色，并且他们无法在这些框中输入时间。他们只能在通用时间区输入时间。”
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
