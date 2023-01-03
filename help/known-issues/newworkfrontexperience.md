@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: ht
-source-wordcount: '613'
-ht-degree: 100%
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+workflow-type: tm+mt
+source-wordcount: '629'
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新 ](../maintenance/current-updates.md)。
+>有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新](../maintenance/current-updates.md)。
 
 ## 新
 
@@ -41,6 +41,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [自定义Forms:Ctrl+F或Cmd+F在下拉字段中无法按预期工作](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023年1月3日 |
 | [验证：验证不会取消存档](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
 | [报告：编辑报告屏幕为空白](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022 年 12 月 20 日 |
 | [文档：无法上传 MP4 文件](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
-workflow-type: ht
-source-wordcount: '1253'
-ht-degree: 100%
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+workflow-type: tm+mt
+source-wordcount: '1268'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [自定义Forms:Ctrl+F或Cmd+F在下拉字段中无法按预期工作](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [验证：验证不会取消存档](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [文档：无法添加来自  [!DNL Google Drive] 的文档](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [报告：编辑报告屏幕为空白](known-issues-workfront/wf-reports-edit-report-is-blank.md)
