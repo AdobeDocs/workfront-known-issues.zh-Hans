@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 52%
+ht-degree: 56%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 52%
 
 ## 2022 年 1 月更新
 
-+++**2023年1月5日的维护更新（计划中）**
++++**（已规划）2023 年 1 月 5 日维护更新**
 
 **Pin功能 [!UICONTROL 更多] 菜单**
 
@@ -39,5 +39,5 @@ _导航_
 
 有关先前维护更新的信息，请参阅：
 
-* [[!DNL Workfront]2022 维护更新档案](2022-updates.md)
-* [[!DNL Workfront]2021 维护更新档案](2021-updates.md)
+* [[!DNL Workfront] 维护更新档案 - 2022](2022-updates.md)
+* [[!DNL Workfront] 维护更新档案 - 2021](2021-updates.md)
