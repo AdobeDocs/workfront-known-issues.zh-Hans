@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3c46566128f154a129b0a88a3a6ea335cc07273
+source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 55%
+source-wordcount: '188'
+ht-degree: 38%
 
 ---
 
@@ -32,6 +32,12 @@ _导航_
 * 重命名管脚
 * 对 [!UICONTROL 更多] 菜单
 * 将销移出 [!UICONTROL 更多] 菜单(执行此操作时，顶部导航栏中的最后一个固定图标将移至 [!UICONTROL 更多] 菜单)
+
+**删除了将用户添加到项目团队的项目组限制**
+
+_团队_
+
+我们删除了以下限制：需要添加到项目团队的用户必须位于与项目关联的组中。 现在，您可以向项目团队添加任何活动用户，而不考虑这些用户属于哪些组。
 
 +++
 
