@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1ebc908cb8b1b78155b66418caeea4bca2402e52
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # 参与
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 参与者指南文档
 
-请参阅[投稿人指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+请参阅[投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
 
 ## 有疑问吗？
 
