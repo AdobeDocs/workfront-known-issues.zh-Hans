@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
-source-wordcount: '1284'
+source-wordcount: '1292'
 ht-degree: 98%
 
 ---
@@ -138,6 +138,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [[!DNL Workfront Proof] API:&quot;[!UICONTROL 正文不是有效的XML]“错误”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]：无法打开交互式验证](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)

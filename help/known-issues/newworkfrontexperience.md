@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: '628'
 ht-degree: 97%
 
 ---
@@ -44,7 +44,6 @@ ht-degree: 97%
 | [自定义表单：Ctrl+F 或 Cmd+F 在下拉列表字段中无法正常工作](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023 年 1 月 3 日 |
 | [验证：验证不会取消存档](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
 | [报告：编辑报告屏幕为空白](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022 年 12 月 20 日 |
-| [任务：无法添加子任务](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022 年 12 月 7 日 |
 | [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
 | [报告：向问题报告添加新问题时出现“糟糕”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [集成：从  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) 提交请求时出错 | 2022 年 8 月 30 日 |
@@ -58,6 +57,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
 | [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023 年 1 月 6 日 |
 | [项目：项目状态不遵循组项目偏好设置](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023 年 1 月 6 日 |
 | [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
