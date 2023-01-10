@@ -3,7 +3,7 @@ title: “自定义表单：如果字段名称包含引号或撇号，则无法�
 description: “当用户创建计算字段表达式并尝试包含名称带有撇号或引号的预输入字段时，计算不被接受，并且用户看到消息：这是一个无效的自定义表达式，请尝试再次。”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
 ht-degree: 100%
 
