@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: aa129b37ee460450fa8c015b2f1c4b15c1dc466f
 workflow-type: tm+mt
 source-wordcount: '341'
-ht-degree: 60%
+ht-degree: 77%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 60%
 
 +++**2023 年 1 月 5 日维护更新**
 
-**Pin功能 [!UICONTROL 更多] 菜单**
+**可在[!UICONTROL 更多]菜单中找到的大头针功能**
 
 _导航_
 
-现在， [!UICONTROL 更多] 图钉菜单，仅在“预览”环境中：
+现在可在[!UICONTROL 更多]菜单中找到以下大头针功能，并仅在预览环境中可用：
 
-* 重命名管脚
-* 对 [!UICONTROL 更多] 菜单
-* 将销移出 [!UICONTROL 更多] 菜单(执行此操作时，顶部导航栏中的最后一个固定图标将移至 [!UICONTROL 更多] 菜单)
+* 重命名大头针
+* 在[!UICONTROL 更多]菜单中为大头针重新排序
+* 从[!UICONTROL 更多]菜单中移出大头针（在这样做时，将顶部导航栏中的最后一个大头针移至[!UICONTROL 更多]菜单）
 
 **删除了将用户添加到项目团队的项目组限制**
 
