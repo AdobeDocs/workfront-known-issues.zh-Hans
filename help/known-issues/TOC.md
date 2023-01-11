@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
 source-wordcount: '1292'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [任务：缩进的任务不会保持缩进](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
-      + [更新：提交回复时屏幕会暂时留空](known-issues-workfront/wf-updates-reply-goes-blank.md)
+      + [更新：提交回复时屏幕暂时变成空白](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [自定义表单：Ctrl+F 或 Cmd+F 在下拉列表字段中无法正常工作](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [验证：验证不会取消存档](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [文档：无法添加来自  [!DNL Google Drive] 的文档](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
@@ -29,7 +29,7 @@ ht-degree: 98%
       + [任务：无法添加子任务](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [时间表：无法在时间表上输入时间](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
-      + [项目：项目状态不遵循组项目偏好设置](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [项目：项目状态不符合组项目偏好设置](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [项目：从模板创建项目时出现“糟糕”错误](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL 主页]：无法移除[!UICONTROL 主页]中的问题分配](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [时间表：未生成时间表](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)

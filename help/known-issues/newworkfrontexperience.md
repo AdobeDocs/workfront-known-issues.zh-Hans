@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：提交回复时屏幕会暂时留空](known-issues-workfront/wf-updates-reply-goes-blank.md) | 2023 年 1 月 6 日 |
+| [更新：提交回复时屏幕暂时变成空白](known-issues-workfront/wf-updates-reply-goes-blank.md) | 2023 年 1 月 6 日 |
 | [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
@@ -59,7 +59,7 @@ ht-degree: 97%
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
 | [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023 年 1 月 6 日 |
-| [项目：项目状态不遵循组项目偏好设置](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023 年 1 月 6 日 |
+| [项目：项目状态不符合组项目偏好设置](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023 年 1 月 6 日 |
 | [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
 | [任务：在任务的[!UICONTROL 摘要]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)面板中输入小时数时未保存该数值 | 2022 年 12 月 2 日 |
 | [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
