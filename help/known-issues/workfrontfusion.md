@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Fusion] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 95%
+source-wordcount: '158'
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API:&quot;[!UICONTROL 正文不是有效的XML]“错误”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 10 日 |
-| [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] 模块](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 2022 年 10 月 31 日 |
+| [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 10 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
