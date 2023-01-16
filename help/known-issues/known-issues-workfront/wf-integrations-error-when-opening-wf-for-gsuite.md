@@ -3,7 +3,7 @@ title: "集成：无法打开 Workfront for G Suite"
 description: "当用户在 G Suite 应用程序中尝试打开 Workfront for G Suite 加载项时，该加载项不会打开，且用户会看到消息“出现错误，请重试”。重试也不起作用。"
 hidefromtoc: true
 source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
