@@ -3,9 +3,9 @@ title: “任务：缩进的任务不会保持缩进”
 description: “当用户查看任务列表并缩进任务时，任务会立即恢复到其原始（非缩进）状态。”
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此问题已于2023年1月12日修复。
+>此问题已于 2023 年 1 月 12 日修复。
 
 当用户查看任务列表并缩进任务时，任务会立即恢复到其原始（非缩进）状态。
 
