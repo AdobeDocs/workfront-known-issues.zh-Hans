@@ -1,12 +1,12 @@
 ---
-title: ‘Workfront融合：无法创建与Google的连接
-description: 当用户尝试在任何Google连接器(如Google表或Google驱动器)中创建连接时，将不会创建该连接，并且用户会看到各种错误消息。
+title: 'Workfront Fusion：无法创建与 Google 的连接'
+description: 当用户尝试在任何 Google 连接器（例如 Google Sheets 或 Google Drive）中创建连接时，不会创建连接并且用户会看到各种错误消息。
 hidefromtoc: true
 exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
 source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 57%
 
 >[!NOTE]
 >
->此问题已于2023年1月9日修复。
+>此问题已于 2023 年 1 月 9 日修复。
 
 当用户尝试在任何 [!DNL Google] 连接器（例如 [!DNL Google Sheets] 或 [!DNL Google Drive]）中创建连接时，他们会看到一个显示以下错误消息的窗口：
 
