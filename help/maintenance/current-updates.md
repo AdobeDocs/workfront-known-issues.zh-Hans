@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: ht
-source-wordcount: '662'
-ht-degree: 100%
+source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
+workflow-type: tm+mt
+source-wordcount: '771'
+ht-degree: 87%
 
 ---
 
@@ -20,6 +20,22 @@ ht-degree: 100%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 1 月更新
+
++++**（已规划）2023 年 1 月 19 日维护更新**
+
+**在自定义字段中，带通配符的表达式无效**
+
+_自定义表单_
+
+当用户在自定义字段中使用通配符（如$TODAY或$NOW）以及修饰符（如“–30d”）时，验证器不接受该通配符为有效。 不带修饰符的通配符被视为有效。
+
+**[!UICONTROL 工作负载平衡器] 显示未与项目/任务/问题关联的小时数**
+
+_[!UICONTROL 工作负载均衡器]_
+
+当用户查看 [!UICONTROL 工作负载平衡器]，则他们会看到与任何项目、任务或问题都无关联的用户的日志记录小时数，也未登录为 [!UICONTROL 常规] 小时。 这些小时只能在4周或6周视图中显示。
+
++++
 
 +++**[!DNL Adobe Workfront Fusion]2023 年 1 月 12 日维护更新（修补程序）**
 
