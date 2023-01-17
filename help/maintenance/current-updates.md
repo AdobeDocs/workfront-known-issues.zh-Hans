@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 90%
 
 ## 2023 年 1 月更新
 
-+++**[!DNL Adobe Workfront Fusion]2023年1月12日的维护更新（热修复程序）**
++++**[!DNL Adobe Workfront Fusion]2023 年 1 月 12 日维护更新（修补程序）**
 
-**404错误 [!DNL Workfront] 模块**
+[!DNL Workfront]模块&#x200B;**出现** 404 错误
 
 _Workfront Fusion_
 
@@ -35,9 +35,9 @@ _Workfront Fusion_
 
 +++
 
-+++**2023年1月12日的维护更新（热修复程序）**
++++**2023 年 1 月 12 日维护更新（修补程序）**
 
-**&quot;[!UICONTROL 哇]设置计算字段时出错**
+**[!UICONTROL 设置计算字段时出现“糟糕]”错误**
 
 _自定义表单_
 
@@ -51,7 +51,7 @@ _自定义表单_
 
 _用户_
 
-当用户尝试更改另一用户的访问级别时，访问级别将灰显，用户无法更改这些级别。 即使尝试更改的用户是系统管理员，也会发生这种情况。
+当一个用户试图更改另一个用户的访问级别时，访问级别将显示为灰色并且用户无法更改它们。即使尝试更改的用户是系统管理员，也会发生这种情况。
 
 +++
 
