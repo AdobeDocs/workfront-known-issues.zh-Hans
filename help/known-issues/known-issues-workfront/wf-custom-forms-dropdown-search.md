@@ -3,9 +3,9 @@ title: “自定义表单：Ctrl+F 或 Cmd+F 在下拉列表字段中无法正�
 description: 当用户填写自定义表单并使用 Ctrl+F 或 Cmd+F 搜索下拉列表，然后尝试跳转到该搜索的下一个实例时，下拉列表返回到列表顶部而不是跳转到搜索的下一个实例。当下拉列表设置为允许多项选择时会发生这种情况。
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此问题已于2023年1月12日修复。
+>此问题已于 2023 年 1 月 12 日修复。
 
 当用户填写自定义表单并使用 Ctrl+F 或 Cmd+F 搜索下拉列表，然后尝试跳转到该搜索的下一个实例时，下拉列表返回到列表顶部而不是跳转到搜索的下一个实例。当下拉列表设置为允许多项选择时会发生这种情况。
 
