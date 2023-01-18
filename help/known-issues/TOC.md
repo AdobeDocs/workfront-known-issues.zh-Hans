@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
-workflow-type: ht
-source-wordcount: '1292'
-ht-degree: 100%
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [文档：上载大文件时出错](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [任务：缩进的任务不会保持缩进](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [更新：提交回复时屏幕暂时变成空白](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [自定义表单：Ctrl+F 或 Cmd+F 在下拉列表字段中无法正常工作](known-issues-workfront/wf-custom-forms-dropdown-search.md)

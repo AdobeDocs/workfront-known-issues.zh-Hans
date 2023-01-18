@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: ht
-source-wordcount: '597'
-ht-degree: 100%
+source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+workflow-type: tm+mt
+source-wordcount: '600'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：提交回复时屏幕暂时变成空白](known-issues-workfront/wf-updates-reply-goes-blank.md) | 2023 年 1 月 6 日 |
+| [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
+| [文档：上载大文件时出错](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023 年 1 月 18 日 |
 | [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
