@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 98%
+source-wordcount: '615'
+ht-degree: 96%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [设置：无法保存电子邮件模板](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023 年 1 月 18 日 |
 | [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
 | [文档：上载大文件时出错](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023 年 1 月 18 日 |
 | [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md) | 2022 年 11 月 18 日 |
@@ -39,6 +40,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [用户：用户无法编辑其自己的用户设置](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 2023 年 1 月 18 日 |
 | [文档：当父项问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022 年 12 月 16 日 |
 | [验证：验证不会取消存档](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
 | [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
