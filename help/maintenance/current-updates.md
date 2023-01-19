@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 95%
+source-wordcount: '879'
+ht-degree: 89%
 
 ---
 
@@ -20,6 +20,26 @@ ht-degree: 95%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 1 月更新
+
++++**2023 年 1 月 19 日维护更新**
+
+**现在可以共享进气列过滤器**
+
+_展示板_
+
+当进入列功能发布到展示板时，用于设置进入列的过滤器只能由创建这些过滤器的人员查看。 现在，创建者可以与其他用户或团队共享过滤器。
+
+**可在[!UICONTROL 更多]菜单中找到的大头针功能**
+
+_导航_
+
+现在， [!UICONTROL 更多] “生产”环境中的针脚菜单：
+
+* 重命名大头针
+* 在[!UICONTROL 更多]菜单中为大头针重新排序
+* 从[!UICONTROL 更多]菜单中移出大头针（在这样做时，将顶部导航栏中的最后一个大头针移至[!UICONTROL 更多]菜单）
+
++++
 
 +++**2023 年 1 月 18 日维护更新**
 
