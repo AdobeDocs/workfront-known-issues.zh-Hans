@@ -3,7 +3,7 @@ title: “更新：提交回复时屏幕暂时变成空白”
 description: “当用户回复更新并提交时，屏幕会暂时变成空白。屏幕空白 7 秒，用户可在这 7 秒内撤消回复。7 秒后，撤消选项不再可用，屏幕按预期显示。”
 hidefromtoc: true
 source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
