@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
 source-wordcount: '1316'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
