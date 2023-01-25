@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 99%
+source-wordcount: '1000'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ _集成_
 “[!UICONTROL 发生以下错误：带有句柄 xxxx 的文件不存在。]”
 
 仅当通过请求队列或在创建请求时手动分配新请求时才会发生这种情况。
+
+**用户无法编辑其自己的用户设置**
+
+_用户_
+
+当拥有工作、审核或请求许可的用户尝试编辑自己的用户设置时，打开的弹出窗口为空白，用户无法进行任何编辑。要退出弹出窗口，用户必须刷新页面。
 
 +++
 
