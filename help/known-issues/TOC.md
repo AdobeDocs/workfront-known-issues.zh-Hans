@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1316'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [设置：无法保存电子邮件模板](known-issues-workfront/wf-setup-email-templates-not-working.md)
-      + [用户：用户无法编辑其自己的用户设置](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
+      + [用户：用户无法编辑自己的用户设置](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [文档：上载大文件时出错](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [任务：缩进的任务不会保持缩进](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
