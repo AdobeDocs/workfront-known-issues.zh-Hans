@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 99%
+source-wordcount: '1071'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,17 @@ _集成_
 “[!UICONTROL 发生以下错误：带有句柄 xxxx 的文件不存在。]”
 
 仅当通过请求队列或在创建请求时手动分配新请求时才会发生这种情况。
+
+**新的桌面校对查看器版本**
+
+_验证_
+
+为了修复桌面校样查看器中的冻结问题，我们部署了新版的桌面校样查看器。 已安装桌面校样查看器的用户将自动获取此更新。
+
+用户还可以手动关闭最新版本。 有关更多信息，请参阅 [安装桌面校对查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* 以前的版本：2.1.19
+* 新版本：2.1.20
 
 **用户无法编辑其自己的用户设置**
 

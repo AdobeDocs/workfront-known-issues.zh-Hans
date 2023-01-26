@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '571'
+ht-degree: 98%
 
 ---
 
@@ -30,16 +30,15 @@ ht-degree: 0%
 
 {style=&quot;table-layout:auto&quot;}
 
-
 ## 进行中
 
 这些问题的修复当前正在进行中，或计划在不久的将来进行。
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [用户：计划停用不会停用用户](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023 年 1 月 26 日 |
 | [设置：无法保存电子邮件模板](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023 年 1 月 20 日 |
 | [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
-| [验证：验证不会取消存档](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022 年 12 月 20 日 |
 | [报告：向问题报告添加新问题时出现“糟糕”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
