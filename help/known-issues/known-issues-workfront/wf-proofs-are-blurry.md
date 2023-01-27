@@ -3,7 +3,7 @@ title: "显示的验证没有原始图像那么清晰"
 description: "当用户创建验证，然后在验证查看器中查看该验证时，验证看起来没有原始图像那么清晰（更模糊）。"
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
