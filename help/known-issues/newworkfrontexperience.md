@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
+source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 98%
+source-wordcount: '609'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [项目：从问题转换的项目不会继承项目组合或项目群的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 1 月 30 日 |
+| [文档：打开或下载文档时出现“无效响应”错误](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023 年 1 月 30 日 |
 | [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
@@ -36,6 +38,8 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 设置]:审核日志不导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
+| [[!UICONTROL 概要]:无法滚动 [!UICONTROL 概要] 面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023 年 1 月 30 日 |
 | [用户：计划停用不会停用用户](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023 年 1 月 26 日 |
 | [设置：无法保存电子邮件模板](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023 年 1 月 20 日 |
 | [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
