@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '1071'
-ht-degree: 92%
+source-wordcount: '1319'
+ht-degree: 79%
 
 ---
 
@@ -20,6 +20,41 @@ ht-degree: 92%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 1 月更新
+
++++**2023 年 1 月 30 日维护更新**
+
+**为常见工时单操作添加的键盘快捷键**
+
+_时间表_
+
+我们为时间表中常见的以下操作引入了以下键盘快捷键：
+
+* 添加行(Cmd+Option++ / Ctrl+Option++)
+* 删除行(Cmd+Option+- / Ctrl+Option+-)
+* 固定或取消固定工作项(Option+P / Option+P)
+* 打开注释(Shift+F2 / Shift+F2)
+* 保存注释(Cmd+Enter / Ctrl+Enter)
+* 展开（Shift+Option+向上箭头/Shift+Alt+向上箭头）
+* 折叠（Shift+Option+向下箭头/Shift+Alt+向下箭头）
+
+必须突出显示执行这些操作的区域，才能应用这些操作。
+
+**时间表、时间表配置文件和时间表偏好设置的新信息图标**
+
+_时间表_
+
+>[!NOTE]
+>
+>此更新仅于2022年11月3日发布到预览环境，现在可在生产环境中使用。
+
+我们在以下设置中添加了几个信息图标：
+
+* &quot;[!UICONTROL 可以编辑时间]“ ”复选框，以指示在启用时，批准者还可以提交、重新打开或编辑时间表，除非您的管理员在 [!UICONTROL 时间表首选项] 面积 [!UICONTROL 设置].
+* &quot;[!UICONTROL 将工时单编辑限制为所有者和管理员]“ [!UICONTROL 时间表和小时首选项] 面积 [!UICONTROL 设置] 为指示禁用时，以下用户还可以编辑工时单：具有时间表和小时数管理访问权限的用户、允许编辑时间的时间表批准者以及时间表所有者的经理。
+
+请注意，这些设置的功能没有改变，只是添加了信息图标以时设置范围更易于被理解。
+
++++
 
 +++**2023 年 1 月 26 日维护更新**
 
