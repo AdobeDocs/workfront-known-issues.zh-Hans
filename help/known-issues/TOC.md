@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
+source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
 workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 96%
+source-wordcount: '1383'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：单击三个圆点菜单时，“摘要”面板返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [文档：打开或下载文档时出现“该页面不存在”错误](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [项目：从问题转换的项目不会继承项目组合或项目群的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [[!UICONTROL 设置]:审核日志不导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL 概要]:无法滚动 [!UICONTROL 概要] 面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
