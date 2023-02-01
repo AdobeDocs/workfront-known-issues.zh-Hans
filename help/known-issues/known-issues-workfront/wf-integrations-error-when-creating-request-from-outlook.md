@@ -3,9 +3,9 @@ title: “集成：从 Outlook 提交请求时出错”
 description: “当用户尝试通过  [!DNL Outlook]  电子邮件提交带有附件的请求时，一个或多个附件没有上传，且用户看到错误消息。”
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '110'
+ht-degree: 100%
 
 ---
 
