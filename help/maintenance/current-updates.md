@@ -4,8 +4,8 @@ description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
 workflow-type: tm+mt
-source-wordcount: '1351'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -84,7 +84,7 @@ _验证_
 
 为了解决桌面校对查看器中的冻结问题，我们部署了新版本的桌面校对查看器。已安装桌面校对查看器的用户将会自动获得此更新。
 
-用户也可以手动下载最新版本。有关详细信息，请参阅[安装桌面校对查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=ko)。
+用户也可以手动下载最新版本。有关详细信息，请参阅[安装桌面校对查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hans)。
 
 * 早期版本：2.1.19
 * 新版本：2.1.20
