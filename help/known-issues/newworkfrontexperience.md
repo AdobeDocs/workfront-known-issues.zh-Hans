@@ -3,7 +3,7 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：单击三个圆点菜单时，“摘要”面板返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
+| [文档：单击三点菜单时摘要面板会返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
 | [文档：打开或下载文档时出现“该页面不存在”错误](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023 年 1 月 31 日 |
-| [项目：从问题转换的项目不会继承项目组合或项目群的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 1 月 30 日 |
+| [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 1 月 30 日 |
 | [文档：打开或下载文档时出现“无效响应”错误](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023 年 1 月 30 日 |
 | [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 18 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
@@ -40,10 +40,9 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 设置]:审核日志不导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
-| [[!UICONTROL 概要]:无法滚动 [!UICONTROL 概要] 面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023 年 1 月 30 日 |
+| [[!UICONTROL 设置]：审核日志无法导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
+| [[!UICONTROL 摘要]：无法滚动[!UICONTROL 摘要]面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023 年 1 月 30 日 |
 | [用户：计划停用不会停用用户](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023 年 1 月 26 日 |
-| [设置：无法保存电子邮件模板](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023 年 1 月 20 日 |
 | [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
 | [报告：向问题报告添加新问题时出现“糟糕”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

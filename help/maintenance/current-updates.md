@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1402'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,11 @@ ht-degree: 0%
 
 +++**2023 年 2 月 2 日维护更新**
 
-**无法保存电子邮件模板**
+**默认情况下，主菜单中会显示展示板图标**
+
+_展示板_
+
+对于没有布局模板的用户，主菜单中现在会显示展示板图标。 对于创建的任何新布局模板，默认情况下主菜单中也会包含展示板。 现有布局模板未更改。**无法保存电子邮件模板**
 
 _设置_
 
@@ -33,21 +37,21 @@ _设置_
 
 +++**2023 年 1 月 30 日维护更新**
 
-**为常见工时单操作添加的键盘快捷键**
+**为常见的时间表操作添加了键盘快捷键**
 
 _时间表_
 
-我们为时间表中常见的以下操作引入了以下键盘快捷键：
+我们为时间表内的以下常用操作引入了以下键盘快捷键：
 
-* 添加行(Cmd+Option++ / Ctrl+Option++)
-* 删除行(Cmd+Option+- / Ctrl+Option+-)
-* 固定或取消固定工作项(Option+P / Option+P)
-* 打开注释(Shift+F2 / Shift+F2)
-* 保存注释(Cmd+Enter / Ctrl+Enter)
-* 展开（Shift+Option+向上箭头/Shift+Alt+向上箭头）
-* 折叠（Shift+Option+向下箭头/Shift+Alt+向下箭头）
+* 添加行 (Cmd+Option++ / Ctrl+Option++)
+* 删除行 (Cmd+Option+- / Ctrl+Option+-)
+* 固定或取消固定工作项 (Option+P / Option+P)
+* 打开评论 (Shift+F2 / Shift+F2)
+* 保存评论 (Cmd+Enter / Ctrl+Enter)
+* 展开 (Shift+Option+Up arrow/ Shift+Alt+Up arrow)
+* 折叠 (Shift+Option+Down arrow/ Shift+Alt+Down arrow)
 
-必须突出显示执行这些操作的区域，才能应用这些操作。
+必须突出显示执行这些操作的区域才能应用它们。
 
 **时间表、时间表配置文件和时间表偏好设置的新信息图标**
 
@@ -55,12 +59,12 @@ _时间表_
 
 >[!NOTE]
 >
->此更新仅于2022年11月3日发布到预览环境，现在可在生产环境中使用。
+>2022 年 11 月 3，此更新仅发布到了“预览”环境，但现在已在正式版中提供。
 
 我们在以下设置中添加了几个信息图标：
 
-* &quot;[!UICONTROL 可以编辑时间]“ ”复选框，以指示在启用时，批准者还可以提交、重新打开或编辑时间表，除非您的管理员在 [!UICONTROL 时间表首选项] 面积 [!UICONTROL 设置].
-* &quot;[!UICONTROL 将工时单编辑限制为所有者和管理员]“ [!UICONTROL 时间表和小时首选项] 面积 [!UICONTROL 设置] 为指示禁用时，以下用户还可以编辑工时单：具有时间表和小时数管理访问权限的用户、允许编辑时间的时间表批准者以及时间表所有者的经理。
+* 创建或编辑时间表或时间表配置文件时，选中“[!UICONTROL 可以编辑时间]”复选框表示，启用后批准者还可以提交、重新打开或编辑时间表，除非您的管理员在“设置”中的[!UICONTROL 时间表首选项]区域内限制这些操作。
+* 在[!UICONTROL “设置”]的[!UICONTROL “时间表和小时偏好设置”]区域中选择[!UICONTROL “仅限所有者和管理员编辑时间表”]，以指示在禁用该项时，以下用户也可以编辑时间表：对时间表和小时具有管理访问权限的用户、允许编辑时间的时间表审批者以及时间表所有者的经理。
 
 请注意，这些设置的功能没有改变，只是添加了信息图标以时设置范围更易于被理解。
 
