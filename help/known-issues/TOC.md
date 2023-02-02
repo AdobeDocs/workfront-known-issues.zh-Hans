@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1395'
+ht-degree: 99%
 
 ---
 
@@ -16,11 +16,12 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [文档：单击三个圆点菜单时，“摘要”面板返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [群组：子组不会根据组事件通知设置查看通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [文档：单击三点菜单时摘要面板会返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [文档：打开或下载文档时出现“该页面不存在”错误](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
-      + [项目：从问题转换的项目不会继承项目组合或项目群的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
-      + [[!UICONTROL 设置]:审核日志不导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
-      + [[!UICONTROL 概要]:无法滚动 [!UICONTROL 概要] 面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL 设置]：审核日志无法导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL 摘要]：无法滚动[!UICONTROL 摘要]面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [文档：打开或下载文档时出现“无效响应”错误](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [用户：计划停用不会停用用户](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [设置：无法保存电子邮件模板](known-issues-workfront/wf-setup-email-templates-not-working.md)
@@ -173,7 +174,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [[!DNL Adobe Workfront Fusion]:Workfront模块中404错误](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
+      + [[!DNL Adobe Workfront Fusion]：Workfront 模块中的 404 错误](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]：无法创建与  [!DNL Google] 的连接](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL 迭代器]模块中的数组元素显示为[!UICONTROL 对象 Object]](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：在场景执行历史记录中查看错误时出错](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
