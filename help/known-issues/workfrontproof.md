@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 87%
+source-wordcount: '264'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 87%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：单击三个圆点菜单时，“摘要”面板返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
+| [文档：单击三点菜单时摘要面板会返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
 | [文档：打开或下载文档时出现“该页面不存在”错误](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023 年 1 月 31 日 |
 | [文档：打开或下载文档时出现“无效响应”错误](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023 年 1 月 30 日 |
 | [文档：无法添加来自  [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) 的文档 | 2022 年 12 月 20 日 |
@@ -48,6 +48,7 @@ ht-degree: 87%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/proof-new-stage-created.md) | 2023年2月2日 |
 | [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
 | [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
 | [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
