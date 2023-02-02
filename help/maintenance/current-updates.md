@@ -2,7 +2,7 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: 9cd28fae4c6e1a3c6759353351de4b09a46984f3
 workflow-type: tm+mt
 source-wordcount: '1402'
 ht-degree: 96%
@@ -27,7 +27,9 @@ ht-degree: 96%
 
 _展示板_
 
-对于没有布局模板的用户，主菜单中现在会显示展示板图标。 对于创建的任何新布局模板，默认情况下主菜单中也会包含展示板。 现有布局模板未更改。**无法保存电子邮件模板**
+对于没有布局模板的用户，主菜单中现在会显示展示板图标。 对于创建的任何新布局模板，默认情况下主菜单中也会包含展示板。 现有布局模板未更改。
+
+**无法保存电子邮件模板**
 
 _设置_
 
