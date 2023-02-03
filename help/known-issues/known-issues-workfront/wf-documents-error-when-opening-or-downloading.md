@@ -2,10 +2,10 @@
 title: “文档：打开或下载文档时出现无效响应错误”
 description: “当用户尝试在 Workfront 中打开或下载文档时，他们无法打开或下载该文件，并且会看到错误”
 hidefromtoc: true
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 93%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 100%
 # 文档：打开或下载文档时出现“无效响应”错误
 
 <!--This article is on the WF and WFP TOC-->
+
+>[!NOTE]
+>
+>此问题已于2023年2月2日修复。
 
 “当用户尝试在 Workfront 中打开或下载文档时，他们无法打开或下载该文件，并且会看到以下错误：
 

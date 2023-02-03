@@ -2,15 +2,19 @@
 title: “文档：无法恢复已删除的文档”
 description: “当用户尝试恢复以前删除的文档时无法恢复该文档，并且看到‘糟糕’错误。”
 hidefromtoc: true
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 92%
 
 ---
 
 
 # 文档：无法恢复已删除的文档
+
+>[!NOTE]
+>
+>此问题已于2023年2月2日修复。
 
 <!-- On WF and WFP TOCs-->
 
