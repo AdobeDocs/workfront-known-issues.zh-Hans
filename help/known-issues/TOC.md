@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '1422'
-ht-degree: 98%
+source-wordcount: '1436'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：将文档移动到新项目时，不会继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [工作负载平衡器：同时使用多个过滤器时的结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [群组：子组不会根据组事件通知设置查看通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [文档：单击三点菜单时摘要面板会返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)

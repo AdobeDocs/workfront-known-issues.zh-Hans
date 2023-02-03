@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
+source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 96%
+source-wordcount: '649'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：将文档移动到新项目时，不会继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年2月3日 |
 | [工作负载平衡器：同时使用多个过滤器时的结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 2023年2月3日 |
 | [文档：单击三点菜单时摘要面板会返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
 | [文档：打开或下载文档时出现“该页面不存在”错误](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023 年 1 月 31 日 |
