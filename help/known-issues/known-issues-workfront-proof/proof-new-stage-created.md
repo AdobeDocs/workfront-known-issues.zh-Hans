@@ -3,7 +3,7 @@ title: '验证：由于截止日期与现有阶段的截止日期不匹配，因
 description: 创建新验证时，可以以 15 分钟为增量设置截止时间（10:00、10:15、10:30、20:45 等）。 但是，在创建验证后将用户添加到验证时，截止时间只能以 30 分钟为增量设置（10:00、10:30、11:00 等）。
 hidefromtoc: true
 source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
 ht-degree: 100%
 
