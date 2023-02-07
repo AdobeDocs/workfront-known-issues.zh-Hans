@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
 workflow-type: tm+mt
 source-wordcount: '649'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：将文档移动到新项目时，不会继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年2月3日 |
-| [工作负载平衡器：同时使用多个过滤器时的结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 2023年2月3日 |
+| [文档：将文档移动到新项目时，不会继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
+| [工作负载平衡器：同时使用多个过滤器时的结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 2023 年 3 月 2 日 |
 | [文档：单击三点菜单时摘要面板会返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
 | [文档：打开或下载文档时出现“该页面不存在”错误](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023 年 1 月 31 日 |
 | [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 1 月 30 日 |
@@ -40,7 +40,7 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [群组：子组不会根据组事件通知设置查看通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2023年2月2日 |
+| [组：根据组事件通知设置，子组不接收通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2023 年 2 月 2 日 |
 | [[!UICONTROL 设置]：审核日志无法导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
 | [[!UICONTROL 摘要]：无法滚动[!UICONTROL 摘要]面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023 年 1 月 30 日 |
 | [用户：计划停用不会停用用户](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023 年 1 月 26 日 |

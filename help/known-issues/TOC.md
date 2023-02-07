@@ -18,7 +18,7 @@ ht-degree: 97%
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [文档：将文档移动到新项目时，不会继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [工作负载平衡器：同时使用多个过滤器时的结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [群组：子组不会根据组事件通知设置查看通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [组：根据组事件通知设置，子组不接收通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [文档：单击三点菜单时摘要面板会返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [文档：打开或下载文档时出现“该页面不存在”错误](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
