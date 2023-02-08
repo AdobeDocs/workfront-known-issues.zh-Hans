@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1428'
-ht-degree: 98%
+source-wordcount: '1482'
+ht-degree: 95%
 
 ---
 
@@ -24,6 +24,16 @@ ht-degree: 98%
 +++**2023年2月9日维护更新（计划中）**
 
 此更新仅包含次要或较少的重要错误修复。 [!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
+
++++
+
++++**2023 年 8 月 2 日维护更新**
+
+**进气列中的“过滤器”按钮**
+
+_展示板_
+
+现在，展示板上的进气柱包括 **添加过滤器** 按钮。 按钮可打开配置区域，在该区域中可添加过滤器以将任务和问题纳入摄入列。
 
 +++
 
