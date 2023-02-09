@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Adobe Workfront Fusion]:Workfront Fusion中的超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023年2月3日 |
+| [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中出现超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023 年 3 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
