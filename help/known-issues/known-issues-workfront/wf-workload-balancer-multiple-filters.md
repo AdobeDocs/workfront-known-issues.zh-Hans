@@ -1,22 +1,22 @@
 ---
-title: “工作负载平衡器：同时使用多个过滤器时的结果不准确”
-description: “当用户正在查看工作负载平衡器并同时使用多个过滤器时，结果不准确。 例如，在同时使用过滤器A和B时，在使用过滤器A和使用过滤器B时显示的结果不会显示。”
+title: "Workload Balancer：同时使用多个筛选器时结果不准确"
+description: "当用户查看 Workload Balancer 并同时使用多个筛选器时，结果不准确。例如，在同时使用过滤器 A 和 B 时不显示在使用过滤器 A 时和在使用过滤器 B 时显示的结果。"
 hidefromtoc: true
 source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# 工作负载平衡器：同时使用多个过滤器时的结果不准确
+# Workload Balancer：同时使用多个筛选器时结果不准确
 
-当用户正在查看工作负载平衡器并同时使用多个过滤器时，结果不准确。 例如，在同时使用过滤器A和B时，在使用过滤器A和使用过滤器B时显示的结果不会显示。
+当用户查看 Workload Balancer 并同时使用多个筛选器时，结果不准确。例如，在同时使用过滤器 A 和 B 时不显示在使用过滤器 A 时和在使用过滤器 B 时显示的结果。
 
 **解决方法**
 
-您可以将这两个过滤器合并到一个新过滤器中。
+您可以将两个过滤器合并为一个新过滤器。
 
 _首次报告于 2023 年 1 月 31 日。_
 
