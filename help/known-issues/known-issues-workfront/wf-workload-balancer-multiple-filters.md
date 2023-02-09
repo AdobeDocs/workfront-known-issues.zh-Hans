@@ -2,15 +2,19 @@
 title: "Workload Balancer：同时使用多个筛选器时结果不准确"
 description: "当用户查看 Workload Balancer 并同时使用多个筛选器时，结果不准确。例如，在同时使用过滤器 A 和 B 时不显示在使用过滤器 A 时和在使用过滤器 B 时显示的结果。"
 hidefromtoc: true
-source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
-workflow-type: ht
-source-wordcount: '132'
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
+workflow-type: tm+mt
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
 
 
 # Workload Balancer：同时使用多个筛选器时结果不准确
+
+>[!NOTE]
+>
+>此问题已关闭，因为它现在不构成问题。
 
 当用户查看 Workload Balancer 并同时使用多个筛选器时，结果不准确。例如，在同时使用过滤器 A 和 B 时不显示在使用过滤器 A 时和在使用过滤器 B 时显示的结果。
 

@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
-workflow-type: ht
-source-wordcount: '649'
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
+workflow-type: tm+mt
+source-wordcount: '606'
 ht-degree: 100%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
-| [Workload Balancer：同时使用多个筛选器时结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 2023 年 3 月 2 日 |
 | [文档：单击三点菜单时摘要面板会返回顶部](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023 年 1 月 31 日 |
-| [文档：打开或下载文档时出现“该页面不存在”错误](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023 年 1 月 31 日 |
 | [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 1 月 30 日 |
 | [验证：验证的生成速度非常慢](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022 年 10 月 27 日 |
 | [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
@@ -40,9 +38,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [组：根据组事件通知设置，子组不接收通知](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2023 年 2 月 2 日 |
 | [[!UICONTROL 设置]：审核日志无法导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
-| [[!UICONTROL 摘要]：无法滚动[!UICONTROL 摘要]面板](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023 年 1 月 30 日 |
 | [用户：计划停用不会停用用户](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023 年 1 月 26 日 |
 | [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
 | [报告：向问题报告添加新问题时出现“糟糕”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
