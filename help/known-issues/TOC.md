@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
 workflow-type: tm+mt
-source-wordcount: '1444'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：评论重定向到的链接 [!UICONTROL 详细信息] 页面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [用户：用户无法编辑自己的通知设置](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Workload Balancer：同时使用多个筛选器时结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md)

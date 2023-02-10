@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 98%
+source-wordcount: '625'
+ht-degree: 97%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [更新：评论重定向到“详细信息”页面的链接](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023 年 10 月 2 日 |
 | [[!UICONTROL 设置]：审核日志无法导出](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023 年 1 月 30 日 |
 | [用户：计划停用不会停用用户](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023 年 1 月 26 日 |
 | [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
