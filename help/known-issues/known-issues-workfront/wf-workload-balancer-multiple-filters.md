@@ -3,7 +3,7 @@ title: "Workload Balancer：同时使用多个筛选器时结果不准确"
 description: "当用户查看 Workload Balancer 并同时使用多个筛选器时，结果不准确。例如，在同时使用过滤器 A 和 B 时不显示在使用过滤器 A 时和在使用过滤器 B 时显示的结果。"
 hidefromtoc: true
 source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
