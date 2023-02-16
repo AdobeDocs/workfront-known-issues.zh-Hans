@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
 source-wordcount: '1083'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [[!UICONTROL 展示板]:应用分组时无法添加信息卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [用户：重新激活用户时未分配访问级别](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [更新：评论重定向到的链接 [!UICONTROL 详细信息] 页面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [更新：评论链接重新定向到[!UICONTROL 细节]页面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [用户：用户无法编辑自己的通知设置](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Workload Balancer：同时使用多个筛选器时结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
