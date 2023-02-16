@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1538'
-ht-degree: 99%
+source-wordcount: '1582'
+ht-degree: 96%
 
 ---
 
@@ -21,7 +21,19 @@ ht-degree: 99%
 
 ## 2023 年 2 月更新
 
-+++**（已规划）2023 年 2 月 16 日维护更新**
++++**2023 年 2 月 16 日维护更新**
+
+**展示板上的多个团队分配**
+
+_展示板_
+
+现在，您可以为展示板上的任务或问题分配多个团队，并为展示板本身分配团队。
+
+**卡衰减限制提高**
+
+_展示板_
+
+卡衰减时间限制已增加到8周/60天，而不是4周/30天。
 
 **计划停用不会停用用户**
 
