@@ -2,15 +2,19 @@
 title: “设置：审核日志无法导出”
 description: “当用户尝试导出审核日志时，审核日志无法导出。Workfront 中没有迹象表明审核日志未导出，但预期生成的导出文件从未出现。”
 hidefromtoc: true
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
-workflow-type: ht
-source-wordcount: '85'
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL 设置]：审核日志无法导出
+
+>[!NOTE]
+>
+>此问题已于 2023 年 16 月 2 日修复。
 
 当用户尝试导出审核日志时，审核日志无法导出。[!DNL Workfront] 中没有迹象表明审核日志未导出，但预期生成的导出文件从未出现。
 
