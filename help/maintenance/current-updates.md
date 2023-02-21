@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1582'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 97%
 
 _展示板_
 
-现在，您可以为展示板上的任务或问题分配多个团队，并为展示板本身分配团队。
+现在，您可以在展示板上将多个团队分配到一个任务或问题，也可以分配到展示板本身。
 
-**卡衰减限制提高**
+**信息卡停用时间限制增加**
 
 _展示板_
 
-卡衰减时间限制已增加到8周/60天，而不是4周/30天。
+信息卡停用时间限制增加到了 8 周/60 天，而不是 4 周/30 天。
 
 **计划停用不会停用用户**
 
