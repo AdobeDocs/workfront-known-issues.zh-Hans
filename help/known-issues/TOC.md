@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
 source-wordcount: '1088'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [项目：项目标题中出现504错误](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL 展示板]:应用分组时无法添加信息卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [[!UICONTROL 展示板]：应用了分组后无法添加信息卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [用户：重新激活用户时未分配访问级别](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [更新：评论链接重新定向到[!UICONTROL 细节]页面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [用户：用户无法编辑自己的通知设置](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -80,7 +80,7 @@ ht-degree: 98%
       + [文档：外部文档请求链接指向登录页面](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [报告：问题报告中未提供“移至”选项](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [自定义表单：设置计算字段时出现“糟糕”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [验证：将组添加到验证时未添加该组的所有成员](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [验证：将组添加到验证并不会添加该组的所有成员](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [通知：在评论中提到或包括用户时不通知用户](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [任务：在任务的[!UICONTROL “摘要”面板]中输入小时数时未保存该数值](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
@@ -123,8 +123,8 @@ ht-degree: 98%
       + [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
-      + [验证：从  [!DNL Workfront]  Proof 向  [!DNL Workfront]  添加验证时出错](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
-      + [[!DNL Workfront Proof]：“每日摘要”电子邮件不包含“查看详情“按钮](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
+      + [验证：从 [!DNL Workfront] Proof向 [!DNL Workfront] 添加验证时出错](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [[!DNL Workfront Proof]：“每日摘要”电子邮件不包含“查看详细信息”按钮](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
       + [[!DNL Workfront Proof]：验证管理员对验证的权限有限](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
       + [无法通过在评论中标记用户来将用户添加到验证中](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [[!UICONTROL 在验证中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
@@ -146,7 +146,7 @@ ht-degree: 98%
       + [[!DNL Workfront Fusion]：在场景执行历史记录中查看错误时出错](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法验证连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
-      + [[!DNL Workfront Fusion]： [!DNL Fusion]  模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
+      + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!UICONTROL Adobe Workfront 模板] {#goals}
