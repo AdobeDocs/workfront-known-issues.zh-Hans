@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1088'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [项目：项目标题中出现504错误](known-issues-workfront/wf-projects-504-error-in-project-header.md)
+      + [项目：项目标题中的 504 错误](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL 展示板]：应用了分组后无法添加信息卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [用户：重新激活用户时未分配访问级别](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [更新：评论链接重新定向到[!UICONTROL 细节]页面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
