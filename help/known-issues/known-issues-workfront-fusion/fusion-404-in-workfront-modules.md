@@ -3,9 +3,9 @@ title: “Adobe Workfront Fusion：Workfront 模块出现 404 错误”
 description: “Workfront 模块偶尔会返回 404 错误。模块中的 404 错误会导致场景执行失败。”
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
