@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: ht
-source-wordcount: '1088'
-ht-degree: 100%
+source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+workflow-type: tm+mt
+source-wordcount: '1100'
+ht-degree: 98%
 
 ---
 
@@ -119,6 +119,7 @@ ht-degree: 100%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [校样：用户在校样注释中进行标记时不会收到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [验证：由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
