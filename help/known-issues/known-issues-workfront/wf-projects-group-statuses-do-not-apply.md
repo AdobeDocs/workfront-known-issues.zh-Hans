@@ -2,9 +2,9 @@
 title: “项目：项目状态不遵循组项目偏好设置”
 description: “当用户从模板创建项目时，新项目不会采用组项目偏好设置中设置的状态。如果项目是在没有模板的情况下创建的，则状态会按预期反映组项目偏好设置。”
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
+>此问题已于 2023 年 2 月 23 日修复。
 
 当用户从模板创建项目时，新项目不会采用组项目偏好设置中设置的状态。如果项目是在没有模板的情况下创建的，则状态会按预期反映组项目偏好设置。
 

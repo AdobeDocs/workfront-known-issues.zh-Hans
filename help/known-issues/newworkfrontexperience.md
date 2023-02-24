@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '556'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 100%
 | [项目：项目标题中的 504 错误](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |
 | [[!UICONTROL 展示板]：应用了分组后无法添加信息卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023 年 2 月 16 日 |
 | [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
-| [验证：打印摘要不显示验证的所有页面](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022 年 10 月 19 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -39,10 +38,7 @@ ht-degree: 100%
 | -----------------------------------------------------------------| ----------------- |
 | [更新：评论链接重新定向到[!UICONTROL 细节]页面](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023 年 2 月 24 日 |
 | [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
-| [集成：无法打开 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 2 月 14 日 |
 | [用户：重新激活用户时未分配访问级别](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023 年 13 月 2 日 |
-| [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023 年 1 月 20 日 |
-| [报告：向问题报告添加新问题时出现“糟糕”错误](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 14 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -53,14 +49,13 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [集成：无法打开 [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2023 年 2 月 24 日 |
 | [验证：在验证评论中标记后，用户不会收到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
 | [自定义表单：在计算字段中引用“[!UICONTROL 所有者]”时，出现“[!UICONTROL 自定义表达式无效]”消息](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023 年 1 月 20 日 |
 | [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
 | [自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023 年 1 月 6 日 |
-| [项目：项目状态不符合组项目偏好设置](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023 年 1 月 6 日 |
 | [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
 | [任务：在任务的[!UICONTROL 摘要]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)面板中输入小时数时未保存该数值 | 2022 年 12 月 2 日 |
-| [项目：从模板创建项目时出现性能问题和错误消息](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
 | [自定义表单：跨对象自定义表单需要[!UICONTROL 管理]或者[!UICONTROL 编辑]权限来编辑字段](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |
 | [通知：在评论中提到或包括用户时不通知用户](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 11 月 11 日 |
 | [API：无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
@@ -70,7 +65,6 @@ ht-degree: 100%
 | [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 5 日 |
 | [[!UICONTROL 主页]：自定义术语不适用于”主页“区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 3 日 |
 | [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
-| [布局模板：创建布局模板时无法选择组](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022 年 5 月 4 日 |
 | [敏捷：在[!UICONTROL 敏捷]展示板](known-issues-workfront/wf-agile-issues-moving-cards.md)移动信息卡时的问题 | 2022 年 4 月 27 日 |
 | [审批：为不正确的天数设置了审批委派](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022 年 4 月 20 日 |
 | [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)显示已停用的用户 | 2021 年 10 月 1 日 |

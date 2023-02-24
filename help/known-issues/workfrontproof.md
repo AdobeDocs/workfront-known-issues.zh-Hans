@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
-| [文档：无法添加来自  [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) 的文档 | 2022 年 12 月 20 日 |
 
 {style=&quot;table-layout:auto&quot;}
 

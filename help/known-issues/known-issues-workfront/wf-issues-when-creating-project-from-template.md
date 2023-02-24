@@ -2,9 +2,9 @@
 title: “项目：从模板创建项目时出现性能问题和错误消息。”
 description: “当用户从模板创建项目并保存该项目时，创建该项目所花费的时间是正常时间的 3 – 5 倍。此外，用户会看到‘无法提取’消息，这表示该项目尚未创建，尽管实际已创建该项目。”
 hidefromtoc: true
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: ht
-source-wordcount: '158'
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
+>此问题已于 2023 年 1 月 11 日修复。
 
 当用户从模板创建项目并保存该项目时，创建该项目所花费的时间是正常时间的 3 – 5 倍。此外，用户会看到[!UICONTROL 无法提取]消息，这表示该项目尚未创建，尽管实际已创建该项目。
 
