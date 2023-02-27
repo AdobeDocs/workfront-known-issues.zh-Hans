@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
+source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 98%
+source-wordcount: '573'
+ht-degree: 97%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：校样角色已更改为 [!UICONTROL 只读]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
 | [集成：登录到时出错 [!DNL Workfront] 从 [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2023 年 2 月 24 日 |
 | [项目：项目标题中的 504 错误](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |
 | [[!UICONTROL 展示板]：应用了分组后无法添加信息卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023 年 2 月 16 日 |

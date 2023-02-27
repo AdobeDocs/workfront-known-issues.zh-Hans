@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 940dfb74994519d9dd55f25ca457f7c2ed3a0984
+source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 99%
+source-wordcount: '1115'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [校样：校样角色已更改为 [!UICONTROL 只读]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [集成：登录到时出错 [!DNL Workfront] 从 [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [项目：项目标题中的 504 错误](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL 展示板]：应用了分组后无法添加信息卡](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
