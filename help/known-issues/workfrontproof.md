@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
+source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 96%
+source-wordcount: '275'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 |  | 2023 年 2 月 24 日 |
+| [校样：无法将用户或组添加到校样工作流](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
 | [校样：校样角色已更改为 [!UICONTROL 只读]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
 | [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 2 日 |
 

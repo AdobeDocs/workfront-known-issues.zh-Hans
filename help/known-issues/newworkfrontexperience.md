@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
+source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 97%
+source-wordcount: '583'
+ht-degree: 95%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：无法将用户或组添加到校样工作流](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
 | [校样：校样角色已更改为 [!UICONTROL 只读]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
 | [集成：登录到时出错 [!DNL Workfront] 从 [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2023 年 2 月 24 日 |
 | [项目：项目标题中的 504 错误](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 17 日 |
