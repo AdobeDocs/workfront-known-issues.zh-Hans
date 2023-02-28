@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
-workflow-type: ht
-source-wordcount: '1692'
-ht-degree: 100%
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+workflow-type: tm+mt
+source-wordcount: '1870'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,34 @@ ht-degree: 100%
 >这些更新还包括其他次要或不太突出的错误修复。 [!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
+
+## 2023 年 3 月更新
+
++++**2023年3月2日的维护更新（计划中）**
+
+**应用分组时无法添加信息卡**
+
+_展示板_
+
+当用户查看应用了分组的展示板并尝试添加信息卡时，用户只能输入信息卡的名称。信息卡的其余字段被禁用，包括[!UICONTROL 保存]按钮。
+
+如果用户将分组更改为[!UICONTROL 无]，问题依旧存在。用户必须将分组更改为[!UICONTROL 无]，然后刷新页面，这样才能恢复添加信息卡的功能。
+
+**评论链接重新定向到[!UICONTROL 详情]页面**
+
+_更新_
+
+当用户在 Workfront 中点击指向对某个对象的评论的链接时，更新流会短暂加载，然后用户将被重定向到该对象的[!UICONTROL “详细信息”]区域。如果用户单击电子邮件中的链接或将链接粘贴到他们的浏览器中，则可能会发生这种情况。
+
+这目前仅影响文档对象。
+
+**未加载打印摘要**
+
+_[!UICONTROL Workfront Proof]_
+
+当用户尝试加载“打印摘要”页面时，该页面似乎正在加载，但从未加载。
+
++++
 
 ## 2023 年 2 月更新
 
