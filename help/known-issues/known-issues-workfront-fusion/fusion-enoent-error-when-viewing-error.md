@@ -1,12 +1,12 @@
 ---
-title: ‘Workfront融合：查看方案执行历史记录中的错误时出错。
-description: 当用户正在查看方案执行历史记录并尝试通过单击错误来查看有关错误的更多详细信息时，该详细信息未打开，并且用户会看到错误消息。
+title: ‘Workfront Fusion：在场景执行历史记录中查看错误时出错’
+description: 当用户查看场景执行历史记录并尝试通过单击错误来查看有关错误的更多详细信息时，详细信息未打开且用户看到错误消息。
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
