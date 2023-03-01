@@ -4,7 +4,7 @@ description: 当作为组管理员的用户尝试在[!UICONTROL 界面]设置区
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
 ht-degree: 100%
 
