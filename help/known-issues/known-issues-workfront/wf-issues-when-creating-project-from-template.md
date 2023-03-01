@@ -3,7 +3,7 @@ title: “项目：从模板创建项目时出现性能问题和错误消息。�
 description: “当用户从模板创建项目并保存该项目时，创建该项目所花费的时间是正常时间的 3 – 5 倍。此外，用户会看到‘无法提取’消息，这表示该项目尚未创建，尽管实际已创建该项目。”
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 
