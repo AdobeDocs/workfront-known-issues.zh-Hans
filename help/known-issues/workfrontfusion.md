@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Fusion] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]：场景执行历史记录不显示整个历史记录](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 2023年3月3日 |
 | [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中出现超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023 年 3 月 2 日 |
 
 {style=&quot;table-layout:auto&quot;}
