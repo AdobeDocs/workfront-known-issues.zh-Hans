@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b5172e5c4991f4ea6a5bf05b92bfb419c1e95a35
+source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
 workflow-type: tm+mt
-source-wordcount: '576'
-ht-degree: 97%
+source-wordcount: '585'
+ht-degree: 96%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：自定义消息未显示在电子邮件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023年3月3日 |
 | [集成：从  [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) 登录  [!DNL Workfront]  时出错 | 2023年3月2日 |
 | [项目：将问题转换为项目时缺少自定义字段](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023年3月2日 |
 | [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
