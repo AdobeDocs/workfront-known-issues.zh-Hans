@@ -2,8 +2,8 @@
 title: “验证：[!UICONTROL 主要验证阶段]字段为空”
 description: “当用户创建验证，然后在[!UICONTROL 文档版本]或者[!UICONTROL 验证审批]等报告中查看该验证时，他们看到[!UICONTROL 主要验证阶段]字段为空。 在文档上传后创建验证时，无论是作为[!UICONTROL 简单验证]还是具有[!UICONTROL 基本工作流]的[!UICONTROL 高级验证]，都会发生这种情况。
 hidefromtoc: true
-source-git-commit: 40763737feab664840a600224cff2f2889cbef72
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # 验证：[!UICONTROL 主要验证阶段]字段为空
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
+<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
 
 >[!NOTE]
 >

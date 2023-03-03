@@ -3,14 +3,16 @@ title: '主页：项目名称在工作列表显示为 GUID'
 description: 当要求用户审批他们无权访问的验证时，他们在[!UICONTROL 主页]的工作列表按项目名称排序，用户无法看到项目名称，其显示为 GUID。
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL 主页]：[!UICONTROL 项目名称]在[!UICONTROL 工作列表]显示为 GUID
+
+<!--Article created by request-->
 
 >[!NOTE]
 >
