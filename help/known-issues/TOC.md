@@ -17,7 +17,7 @@ ht-degree: 96%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [项目：将问题转换为项目时缺少自定义字段](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
-      + [验证：无法将用户或组添加到验证工作流程](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [验证：无法将用户或组添加到验证工作流](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [验证：验证角色更改为[!UICONTROL 只读]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [集成：从  [!DNL Jira] 登录  [!DNL Workfront]  时出错](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [项目：项目标题中的 504 错误](known-issues-workfront/wf-projects-504-error-in-project-header.md)
@@ -125,7 +125,7 @@ ht-degree: 96%
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
       + [[!DNL Workfront Proof]：使用&quot;时未加载验证[!UICONTROL 前往校对]电子邮件通知中的“ ”按钮](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]： [!UICONTROL 报告] 区域不再受支持](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Print Summary] 未加载](known-issues-workfront-proof/proof-print-summary-not-loading.md)
+      + [[!DNL Workfront Proof]：[!UICONTROL Print Summary] 未加载](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [验证：在验证评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [验证：由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
