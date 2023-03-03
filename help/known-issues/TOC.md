@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
+source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
 workflow-type: tm+mt
-source-wordcount: '1167'
+source-wordcount: '1175'
 ht-degree: 96%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [验证：自定义消息未显示在电子邮件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]：使用&quot;时未加载验证[!UICONTROL 前往校对]电子邮件通知中的“ ”按钮](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]： [!UICONTROL 报告] 区域不再受支持](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]：[!UICONTROL Print Summary] 未加载](known-issues-workfront-proof/proof-print-summary-not-loading.md)
