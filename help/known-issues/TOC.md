@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 96%
+source-wordcount: '1192'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [时间表： [!UICONTROL 小时类型] 下拉列表未打开](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [文档： [!UICONTROL 摘要] 面板内容对于面板太宽](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [项目：将问题转换为项目时缺少自定义字段](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [验证：无法将用户或组添加到验证工作流](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [验证：验证角色更改为[!UICONTROL 只读]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
