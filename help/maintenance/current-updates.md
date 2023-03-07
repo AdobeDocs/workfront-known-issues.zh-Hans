@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '1905'
-ht-degree: 98%
+source-wordcount: '1979'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,16 @@ ht-degree: 98%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 3 月更新
+
++++**（已计划）2023 年 3 月 9 日维护更新**
+
+**重新激活用户时未分配访问级别**
+
+_用户_
+
+当用户重新激活已停用的用户，并尝试在[!UICONTROL “重新激活用户”]窗口中为他们分配访问级别时，访问级别下拉列表不会随着用户键入内容而填充，并且用户无法选择访问级别。如果用户输入访问级别并保存，则该访问级别不会分配给重新激活的用户。
+
++++
 
 +++**2023 年 2 月 3 日维护更新**
 
