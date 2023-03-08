@@ -3,9 +3,9 @@ title: “展示板：应用了分组后无法添加信息卡”
 description: “当用户查看应用了分组的展示板并尝试添加信息卡时，用户只能输入信息卡的名称。信息卡的其余字段被禁用，包括‘保存’按钮。”
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '148'
+ht-degree: 100%
 
 ---
 
