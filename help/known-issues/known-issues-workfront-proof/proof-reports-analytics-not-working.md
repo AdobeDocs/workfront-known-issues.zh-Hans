@@ -1,18 +1,18 @@
 ---
-title: “Workfront Proof：不再支持‘报告’选项卡”
-description: “Workfront Proof报告功能不再受支持。 因此，查看Workfront Proof中“报表”选项卡的用户会看到不准确的数据，或者根本不看到任何数据。 这是预期行为。 “报表”选项卡将在不久的将来被删除。”
+title: “Workfront Proof：不再支持报告选项卡”
+description: “Workfront Proof：不再支持报告功能。因此，查看 Workfront Proof 中“报告”选项卡的用户会看到不准确的数据，或者根本看不到任何数据。 此是符合预期的行为。“报告”选项卡会在不久的将来移除。”
 hidefromtoc: true
 source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]： [!UICONTROL 报告] 区域不再受支持
+# [!DNL Workfront Proof]：不再支持[!UICONTROL 报告]区域
 
-此 [!UICONTROL 报告] 面积 [!DNL Workfront Proof] 不再受支持。 因此，用户查看 [!UICONTROL 报告] 按Tab键进入 [!DNL Workfront Proof] 看到不准确的数据，或完全没有看到数据。 这是预期行为。 此 [!UICONTROL 报告] 选项卡将在不久的将来删除。
+不再支持 [!DNL Workfront Proof] 的[!UICONTROL 报告]区域。因此，查看 [!DNL Workfront Proof] 中[!UICONTROL “报告”]选项卡的用户会看到不准确的数据，或者根本看不到任何数据。 此是符合预期的行为。[!UICONTROL “报告”]选项卡会在不久的将来移除。
 
 _首次报告于 2023 年 3 月 1 日。_
 
