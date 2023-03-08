@@ -2,15 +2,19 @@
 title: “集成：从 Jira 登录 Workfront 时出错”
 description: “当用户尝试使用 Workfront 从 Jira 登录 Workfront 时，以进行 Jira 集成时，页面不会加载，并且用户会看到错误。”
 hidefromtoc: true
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 94%
 
 ---
 
 
 # 集成：从 [!DNL Jira] 登录 [!DNL Workfront] 时出错
+
+>[!NOTE]
+>
+>此问题已于3月8日修复。 2023.
 
 当用户尝试使用 Workfront 从 [!DNL Jira] 登录 [!DNL Workfront] 时，以进行 Jira 集成时，页面不会加载，并且用户会看到以下错误：
 
