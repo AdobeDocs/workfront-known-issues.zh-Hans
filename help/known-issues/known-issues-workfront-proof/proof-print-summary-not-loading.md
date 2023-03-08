@@ -3,7 +3,7 @@ title: “Workfront Proof：Print Summary 未加载”
 description: “当用户尝试加载 Print Summary 页面时，该页面似乎正在加载，但从未加载过。”
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
