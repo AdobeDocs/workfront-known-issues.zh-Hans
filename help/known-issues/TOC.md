@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 94%
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [时间表： [!UICONTROL 小时类型] 下拉列表未打开](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [文档： [!UICONTROL 摘要] 面板内容对于面板太宽](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
-      + [项目：将问题转换为项目时缺少自定义字段](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
+      + [项目：在将问题转换为项目时缺少自定义字段](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [验证：无法将用户或组添加到验证工作流](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [验证：验证角色更改为[!UICONTROL 只读]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [集成：从  [!DNL Jira] 登录  [!DNL Workfront]  时出错](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
@@ -126,8 +126,8 @@ ht-degree: 94%
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
       + [验证：自定义消息未显示在电子邮件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]：使用&quot;时未加载验证[!UICONTROL 前往校对]电子邮件通知中的“ ”按钮](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
-      + [[!DNL Workfront Proof]： [!UICONTROL 报告] 区域不再受支持](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]：使用电子邮件通知中的“[!UICONTROL 前往验证]”按钮时，无法加载验证](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof]：不再支持[!UICONTROL 报告]区域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]：[!UICONTROL Print Summary] 未加载](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [验证：在验证评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [验证：由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/proof-new-stage-created.md)
@@ -150,7 +150,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [[!DNL Workfront Fusion]：场景执行历史记录不显示整个历史记录](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
+      + [[!DNL Workfront Fusion]：场景执行历史不显示整个历史](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中出现超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront 模块中的 404 错误](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]：无法创建与  [!DNL Google] 的连接](known-issues-workfront-fusion/fusion-google-connection-fails.md)

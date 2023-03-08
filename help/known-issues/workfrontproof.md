@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档： [!UICONTROL 摘要] 面板内容对于面板太宽](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023年3月3日 |
+| [文档： [!UICONTROL 摘要] 面板内容对于面板太宽](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 3 日 |
 | [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 
 {style="table-layout:auto"}
@@ -47,8 +47,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日 |
-| [[!DNL Workfront Proof]: [!UICONTROL Reports] 区域不再受支持](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日 |
+| [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
+| [[!DNL Workfront Proof]: [!UICONTROL Reports]  区域不再受支持](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023 年 3 月 1 日 |
 | [验证：在验证评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
 | [验证：由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/proof-new-stage-created.md) | 2023 年 2 月 2 日 |
 | [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
