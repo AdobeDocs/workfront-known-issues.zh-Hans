@@ -2,15 +2,19 @@
 title: “时间表：小时类型下拉列表未打开”
 description: “当用户尝试打开时间表上的小时类型下拉列表时，屏幕闪烁，但下拉列表未打开。 当监视器设置为异常分辨率，或者浏览器窗口的缩放比例未设置为100%时，会发生这种情况。”
 hidefromtoc: true
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 3%
+source-wordcount: '140'
+ht-degree: 11%
 
 ---
 
 
 # 时间表： [!UICONTROL 小时类型] 下拉列表未打开
+
+>[!NOTE]
+>
+>由于无法重现此问题，因此已关闭它。
 
 当用户尝试打开 [!UICONTROL 小时类型] 时间表上的下拉列表，屏幕闪烁，但下拉列表未打开。 当监视器设置为异常分辨率，或者浏览器窗口的缩放未设置为100%时，会发生这种情况。
 

@@ -1,16 +1,18 @@
 ---
-title: “[!DNL Workfront Fusion]：‘无法验证连接’错误”
-description: “Workfront Fusion 与 Workfront 帐户的连接未能通过身份验证，导致场景引发以下错误：无法验证连接。”
+title: ‘[!DNL Workfront Fusion]：无法验证连接错误
+description: 'Workfront Fusion与Workfront帐户的连接未能通过身份验证，导致场景引发以下错误：无法验证连接。'
 hidefromtoc: true
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: ht
+exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
+source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 100%
+ht-degree: 68%
 
 ---
 
-
 # [!DNL Workfront Fusion]：“无法验证连接”错误
+
+<!--This article is live by request for the workaround-->
 
 [!UICONTROL Workfront Fusion] 与 [!DNL Workfront] 帐户的连接未能通过身份验证，导致场景引发以下错误：
 
@@ -23,4 +25,3 @@ ht-degree: 100%
 创建一个新连接并将 Workfront 模块中的当前连接替换为新连接。
 
 _首次报告于 2022 年 9 月 8 日。_
-
