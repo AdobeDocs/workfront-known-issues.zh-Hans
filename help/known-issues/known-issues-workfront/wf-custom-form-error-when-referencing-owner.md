@@ -3,9 +3,9 @@ title: '自定义表单：在计算字段中引用所有者时，出现“自定
 description: '当用户将计算字段添加到问题级自定义表单并尝试添加任何对所有者的引用（如 `ownerID`）时，并未保存该字段，而用户看到以下消息：这是无效的自定义表达式，请重试。'
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
-source-wordcount: '157'
+source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
+workflow-type: tm+mt
+source-wordcount: '135'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
+>此问题已于 2023 年 3 月 9 日修复。
 
 <!--
 >[!NOTE]
