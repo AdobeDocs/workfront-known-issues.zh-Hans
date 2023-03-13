@@ -1,7 +1,7 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: a91992049d298aaa47dc5510d0bb6af850cf314e
+source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 97%
@@ -16,7 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [工作负载均衡器：小时数不根据用户休息时间进行调整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [[!UICONTROL 工作负载均衡器]：小时数不根据用户休息时间进行调整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [报告：按列标题排序还原为以前的排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL 更新]：无法记录中当天的时间 [!UICONTROL 更新] 区域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [时间表：[!UICONTROL 小时数类型]下拉框打不开](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
