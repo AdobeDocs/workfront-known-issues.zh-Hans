@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2194'
-ht-degree: 95%
+source-wordcount: '2223'
+ht-degree: 94%
 
 ---
 
@@ -22,6 +22,12 @@ ht-degree: 95%
 ## 2023 年 3 月更新
 
 +++**（已规划）2023 年 3 月 16 日维护更新**
+
+**复制信息卡时未复制清单项目**
+
+_展示板_
+
+复制临时信息卡（无法复制连接的信息卡）时，清单项目不会复制到新信息卡。
 
 **[!UICONTROL 摘要] 面板内容对于面板太宽**
 
