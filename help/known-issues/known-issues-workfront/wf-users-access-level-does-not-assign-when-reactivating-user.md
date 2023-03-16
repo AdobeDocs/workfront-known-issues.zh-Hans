@@ -3,7 +3,7 @@ title: “用户：重新激活用户时未分配访问级别”
 description: “当用户重新激活已停用的用户，并尝试在“重新激活用户”窗口中为他们分配访问级别时，访问级别下拉列表不会随着用户键入内容而填充，并且用户无法选择访问级别。如果用户输入访问级别并保存，则该访问级别不会分配给重新激活的用户。”
 hidefromtoc: true
 source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
 ht-degree: 100%
 
