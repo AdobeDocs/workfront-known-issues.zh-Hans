@@ -1,12 +1,12 @@
 ---
-title: ‘[!DNL Workfront Fusion]：无法验证连接错误
-description: 'Workfront Fusion与Workfront帐户的连接未能通过身份验证，导致场景引发以下错误：无法验证连接。'
+title: '[!DNL Workfront Fusion]：无法验证连接错误'
+description: 'Workfront Fusion 与 Workfront 帐户的连接未能通过身份验证，导致场景引发以下错误：无法验证连接。'
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
