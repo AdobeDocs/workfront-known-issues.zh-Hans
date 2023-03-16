@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2223'
+source-wordcount: '2148'
 ht-degree: 97%
 
 ---
@@ -28,12 +28,6 @@ ht-degree: 97%
 _展示板_
 
 复制临时卡时（无法复制连接的卡），核对清单项目不会复制到新卡。
-
-**[!UICONTROL 概要] 面板内容太宽，无法用于面板**
-
-_文档_
-
-当用户查看文档的[!UICONTROL 概括]面板时，内容太宽，导致无法在面板中看到。该面板现在有一个水平滚动条，用户必须水平滚动才能看到[!UICONTROL 摘要]面板内容。发生这种情况是因为文档的文件名没有换行。此问题仅限于文件名具有 HTML 文件扩展名的文件。
 
 **将问题转换为项目时，缺少自定义字段**
 
