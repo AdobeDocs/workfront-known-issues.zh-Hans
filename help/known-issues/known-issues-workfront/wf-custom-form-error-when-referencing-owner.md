@@ -4,7 +4,7 @@ description: '当用户将计算字段添加到问题级自定义表单并尝试
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
 source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
