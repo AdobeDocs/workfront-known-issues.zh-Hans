@@ -3,9 +3,9 @@ title: 存在于  [!DNL Adobe Workfront Fusion] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
+workflow-type: tm+mt
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：场景执行历史不显示整个历史](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 2023 年 3 月 3 日 |
 | [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中出现超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023 年 3 月 2 日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 
 ## 进行中
@@ -39,7 +38,7 @@ ht-degree: 100%
 | [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022 年 8 月 2 日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 无修复
 
@@ -50,4 +49,4 @@ ht-degree: 100%
 | [[!DNL Workfront Fusion]：“无法验证连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022 年 9 月 29 日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022 年 9 月 9 日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}

@@ -3,9 +3,9 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '259'
 ht-degree: 98%
 
 ---
@@ -24,10 +24,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-|  | 2023 年 2 月 24 日 |
 | [[!DNL Workfront Proof]:列表排序不正确](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 15 日 |
-| [验证：无法将用户或组添加到验证工作流](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023 年 2 月 27 日 |
-| [验证：验证角色更改为[!UICONTROL 只读]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023 年 2 月 27 日 |
 
 {style="table-layout:auto"}
 
