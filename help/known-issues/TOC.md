@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
 workflow-type: tm+mt
-source-wordcount: '1239'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：404访问链接自的文档时出错 [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [文档： [!UICONTROL 校对活动] 选项导致登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [更新：代表用户进行的更新将直接从用户处显示](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [过滤器：刷新页面时不应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL 工作负载平衡器]：小时数不会根据用户休假时间进行调整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
@@ -129,7 +132,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
-      + [[!DNL Workfront Proof]:列表排序不正确](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
+      + [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [验证：自定义消息未出现在电子邮件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]：使用电子邮件通知中的“[!UICONTROL 前往验证]”按钮时，无法加载验证](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]：不再支持[!UICONTROL 报告]区域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
