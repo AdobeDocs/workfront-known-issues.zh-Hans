@@ -3,7 +3,7 @@ title: "时间表：“小时数类型”下拉菜单不打开"
 description: "当用户尝试打开时间表上的“小时数类型”下拉菜单时，屏幕闪烁，但该下拉菜单不打开。当将显示器设置为罕见的分辨率或未将浏览器窗口的缩放设置为 100% 时，发生这种情况。"
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
