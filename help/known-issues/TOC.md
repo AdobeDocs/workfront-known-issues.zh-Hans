@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
+source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 97%
+source-wordcount: '1280'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [用户：系统更改的访问级别，没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md)
       + [文档：404访问链接自的文档时出错 [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [文档： [!UICONTROL 校对活动] 选项导致登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [更新：代表用户进行的更新将直接从用户处显示](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)

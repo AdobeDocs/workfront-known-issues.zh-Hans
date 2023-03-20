@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
+source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '600'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [用户：系统更改的访问级别，没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 3 月 20 日 |
 | [文档：404访问链接自的文档时出错 [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023 年 3 月 17 日 |
 | [文档： [!UICONTROL 校对活动] 选项导致登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 | [更新：代表用户进行的更新将直接从用户处显示](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023 年 3 月 17 日 |
