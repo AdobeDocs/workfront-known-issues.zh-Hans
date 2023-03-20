@@ -3,7 +3,7 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2148'
 ht-degree: 100%
 
