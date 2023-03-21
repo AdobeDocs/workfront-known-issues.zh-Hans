@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
 workflow-type: tm+mt
-source-wordcount: '2148'
+source-wordcount: '2227'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,17 @@ ht-degree: 100%
 
 ## 2023 年 3 月更新
 
-+++**（已规划）2023 年 3 月 16 日维护更新**
++++**（已规划）2023 年 3 月 23 日维护更新**
+
+**[!UICONTROL 概括]面板内容对于面板来说太宽了**
+
+_文档_
+
+当用户查看文档的[!UICONTROL 概括]面板时，内容太宽，导致无法在面板中看到。该面板现在有一个水平滚动条，用户必须水平滚动才能看到[!UICONTROL 摘要]面板内容。发生这种情况是因为文档的文件名没有换行。此问题仅限于文件名具有 HTML 文件扩展名的文件。
+
++++
+
++++**2023 年 3 月 16 日维护更新**
 
 **复制信息卡时未复制清单项目**
 
