@@ -2,10 +2,10 @@
 title: “文档：文档列表“
 description: “本文介绍有关文档列表的近期报告问题。”
 hidefromtoc: true
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 6%
 
 报告了关于文件清单的下列问题：
 
-* 缩略图不显示
+* 缩略图不显示。
 * 如果用户在列表视图中切换所选文件夹，则“过滤器视图”和“分组”选项将不再起作用。
 
 **解决方法**
