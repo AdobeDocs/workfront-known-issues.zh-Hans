@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
 workflow-type: tm+mt
 source-wordcount: '1297'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 94%
       + [文档：文档列表问题](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [校样：当前阶段的截止时间超过时，校样阶段不会激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [用户：系统更改的访问级别，没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md)
-      + [文档：404访问链接自的文档时出错 [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [文档： [!UICONTROL 校对活动] 选项导致登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [更新：代表用户进行的更新将直接从用户处显示](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
-      + [过滤器：刷新页面时不应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
+      + [文档：访问从  [!DNL SharePoint] 链接的文档时出现 404 错误](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [文档：[!UICONTROL 校对活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [更新：代表用户进行的更新显示为直接来自用户](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
+      + [过滤器：刷新页面时未应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL 工作负载平衡器]：小时数不会根据用户休假时间进行调整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL 更新]：无法在[!UICONTROL 更新]区域记录当天的时间](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)

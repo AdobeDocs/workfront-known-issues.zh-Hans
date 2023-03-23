@@ -5,8 +5,8 @@ keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 89%
 | -----------------------------------------------------------------| ----------------- |
 | [文档：文档列表问题](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 22 日 |
 | [校样：当前阶段的截止时间超过时，校样阶段不会激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 21 日 |
-| [文档：404访问链接自的文档时出错 [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023 年 3 月 17 日 |
-| [文档： [!UICONTROL 校对活动] 选项导致登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
+| [文档：访问从  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误 | 2023 年 3 月 17 日 |
+| [文档：[!UICONTROL 校对活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 | [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 15 日 |
 
 {style="table-layout:auto"}
