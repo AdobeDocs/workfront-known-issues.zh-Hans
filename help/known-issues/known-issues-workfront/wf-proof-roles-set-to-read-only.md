@@ -3,7 +3,7 @@ title: “验证：验证角色更改为只读”
 description: “具有非“只读”验证角色的用户会被自动更改为“只读”。没有显示此更改的通知或日志。”
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
