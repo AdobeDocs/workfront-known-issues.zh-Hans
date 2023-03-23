@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 94%
 
 ---
 
@@ -24,11 +24,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：文档列表问题](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 22 日 |
-| [校样：当前阶段的截止时间超过时，校样阶段不会激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 21 日 |
-| [文档：访问从  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误 | 2023 年 3 月 17 日 |
 | [文档：[!UICONTROL 校对活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
-| [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 15 日 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +34,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文件：[!UICONTROL 概括]面板内容对于面板来说太宽了](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 3 日 |
+| [校样：当前阶段的截止时间超过时，校样阶段不会激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 
 {style="table-layout:auto"}
@@ -49,6 +45,9 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：访问从  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误 | 2023 年 3 月 23 日 |
+| [文档：文档列表问题](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
+| [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 23 日 |
 | [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports]  区域不再受支持](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023 年 3 月 1 日 |
 | [验证：在验证评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
