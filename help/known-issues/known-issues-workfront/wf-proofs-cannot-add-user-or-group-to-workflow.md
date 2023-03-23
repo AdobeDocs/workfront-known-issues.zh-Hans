@@ -3,7 +3,7 @@ title: “验证：无法将用户或组添加到验证工作流”
 description: “当用户正在创建新的验证并尝试将用户或组添加到工作流时，下拉列表不会在用户键入时填充用户或组的名称。 因此，用户无法选择用户或组，也无法将它们添加到工作流中。可能会出现下拉列表中缺少某些名称，但具有其他名称的情况。”
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '160'
 ht-degree: 100%
 
