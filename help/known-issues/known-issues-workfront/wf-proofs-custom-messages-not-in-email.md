@@ -3,7 +3,7 @@ title: "验证：自定义消息未出现在电子邮件通知中"
 description: "当用户共享验证并添加自定义消息时，该自定义消息不会出现在发给收件人的电子邮件通知中。主题是验证名称，消息不会在电子邮件中出现。"
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
