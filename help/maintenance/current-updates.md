@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 100%
+source-wordcount: '2297'
+ht-degree: 97%
 
 ---
 
@@ -21,13 +21,26 @@ ht-degree: 100%
 
 ## 2023 年 3 月更新
 
-+++**（已规划）2023 年 3 月 23 日维护更新**
++++**2023 年 3 月 23 日维护更新**
 
 **[!UICONTROL 概括]面板内容对于面板来说太宽了**
 
 _文档_
 
 当用户查看文档的[!UICONTROL 概括]面板时，内容太宽，导致无法在面板中看到。该面板现在有一个水平滚动条，用户必须水平滚动才能看到[!UICONTROL 摘要]面板内容。发生这种情况是因为文档的文件名没有换行。此问题仅限于文件名具有 HTML 文件扩展名的文件。
+
+**新桌面校对查看器版本**
+
+_验证_
+
+要修复 [!UICONTROL 桌面校对视频]r，我们部署了新版的桌面校样查看器。
+
+已拥有 [!UICONTROL 桌面校对查看器] installed将自动获取此更新。
+
+用户也可以手动下载最新版本。有关更多信息，请参阅 [安装 [!UICONTROL 桌面校对查看器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* 早期版本：2.1.22
+* 新版本：2.1.23
 
 +++
 
