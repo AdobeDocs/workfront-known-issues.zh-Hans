@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
+source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
 workflow-type: tm+mt
-source-wordcount: '1337'
-ht-degree: 97%
+source-wordcount: '1345'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md)
       + [校样：查看校样时无法切换校样版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [校样：将用户添加到校样时，不会打开下拉列表](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
