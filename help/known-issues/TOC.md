@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '1312'
-ht-degree: 96%
+source-wordcount: '1337'
+ht-degree: 97%
 
 ---
 
@@ -16,10 +16,13 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md)
+      + [校样：查看校样时无法切换校样版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [校样：将用户添加到校样时，不会打开下拉列表](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [校样：用户已从校样工作流中停用并获取“[!UICONTROL 不允许访问]访问校样时](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
-      + [文档：文档列表问题](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [校样：当前阶段的截止时间超过时，校样阶段不会激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
-      + [用户：系统更改的访问级别，没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md)
+      + [文档：文档列表有问题](known-issues-workfront/wf-documents-list-missing-elements.md)
+      + [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
+      + [用户：系统更改了访问级别，但没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md)
       + [文档：访问从  [!DNL SharePoint] 链接的文档时出现 404 错误](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [文档：[!UICONTROL 校对活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [更新：代表用户进行的更新显示为直接来自用户](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)

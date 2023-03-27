@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Fusion] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 97%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |
 | [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022 年 8 月 2 日 |
 
