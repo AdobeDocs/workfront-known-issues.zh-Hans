@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '1345'
+source-wordcount: '1357'
 ht-degree: 96%
 
 ---
@@ -16,16 +16,17 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [校样：对校样进行注释时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md)
       + [校样：查看校样时无法切换校样版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [校样：将用户添加到校样时，不会打开下拉列表](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
-      + [校样：用户已从校样工作流中停用并获取“[!UICONTROL 不允许访问]访问校样时](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
+      + [验证：用户已从验证工作流中被停用，访问验证时出现“[!UICONTROL 不允许使用 Access]”的消息](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [文档：文档列表有问题](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [用户：系统更改了访问级别，但没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md)
       + [文档：访问从  [!DNL SharePoint] 链接的文档时出现 404 错误](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [文档：[!UICONTROL 校对活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [更新：代表用户进行的更新显示为直接来自用户](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [过滤器：刷新页面时未应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL 工作负载平衡器]：小时数不会根据用户休假时间进行调整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)

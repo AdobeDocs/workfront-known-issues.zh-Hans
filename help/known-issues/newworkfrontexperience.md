@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '661'
-ht-degree: 92%
+source-wordcount: '674'
+ht-degree: 93%
 
 ---
 
@@ -24,8 +24,9 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：对校样进行注释时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 3 月 28 日 |
 | [用户：系统更改了访问级别，但没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 3 月 20 日 |
-| [文档：[!UICONTROL 校对活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
+| [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 | [更新：代表用户进行的更新显示为直接来自用户](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023 年 3 月 17 日 |
 | [[!UICONTROL 工作负载平衡器]：小时数不会根据用户休假时间进行调整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023 年 3 月 13 日 |
 | [[!UICONTROL 更新]：无法在[!UICONTROL 更新]区域记录当天的时间](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023 年 3 月 10 日 |
@@ -43,7 +44,7 @@ ht-degree: 92%
 | [校样：将用户添加到校样时，不会打开下拉列表](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023 年 3 月 27 日 |
 | [时间表：[!UICONTROL 小时数类型]下拉菜单不打开](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 23 日 |
 | [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
-| [校样：用户已从校样工作流中停用并获取“[!UICONTROL 不允许访问]访问校样时](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
+| [验证：用户已从验证工作流中被停用，访问验证时出现[!UICONTROL “不允许使用 Access”]的消息](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
 | [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 16 日 |
 | [过滤器：刷新页面时未应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 16 日 |
 | [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
