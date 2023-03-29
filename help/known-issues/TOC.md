@@ -21,7 +21,7 @@ ht-degree: 96%
       + [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md)
       + [校样：查看校样时无法切换校样版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [校样：将用户添加到校样时，不会打开下拉列表](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
-      + [验证：用户已从验证工作流中被停用，访问验证时出现“[!UICONTROL 不允许使用 Access]”的消息](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
+      + [验证：从验证工作流停用了用户，访问验证时显示“[!UICONTROL 不允许访问]”](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [文档：文档列表有问题](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [用户：系统更改了访问级别，但没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md)

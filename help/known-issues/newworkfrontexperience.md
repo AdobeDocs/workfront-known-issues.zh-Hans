@@ -44,7 +44,7 @@ ht-degree: 93%
 | [校样：将用户添加到校样时，不会打开下拉列表](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023 年 3 月 27 日 |
 | [时间表：[!UICONTROL 小时数类型]下拉菜单不打开](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 23 日 |
 | [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
-| [验证：用户已从验证工作流中被停用，访问验证时出现[!UICONTROL “不允许使用 Access”]的消息](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
+| [验证：从验证工作流停用了用户，访问验证时显示“[!UICONTROL 不允许访问]”](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
 | [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 16 日 |
 | [过滤器：刷新页面时未应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 16 日 |
 | [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |

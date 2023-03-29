@@ -45,17 +45,17 @@ _文档_
 
 当用户查看文档的[!UICONTROL 概括]面板时，内容太宽，导致无法在面板中看到。该面板现在有一个水平滚动条，用户必须水平滚动才能看到[!UICONTROL 摘要]面板内容。发生这种情况是因为文档的文件名没有换行。此问题仅限于文件名具有 HTML 文件扩展名的文件。
 
-**新桌面验证查看器版本**
+**新[!UICONTROL 桌面验证查看器]版本**
 
 _验证_
 
 为了解决[!UICONTROL 桌面验证查看器]中的评论问题，我们部署了新版本的桌面验证查看器。
 
-已安装[!UICONTROL 桌面验证查看器]的用户将会自动获得此更新。
+已安装[!UICONTROL 桌面验证查看器]的用户将自动获得此更新。
 
 用户也可以手动下载最新版本。有关详细信息，请参阅[安装[!UICONTROL 桌面验证查看器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html)。
 
-* 早期版本：2.1.22
+* 上一版本：2.1.22
 * 新版本：2.1.23
 
 +++
@@ -262,11 +262,11 @@ _集成_
 
 _验证_
 
-为了解决桌面校对查看器中的冻结问题，我们部署了新版本的桌面校对查看器。已安装桌面校对查看器的用户将会自动获得此更新。
+为了解决桌面验证查看器中的冻结问题，我们部署了新版本的桌面验证查看器。已安装桌面验证查看器的用户将自动获得此更新。
 
-用户也可以手动下载最新版本。有关详细信息，请参阅[安装桌面校对查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hans)。
+用户也可以手动下载最新版本。有关详细信息，请参阅[安装桌面验证查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hans)。
 
-* 早期版本：2.1.19
+* 上一版本：2.1.19
 * 新版本：2.1.20
 
 **用户无法编辑自己的用户设置**
