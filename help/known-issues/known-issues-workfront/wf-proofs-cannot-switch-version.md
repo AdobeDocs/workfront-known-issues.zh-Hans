@@ -2,15 +2,19 @@
 title: “校样：查看校样时无法切换校样版本”
 description: “当用户在 [!UICONTROL 校对查看器]，然后切换到其他版本，版本下拉列表将变为禁用状态，并且用户无法切换回其正在查看的原始版本，或切换到校样的其他版本。”
 hidefromtoc: true
-source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 校样：查看校样时无法切换校样版本
+
+>[!NOTE]
+>
+>此问题已于 2023 年 3 月 30 日修复。
 
 当用户在 [!UICONTROL 校对查看器]，然后切换到其他版本，版本下拉列表将变为禁用状态，并且用户无法切换回其正在查看的原始版本或其他版本的校样。
 
