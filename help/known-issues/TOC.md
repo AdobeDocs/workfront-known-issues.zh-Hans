@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1377'
+ht-degree: 98%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 0%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [项目： [!UICONTROL 主页组] 从模板创建项目时，自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
-      + [校样：对校样进行注释时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
+      + [校样：对校样进行评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md)
       + [校样：查看校样时无法切换校样版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [校样：将用户添加到校样时，不会打开下拉列表](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
+      + [校样：将用户添加到校样时，下拉菜单不会打开](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [验证：从验证工作流停用了用户，访问验证时显示“[!UICONTROL 不允许访问]”](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [文档：文档列表有问题](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
@@ -142,6 +142,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [校样：“文本选项”框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [验证：自定义消息未出现在电子邮件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]：使用电子邮件通知中的“[!UICONTROL 前往验证]”按钮时，无法加载验证](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
