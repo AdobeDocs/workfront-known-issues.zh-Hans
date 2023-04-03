@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
+source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
 workflow-type: tm+mt
-source-wordcount: '1377'
-ht-degree: 98%
+source-wordcount: '1387'
+ht-degree: 99%
 
 ---
 
@@ -16,7 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [项目： [!UICONTROL 主页组] 从模板创建项目时，自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
+      + [用户：无法选择 [!UICONTROL 默认小时类型] 或 [!UICONTROL 可用小时类型]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
+      + [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md)
@@ -142,7 +143,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
-      + [校样：“文本选项”框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
+      + [验证：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [验证：自定义消息未出现在电子邮件通知中](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]：使用电子邮件通知中的“[!UICONTROL 前往验证]”按钮时，无法加载验证](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
