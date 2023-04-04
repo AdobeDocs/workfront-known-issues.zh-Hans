@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2423'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 97%
 
 _校样_
 
-当用户在 [!UICONTROL 校对查看器]，然后切换到其他版本，版本下拉列表将变为禁用状态，用户无法切换回其正在查看的原始版本，也无法切换回其他版本的校样。
+当用户在[!UICONTROL 验证查看器]中查看验证，并切换到另一个版本时，版本下拉列表变为禁用，并且用户无法切换回所查看的原始版本或切换到该验证的另一个版本。
 
 **导出报告时出现 504 错误**
 
@@ -35,7 +35,7 @@ _报告_
 
 当用户尝试导出包含大量项目的报告时，他们看到 504 错误，并且无法导出该报告。
 
-**代表用户进行的更新将直接从用户处显示**
+**代表用户进行的更新显示为直接来自用户**
 
 _更新_
 
