@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '1387'
+source-wordcount: '1395'
 ht-degree: 99%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [用户：无法选择 [!UICONTROL 默认小时类型] 或 [!UICONTROL 可用小时类型]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
+      + [校样：无法在中的校样之间切换 [!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
+      + [用户：无法选择[!UICONTROL 默认小时数类型]或[!UICONTROL 可用小时数类型]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)

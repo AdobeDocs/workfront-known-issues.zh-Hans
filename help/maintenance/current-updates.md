@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: ht
-source-wordcount: '2423'
-ht-degree: 100%
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+workflow-type: tm+mt
+source-wordcount: '2493'
+ht-degree: 99%
 
 ---
 
@@ -19,9 +19,21 @@ ht-degree: 100%
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
+## 2023 年 4 月更新
+
++++**2023 年 4 月 4 日维护更新**
+
+**将用户添加到校样后，不会打开下拉列表**
+
+_校样_
+
+当一个用户在[!UICONTROL 校对查看器]中将另一个用户添加到校样时，无法打开“[!UICONTROL 校样角色]”和“[!UICONTROL 电子邮件警报]”下拉列表。该用户无法分配校对角色或电子邮件提醒。当通过评论添加用户或与用户共享校样时，可能会发生这种情况。
+
++++
+
 ## 2023 年 3 月更新
 
-+++**2023 年 3 月 23 日维护更新**
++++**2023 年 3 月 30 日维护更新**
 
 **查看校样时无法切换校样版本**
 
