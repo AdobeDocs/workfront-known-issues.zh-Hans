@@ -1,11 +1,11 @@
 ---
-title: "校样：将用户添加到校样时，无法打开下拉列表"
+title: “校样：将用户添加到校样后，下拉列表将不会打开”
 description: "当一个用户在校对查看器中将另一个用户添加到校样时，无法打开“校样角色”和“电子邮件警报”下拉列表。该用户无法分配校对角色或电子邮件提醒。当通过评论添加用户或与用户共享校样时，可能会发生这种情况。"
 hidefromtoc: true
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: 0f3a4dd2201c8e612db50fe8f15342801192af3b
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 90%
+ht-degree: 80%
 
 ---
 
