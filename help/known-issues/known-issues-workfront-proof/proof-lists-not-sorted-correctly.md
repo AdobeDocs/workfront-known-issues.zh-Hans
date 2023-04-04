@@ -3,9 +3,9 @@ title: “Workfront Proof：列表未正确排序”
 description: “当用户查看 Workfront Proof 中已应用排序的列表（例如姓名）时，排序不准确。”
 hidefromtoc: true
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '74'
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 **解决方法**
 
-使用过滤器查找所需的信息。
+使用过滤器查找所需信息。
 
 _首次报告于 2023 年 3 月 10 日。_
 
