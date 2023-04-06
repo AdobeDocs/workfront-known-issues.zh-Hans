@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
+source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 97%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [验证：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 3 月 31 日 |
-| [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 3 月 28 日 |
 | [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 
 {style="table-layout:auto"}
@@ -36,6 +35,8 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4月6日 |
+| [验证：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
 | [验证：无法在验证之间切换[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023 年 3 月 31 日 |
 | [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
