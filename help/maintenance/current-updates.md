@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2493'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 99%
 
 +++**2023 年 4 月 4 日维护更新**
 
-**将用户添加到校样后，不会打开下拉列表**
+**将用户添加到校样后无法打开下拉列表**
 
 _校样_
 
@@ -39,7 +39,7 @@ _校样_
 
 _校样_
 
-当用户在[!UICONTROL 验证查看器]中查看验证，并切换到另一个版本时，版本下拉列表变为禁用，并且用户无法切换回所查看的原始版本或切换到该验证的另一个版本。
+当用户在[!UICONTROL 校样查看器]中查看校样，并切换到另一个版本时，版本下拉列表变为禁用，并且用户无法切换回所查看的原始版本或切换到该校样的另一个版本。
 
 **导出报告时出现 504 错误**
 
@@ -63,15 +63,15 @@ _文档_
 
 当用户查看文档的[!UICONTROL 概括]面板时，内容太宽，导致无法在面板中看到。该面板现在有一个水平滚动条，用户必须水平滚动才能看到[!UICONTROL 摘要]面板内容。发生这种情况是因为文档的文件名没有换行。此问题仅限于文件名具有 HTML 文件扩展名的文件。
 
-**新[!UICONTROL 桌面验证查看器]版本**
+**新[!UICONTROL 桌面校样查看器]版本**
 
-_验证_
+_校样_
 
-为了解决[!UICONTROL 桌面验证查看器]中的评论问题，我们部署了新版本的桌面验证查看器。
+为了解决[!UICONTROL 桌面校样查看器]中的评论问题，我们部署了新版本的桌面校样查看器。
 
-已安装[!UICONTROL 桌面验证查看器]的用户将自动获得此更新。
+已安装[!UICONTROL 桌面校样查看器]的用户将自动获得此更新。
 
-用户也可以手动下载最新版本。有关详细信息，请参阅[安装[!UICONTROL 桌面验证查看器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html)。
+用户也可以手动下载最新版本。有关详细信息，请参阅[安装[!UICONTROL 桌面校样查看器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html)。
 
 * 上一版本：2.1.22
 * 新版本：2.1.23
@@ -94,9 +94,9 @@ _项目_
 
 **自定义消息未出现在电子邮件通知中**
 
-_验证_
+_校样_
 
-当用户共享验证并添加自定义消息时，该自定义消息不会出现在发给收件人的电子邮件通知中。主题是验证名称，消息不会在电子邮件中出现。
+当用户共享校样并添加自定义消息时，该自定义消息不会出现在发给收件人的电子邮件通知中。主题是校样名称，消息不会在电子邮件中出现。
 
 +++
 
@@ -276,13 +276,13 @@ _集成_
 
 仅当通过请求队列或在创建请求时手动分配新请求时才会发生这种情况。
 
-**新桌面验证查看器版本**
+**新桌面校样查看器版本**
 
-_验证_
+_校样_
 
-为了解决桌面验证查看器中的冻结问题，我们部署了新版本的桌面验证查看器。已安装桌面验证查看器的用户将自动获得此更新。
+为了解决桌面校样查看器中的冻结问题，我们部署了新版本的桌面校样查看器。已安装桌面校样查看器的用户将自动获得此更新。
 
-用户也可以手动下载最新版本。有关详细信息，请参阅[安装桌面验证查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hans)。
+用户也可以手动下载最新版本。有关详细信息，请参阅[安装桌面校样查看器](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hans)。
 
 * 上一版本：2.1.19
 * 新版本：2.1.20
@@ -321,7 +321,7 @@ _导航_
 
 _自定义表单_
 
-当用户在自定义字段中使用 \$$TODAY 或 $$NOW 等通配符配合修饰符（如“-30d”）时，验证器将该通配符视为无效。没有修饰符的通配符被视为有效。
+当用户在自定义字段中使用 \$$TODAY 或 $$NOW 等通配符配合修饰符（如“-30d”）时，校样器将该通配符视为无效。没有修饰符的通配符被视为有效。
 
 **[!UICONTROL 工作负载均衡器]显示与项目/任务/问题无关的小时数**
 
