@@ -1,16 +1,16 @@
 ---
-title: “验证：将用户添加到验证时，无法打开下拉列表”
+title: "校样：将用户添加到校样后无法打开下拉列表"
 description: "当一个用户在校对查看器中将另一个用户添加到校样时，无法打开“校样角色”和“电子邮件警报”下拉列表。该用户无法分配校对角色或电子邮件提醒。当通过评论添加用户或与用户共享校样时，可能会发生这种情况。"
 hidefromtoc: true
 source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '136'
+ht-degree: 95%
 
 ---
 
 
-# 验证：将用户添加到验证时，无法打开下拉列表
+# 校样：将用户添加到校样后无法打开下拉列表
 
 >[!NOTE]
 >
