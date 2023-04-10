@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '341'
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 3 月 31 日 |
-| [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
+| [校样：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 3 月 31 日 |
+| [文档：[!UICONTROL 校样活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 
 {style="table-layout:auto"}
 
@@ -35,10 +35,11 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4月6日 |
-| [验证：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
-| [验证：无法在验证之间切换[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023 年 3 月 31 日 |
-| [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
+| [[!UICONTROL 主页]:在 [!UICONTROL 工作列表] 导致空白页面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023 年 4 月 10 日 |
+| [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4 月 6 日 |
+| [校样：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
+| [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)中无法在校样之间切换 | 2023 年 3 月 31 日 |
+| [校样：当上一阶段截止日期已过的时候，校样阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 20 日 |
 
 {style="table-layout:auto"}
@@ -55,12 +56,12 @@ ht-degree: 0%
 | [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 23 日 |
 | [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 7 日 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports]  区域不再受支持](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023 年 3 月 1 日 |
-| [验证：在验证评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
-| [验证：由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/proof-new-stage-created.md) | 2023 年 2 月 2 日 |
-| [[!UICONTROL 主页]：已完成的验证停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
-| [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
-| [验证：未与验证工作流中的用户共享验证](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
-| [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
+| [校样：在校样评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 23 日 |
+| [校样：由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/proof-new-stage-created.md) | 2023 年 2 月 2 日 |
+| [[!UICONTROL 主页]：已完成的校样停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2023 年 1 月 10 日 |
+| [校样：校样状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
+| [校样：未与校样工作流中的用户共享校样](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
+| [校样：[!UICONTROL 主要校样阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [[!DNL Workfront Proof]：无法通过在评论中标记用户来将用户添加到验证中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 在验证中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
 | [[!DNL Workfront Proof]：自动访问验证延迟](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021 年 6 月 14 日 |

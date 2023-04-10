@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,10 +35,11 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 主页]:在 [!UICONTROL 工作列表] 导致空白页面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023 年 4 月 10 日 |
 | [用户：无法选择[!UICONTROL 默认小时数类型]或[!UICONTROL 可用小时数类型]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 2023 年 4 月 6 日 |
 | [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 6 日 |
 | [校样：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
-| [自定义表单：自定义下拉字段中的问题](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 5 日 |
+| [自定义表单：自定义下拉列表字段中的问题](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 5 日 |
 | [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)中无法在校样之间切换 | 2023 年 3 月 31 日 |
 | [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |
