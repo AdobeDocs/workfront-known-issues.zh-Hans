@@ -2,7 +2,7 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
 ht-degree: 98%
@@ -34,6 +34,7 @@ _请求_
 _用户_
 
 当管理员正在编辑用户并尝试选择[!UICONTROL 默认小时数类型]或[!UICONTROL 可用小时数类型]时，他们会看到这些字段的下拉列表已禁用，并且他们无法选择小时数类型。
+
 +++
 
 +++**2023 年 6 月 4 日维护更新**
