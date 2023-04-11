@@ -3,9 +3,9 @@ title: “工作负载平衡器：小时数不会根据用户休假时间进行�
 description: “如果用户计划休假且已分配任务，则工作负载平衡器不会根据休假时间来更新时间线。 相反，工作负载平衡器显示用户在计划休假的时间里已过度分配。要调整小时数，管理员必须进入项目并重新计算时间线。
 hidefromtoc: true
 source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '149'
+ht-degree: 100%
 
 ---
 
