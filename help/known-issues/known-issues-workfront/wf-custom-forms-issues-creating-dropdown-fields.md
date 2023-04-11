@@ -1,21 +1,21 @@
 ---
-title: “自定义表单：自定义下拉字段中的问题”
-description: “自定义下拉字段如果启用为多选字段，则可能会显示问题。”
+title: "自定义表单：自定义下拉列表字段中有问题"
+description: "作为多选字段启用的自定义下拉列表字段可能会显示问题。"
 hidefromtoc: true
 source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 
-# 自定义表单：自定义下拉字段中的问题
+# 自定义表单：自定义下拉列表字段中有问题
 
-启用为多选字段的自定义下拉字段可能会显示以下问题：
+作为多选字段启用的自定义下拉列表字段可能会显示以下问题：
 
-* “+”[!UICONTROL 添加]“ ”按钮在表单未处于编辑模式时不存在。
-* 没有值的字段显示“ — [!UICONTROL 无标签] — ”选项。
+* 当表单未处于编辑模式中时，不会显示“+[!UICONTROL 添加]”按钮。
+* 没有值的字段显示“--[!UICONTROL 无标签]--”选项。
 
 **解决方法**
 
