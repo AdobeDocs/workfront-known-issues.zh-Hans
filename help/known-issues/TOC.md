@@ -17,7 +17,7 @@ ht-degree: 99%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [[!UICONTROL 主页]:在 [!UICONTROL 工作列表] 导致空白页面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
-      + [自定义表单：自定义下拉列表字段中的问题](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
+      + [自定义表单：自定义下拉列表字段中有问题](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [校样：在[!UICONTROL 校样查看器]中无法在校样之间切换](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [用户：无法选择[!UICONTROL 默认小时数类型]或[!UICONTROL 可用小时数类型]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
