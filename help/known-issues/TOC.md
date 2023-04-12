@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '1413'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [模板：无法从中选择模板 [!UICONTROL 收藏模板]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [过滤器：无法从功能板上的报表共享过滤器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL 主页]:在 [!UICONTROL 工作列表] 导致空白页面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [自定义表单：自定义下拉列表字段中有问题](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [校样：在[!UICONTROL 校样查看器]中无法在校样之间切换](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
