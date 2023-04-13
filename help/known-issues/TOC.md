@@ -3,8 +3,8 @@ user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1431'
+ht-degree: 98%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [模板：无法从中选择模板 [!UICONTROL 收藏模板]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [过滤器：无法从功能板上的报表共享过滤器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [[!UICONTROL 主页]:在 [!UICONTROL 工作列表] 导致空白页面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [[!UICONTROL 主页]：单击[!UICONTROL 工作列表]中的缩略图附近会导致空白页面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [自定义表单：自定义下拉列表字段中有问题](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [校样：在[!UICONTROL 校样查看器]中无法在校样之间切换](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [用户：无法选择[!UICONTROL 默认小时数类型]或[!UICONTROL 可用小时数类型]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
