@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '329'
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,6 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 主页]:在 [!UICONTROL 工作列表] 导致空白页面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023 年 4 月 10 日 |
 | [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4 月 6 日 |
 | [校样：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
 | [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)中无法在校样之间切换 | 2023 年 3 月 31 日 |

@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 95%
+source-wordcount: '664'
+ht-degree: 97%
 
 ---
 
@@ -24,8 +24,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [用户：系统更改了访问级别，但没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 3 月 20 日 |
-| [文档：[!UICONTROL 校样活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
+| [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 
 {style="table-layout:auto"}
 
@@ -35,9 +34,8 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [用户：系统更改了访问级别，但没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 4 月 13 日 |
 | [模板：无法从中选择模板 [!UICONTROL 收藏模板]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 4 月 12 日 |
-| [[!UICONTROL 主页]:在 [!UICONTROL 工作列表] 导致空白页面](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023 年 4 月 10 日 |
-| [用户：无法选择[!UICONTROL 默认小时数类型]或[!UICONTROL 可用小时数类型]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 2023 年 4 月 6 日 |
 | [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 6 日 |
 | [校样：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 6 日 |
 | [自定义表单：自定义下拉列表字段中有问题](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 5 日 |
@@ -47,7 +45,6 @@ ht-degree: 95%
 | [时间表：无法打开[!UICONTROL 小时数类型]下拉列表](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 23 日 |
 | [校样：当上一阶段截止日期已过的时候，校样阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 | [校样：从校样工作流停用了用户，访问校样时显示“[!UICONTROL 不允许访问]”](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
-| [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 16 日 |
 | [过滤器：刷新页面时未应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 16 日 |
 | [项目：从问题转换的项目不会继承项目组合或程序的权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 23 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
@@ -60,6 +57,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 4 月 13 日 |
 | [过滤器：无法从功能板上的报表共享过滤器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
 | [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
 | [文档：访问从  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误 | 2023 年 3 月 23 日 |
