@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2573'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 98%
 
 ## 2023 年 4 月更新
 
-+++**2023 年 13 月 4 日维护更新**
++++**2023 年 4 月 13 日维护更新**
 
-**过滤器不应用于请求列表**
+**过滤器未应用于请求列表**
 
 _请求_
 
-当用户查看应用了过滤器的请求列表时，该列表将包含过滤器应排除的请求。
+当用户查看应用了过滤器的请求列表时，该列表包括过滤器应排除的请求。
 
-**无法选择 [!UICONTROL 默认小时类型] 或 [!UICONTROL 可用小时类型]**
+**无法选择[!UICONTROL 默认小时数类型]或[!UICONTROL 可用小时数类型]**
 
 _用户_
 
@@ -37,7 +37,7 @@ _用户_
 
 +++
 
-+++**2023 年 6 月 4 日维护更新**
++++**2023 年 4 月 6 日维护更新**
 
 **将用户添加到校样后无法打开下拉列表**
 
