@@ -3,7 +3,7 @@ title: "用户：无法选择默认小时数类型或可用小时数类型"
 description: "当管理员正在编辑用户并尝试选择默认小时数类型或可用小时数类型时，他们会看到这些字段的下拉列表已禁用，并且他们无法选择小时数类型。"
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
