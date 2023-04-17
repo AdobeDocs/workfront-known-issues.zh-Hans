@@ -3,7 +3,7 @@ title: ”报告：按列标题进行排序将恢复到上一排序“
 description: ”当用户尝试通过单击列标题对报告进行排序时，报告会根据该列进行排序，但随后会迅速恢复到上一排序。“
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
 ht-degree: 100%
 
