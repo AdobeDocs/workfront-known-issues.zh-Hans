@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: ht
-source-wordcount: '664'
-ht-degree: 100%
+source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
+workflow-type: tm+mt
+source-wordcount: '672'
+ht-degree: 98%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样： [!UICONTROL 校样活动] 选项卡打开 [!UICONTROL 校样详细信息]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023 年 4 月 17 日 |
 | [用户：系统更改了访问级别，但没有更改记录](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 4 月 13 日 |
 | [模板：无法从[!UICONTROL 最喜爱的模板]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)中选择模板 | 2023 年 4 月 12 日 |
 | [校样：对校样发表评论时无法使用折线工具](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 6 日 |
