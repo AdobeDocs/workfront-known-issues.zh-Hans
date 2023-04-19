@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2757'
-ht-degree: 96%
+source-wordcount: '2859'
+ht-degree: 93%
 
 ---
 
@@ -37,6 +37,14 @@ _自定义表单_
 _校样_
 
 当用户查看验证、开始添加评论并打开“文本”工具时，“textAnnotation”一词会出现在该工具的选项旁边。 “文本”工具仍按预期方式运行，而“textAnnotation”在发表评论后消失。
+
+## 在远离目标更新和评论测试版体验中的问题时，将图像保留为草稿
+
+>[!NOTE]
+>
+>此功能于2023年4月19日发布至“预览”。 将于2023年4月20日发布到生产。
+
+现在，当您在撰写已附加图像的消息的过程中离开更新页面时，当您导航回来时，消息和图像将会保留。 在此更新之前，未提交的评论已保留，但图像已被删除。 有关目标以及启用评论测试版体验时出现的问题，请参阅更新部分。
 
 +++
 
