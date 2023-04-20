@@ -2,15 +2,19 @@
 title: "自定义表单：自定义下拉列表字段中有问题"
 description: "作为多选字段启用的自定义下拉列表字段可能会显示问题。"
 hidefromtoc: true
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
-workflow-type: ht
-source-wordcount: '89'
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
 
 
 # 自定义表单：自定义下拉列表字段中有问题
+
+>[!NOTE]
+>
+>此问题已于 2023 年 4 月 20 日修复。
 
 作为多选字段启用的自定义下拉列表字段可能会显示以下问题：
 
