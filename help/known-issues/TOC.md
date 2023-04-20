@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
-workflow-type: ht
-source-wordcount: '1438'
-ht-degree: 100%
+source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
+workflow-type: tm+mt
+source-wordcount: '1445'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 资源计划员]:添加时间后无法保存](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [校样：[!UICONTROL 校样活动]选项卡打开[!UICONTROL 校样详细信息]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [模板：无法从[!UICONTROL 最喜爱的模板]中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [筛选器：无法在仪表板上共享报告中的筛选器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)

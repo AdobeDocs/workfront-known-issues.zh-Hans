@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 100%
+source-wordcount: '639'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
+| [[!UICONTROL 资源计划员]:添加时间后无法保存](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023 年 4 月 20 日 |
+| [文档：[!UICONTROL 校样活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 
 {style="table-layout:auto"}
 
