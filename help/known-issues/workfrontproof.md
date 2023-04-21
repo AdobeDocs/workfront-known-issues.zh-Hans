@@ -4,8 +4,8 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: tm+mt
-source-wordcount: '317'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
