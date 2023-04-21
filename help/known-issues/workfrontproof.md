@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
+source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 97%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 4 月 21 日 |
-| [文档：[!UICONTROL 校样活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 
 {style="table-layout:auto"}
 
@@ -48,6 +47,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日2023年 |
 | [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
 | [文档：访问从  [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误 | 2023 年 3 月 23 日 |
 | [文档：文档列表有问题](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |

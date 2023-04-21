@@ -3,7 +3,7 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
+source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 97%
@@ -26,7 +26,6 @@ ht-degree: 97%
 | -----------------------------------------------------------------| ----------------- |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 4 月 21 日 |
 | [[!UICONTROL 资源计划员]:添加时间后无法保存](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023 年 4 月 20 日 |
-| [文档：[!UICONTROL 校样活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 3 月 17 日 |
 
 {style="table-layout:auto"}
 
@@ -55,6 +54,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 4 月 13 日 |
 | [筛选器：无法在仪表板上共享报告中的筛选器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
 | [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
