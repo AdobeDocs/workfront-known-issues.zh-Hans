@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
-workflow-type: ht
-source-wordcount: '3020'
-ht-degree: 100%
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+workflow-type: tm+mt
+source-wordcount: '3123'
+ht-degree: 99%
 
 ---
 
@@ -20,6 +20,26 @@ ht-degree: 100%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 4 月更新
+
++++**（已规划）2023 年 4 月 27 日维护更新**
+
+**无法在中的校样之间切换 [!UICONTROL 校样查看器]**
+
+_校样_
+
+当用户在[!UICONTROL 校样查看器]中查看校样并切换到另一个校样时，切换校样按钮变得无响应。用户无法切换回所查看的原始校样或另一个校样。
+
++++
+
++++**[!DNL Adobe Workfront Fusion]2023 年 4 月 25 日维护更新**
+
+**[!DNL Fusion]应用内帮助链接不会指向特定的帮助页面**
+
+_[!DNL Workfront Fusion]_
+
+当用户在[!UICONTROL 校样查看器]中查看校样并切换到另一个校样时，切换校样按钮变得无响应。用户无法切换回所查看的原始校样或另一个校样。
+
++++
 
 +++**2023 年 4 月 20 日维护更新**
 
