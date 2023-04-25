@@ -3,7 +3,7 @@ title: "自定义表单：自定义下拉列表字段中有问题"
 description: "作为多选字段启用的自定义下拉列表字段可能会显示问题。"
 hidefromtoc: true
 source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 
