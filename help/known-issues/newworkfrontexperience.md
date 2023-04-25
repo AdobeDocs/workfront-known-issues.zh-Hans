@@ -5,8 +5,8 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
 workflow-type: tm+mt
-source-wordcount: '641'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 4 月 21 日 |
-| [[!UICONTROL 资源计划员]:添加时间后无法保存](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023 年 4 月 20 日 |
+| [[!UICONTROL 资源规划程序]：添加时间后无法保存](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023 年 4 月 20 日 |
 
 {style="table-layout:auto"}
 
