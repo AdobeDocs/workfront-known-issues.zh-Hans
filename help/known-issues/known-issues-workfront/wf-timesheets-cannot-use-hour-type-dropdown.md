@@ -3,9 +3,9 @@ title: "时间表：“小时数类型”下拉菜单不打开"
 description: "当用户尝试打开时间表上的“小时数类型”下拉菜单时，屏幕闪烁，但该下拉菜单不打开。当将显示器设置为罕见的分辨率或未将浏览器窗口的缩放设置为 100% 时，发生这种情况。"
 hidefromtoc: true
 source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已在4月20日修复。 2023.
+>此问题已于 4 月 20 日修复。2023.
 
 &quot;当用户尝试打开时间表上的[!UICONTROL 小时数类型]下拉菜单时，屏幕闪烁，但该下拉菜单不打开。当将显示器设置为罕见的分辨率或未将浏览器窗口的缩放设置为 100% 时，发生这种情况。
 
