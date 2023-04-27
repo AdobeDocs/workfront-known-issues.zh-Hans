@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '3123'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,13 +21,19 @@ ht-degree: 99%
 
 ## 2023 年 4 月更新
 
-+++**（已规划）2023 年 4 月 27 日维护更新**
++++**2023 年 4 月 27 日维护更新**
 
 **无法在中的校样之间切换 [!UICONTROL 校样查看器]**
 
 _校样_
 
 当用户在[!UICONTROL 校样查看器]中查看校样并切换到另一个校样时，切换校样按钮变得无响应。用户无法切换回所查看的原始校样或另一个校样。
+
+**编辑评论时编辑附加的图像**
+
+_更新_
+
+现在，您可以在编辑评论时编辑附加到评论的图像。 有关Workfront目标的更新部分以及启用评论测试版体验时出现的问题，请参阅此内容。
 
 +++
 
