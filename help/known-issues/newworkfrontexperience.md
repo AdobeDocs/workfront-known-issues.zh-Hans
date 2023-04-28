@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+source-git-commit: 7fc9e90be94c30dff1c8de17c033407c165b45f2
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 98%
+source-wordcount: '622'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [工时单：刷新页面时不应用过滤器](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023 年 4 月 25 日 |
+| [时间表：刷新页面时未应用筛选条件](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023 年 4 月 25 日 |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 4 月 21 日 |
 
 {style="table-layout:auto"}
@@ -67,7 +67,6 @@ ht-degree: 98%
 | [校样：校样状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 5 日 |
 | [任务：在任务的[!UICONTROL 摘要]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)面板中输入小时数时未保存该数值 | 2022 年 12 月 2 日 |
 | [自定义表单：跨对象自定义表单需要[!UICONTROL 管理]或者[!UICONTROL 编辑]权限来编辑字段](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022 年 11 月 21 日 |
-| [通知：在评论中提到或包括用户时不通知用户](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 11 月 11 日 |
 | [API：无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
 | [[!UICONTROL 设置]：列表在[!UICONTROL 设置]](known-issues-workfront/wf-setup-lists-load-slowly.md)中加载缓慢 | 2022 年 10 月 28 日 |
 | [校样：未与校样工作流中的用户共享校样](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
