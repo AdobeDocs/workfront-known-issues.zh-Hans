@@ -4,7 +4,7 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 100%
 
