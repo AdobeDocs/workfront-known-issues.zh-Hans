@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: e50e74711a4c19c3f9f6964ec228dbe50c7b00c5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3246'
+ht-degree: 98%
 
 ---
 
@@ -19,11 +19,23 @@ ht-degree: 0%
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
+## 2023 年 5 月更新
+
++++**2023年5月4日的维护更新（计划中）**
+
+**无法从中选择模板 [!UICONTROL 收藏模板]**
+
+_模板_
+
+如果用户尝试从“操作”（三个点）菜单中选择模板，当用户将鼠标移至模板列表时，该列表会消失，并且用户无法选择模板。这是因为滚动条位于菜单和模板列表之间，当鼠标移动到模板列表时，鼠标会聚焦在滚动条上。
+
++++
+
 ## 2023 年 4 月更新
 
 +++**2023 年 4 月 27 日维护更新**
 
-**无法在中的校样之间切换 [!UICONTROL 校样查看器]**
+**在[!UICONTROL 校样查看器]**&#x200B;中无法在校样之间切换
 
 _校样_
 
