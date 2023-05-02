@@ -1,20 +1,20 @@
 ---
-title: "文档：将文档移至新项目时不继承权限"
-description: "当用户将一个文档移至其他项目时，该文档不从新项目继承共享权限。该文档不共享到将该项目共享到的用户。"
+title: '文档：将文档移至新项目时不继承权限'
+description: “当用户将文档移动到其他项目时，文档不会继承新项目的共享权限。 该文档不共享到将该项目共享到的用户。'
 hidefromtoc: true
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # 文档：将文档移至新项目时不继承权限
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--This issue has been closed as won't fix, but no reason.-->
+<!--Valid issue, won't fix.-->
 
 当用户将一个文档移至其他项目时，该文档不从新项目继承共享权限。该文档不共享到将该项目共享到的用户。
 
@@ -29,4 +29,3 @@ ht-degree: 100%
 或者，您可以记下文档的 ID（可在[!UICONTROL 文档详细信息]页面的 URL 中找到）并联系 [!DNL Workfront] 客户支持团队。
 
 _首次报告于 2023 年 1 月 6 日。_
-

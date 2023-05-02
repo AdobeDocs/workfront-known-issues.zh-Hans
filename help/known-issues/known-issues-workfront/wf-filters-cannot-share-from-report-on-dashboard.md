@@ -1,16 +1,18 @@
 ---
-title: "筛选器：无法在仪表板上共享报告中的筛选器"
-description: "当用户在仪表板上查看报告并尝试共享此报告中的筛选器时，他们无法共享该筛选器。单击三个点将使仪表板跳转到下一个报告，当用户向上回滚到预期报告时，他们会看到“共享”选项尚未打开。"
+title: '筛选器：无法在仪表板上共享报告中的筛选器'
+description: 当用户在仪表板上查看报告并尝试共享此报告中的筛选器时，他们无法共享该筛选器。单击三个点将使仪表板跳转到下一个报告，当用户向上回滚到预期报告时，他们会看到共享选项尚未打开。
 hidefromtoc: true
-source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
-workflow-type: ht
-source-wordcount: '187'
-ht-degree: 100%
+exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
 # 筛选器：无法在仪表板上共享报告中的筛选器
+
+<!--Valid issue, won't fix-->
 
 当用户在仪表板上查看报告并尝试共享此报告中的筛选器时，他们无法共享该筛选器。单击三个点将使仪表板跳转到下一个报告，当用户向上回滚到预期报告时，他们会看到[!UICONTROL 共享]选项尚未打开。
 
@@ -23,4 +25,3 @@ ht-degree: 100%
 * 从[!UICONTROL 设置] > [!UICONTROL 筛选器]区域中共享筛选器。
 
 _首次报告于 2023 年 3 月 14 日。_
-
