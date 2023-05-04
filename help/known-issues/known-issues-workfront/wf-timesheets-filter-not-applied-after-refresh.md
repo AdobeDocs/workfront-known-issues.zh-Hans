@@ -3,14 +3,18 @@ title: '时间表：刷新页面时未应用过滤器'
 description: 当用户使用过滤器查看时间表的列表，并刷新页面或导航离开页面再返回时，未应用该过滤器。似乎在过滤器列表中选择了该过滤器。
 hidefromtoc: true
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
-source-git-commit: 6747794441ac9c1f082d86bfe1fa772ec299eb1e
-workflow-type: ht
-source-wordcount: '113'
+source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # 时间表：刷新页面时未应用过滤器
+
+>[!NOTE]
+>
+>此问题已于 2023 年 4 月 27 日修复。
 
 当用户使用过滤器查看时间表的列表，并刷新页面或导航离开页面再返回时，未应用该过滤器。似乎在过滤器列表中选择了该过滤器。
 
