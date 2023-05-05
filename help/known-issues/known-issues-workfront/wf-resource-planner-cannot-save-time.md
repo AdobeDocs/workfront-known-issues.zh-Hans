@@ -1,12 +1,12 @@
 ---
 title: '资源规划程序：添加时间后无法保存'
-description: 当[!UICONTROL 资源规划程序]内的用户添加时间，然后尝试保存时，[!UICONTROL 保存]按钮没有反应。如果用户单击 [!UICONTROL 取消]，则用户会看到有关未保存更改的消息。
+description: 当[!UICONTROL 资源规划程序]中的用户添加时间，然后尝试保存时，[!UICONTROL 保存]按钮无响应。如果该用户单击[!UICONTROL 取消]，则将看到一条关于未保存更改的消息。
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 89%
 >
 >此问题已于 2023 年 4 月 27 日修复。
 
-当[!UICONTROL 资源规划程序]内的用户添加时间，然后尝试保存时，[!UICONTROL 保存]按钮没有反应。如果用户点击[!UICONTROL 取消]，他们会看到以下消息：
+当[!UICONTROL 资源规划程序]中的用户添加时间，然后尝试保存时，[!UICONTROL 保存]按钮无响应。如果用户点击[!UICONTROL 取消]，他们会看到以下消息：
 
 &quot;[!UICONTROL 您有尚未保存的更改！如果离开此页面，您的更改将丢失。要继续吗？]&quot;
 
