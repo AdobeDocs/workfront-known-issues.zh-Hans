@@ -1,12 +1,12 @@
 ---
-title: “文档：404访问从SharePoint链接的文档时出错
-description: 当用户尝试访问通过SharePoint链接的文档时，会将他们带到出现404错误的页面。
+title: '文档：访问从 SharePoint 链接的文档时出现 404 错误'
+description: 当用户尝试访问通过 SharePoint 链接的文档时，他们被带到一个页面，其中显示 404 错误。
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
