@@ -4,9 +4,9 @@ description: 当用户在[!UICONTROL 校对查看器]中查看校样，并切换
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
 source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2023年4月27日修复
+>此问题已于 2023 年 4 月 27 日修复
 
 当用户在[!UICONTROL 校样查看器]中查看校样并切换到另一个校样时，切换校样按钮变得无响应。用户无法切换回所查看的原始校样或另一个校样。
 
