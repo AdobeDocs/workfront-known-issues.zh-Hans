@@ -1,12 +1,12 @@
 ---
 title: '搜索：Workfront 搜索超时'
-description: Workfront搜索正在超时。 搜索可能返回一些结果，也可能完全不返回任何结果。
+description: Workfront 搜索超时。搜索可能返回少量结果或完全不返回任何结果。
 hidefromtoc: true
 exl-id: cbae251b-605c-4062-9627-34347da70ee5
 source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
