@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '3245'
-ht-degree: 100%
+source-wordcount: '3456'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,52 @@ ht-degree: 100%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 5 月更新
+
++++**（已规划）2023 年 5 月 11 日维护更新**
+
+**[!DNL Workfront]搜索超时**
+
+_搜索_
+
+[!DNL Workfront] 搜索超时。搜索可能返回一些结果，也可能完全不返回任何结果。
+
+此问题还影响 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 搜索]模块的功能。
+
+**查看校样时无法切换校样版本**
+
+_校样_
+
+当用户在[!UICONTROL 校样查看器]中查看校样，并切换到另一个版本时，版本下拉列表变为禁用，并且用户无法切换回所查看的原始版本或切换到该校样的另一个版本。
+
++++
+
++++**（已计划） [!DNL Adobe Workfront Fusion] 2023年5月11日的维护更新**
+
+**超时错误[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+当场景运行时，它可能会出现超时错误。来自出现该错误的模块的信息未到达其目标。
+
+**[!DNL Workfront]搜索超时**
+
+_搜索_
+
+[!DNL Workfront] 搜索超时。搜索可能返回一些结果，也可能完全不返回任何结果。
+
+此问题还影响 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 搜索]模块的功能。
+
++++
+
++++**2023 年 9 月 5 日维护更新**
+
+**展示板进纸列中可用的已保存过滤器**
+
+_展示板_
+
+现在，您可以在为展示板配置摄取列时，使用现有的Workfront任务并发布过滤器。 但是，现有的进气列过滤器现在在配置面板中是只读的。 现有过滤器仍会应用于摄取列，但如果要编辑这些过滤器，则必须重新创建这些过滤器。
+
++++
 
 +++**2023 年 4 月 5 日维护更新**
 
