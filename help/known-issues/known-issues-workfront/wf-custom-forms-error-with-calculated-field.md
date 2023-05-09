@@ -3,7 +3,7 @@ title: '自定义表单：设置计算字段时出现“糟糕”错误'
 description: 当用户在自定义表单中创建或编辑计算字段并在计算字段的表达式中包含自定义字段时，表达式被视为无效。‘保存’按钮已禁用，并且用户无法退出自定义字段。此外，用户会在该字段下方看到‘糟糕’消息。
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 25b7ec9e953eca2f439a2625ba4ca58514703d1e
+source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 96%
@@ -11,6 +11,8 @@ ht-degree: 96%
 ---
 
 # 自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误
+
+<!--Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >
