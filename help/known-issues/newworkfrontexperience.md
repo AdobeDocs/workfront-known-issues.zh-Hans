@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '571'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -34,9 +34,9 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [项目：使用 [!UICONTROL 里程碑] 视图](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 2023年5月5日 |
+| [项目：使用[!UICONTROL 里程碑]视图时出错](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 2023 年 5 月 5 日 |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
-| [任务：在中对任务重新排序时没有错误消息 [!UICONTROL 待批准] 状态](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023年5月3日 |
+| [任务：为[!UICONTROL 待审批]状态下的任务重新排序时没有错误消息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 5 月 3 日 |
 | [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 3 月 27 日 |
 | [校样：当上一阶段截止日期已过的时候，校样阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
