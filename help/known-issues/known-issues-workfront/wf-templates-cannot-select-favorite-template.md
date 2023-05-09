@@ -4,9 +4,9 @@ description: 如果用户尝试从“操作”（三个点）菜单中选择模�
 hidefromtoc: true
 exl-id: 2be285e6-c09c-4eb4-b383-7237a5ae6bbb
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此问题已于2023年5月4日修复。
+>此问题已于 2023 年 5 月 4 日修复。
 
 如果用户尝试从“操作”（三个点）菜单中选择模板，当用户将鼠标移至模板列表时，该列表会消失，并且用户无法选择模板。这是因为滚动条位于菜单和模板列表之间，当鼠标移动到模板列表时，鼠标会聚焦在滚动条上。
 
