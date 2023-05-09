@@ -4,7 +4,7 @@ description: 当用户查看应用了筛选器的列表并刷新页面时，刷�
 hidefromtoc: true
 exl-id: 8a57b310-d23e-4751-a2e2-703ba7d94c0e
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
