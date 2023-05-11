@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3456'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ _校样_
 
 +++
 
-+++**（已计划） [!DNL Adobe Workfront Fusion] 2023年5月11日的维护更新**
++++**（已规划）[!DNL Adobe Workfront Fusion]2023 年 5 月 11 日维护更新**
 
-**超时错误[!DNL Workfront Fusion]**
+**[!DNL Workfront Fusion]** 中出现超时错误
 
 _Adobe Workfront Fusion_
 
@@ -59,11 +59,11 @@ _搜索_
 
 +++**2023 年 9 月 5 日维护更新**
 
-**展示板进纸列中可用的已保存过滤器**
+**已保存的过滤器可在展示板摄入列中使用**
 
 _展示板_
 
-现在，您可以在为展示板配置摄取列时，使用现有的Workfront任务并发布过滤器。 但是，现有的进气列过滤器现在在配置面板中是只读的。 现有过滤器仍会应用于摄取列，但如果要编辑这些过滤器，则必须重新创建这些过滤器。
+现在，您可以在配置展示板的摄入列时使用现有的 Workfront 任务和问题过滤器。但是，现有的摄入列过滤器目前在配置面板中是只读的。现有过滤器仍会应用于摄入列，但如果要编辑它们，则必须重新创建过滤器。
 
 +++
 
