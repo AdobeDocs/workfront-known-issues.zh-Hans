@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
-workflow-type: ht
-source-wordcount: '3456'
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+workflow-type: tm+mt
+source-wordcount: '3454'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,13 @@ ht-degree: 100%
 
 ## 2023 年 5 月更新
 
-+++**（已规划）2023 年 5 月 11 日维护更新**
++++**2023 年 11 月 5 日维护更新**
+
+**查看校样时无法切换校样版本**
+
+_校样_
+
+当用户在[!UICONTROL 校样查看器]中查看校样，并切换到另一个版本时，版本下拉列表变为禁用，并且用户无法切换回所查看的原始版本或切换到该校样的另一个版本。
 
 **[!DNL Workfront]搜索超时**
 
@@ -31,15 +37,9 @@ _搜索_
 
 此问题还影响 [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL 搜索]模块的功能。
 
-**查看校样时无法切换校样版本**
-
-_校样_
-
-当用户在[!UICONTROL 校样查看器]中查看校样，并切换到另一个版本时，版本下拉列表变为禁用，并且用户无法切换回所查看的原始版本或切换到该校样的另一个版本。
-
 +++
 
-+++**（已规划）[!DNL Adobe Workfront Fusion]2023 年 5 月 11 日维护更新**
++++**[!DNL Adobe Workfront Fusion]2023 年 11 月 5 日维护更新**
 
 **[!DNL Workfront Fusion]** 中出现超时错误
 
