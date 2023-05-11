@@ -3,9 +3,9 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '270'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
-| [校样：当上一阶段截止日期已过的时候，校样阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
 
 {style="table-layout:auto"}
 

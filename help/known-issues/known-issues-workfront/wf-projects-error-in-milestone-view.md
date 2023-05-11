@@ -2,15 +2,19 @@
 title: "项目：使用“里程碑”视图时出错"
 description: "当用户查看项目列表并尝试使用“里程碑”视图时不加载该视图，而用户看到错误。"
 hidefromtoc: true
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 
 # 项目：使用[!UICONTROL 里程碑]视图时出错
+
+>[!NOTE]
+>
+>此问题已于 2023 年 5 月 4 日修复。
 
 当用户查看项目列表并尝试使用[!UICONTROL 里程碑]视图时不加载该视图，而用户看到以下错误：
 

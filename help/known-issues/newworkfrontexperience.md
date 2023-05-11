@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '558'
 ht-degree: 99%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023 年 5 月 9 日 |
+| 无 |  |
 
 {style="table-layout:auto"}
 
@@ -34,13 +34,11 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023 年 5 月 11 日 |
+| [任务：为[!UICONTROL 待审批]状态下的任务重新排序时没有错误消息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 5 月 11 日 |
 | [工作负载平衡器：意外地重新分发小时数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 5 月 11 日 |
-| [项目：使用[!UICONTROL 里程碑]视图时出错](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 2023 年 5 月 5 日 |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
-| [任务：为[!UICONTROL 待审批]状态下的任务重新排序时没有错误消息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 5 月 3 日 |
 | [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
-| [校样：当上一阶段截止日期已过的时候，校样阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023 年 3 月 23 日 |
-| [校样：从校样工作流停用了用户，访问校样时显示“[!UICONTROL 不允许访问]”](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
