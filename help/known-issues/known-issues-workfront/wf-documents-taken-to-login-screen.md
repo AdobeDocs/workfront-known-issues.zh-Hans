@@ -3,8 +3,8 @@ title: '文档：校样活动选项会导向登录页面'
 description: “当用户查看文档详细信息页面并单击校对活动菜单中的选项时，用户会被定向到登录页面而不是预期的目标页面。”
 hidefromtoc: true
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -13,6 +13,7 @@ ht-degree: 100%
 # 文档：[!UICONTROL 校样活动]选项会导向登录页面
 
 <!--This article is on WF and WFP TOCs-->
+<!--Converted to story-->
 
 >[!NOTE]
 >
