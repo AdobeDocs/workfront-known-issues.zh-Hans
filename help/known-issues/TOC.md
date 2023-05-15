@@ -1,9 +1,9 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1182'
 ht-degree: 98%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [[!DNL Workfront Proof]:访问 [!DNL Workfront Proof] 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：搜索未返回任何结果](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [校样：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
