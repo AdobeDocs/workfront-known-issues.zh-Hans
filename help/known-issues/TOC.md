@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 99%
+source-wordcount: '1176'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报表：按任意字段排序时，报表无法正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [工作负载平衡器：意外地重新分发小时数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-not-applied.md)

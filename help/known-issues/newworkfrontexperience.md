@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 99%
+source-wordcount: '565'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 无 |  |
+| [报表：按任意字段排序时，报表无法正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023 年 5 月 15 日 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023 年 5 月 11 日 |
+| [报表：按自定义字段排序时，报表排序不正确](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023 年 5 月 11 日 |
 | [任务：为[!UICONTROL 待审批]状态下的任务重新排序时没有错误消息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 5 月 11 日 |
 | [工作负载平衡器：意外地重新分发小时数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 5 月 11 日 |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
