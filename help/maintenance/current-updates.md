@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3454'
-ht-degree: 100%
+source-wordcount: '3533'
+ht-degree: 98%
 
 ---
 
@@ -20,6 +20,22 @@ ht-degree: 100%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 5 月更新
+
++++**（已规划）2023 年 5 月 18 日维护更新**
+
+
+**按自定义字段排序时，报表排序不正确**
+
+_报表_
+当用户运行任务报表时，报表在加载时似乎可以正确排序，但当完成加载时，用户会发现报表未正确排序。
+
+这似乎会在出现以下所有情况时发生：
+
+* 报告是任务报告
+* 报告按自定义字段排序
+* 该报告应用了分组
+
++++
 
 +++**2023 年 11 月 5 日维护更新**
 
