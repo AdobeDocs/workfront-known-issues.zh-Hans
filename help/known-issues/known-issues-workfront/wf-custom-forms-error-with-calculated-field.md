@@ -6,7 +6,7 @@ exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此问题已于2023年1月12日修复
+>此问题已于 2023 年 1 月 12 日修复
 
 当用户在自定义表单中创建或编辑计算字段并在计算字段的表达式中包含自定义字段时，表达式被视为无效。[!UICONTROL 保存]按钮已禁用，并且用户无法退出自定义字段。此外，用户会在该字段下方看到以下消息：
 
