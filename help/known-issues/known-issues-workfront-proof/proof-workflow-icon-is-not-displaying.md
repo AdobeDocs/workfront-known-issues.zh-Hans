@@ -4,7 +4,7 @@ description: 当用户在新版  [!DNL Workfront]  Experience 创建验证时，
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
