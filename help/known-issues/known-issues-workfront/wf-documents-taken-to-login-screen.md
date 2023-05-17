@@ -4,7 +4,7 @@ description: “当用户查看文档详细信息页面并单击校对活动菜�
 hidefromtoc: true
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
