@@ -2,15 +2,19 @@
 title: “报告：按自定义字段排序时，报表排序不正确
 description: “当用户运行任务报表时，报表在加载时似乎可以正确排序，但在完成加载时，用户会发现报表未正确排序。
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 55%
+source-wordcount: '127'
+ht-degree: 57%
 
 ---
 
 
 # 报表：按自定义字段排序时，报表排序不正确
+
+>[!NOTE]
+>
+>此问题已于 2023 年 5 月 18 日修复。
 
 当用户运行任务报告时，报告在加载时似乎排序正确，但在完成加载后用户会看到报告排序不正确。
 
