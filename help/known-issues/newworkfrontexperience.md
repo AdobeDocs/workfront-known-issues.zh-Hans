@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [报表：按任意字段排序时，报表无法正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023 年 15 月 5 日 |
+| [报告：在按任意字段排序时，报告未正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023 年 5 月 15 日 |
 
 {style="table-layout:auto"}
 
@@ -34,9 +34,9 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [敏捷： [!UICONTROL 看板] 编辑卡片时展示板留空](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 2023 年 18 月 5 日 |
-| [任务：为[!UICONTROL 待审批]状态下的任务重新排序时没有错误消息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 11 月 5 日 |
-| [工作负载平衡器：意外地重新分发小时数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 11 月 5 日 |
+| [敏捷： [!UICONTROL Kanban] 編輯卡片時展示板變為空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 2023 年 5 月 18 日 |
+| [任务：为[!UICONTROL 待审批]状态下的任务重新排序时没有错误消息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 5 月 11 日 |
+| [工作负载均衡器：小时数意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 5 月 11 日 |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
 | [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
 source-wordcount: '1195'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [敏捷： [!UICONTROL 看板] 编辑卡片时展示板留空](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
-      + [报表：按任意字段排序时，报表无法正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
-      + [工作负载平衡器：意外地重新分发小时数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
+      + [敏捷： [!UICONTROL Kanban] 編輯卡片時展示板變為空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [报告：在按任意字段排序时，报告未正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
+      + [工作负载均衡器：小时数意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [项目：使用[!UICONTROL 里程碑]视图时出错](known-issues-workfront/wf-projects-error-in-milestone-view.md)
@@ -124,7 +124,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
-      + [[!DNL Workfront Proof]:访问 [!DNL Workfront Proof] 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：搜索未返回任何结果](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [校样：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
@@ -135,7 +135,7 @@ ht-degree: 97%
       + [校样：在校样评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [校样：由于截止日期与现有阶段的截止日期不匹配，因此创建了新阶段](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API：“[!UICONTROL 正文不是有效的 XML]”错误](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
-      + [校样：在校样工作流上未将校样共享到用户](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
+      + [校样：未与校样工作流中的用户共享校样](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [无法通过在评论中标记用户来将用户添加到校样中](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [[!UICONTROL 在校样中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [自动访问校样延迟](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
@@ -149,7 +149,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [[!DNL Workfront Fusion]:执行被卡住或延迟](known-issues-workfront-fusion/fusion-stuck-executions.md)
+      + [[!DNL Workfront Fusion]：執行停滯或延遲](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：场景执行历史不显示整个历史](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中出现超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront 模块中出现 404 错误](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
