@@ -1,11 +1,11 @@
 ---
 title: "任务：为“待审批”状态下的任务重新排序时没有错误消息"
-description: “当用户尝试对任务列表中的任务重新排序，并且该任务位于 [!UICONTROL 待批准] 状态时，任务会在任务列表中移动。 刷新后，用户看到该项目没有移动。无法移动该项，因为它处于[!UICONTROL 待审批]状态，但没有消息告知用户该项无法移动，而这可能会令人感到困惑。"
+description: "当用户尝试为任务列表中的某个任务重新排序，而该任务处于[!UICONTROL 待审批]状态下时，该任务看上去移入任务列表。刷新后，用户看到该项目没有移动。无法移动该项，因为它处于[!UICONTROL 待审批]状态，但没有消息告知用户该项无法移动，而这可能会令人感到困惑。"
 hidefromtoc: true
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
