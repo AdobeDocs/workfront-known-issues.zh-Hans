@@ -3,7 +3,7 @@ title: "项目：使用“里程碑”视图时出错"
 description: "当用户查看项目列表并尝试使用“里程碑”视图时不加载该视图，而用户看到错误。"
 hidefromtoc: true
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
