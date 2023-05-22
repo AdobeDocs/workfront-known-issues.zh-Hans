@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 5 月 15 日 |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] ，通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 5 月 15 日 |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
 
 {style="table-layout:auto"}
