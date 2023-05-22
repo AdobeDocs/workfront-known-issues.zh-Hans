@@ -1,12 +1,12 @@
 ---
-title: ‘Workfront校样：列表排序不正确'
-description: 当用户在Workfront校样中查看已应用排序的列表（如“名称”）时，排序不准确。
+title: 'Workfront Proof：列表未正确排序'
+description: 当用户查看 Workfront Proof 中已应用排序的列表（例如姓名）时，排序不准确。
 hidefromtoc: true
 exl-id: 89dcfc45-0ea3-4ba6-8778-865adff9c456
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
