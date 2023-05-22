@@ -1,12 +1,12 @@
 ---
 title: 'API：无法按动态字段排序'
-description: “Workfront API不允许按动态字段排序。 '
+description: 'Workfront API 不允许按动态字段排序。'
 hidefromtoc: true
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
