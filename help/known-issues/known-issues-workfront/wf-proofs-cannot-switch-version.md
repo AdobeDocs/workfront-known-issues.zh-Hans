@@ -4,7 +4,7 @@ description: 当用户在[!UICONTROL 校对查看器]中查看校样，并切换
 hidefromtoc: true
 exl-id: 2ee55109-47c0-4e85-8b91-a56d677303ef
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
