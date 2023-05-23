@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3581'
-ht-degree: 98%
+source-wordcount: '3646'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,22 @@ ht-degree: 98%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 5 月更新
+
++++**（已规划）2023 年 5 月 25 日维护更新**
+
+**[!UICONTROL Kanban] 編輯卡片時展示板變為空白**
+
+_敏捷_
+
+當使用者變更上的卡片內容時 [!UICONTROL Kanban] 展示板， [!UICONTROL Kanban] 展示板會變成空白，而不是以變更重新整理。 如果使用者手動重新整理頁面， [!UICONTROL Kanban] 板會傳回，顯示正確的變更。
+
+這已在以下情況下報告：
+
+* 編輯卡片
+* 移動卡片
+
+
++++
 
 +++**2023 年 5 月 22 日维护更新**
 

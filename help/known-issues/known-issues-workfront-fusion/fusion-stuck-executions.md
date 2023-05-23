@@ -1,18 +1,22 @@
 ---
-title: “Workfront融合：执行被卡住或延迟”
-description: “执行可能会卡住，在未处理任何数据的情况下继续运行。 由于情景停滞不前，这种情景的后续执行可能会被推迟。”
+title: 「Workfront Fusion：執行停滯或延遲」
+description: 「執行可能會卡住，即使未處理任何資料，仍會繼續執行。 由於情景卡住，該情景的稍後執行可能會延遲。」
 hidefromtoc: true
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
-# [!DNL Workfront Fusion]:执行被卡住或延迟
+# [!DNL Workfront Fusion]：執行停滯或延遲
 
-执行可能会卡住，在未处理任何数据的情况下继续运行。 由于方案停滞不前，因此以后执行该方案可能会延迟。
+>[!NOTE]
+>
+>此问题已于 2023 年 5 月 19 日修复。
+
+執行可能會卡住，即使未處理任何資料，仍會繼續執行。 由於情景卡住，該情景的稍後執行可能會延遲。
 
 _首次报告于 2023 年 5 月 17 日。_
 
