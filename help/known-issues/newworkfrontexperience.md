@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
+source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 98%
+source-wordcount: '579'
+ht-degree: 97%
 
 ---
 
@@ -34,7 +34,8 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [敏捷： [!UICONTROL Kanban] 編輯卡片時展示板變為空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 2023 年 5 月 18 日 |
+| [自定义表单：在新表单设计器（测试版）中编辑自定义表单时，显示逻辑丢失](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023 年 5 月 24 日 |
+| [敏捷：编辑信息卡时[!UICONTROL 看板]展示板变成空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 2023 年 5 月 18 日 |
 | [任务：为[!UICONTROL 待审批]状态下的任务重新排序时没有错误消息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 5 月 11 日 |
 | [工作负载均衡器：小时数意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 5 月 11 日 |
 | [校样：锁定的校样批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
