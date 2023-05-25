@@ -151,7 +151,7 @@ ht-degree: 98%
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
       + [[!DNL Workfront Fusion]：未发送通知电子邮件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]：执行被卡住或延迟](known-issues-workfront-fusion/fusion-stuck-executions.md)
+      + [[!DNL Workfront Fusion]：执行遭遇停滞或推迟](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：场景执行历史不显示整个历史](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中出现超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront 模块中出现 404 错误](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
