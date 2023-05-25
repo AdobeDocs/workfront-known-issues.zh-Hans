@@ -3,9 +3,9 @@ title: 存在于  [!DNL Adobe Workfront Fusion] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+source-git-commit: 62628913e03cf9548d75a544e5ec4c7f846a52dd
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '135'
 ht-degree: 95%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 无 |  |
+| [[!DNL Workfront Fusion]：执行遭遇停滞或推迟](known-issues-workfront-fusion/fusion-stuck-executions.md) | 2023 年 5 月 25 日 |
 
 {style="table-layout:auto"}
 
