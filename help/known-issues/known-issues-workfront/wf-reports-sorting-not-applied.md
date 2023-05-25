@@ -1,16 +1,16 @@
 ---
-title: “报告：按自定义字段排序时，报表排序不正确
-description: “当用户运行任务报表时，报表在加载时似乎可以正确排序，但在完成加载时，用户会发现报表未正确排序。
+title: '"报告：在按自定义字段排序时，报告未正确排序'
+description: '"当用户运行任务报告时，报告在加载时似乎排序正确，但在完成加载后用户会看到报告排序不正确。 '
 hidefromtoc: true
 source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
 
-# 报表：按自定义字段排序时，报表排序不正确
+# 报告：在按自定义字段排序时，报告未正确排序
 
 >[!NOTE]
 >
