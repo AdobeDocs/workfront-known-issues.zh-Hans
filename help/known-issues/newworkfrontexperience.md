@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '560'
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [报告：在按任意字段排序时，报告未正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023 年 5 月 15 日 |
+| 无 |  |
 
 {style="table-layout:auto"}
 

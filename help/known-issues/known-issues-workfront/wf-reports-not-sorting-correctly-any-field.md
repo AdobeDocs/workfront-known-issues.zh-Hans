@@ -2,9 +2,9 @@
 title: "报告：在按任意字段排序时，报告未正确排序"
 description: ""
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 100%
 
 # 报告：在按任意字段排序时，报告未正确排序
 
+>[!NOTE]
+>
+>此问题已关闭，因为它现在不构成问题。
 
 当用户运行任务报告时，报告在加载时似乎排序正确，但在完成加载后用户会看到报告排序不正确。
 
