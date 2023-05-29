@@ -3,7 +3,7 @@ title: "Workfront Proof：通过 API 或 Workfront Fusion 访问 Workfront Proof
 description: "当用户访问 Proof API getAllProofs 操作时，Workfront Proof 服务器返回消息：500 内部服务器错误"
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
