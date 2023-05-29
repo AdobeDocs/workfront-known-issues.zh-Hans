@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
 source-wordcount: '3646'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 99%
 
 +++**（已规划）2023 年 5 月 25 日维护更新**
 
-**[!UICONTROL Kanban] 编辑信息卡时展示板变为空白**
+编辑信息卡时&#x200B;**[!UICONTROL 看板]展示板变成空白**
 
 _敏捷_
 
