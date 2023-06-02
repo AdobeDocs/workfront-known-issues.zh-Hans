@@ -3,9 +3,9 @@ title: "敏捷：编辑信息卡时看板展示板变成空白"
 description: "当用户在[!UICONTROL 看板]展示板上更改关于某个信息卡的某些内容时，[!UICONTROL 看板]展示板变为空白，而非随变化一起刷新。如果用户手动刷新页面，则[!UICONTROL 看板]展示板恢复正常，并显示正确的变化。"
 hidefromtoc: true
 source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '120'
+ht-degree: 100%
 
 ---
 
