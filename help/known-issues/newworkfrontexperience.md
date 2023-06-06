@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
-workflow-type: ht
-source-wordcount: '548'
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
+workflow-type: tm+mt
+source-wordcount: '541'
 ht-degree: 100%
 
 ---
@@ -71,7 +71,6 @@ ht-degree: 100%
 | [审批：为不正确的天数设置了审批委派](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022 年 4 月 20 日 |
 | [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)显示已停用的用户 | 2021 年 10 月 1 日 |
 | [更新：团队名称未出现在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021 年 10 月 1 日 |
-| [日程表：[!UICONTROL 休息时间]日程表](known-issues-workfront/wf-calendars-issue-time-off.md)问题 | 2021 年 6 月 25 日 |
 | [敏捷：开发周期[!UICONTROL 完成点]的差异](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021 年 6 月 22 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 在校样中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
 | [电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021 年 6 月 2 日 |
