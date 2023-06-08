@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6723b17ebb88e68ef59957f69ef4840b82229b1d
+source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
-source-wordcount: '3845'
-ht-degree: 100%
+source-wordcount: '3889'
+ht-degree: 98%
 
 ---
 
@@ -24,6 +24,14 @@ ht-degree: 100%
 +++**2023 年 6 月 8 日维护更新**
 
 此更新仅包含次要或影响不大的错误修复。[!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
+
++++
+
++++**[!DNL Adobe Workfront Fusion]2023 年 6 月 8 日维护更新**
+
+[!DNL Fusion] 部署了一个修补程序，阻止在的中移除或停用用户连接时删除该用户的连接。 [!UICONTROL Adobe Admin Console].
+
+[!DNL Fusion] 团队管理员仍然能够从删除不需要的连接 [!UICONTROL 连接] Fus中的页面[!DNL]离子。
 
 +++
 
