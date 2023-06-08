@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Proof] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
-source-wordcount: '274'
-ht-degree: 100%
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+workflow-type: tm+mt
+source-wordcount: '284'
+ht-degree: 96%
 
 ---
 
@@ -44,6 +44,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] ，通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 5 月 25 日 |
 | [文档：[!UICONTROL 校样活动]选项引向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |

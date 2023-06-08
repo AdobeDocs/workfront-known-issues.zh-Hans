@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+workflow-type: tm+mt
+source-wordcount: '551'
+ht-degree: 98%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日 |
 | [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023 年 5 月 5 日 |
 | [文档：[!UICONTROL 校样活动]选项引向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [筛选器：无法在仪表板上共享报告中的筛选器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |

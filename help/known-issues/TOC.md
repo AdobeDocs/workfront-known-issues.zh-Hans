@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
 workflow-type: tm+mt
-source-wordcount: '1221'
-ht-degree: 99%
+source-wordcount: '1230'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [自定义表单：在新的表单设计器 (beta) 中编辑自定义表单时丢失显示逻辑](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [敏捷：编辑信息卡时[!UICONTROL 看板]展示板变成空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [报告：在按任意字段排序时，报告未正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
