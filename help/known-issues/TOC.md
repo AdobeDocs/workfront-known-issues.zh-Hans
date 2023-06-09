@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
+source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
 workflow-type: tm+mt
-source-wordcount: '1246'
-ht-degree: 97%
+source-wordcount: '1255'
+ht-degree: 96%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [验证：验证在预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：搜索未返回任何结果](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [校样：文本选项框显示“textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
