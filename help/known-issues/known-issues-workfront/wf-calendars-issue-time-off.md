@@ -4,7 +4,7 @@ description: 已报告有关休息时间日程表的问题。
 exl-id: 242b3f9a-2ee2-4e76-bbfa-46576ebaa5d9
 hidefromtoc: true
 source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
