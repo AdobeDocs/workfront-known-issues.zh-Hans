@@ -3,7 +3,7 @@ title: "Workfront Fusion：不发送通知电子邮件"
 description: "当 Workfront Fusion 中发生应触发通知电子邮件的事件时（例如在发生错误的情况下）不发送电子邮件。"
 hidefromtoc: true
 source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
