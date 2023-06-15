@@ -2,10 +2,10 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 0be265067c6f281c2f125a8f54e4f381da2f8ffe
+source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
-source-wordcount: '3914'
-ht-degree: 98%
+source-wordcount: '3912'
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 98%
 
 [!DNL Fusion] 部署了一个修补程序，阻止在的中移除或停用用户连接时删除该用户的连接。 [!UICONTROL Adobe Admin Console].
 
-[!DNL Fusion] 团队管理员仍然能够从删除不需要的连接 [!UICONTROL 连接] Fus中的页面[!DNL]离子。
+[!DNL Fusion] 团队管理员仍然能够从删除不需要的连接 [!UICONTROL 连接] 页面位置 [!DNL Fusion].
 
 +++
 
