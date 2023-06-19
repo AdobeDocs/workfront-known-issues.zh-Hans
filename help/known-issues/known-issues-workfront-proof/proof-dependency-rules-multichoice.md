@@ -1,15 +1,15 @@
 ---
-title: “WF Proof集成帐户 — 校对依赖关系规则不允许选择多选字段”
-description: 只能为中的依赖关系规则选择列表和单选按钮自定义字段类型 [!DNL Workfront] 和 [!DNL Workfront Proof] 集成实例。 与ProofHQ旧帐户相比，此功能有限。”
+title: “WF 验证综合账户 - 验证相关性规则不允许选择多选字段”
+description: “对于  [!DNL Workfront]  和  [!DNL Workfront Proof]  集成实例中的相关性规则，只能选择列表和单选按钮自定义字段类型。与 ProofHQ 旧帐户相比，该功能有限。”
 hidefromtoc: true
 source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]：集成帐户 — 验证依赖关系规则不允许选择多选字段
+# [!DNL Workfront Proof]：综合账户 - 验证相关性规则不允许选择多选字段
 
-只能为中的依赖关系规则选择列表和单选按钮自定义字段类型 [!DNL Workfront] 和 [!DNL Workfront Proof] 集成实例。 与ProofHQ旧帐户相比，此功能有限。
+对于 [!DNL Workfront] 和 [!DNL Workfront Proof] 集成实例中的相关性规则，只能选择列表和单选按钮自定义字段类型。与 ProofHQ 旧帐户相比，该功能有限。
