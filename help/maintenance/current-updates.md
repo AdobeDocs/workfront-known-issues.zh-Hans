@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
 source-wordcount: '3912'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 99%
 
 [!DNL Fusion]部署了一个修复程序，当用户在 [!UICONTROL Adobe Admin Console] 中被删除或停用时，该修复程序可防止用户的连接被删除。
 
-[!DNL Fusion] 团队管理员仍然能够从删除不需要的连接 [!UICONTROL 连接] 页面位置 [!DNL Fusion].
+[!DNL Fusion] 团队管理员仍然能够从 [!DNL Fusion] 中的[!UICONTROL 连接]页面删除不需要的连接。
 
 +++
 
