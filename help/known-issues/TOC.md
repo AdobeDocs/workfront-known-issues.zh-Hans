@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
-source-wordcount: '1264'
-ht-degree: 100%
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+workflow-type: tm+mt
+source-wordcount: '1287'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报告：利用率报告未加载](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [验证：审批选项未出现在 [!UICONTROL 校对查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [时间表：在时间表上记录小时数时出错](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL 主页]：项目未出现在[!UICONTROL 主页工作列表中]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [报告：查看矩阵报告时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)

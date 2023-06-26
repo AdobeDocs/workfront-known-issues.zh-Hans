@@ -3,10 +3,10 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 100%
+source-wordcount: '586'
+ht-degree: 96%
 
 ---
 
@@ -34,6 +34,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报告：利用率报告未加载](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023 年 6 月 26 日 |
+| [验证：审批选项未出现在 [!UICONTROL 校对查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023 年 6 月 26 日 |
+| [时间表：在时间表上记录小时数时出错](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 2023 年 6 月 26 日 |
 | [自定义表单：在新的表单设计器 (beta) 中编辑自定义表单时丢失显示逻辑](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023 年 5 月 24 日 |
 | [工作负载均衡器：小时数意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023 年 5 月 11 日 |
 | [验证：锁定的验证批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 5 月 4 日 |
