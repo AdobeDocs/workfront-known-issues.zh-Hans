@@ -3,9 +3,9 @@ title: 新  [!DNL Adobe Workfront]  Experience 中的已知问题
 description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
 workflow-type: ht
-source-wordcount: '578'
+source-wordcount: '560'
 ht-degree: 100%
 
 ---
@@ -25,8 +25,6 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL 主页]：项目未出现在[!UICONTROL 主页工作列表中]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 2023 年 6 月 12 日 |
-| [报告：查看矩阵报告时出现[!UICONTROL “糟糕”]错误](known-issues-workfront/wf-reports-error-matrix-report.md) | 2023 年 6 月 9 日 |
-| [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 2023 年 6 月 9 日 |
 
 {style="table-layout:auto"}
 
