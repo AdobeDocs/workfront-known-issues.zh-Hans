@@ -1,10 +1,10 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '1287'
-ht-degree: 98%
+source-wordcount: '1303'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [项目/任务/问题：时间表未重新计算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [过滤器： ”[!UICONTROL 在系统范围内启用]“ ”和“ ”[!UICONTROL 查看系统范围]”代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [报告：利用率报告未加载](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [验证：审批选项未出现在 [!UICONTROL 校对查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [时间表：在时间表上记录小时数时出错](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
