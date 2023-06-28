@@ -3,9 +3,9 @@ title: “报告：查看矩阵报告时出现‘糟糕’错误”
 description: “当用户查看矩阵报告时，他们会看到‘糟糕’错误。”
 hidefromtoc: true
 source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
-> 此文章已于2023年6月22日修复
+> 此文章已于 2023 年 6 月 22 日修复
 
 当用户查看矩阵报告时，他们会看到以下错误：
 
