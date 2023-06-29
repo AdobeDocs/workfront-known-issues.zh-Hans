@@ -2,15 +2,19 @@
 title: “时间表：在时间表上记录小时数时出错”
 description: “当用户尝试在时间表上记录任务的小时数时，小时数未保存，并且用户看到错误消息。”
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
 # 时间表：在时间表上记录小时数时出错
+
+>[!NOTE]
+>
+>此问题已于 2023 年 29 月 6 日修复。
 
 当用户尝试在时间表上记录任务的小时数时，小时数未保存，并且用户看到以下消息：
 
