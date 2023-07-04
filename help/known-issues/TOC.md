@@ -4,7 +4,7 @@ user-guide-description: 已知问题 [!DNL Adobe Workfront]
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
 workflow-type: tm+mt
 source-wordcount: '1309'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 96%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [项目/任务/问题：时间表未重新计算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [过滤器： ”[!UICONTROL 在系统范围内启用]“ ”和“ ”[!UICONTROL 查看系统范围]”代表不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [项目/任务/问题：时间线未重新计算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [筛选条件：“[!UICONTROL 在系统范围启用]”和“[!UICONTROL 查看系统范围的]”表示不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [报告：利用率报告未加载](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [验证：审批选项未出现在 [!UICONTROL 校对查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [时间表：在时间表上记录小时数时出错](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
+      + [验证：审批选项未显示在[!UICONTROL 验证查看器]中](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [时间表：在时间表中记录小时数时出错](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL 主页]：项目未出现在[!UICONTROL 主页工作列表中]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [报告：查看矩阵报告时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
