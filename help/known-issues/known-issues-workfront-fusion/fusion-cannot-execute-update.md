@@ -3,7 +3,7 @@ title: “Workfront Fusion：无法执行更新错误”
 description: “场景执行失败并显示无法在只读事务中执行更新的错误。”
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已于 2023 年 14 月 6 日修复。
+>此问题已于 2023 年 6 月 14 日修复。
 
 场景执行失败并出现以下错误：
 
