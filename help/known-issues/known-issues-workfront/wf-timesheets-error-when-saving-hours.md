@@ -3,7 +3,7 @@ title: "时间表：在时间表中记录小时数时出错"
 description: "当用户尝试在其时间表中记录任务的小时数时，不会保存小时数，并且用户会看到错误消息。"
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已于 2023 年 29 月 6 日修复。
+>此问题已于 2023 年 6 月 29 日修复。
 
 当用户尝试在其时间表中记录任务的小时数时，不会保存小时数，并且用户会看到以下消息：
 
