@@ -2,9 +2,9 @@
 title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
+source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
 workflow-type: tm+mt
-source-wordcount: '4193'
+source-wordcount: '4227'
 ht-degree: 98%
 
 ---
@@ -48,6 +48,12 @@ _报告_
 _用户_
 
 当用户尝试编辑另一个用户时，编辑用户页面为空白，用户无法编辑另一个用户。
+
+**小时数意外重新分配**
+
+_工作负载均衡器_
+
+当对特定任务进行小时分配时，这些小时可能会意外地重新计算和重新分配。 这可能发生在日期或页面之间的切换后，或者发生在刷新页面之后。
 
 +++
 
