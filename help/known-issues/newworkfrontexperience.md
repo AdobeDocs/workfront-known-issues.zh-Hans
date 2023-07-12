@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '592'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [设置：无法编辑工作角色成本/小时或计费/小时](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023年7月10日 |
+| [设置：无法编辑工作角色的“成本/小时”或“计费/小时”](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 10 日 |
 | [筛选条件：“[!UICONTROL 在系统范围启用]”和“[!UICONTROL 查看系统范围的]”表示不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023 年 6 月 27 日 |
 | [报告：利用率报告未加载](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023 年 6 月 26 日 |
 | [验证：审批选项未显示在[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中 | 2023 年 6 月 26 日 |
