@@ -3,7 +3,7 @@ title: "项目/任务/问题：时间线未重新计算"
 description: "当发生应触发时间线计算的事件时，时间线未重新计算。这将影响更改时发生的重新计算和计划的重新计算。这会影响工作负载平衡器的准确性。"
 hidefromtoc: true
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
