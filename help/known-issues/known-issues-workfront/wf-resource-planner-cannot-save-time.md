@@ -3,8 +3,9 @@ title: '资源规划程序：添加时间后无法保存'
 description: 当[!UICONTROL 资源规划程序]中的用户添加时间，然后尝试保存时，[!UICONTROL 保存]按钮无响应。如果该用户单击[!UICONTROL 取消]，则将看到一条关于未保存更改的消息。
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

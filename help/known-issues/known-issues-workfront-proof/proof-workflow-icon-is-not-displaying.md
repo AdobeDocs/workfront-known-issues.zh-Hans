@@ -3,8 +3,9 @@ title: '文档：验证工作流图标未显示'
 description: 当用户在新版  [!DNL Workfront]  Experience 创建验证时，在用户刷新页面之前，验证状态图标“SOCD”有时不会显示在文档列表中。
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

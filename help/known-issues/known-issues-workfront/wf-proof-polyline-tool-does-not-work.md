@@ -1,16 +1,17 @@
 ---
-title: "校样：对校样发表评论时无法使用折线工具"
-description: "当用户在校对查看器中查看校样并尝试使用折线工具发表评论时，该工具无法标出该校样。"
+title: '验证：对验证发表评论时无法使用折线工具'
+description: '当用户在验证查看器中查看验证并尝试使用折线工具进行评论时，该工具未标记验证。 '
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
-workflow-type: ht
+exl-id: 1cd2209f-c430-40ae-ad78-41f4a558beba
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
 
-
-# 校样：对校样发表评论时无法使用折线工具
+# 验证：对验证发表评论时无法使用折线工具
 
 <!--This article is on the WF and WFP TOCs-->
 
@@ -25,4 +26,3 @@ ht-degree: 100%
 其他工具在发表评论时有效。
 
 _首次报告于 2023 年 3 月 24 日。_
-

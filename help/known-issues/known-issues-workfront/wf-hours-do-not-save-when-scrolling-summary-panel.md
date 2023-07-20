@@ -2,9 +2,10 @@
 title: '任务：在任务的[!UICONTROL “摘要”面板]中输入小时数时未保存该数值'
 description: “当用户尝试在任务的‘摘要’面板中输入任务的小时数时，该数值未保存。当用户将光标停留在输入小时数的方框中并滚动[!UICONTROL ‘摘要’面板]时，会出现此情况。”
 hidefromtoc: true
+feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
 

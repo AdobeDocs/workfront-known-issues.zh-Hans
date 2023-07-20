@@ -3,8 +3,9 @@ title: Fusion 应用内帮助链接不会指向特定的帮助页面
 description: ' [!DNL Workfront Fusion]  中的帮助链接当前不指向预期的帮助页面。相反，所有 Fusion 帮助链接都指向 Workfront 文档主页。 从该登陆页面，您可以搜索您需要的信息。'
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 

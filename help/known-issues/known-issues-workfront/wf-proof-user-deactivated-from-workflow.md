@@ -3,8 +3,9 @@ title: '校样：从校样工作流停用了用户，访问校样时显示“不
 description: 当用户尝试访问某个校样（在该校样上将用户分配给某个工作流）时，他们看到一条“不允许访问”消息。
 hidefromtoc: true
 exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

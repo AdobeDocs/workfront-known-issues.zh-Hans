@@ -1,14 +1,15 @@
 ---
-title: “更新：评论链接重新定向到细节页面”
-description: “当用户在 Workfront 中点击指向对某个对象的评论的链接时，更新流会短暂加载，然后用户将被重定向到该对象的“详细信息”区域。如果用户单击电子邮件中的链接或将链接粘贴到他们的浏览器中，则可能会发生这种情况。”
+title: '更新：评论链接重新定向到细节页面'
+description: 当用户在 Workfront 中点击指向对某个对象的评论的链接时，更新流会短暂加载，然后用户将被重定向到该对象的“详细信息”区域。如果用户单击电子邮件中的链接或将链接粘贴到他们的浏览器中，则可能会发生这种情况。
 hidefromtoc: true
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: ht
+exl-id: b53d1627-3935-44cf-aa82-91c9dd39aabc
+feature: Updates and Notifications
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
 ---
-
 
 # 更新：评论链接重新定向到[!UICONTROL 细节]页面
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 这目前仅影响文档对象。
 
 _首次报告于 2023 年 2 月 6 日。_
-

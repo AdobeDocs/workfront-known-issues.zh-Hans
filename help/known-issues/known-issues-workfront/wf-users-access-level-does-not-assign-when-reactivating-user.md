@@ -1,14 +1,15 @@
 ---
-title: “用户：重新激活用户时未分配访问级别”
-description: “当用户重新激活已停用的用户，并尝试在“重新激活用户”窗口中为他们分配访问级别时，访问级别下拉列表不会随着用户键入内容而填充，并且用户无法选择访问级别。如果用户输入访问级别并保存，则该访问级别不会分配给重新激活的用户。”
+title: '用户：重新激活用户时未分配访问级别'
+description: 当用户重新激活已停用的用户，并尝试在“重新激活用户”窗口中为他们分配访问级别时，访问级别下拉列表不会随着用户键入内容而填充，并且用户无法选择访问级别。如果用户输入访问级别并保存，则该访问级别不会分配给重新激活的用户。
 hidefromtoc: true
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: ht
+exl-id: 190e77c4-4409-4c24-b32c-9d92401aecd4
+feature: People Teams and Groups
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 
 ---
-
 
 # 用户：重新激活用户时未分配访问级别
 
@@ -23,4 +24,3 @@ ht-degree: 100%
 重新激活用户，然后在[!UICONTROL 编辑人物]窗户分配访问级别。
 
 _首次报告于 2023 年 2 月 9 日。_
-

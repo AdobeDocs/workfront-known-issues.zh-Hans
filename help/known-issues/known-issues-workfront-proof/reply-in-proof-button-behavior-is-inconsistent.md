@@ -3,8 +3,9 @@ title: '主页：在验证中回复按钮行为不一致'
 description: 当新  [!DNL Adobe Workfront]  Experience 用户在[!UICONTROL 主页]右侧面板中查看验证，然后在评论中点击[!UICONTROL 在验证中回复]时，显示一个文本框，表明用户可以在[!UICONTROL 文件更新]区域留下更新，而不是按预期跳转到“验证查看器”。
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 

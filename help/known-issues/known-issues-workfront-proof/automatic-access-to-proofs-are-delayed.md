@@ -3,8 +3,9 @@ title: '验证：自动访问验证延迟'
 description: 当用户被分配为具有自动化工作流的验证查看者和审批者时，访问会延迟，并且用户无法访问验证。
 exl-id: 5b6fffed-a9af-4f1f-83a6-d4b992067b3a
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 

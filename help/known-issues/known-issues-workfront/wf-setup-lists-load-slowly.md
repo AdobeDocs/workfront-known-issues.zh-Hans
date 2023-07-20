@@ -3,8 +3,9 @@ title: '设置：在设置中加载列表缓慢'
 description: 当用户在设置区域中并尝试加载列表时，列表的加载速度非常慢。该问题已在设置中的多个区域报告。
 hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

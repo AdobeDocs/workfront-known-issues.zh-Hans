@@ -2,8 +2,9 @@
 title: "验证：审批选项未显示在验证查看器中"
 description: "当用户尝试在桌面验证查看器中批准验证时，在请求审批后不久，审批选项将不可见，并且用户无法批准验证。审批选项在请求审批几小时后显示。"
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

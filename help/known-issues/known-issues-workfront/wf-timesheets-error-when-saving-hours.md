@@ -2,8 +2,9 @@
 title: "时间表：在时间表中记录小时数时出错"
 description: "当用户尝试在其时间表中记录任务的小时数时，不会保存小时数，并且用户会看到错误消息。"
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 

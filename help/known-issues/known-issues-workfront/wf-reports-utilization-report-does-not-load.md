@@ -2,8 +2,9 @@
 title: "报告：利用率报告未加载"
 description: "当客户尝试查看利用率报告时，用户看到旋转加载指示器，但报告未加载。报告返回了 500 错误，但用户未看到报告失败的迹象。"
 hidefromtoc: true
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

@@ -2,8 +2,9 @@
 title: “报告：日期在矩阵报告中显示错误”
 description: “当图表或矩阵报告按日期分组时，分组边缘附近的日期可能会出现在正确的分组、上一个/下一个分组或同时出现在两者中。”
 hidefromtoc: true
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 

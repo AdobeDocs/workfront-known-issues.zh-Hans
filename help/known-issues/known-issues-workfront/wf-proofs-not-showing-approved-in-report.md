@@ -2,7 +2,8 @@
 title: “验证：验证未显示在批准的报表中”
 description: “当用户查看包含验证审批决策的报告时，报告未显示所有已批准验证的已批准决策。 当用户查看验证本身时，他们可以看到它已被批准。”
 hidefromtoc: true
-source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 4%

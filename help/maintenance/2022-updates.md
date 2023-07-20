@@ -1,8 +1,10 @@
 ---
 title: Workfront 维护更新 (2022)
 description: 2022 年 [!DNL Adobe Workfront] 维护更新
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -247,7 +249,7 @@ ht-degree: 100%
 * 已添加到开发周期的任务的某些子任务不会出现在[!UICONTROL 开发周期]页面上。
 * 当用户尝试将缺少的任务添加到开发周期时，不会添加该任务，并且用户看到以下消息：
 
-   “[!UICONTROL 出现以下错误：无法移动以下所选的项目，因为它们未分配给敏捷团队或不是敏捷项目]”
+  “[!UICONTROL 出现以下错误：无法移动以下所选的项目，因为它们未分配给敏捷团队或不是敏捷项目]”
 
 **通过批量编辑分配的任务未出现在团队的积压中**
 

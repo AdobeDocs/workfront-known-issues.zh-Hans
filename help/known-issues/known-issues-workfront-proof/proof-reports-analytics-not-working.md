@@ -3,8 +3,9 @@ title: 'Workfront Proof：不再支持报告选项卡'
 description: 不再支持 Workfront Proof 报告功能。因此，查看 Workfront Proof 中“报告”选项卡的用户会看到不准确的数据，或者根本看不到任何数据。 此是符合预期的行为。“报告”选项卡会在不久的将来移除。
 hidefromtoc: true
 exl-id: e1daf1df-b07b-4869-a57b-f9ce6d4ecaed
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 

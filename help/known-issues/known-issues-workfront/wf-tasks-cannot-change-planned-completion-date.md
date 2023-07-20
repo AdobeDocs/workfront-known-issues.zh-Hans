@@ -1,14 +1,15 @@
 ---
-title: “任务：无法更改任务的规划完成日期”
-description: “当用户尝试更改任务的规划完成日期时，该字段不响应。”
+title: '任务：无法更改任务的规划完成日期'
+description: '当用户尝试更改任务的规划完成日期时，该字段无响应。 '
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: ht
+exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
-
 
 # 任务：无法更改任务的[!UICONTROL 规划完成日期]
 
@@ -31,4 +32,3 @@ ht-degree: 100%
 * 在任务列表中，内联更改[!UICONTROL 规划完成日期]。
 
 _首次报告于 2022 年 10 月 11 日。_
-

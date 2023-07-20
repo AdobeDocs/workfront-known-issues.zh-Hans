@@ -3,8 +3,9 @@ title: '校样：“校样活动”选项卡打开“校样详细信息”'
 description: 当用户查看校样并单击“校样活动”选项卡时，改为打开“校样详细信息”选项卡。当手动将校样阶段添加到工作流时发生这种情况。
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

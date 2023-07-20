@@ -2,8 +2,9 @@
 title: “验证：验证在预览环境中创建缓慢”
 description: “当用户在预览环境中创建验证时，创建验证的速度非常慢。”
 hidefromtoc: true
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 

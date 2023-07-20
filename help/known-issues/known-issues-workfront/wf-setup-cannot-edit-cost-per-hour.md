@@ -2,8 +2,9 @@
 title: "设置：无法编辑工作角色的“成本/小时”或“计费/小时”"
 description: "当用户编辑工作角色并尝试编辑“成本/小时”或“计费/小时”字段时，这些字段为空，用户无法编辑它们。"
 hidefromtoc: true
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

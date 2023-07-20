@@ -2,8 +2,9 @@
 title: 2021 年 Workfront 维护更新
 description: 2021 年  [!DNL Adobe Workfront] 维护更新历史记录
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 

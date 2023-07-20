@@ -3,8 +3,9 @@ title: '报告：在仪表板上查看时无法水平滚动报告'
 description: 如果用户在仪表板上查看报告并尝试水平滚动报告，报表不会滚动，或者列标题滞后于实际列。 如果报告含有大量列，水平滚动可能会锁定页面。
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
-source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 
