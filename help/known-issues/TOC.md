@@ -1,10 +1,11 @@
 ---
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+role: User
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '1335'
-ht-degree: 98%
+source-wordcount: '1352'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：验证未显示在批准的报表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [验证：单击验证时显示“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [文档集成：无法看到中的所有文件夹 [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL 主页]： [!UICONTROL 主页工作列表] 为空/加载缓慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [设置：无法编辑工作角色的“成本/小时”或“计费/小时”](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
