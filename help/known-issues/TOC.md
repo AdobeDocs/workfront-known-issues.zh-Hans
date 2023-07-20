@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1357'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [验证：验证未显示在批准的报表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [验证：单击验证时显示“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [文档集成：无法看到中的所有文件夹 [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
