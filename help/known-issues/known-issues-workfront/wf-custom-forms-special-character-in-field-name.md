@@ -1,14 +1,15 @@
 ---
-title: “自定义表单：如果字段名称包含引号或撇号，则无法在计算中使用字段”
-description: “当用户创建计算字段表达式并尝试包含名称带有撇号或引号的预输入字段时，计算不被接受，并且用户看到消息：这是一个无效的自定义表达式，请尝试再次。”
+title: '自定义表单：如果字段名称包含引号或撇号，则无法在计算中使用字段'
+description: 当用户创建计算字段表达式并尝试包含名称带有撇号或引号的预输入字段时，计算不被接受，并且用户看到消息“这是一个无效的自定义表达式，请重试”。
 hidefromtoc: true
-source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
-workflow-type: ht
+feature: Custom Forms
+exl-id: 7caa6b7a-87ab-40e8-aea2-05b41583a375
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 100%
+ht-degree: 59%
 
 ---
-
 
 # 自定义表单：如果字段名称包含撇号或引号，则无法在计算中使用字段
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 此问题仅存在于预输入字段中。 名称中带有 `'` 或 `"` 的文本字段可以毫无问题地用于计算字段表达式。
 
 _首次报告于 2022 年 11 月 10 日。_
-

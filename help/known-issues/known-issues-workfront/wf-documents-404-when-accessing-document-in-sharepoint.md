@@ -2,9 +2,10 @@
 title: '文档：访问从 SharePoint 链接的文档时出现 404 错误'
 description: 当用户尝试访问通过 SharePoint 链接的文档时，他们被带到一个页面，其中显示 404 错误。
 hidefromtoc: true
+feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 

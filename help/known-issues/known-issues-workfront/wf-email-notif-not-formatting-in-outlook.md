@@ -1,10 +1,11 @@
 ---
 title: ‘电子邮件通知：Outlook 中的电子邮件格式不正确'
 description: 如果使用 Outlook 电子邮件地址的用户的电子邮件设置为不允许自动下载图像，并且他们收到来自  [!DNL Workfront] 的电子邮件通知，则通知中的用户配置文件图像无法正确显示，图像名称有时会垂直显示。手动下载这些图像并不能解决格式问题。
+feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 100%
 

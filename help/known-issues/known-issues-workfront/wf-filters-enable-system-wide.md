@@ -1,9 +1,10 @@
 ---
 title: "筛选条件：“在系统范围启用”和“查看系统范围的”表示不同的功能"
 description: "如果用户共享一个筛选条件并启用[!UICONTROL 查看系统范围的]选项，则将与系统中的每个用户共享该筛选条件。不过，如果管理员随后在[!UICONTROL 设置]中查看该筛选条件，他们会看到该筛选条件在[!UICONTROL 系统范围可见]列中显示 [!UICONTROL false]。要将该筛选条件设置为系统默认值，管理员必须在“设置”中启用[!UICONTROL 在系统范围启用]选项。由于措辞相似，这可能会引起一些混淆。"
+feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 

@@ -2,7 +2,8 @@
 title: “主页：主页工作列表为空/加载缓慢”
 description: “当用户尝试查看其主页工作列表时，页面会在加载时长时间为空白。 加载可能需要几分钟时间，在此期间，工作列表为空。”
 hidefromtoc: true
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 5%

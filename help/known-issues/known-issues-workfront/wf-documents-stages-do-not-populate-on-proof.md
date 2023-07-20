@@ -1,10 +1,11 @@
 ---
 title: '校样：[!UICONTROL 主要校样阶段]字段为空'
 description: 当用户创建验证，然后在[!UICONTROL 文档版本]或者[!UICONTROL 验证审批]等报告中查看该验证时，他们看到[!UICONTROL 主要验证阶段]字段为空。 在文档上传后创建验证时，无论是作为[!UICONTROL 简单验证]还是具有[!UICONTROL 基本工作流]的[!UICONTROL 高级验证]，都会发生这种情况。
+feature: Digital Content and Documents
 hidefromtoc: true
 exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 

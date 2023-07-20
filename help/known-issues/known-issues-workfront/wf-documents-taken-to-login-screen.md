@@ -2,9 +2,10 @@
 title: '文档：校样活动选项会导向登录页面'
 description: “当用户查看文档详细信息页面并单击校对活动菜单中的选项时，用户会被定向到登录页面而不是预期的目标页面。”
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 

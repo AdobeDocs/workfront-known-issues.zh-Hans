@@ -3,8 +3,9 @@ title: '筛选器：无法在仪表板上共享报告中的筛选器'
 description: 当用户在仪表板上查看报告并尝试共享此报告中的筛选器时，他们无法共享该筛选器。单击三个点将使仪表板跳转到下一个报告，当用户向上回滚到预期报告时，他们看到尚未打开“共享”选项。
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 100%
 

@@ -3,8 +3,9 @@ title: '主页：自定义术语不适用于”主页“区域'
 description: 主页区域显示对象的默认名称，而非组织设置的术语。 该问题已在多个区域报告。
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 

@@ -2,9 +2,10 @@
 title: '审批：为不正确的天数设置了审批委派'
 description: 当用户安排”个人休息时间“并委派响应审批时，审批委派可能包括安排的休息时间之前或之后的天数。
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
+feature: Approvals
 hidefromtoc: true
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 

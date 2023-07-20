@@ -3,8 +3,9 @@ title: '主页：刷新后审批委派日期发生变化并发送 2 封电子邮
 description: 当用户将审批委派给不同时区的用户时，委派似乎已成功保存，并且被委派用户会收到一封包含正确日期的电子邮件通知。 但是，如果他们刷新页面，就会看到开始日期推迟了 1 天，而结束日期提前了 1 天，并且用户还会收到另一封包含已变更日期的电子邮件通知。
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Approvals
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
 

@@ -2,9 +2,10 @@
 title: “电子邮件通知：用户未定向到评论会话”
 description: 当用户单击电子邮件通知中的“评论”链接时，跳转到顶部[!UICONTROL 更新]区域而非他们试图回复的评论会话区。
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
+feature: Updates and Notifications
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 

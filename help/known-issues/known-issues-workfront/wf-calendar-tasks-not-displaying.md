@@ -2,9 +2,10 @@
 title: '日程表：未显示任务'
 description: 当用户拥有具有相同过滤器的列表报告和日程表报告时，他们会看到某些任务显示在列表报告中，但未显示在日程表报告中。
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
+feature: Reports and Dashboards
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 

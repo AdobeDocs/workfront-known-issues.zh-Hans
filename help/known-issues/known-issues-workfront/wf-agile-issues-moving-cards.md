@@ -2,9 +2,10 @@
 title: '''敏捷：在“敏捷”展示板移动信息卡时的问题‘'
 description: 在敏捷展示板上移动信息卡时报告了各种问题。
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
+feature: Agile
 hidefromtoc: true
-source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 

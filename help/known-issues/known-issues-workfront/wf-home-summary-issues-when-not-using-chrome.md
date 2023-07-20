@@ -3,8 +3,9 @@ title: '主页：当使用非 Chrome 浏览器时，出现主页摘要问题'
 description: 当用户查看其主页并使用 Chrome 以外的浏览器时，他们可能会看到各种问题。
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
