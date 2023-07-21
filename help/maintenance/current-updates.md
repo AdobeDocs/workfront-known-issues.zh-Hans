@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '4258'
-ht-degree: 98%
+source-wordcount: '4218'
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,7 @@ ht-degree: 98%
 
 +++**2023 年 7 月 20 日维护更新**
 
-**为子周期性任务设置计划小时数 [!UICONTROL 简单] 无分配的持续时间类型**
-
-_任务_
-
-现在，当您使用为新父周期性任务设置计划小时数时 [!UICONTROL 简单] 持续时间类型和无分配，小时数也会添加到单个重复次数。 在此更改之前，当父任务未分配时，没有为重复项保存小时数。
+此更新仅包含次要或影响不大的错误修复。[!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
 
 +++
 

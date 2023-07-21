@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 93%
+source-wordcount: '625'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：下载时出现XML错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 7 月 21 日 |
+| [项目/问题：项目无法正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md) | 2023 年 7 月 21 日 |
 | [验证：验证未显示在批准的报表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
 | [验证：单击验证时显示“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 | [[!UICONTROL 主页]： [!UICONTROL 主页工作列表] 为空/加载缓慢](known-issues-workfront/wf-home-blank-slow-to-load.md) | 2023 年 7 月 18 日 |
