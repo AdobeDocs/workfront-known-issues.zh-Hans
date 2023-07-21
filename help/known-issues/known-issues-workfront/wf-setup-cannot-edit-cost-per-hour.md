@@ -3,9 +3,9 @@ title: "设置：无法编辑工作角色的“成本/小时”或“计费/小�
 description: "当用户编辑工作角色并尝试编辑“成本/小时”或“计费/小时”字段时，这些字段为空，用户无法编辑它们。"
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 100%
 
 # 设置：无法编辑工作角色的“成本/小时”或“计费/小时”
 
+
+
 >[!NOTE]
 >
->仅在预览环境中发现此问题。
+>产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
 
 当用户编辑工作角色并尝试编辑“成本/小时”或“计费/小时”字段时，这些字段为空，用户无法编辑它们。
 

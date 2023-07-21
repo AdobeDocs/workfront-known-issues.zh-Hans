@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '1370'
-ht-degree: 96%
+source-wordcount: '1376'
+ht-degree: 97%
 
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：当前不支持的EPS文件](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [文档：下载时出现XML错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [项目/问题：项目无法正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [验证：验证未显示在批准的报表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [验证：单击验证时显示“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
-      + [文档集成：无法看到中的所有文件夹 [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
-      + [[!UICONTROL 主页]： [!UICONTROL 主页工作列表] 为空/加载缓慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
+      + [文档集成：无法看到  [!DNL OneDrive] 中的所有文件夹](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [[!UICONTROL 主页]：[!UICONTROL 主页工作列表]为空/加载缓慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [设置：无法编辑工作角色的“成本/小时”或“计费/小时”](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md)
       + [项目/任务/问题：时间线未重新计算](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
