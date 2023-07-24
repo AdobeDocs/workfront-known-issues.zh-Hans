@@ -4,7 +4,7 @@ description: "当用户尝试为任务列表中的某个任务重新排序，而
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
 ht-degree: 100%
 
