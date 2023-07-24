@@ -4,7 +4,7 @@ description: “当图表或矩阵报告按日期分组时，分组边缘附近�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
