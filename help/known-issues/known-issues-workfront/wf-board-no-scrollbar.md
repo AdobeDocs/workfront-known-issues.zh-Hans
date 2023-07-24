@@ -4,7 +4,7 @@ description: “当用户查看展示板并尝试水平滚动时，滚动条不�
 feature: Agile
 hidefromtoc: true
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
