@@ -2,7 +2,7 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 96%
@@ -17,7 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [文档：文档审批未显示在审批区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [文档：文档审批未出现在 [!UICONTROL 审批] 区域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [文档：当前不支持的EPS文件](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [文档：下载时出现XML错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [项目/问题：项目无法正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md)
