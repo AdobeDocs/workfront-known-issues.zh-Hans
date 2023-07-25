@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '4218'
-ht-degree: 100%
+source-wordcount: '4304'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,16 @@ ht-degree: 100%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 7 月更新
+
++++**（已规划）2023 年 7 月 27 日维护更新**
+
+**”[!UICONTROL 在系统范围内启用]“ ”和“ ”[!UICONTROL 查看系统范围]”代表不同的功能**
+
+_过滤器_
+
+&quot;如果用户共享一个筛选条件并启用[!UICONTROL 查看系统范围的]选项，则将与系统中的每个用户共享该筛选条件。不过，如果管理员随后在[!UICONTROL 设置]中查看该筛选条件，他们会看到该筛选条件在[!UICONTROL 系统范围可见]列中显示 [!UICONTROL false]。要将该筛选条件设置为系统默认值，管理员必须在[!UICONTROL 设置]中启用[!UICONTROL 在系统范围启用]选项。由于措辞相似，这可能会引起一些混淆。
+
++++
 
 +++**2023 年 7 月 20 日维护更新**
 
