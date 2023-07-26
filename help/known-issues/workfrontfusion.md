@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '124'
-ht-degree: 100%
+source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 无 |  |
+| [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] 筛选](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md) | 2023 年 7 月 26 日 |
 
 {style="table-layout:auto"}
 
