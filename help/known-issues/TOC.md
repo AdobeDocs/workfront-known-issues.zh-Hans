@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 95%
+source-wordcount: '1402'
+ht-degree: 98%
 
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [任务/问题：已分配用户未获得对对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [文档：文档审批未显示在 [!UICONTROL 审批] 区域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [文档：当前不支持的EPS文件](known-issues-workfront/wf-documents-not-supporting-eps.md)
-      + [文档：下载时出现XML错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [项目/问题：项目无法正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [文档：目前不支持 EPS 文件](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [文档：下载时出现 XML 错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [项目/问题：项目未正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [验证：验证未显示在批准的报表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [验证：单击验证时显示“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [文档集成：无法看到  [!DNL OneDrive] 中的所有文件夹](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL 主页]：[!UICONTROL 主页工作列表]为空/加载缓慢](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [设置：无法编辑工作角色的“成本/小时”或“计费/小时”](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
@@ -96,7 +97,7 @@ ht-degree: 95%
       + [设置：无法保存电子邮件模板](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [文档：无法恢复已删除的文档](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [文档：上载大文件时出错](known-issues-workfront/wf-documents-large-uploads-fail.md)
-      + [文档：无法从  [!DNL Google Drive]添加文档](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [文档：无法从  [!DNL Google Drive] 添加文档](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [文档：当父项问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [报告：报告使用报告创建程序而不是通配符 &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [集成：无法打开  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
@@ -176,10 +177,10 @@ ht-degree: 95%
       + [[!DNL Workfront Fusion]：“[!UICONTROL 无法执行更新]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：不发送通知电子邮件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]：执行遭遇停滞或推迟](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Workfront Fusion]：场景执行历史不显示整个历史](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
+      + [[!DNL Workfront Fusion]：场景执行历史记录不显示整个历史记录](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中出现超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront 模块中出现 404 错误](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
-      + [[!DNL Workfront Fusion]：在场景执行历史记录中查看错误时出错](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
+      + [[!DNL Workfront Fusion]：在场景执行历史记录记录中查看错误时出错](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法验证连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
