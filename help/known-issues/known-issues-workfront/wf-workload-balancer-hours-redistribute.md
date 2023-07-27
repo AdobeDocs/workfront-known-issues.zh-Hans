@@ -4,7 +4,7 @@ description: "当为特定任务分配小时数时，可能会意外地重新计
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
