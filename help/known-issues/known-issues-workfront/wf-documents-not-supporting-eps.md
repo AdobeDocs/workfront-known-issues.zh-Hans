@@ -1,24 +1,28 @@
 ---
-title: “文档：当前不支持的EPS文件”
-description: “Workfront当前不支持从EPS文件创建验证。”
+title: “文档：目前不支持 EPS 文件”
+description: “Workfront 目前不支持从 EPS 文件创建验证。”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0094ecfc0db68c446bd6e63323caeac75d9593eb
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 8%
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
 
-# 文档：当前不支持的EPS文件
+# 文档：目前不支持 EPS 文件
 
 <!--WF, WFP-->
 
-Workfront当前不支持从EPS文件创建验证。
+>[!NOTE]
+>
+>此问题已于 2023 年 7 月 27 日修复。
+
+Workfront 目前不支持从 EPS 文件创建验证。
 
 **解决方法**
 
-将文件导出为PDF，然后将PDF上传到Workfront。 然后，您可以从PDF创建验证。
+将文件导出为 PDF，并将 PDF 上传到 Workfront。然后您可以从 PDF 创建验证。
 
 _首次报告于 2023 年 7 月 19 日。_

@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 89%
+source-wordcount: '332'
+ht-degree: 97%
 
 ---
 
@@ -25,10 +25,9 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：文档审批未出现在 [!UICONTROL 审批] 区域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
-| [文档：下载时出现XML错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 7 月 21 日 |
-| [验证：验证未显示在批准的报表中](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
-| [验证：单击验证时显示“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
+| [文档：文档审批未显示在 [!UICONTROL 审批] 区域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
+| [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
+| [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +37,6 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：当前不支持的EPS文件](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023 年 7 月 21 日 |
 | [验证：锁定的验证批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
 | [验证：审批选项未显示在[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中 | 2023 年 6 月 26 日 |
 

@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
 workflow-type: tm+mt
-source-wordcount: '647'
-ht-degree: 97%
+source-wordcount: '615'
+ht-degree: 96%
 
 ---
 
@@ -27,10 +27,7 @@ ht-degree: 97%
 | -----------------------------------------------------------------| ----------------- |
 | [任务/问题：已分配用户未获得对对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
 | [文档：文档审批未显示在 [!UICONTROL 审批] 区域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
-| [文档：下载时出现 XML 错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 7 月 21 日 |
-| [项目/问题：项目未正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md) | 2023 年 7 月 21 日 |
-| [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
-| [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
+| s | [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 | [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 6 月 28 日 |
 
 {style="table-layout:auto"}
@@ -41,10 +38,9 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：目前不支持 EPS 文件](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023 年 7 月 21 日 |
+| [项目/问题：项目未正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md) | 2023 年 7 月 27 日 |
 | [验证：锁定的验证批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 主页]：项目未出现在[!UICONTROL 主页工作列表中]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 2023 年 7 月 21 日 |
-| [筛选条件：“[!UICONTROL 在系统范围启用]”和“[!UICONTROL 查看系统范围的]”表示不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023 年 6 月 27 日 |
 | [验证：审批选项未显示在[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中 | 2023 年 6 月 26 日 |
 | [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
