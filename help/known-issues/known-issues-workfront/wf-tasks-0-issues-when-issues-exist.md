@@ -1,13 +1,13 @@
 ---
-title: '问题：出现问题时显示左侧导航(0)问题'
-description: 当用户查看存在问题的任务时，任务的左侧导航在问题区域中显示(0)，这表示没有问题。 如果用户查看任务的问题区域，他们将看到问题。
+title: ‘问题：当出现问题时，左侧导航显示 (0) 问题’
+description: 当用户查看存在问题的任务时，任务的左侧导航在问题区域中显示 (0)，这表示没有问题。如果用户查看任务的问题区域，他们将看到问题。
 hidefromtoc: true
 exl-id: 96fd8e29-3184-4423-bf6e-dbe2f9d8e154
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
