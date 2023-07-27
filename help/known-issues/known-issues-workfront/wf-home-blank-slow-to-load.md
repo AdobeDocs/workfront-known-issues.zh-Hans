@@ -4,7 +4,7 @@ description: “当用户尝试查看其主页工作列表时，页面加载时�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
