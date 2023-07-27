@@ -1,11 +1,11 @@
 ---
-title: '项目：从模板创建项目时主组自定义状态不可用'
-description: ”
+title: ‘项目：从模板创建项目时主组自定义状态不可用’
+description: ''
 hidefromtoc: true
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
 feature: Projects
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
