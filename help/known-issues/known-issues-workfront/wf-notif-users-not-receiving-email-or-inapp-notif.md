@@ -1,13 +1,13 @@
 ---
-title: '通知：用户在注释中被提及或包含时不会收到电子邮件或应用程序内通知'
+title: ‘通知：用户在注释中被提及或包含时不会收到电子邮件或应用程序内通知’
 description: 当用户在对象更新流的注释或更新中被提及或包含时，不会收到有关注释的预期的电子邮件或应用程序内通知。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
