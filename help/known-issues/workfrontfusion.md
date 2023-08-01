@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] 筛选](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md) | 2023 年 7 月 26 日 |
+| [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] 筛选条件](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md) | 2023 年 7 月 26 日 |
 
 {style="table-layout:auto"}
 
