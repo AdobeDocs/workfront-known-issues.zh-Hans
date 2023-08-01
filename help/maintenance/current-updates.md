@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4410'
-ht-degree: 99%
+source-wordcount: '4451'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 99%
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
-## 2023 年 7 月更新
+## 2023 年 8 月更新
 
-+++**（已规划）2023 年 7 月 27 日维护更新**
++++**（已计划）2023年8月3日维护更新**
 
 **项目无法正确解决问题**
 
@@ -45,6 +45,12 @@ _报告_
 ## 2023 年 7 月更新
 
 +++**2023 年 7 月 27 日维护更新**
+
+**标记和清单项目在项目展示板视图中无法正常工作**
+
+_展示板_
+
+标记和清单项目已从项目的面板视图中移除，因为它们不是Workfront任务的一部分，无法在用户之间共享。
 
 **“[!UICONTROL 在系统范围启用]”和“[!UICONTROL 在系统范围查看]”表示不同的功能**
 
