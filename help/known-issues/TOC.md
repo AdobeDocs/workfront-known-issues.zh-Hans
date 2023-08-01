@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
 source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1001'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [任务/问题：已分配用户未获得对对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
-      + [文档：文档审批未显示在 [!UICONTROL 审批] 区域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [任务/问题：分配的用户未获得对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
+      + [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [文档：目前不支持 EPS 文件](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [文档：下载时出现 XML 错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [项目/问题：项目未正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md)
@@ -61,8 +61,8 @@ ht-degree: 97%
       + [文档：访问从  [!DNL SharePoint] 链接的文档时出现 404 错误](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [过滤器：刷新页面时未应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
-      + [[!UICONTROL 工作负载平衡器]：小时数不会根据用户休假时间进行调整](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + [[!UICONTROL 更新]：无法在[!UICONTROL 更新]区域记录当天的时间](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [[!UICONTROL 工作负载平衡器]：小时数不调整以解释用户休假时间](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [[!UICONTROL 更新]：无法在[!UICONTROL 更新]区域中记录当天的时间](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Workload Balancer：同时使用多个筛选器时结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [项目：从问题转化的项目不从作品集或程序继承权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
@@ -74,7 +74,7 @@ ht-degree: 97%
       + [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [自定义表单：跨对象自定义表单需要[!UICONTROL 管理]或者[!UICONTROL 编辑]权限来编辑字段](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [验证：打印摘要不显示图像缩略图](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [校样：打印摘要不显示图像缩略图](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [任务：无法更改任务的[!UICONTROL 规划完成日期]](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API：无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [问题：当出现问题时，左侧导航显示“(0)”问题](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
@@ -112,7 +112,7 @@ ht-degree: 97%
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
       + [验证：验证在预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof]：搜索未返回任何结果](known-issues-workfront-proof/proof-search-returns-no-results.md)
+      + [[!DNL Workfront Proof]：搜索不返回任何结果](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]：不再支持[!UICONTROL 报告]区域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [验证：在验证评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -132,7 +132,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [[!DNL Workfront Fusion]：无法在中输入值 [!DNL Workfront] > [!UICONTROL 观看活动] 筛选](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
+      + [[!DNL Workfront Fusion]：无法在 [!DNL Workfront] > [!UICONTROL 监测活动]筛选条件中输入值](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]：“[!UICONTROL 无法执行更新]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：不发送通知电子邮件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]：执行遭遇停滞或推迟](known-issues-workfront-fusion/fusion-stuck-executions.md)
