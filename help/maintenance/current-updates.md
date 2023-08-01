@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
-workflow-type: ht
-source-wordcount: '4303'
-ht-degree: 100%
+source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+workflow-type: tm+mt
+source-wordcount: '4410'
+ht-degree: 99%
 
 ---
 
@@ -19,6 +19,28 @@ ht-degree: 100%
 >这些更新还包括其他次要或不太突出的错误修复。 [!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
+
+## 2023 年 7 月更新
+
++++**（已规划）2023 年 7 月 27 日维护更新**
+
+**项目无法正确解决问题**
+
+_项目/问题_
+
+当用户更改作为问题解决对象的项目的状态时，问题状态将更改为与项目状态不匹配的状态。
+
+**矩阵报告出现“糟糕”错误**
+
+_报告_
+
+当用户尝试查看矩阵报告时，报告无法加载，并且用户看到以下错误消息：
+
+“[!UICONTROL 糟糕！ 出现问题。 请联系 Workfront，以便我们找出错误并加以修复。]”
+
+欧洲、中东和非洲地区的用户已报告过此问题。
+
++++
 
 ## 2023 年 7 月更新
 
