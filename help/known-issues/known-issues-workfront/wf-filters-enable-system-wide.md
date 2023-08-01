@@ -4,9 +4,9 @@ description: "如果用户共享一个筛选条件并启用[!UICONTROL 查看系
 feature: System Setup and Administration
 hidefromtoc: true
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此问题已于2023年7月27日修复
+>此问题已于 2023 年 7 月 27 日修复
 
 &quot;如果用户共享一个筛选条件并启用[!UICONTROL 查看系统范围的]选项，则将与系统中的每个用户共享该筛选条件。不过，如果管理员随后在[!UICONTROL 设置]中查看该筛选条件，他们会看到该筛选条件在[!UICONTROL 系统范围可见]列中显示 [!UICONTROL false]。要将该筛选条件设置为系统默认值，管理员必须在[!UICONTROL 设置]中启用[!UICONTROL 在系统范围启用]选项。由于措辞相似，这可能会引起一些混淆。
 
