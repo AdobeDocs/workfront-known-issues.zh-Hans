@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '615'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [任务/问题：已分配用户未获得对对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
-| [文档：文档审批未显示在 [!UICONTROL 审批] 区域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
+| [任务/问题：分配的用户未获得对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
+| [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
 | s | [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 | [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 6 月 28 日 |
 
