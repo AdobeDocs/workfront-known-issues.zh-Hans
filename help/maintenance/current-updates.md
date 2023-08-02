@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4451'
-ht-degree: 98%
+source-wordcount: '4509'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,24 @@ ht-degree: 98%
 ## 2023 年 8 月更新
 
 +++**（已计划）2023年8月3日维护更新**
+
+**在摄取列中查找项目时出现困难**
+
+_展示板_
+
+展示板上的摄取列以前按任务和问题中定义的优先级排序，这使得查找特定项目变得困难。
+
+默认排序现在如下所示：
+
+任务:
+
+* 主要订单：项目名称
+* 辅助顺序：工作细分结构
+
+问题
+
+* 主要订单：项目名称
+* 辅助订单：参考编号
 
 **项目无法正确解决问题**
 

@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
-workflow-type: ht
-source-wordcount: '1001'
-ht-degree: 100%
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+workflow-type: tm+mt
+source-wordcount: '1046'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：创建新验证版本会删除验证的所有版本](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [验证：已批准的验证仍保留在审批者的上 [!UICONTROL 主页工作列表]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [验证：顶部被剪切的验证显示](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [主页：无法删除 [!UICONTROL 待办事项] 新建中的项目 [!UICONTROL 主页] 体验](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [验证：无法在列表或项目符号中选择文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [任务/问题：分配的用户未获得对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [文档：目前不支持 EPS 文件](known-issues-workfront/wf-documents-not-supporting-eps.md)

@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: ht
-source-wordcount: '615'
-ht-degree: 100%
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+workflow-type: tm+mt
+source-wordcount: '665'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：已批准的验证仍保留在审批者的上 [!UICONTROL 主页工作列表]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 8 月 2 日 |
+| [验证：顶部被剪切的验证显示](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 2 日 |
+| [验证：无法在列表或项目符号中选择文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 2 日 |
 | [任务/问题：分配的用户未获得对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
 | [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
 | s | [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
@@ -38,6 +41,8 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：创建新验证版本会删除验证的所有版本](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
+| [主页：无法删除 [!UICONTROL 待办事项] 新建中的项目 [!UICONTROL 主页] 体验](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023 年 8 月 2 日 |
 | [项目/问题：项目未正确解决问题](known-issues-workfront/wf-projects-resolving-issue.md) | 2023 年 7 月 27 日 |
 | [验证：锁定的验证批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 主页]：项目未出现在[!UICONTROL 主页工作列表中]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 2023 年 7 月 21 日 |

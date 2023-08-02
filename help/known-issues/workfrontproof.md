@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: ht
-source-wordcount: '332'
-ht-degree: 100%
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+workflow-type: tm+mt
+source-wordcount: '360'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：已批准的验证仍保留在审批者的上 [!UICONTROL 主页工作列表]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 8 月 2 日 |
+| [验证：顶部被剪切的验证显示](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 2 日 |
+| [验证：无法在列表或项目符号中选择文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 2 日 |
 | [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
 | [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
 | [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
