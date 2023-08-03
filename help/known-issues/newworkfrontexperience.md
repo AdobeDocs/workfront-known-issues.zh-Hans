@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 91%
+source-wordcount: '650'
+ht-degree: 90%
 
 ---
 
@@ -31,8 +31,6 @@ ht-degree: 91%
 | [验证：无法在列表或项目符号中选择文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 2 日 |
 | [任务/问题：分配的用户未获得对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
 | [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
-| s | [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
-| [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 6 月 28 日 |
 
 {style="table-layout:auto"}
 
@@ -42,12 +40,11 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年8月3日 |
 | [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023年8月3日 |
 | [验证：创建新验证版本会删除验证的所有版本](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
 | [主页：无法删除 [!UICONTROL 待办事项] 新建中的项目 [!UICONTROL 主页] 体验](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023 年 8 月 2 日 |
-| [验证：锁定的验证批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 主页]：项目未出现在[!UICONTROL 主页工作列表中]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 2023 年 7 月 21 日 |
-| [验证：审批选项未显示在[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中 | 2023 年 6 月 26 日 |
 | [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
@@ -59,6 +56,7 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日 |
 | [设置：无法编辑工作角色的“成本/小时”或“计费/小时”](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [文档集成：无法看到  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) 中的所有文件夹 | 2023 年 7 月 18 日 |

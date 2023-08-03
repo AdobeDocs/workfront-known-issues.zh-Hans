@@ -3,15 +3,19 @@ title: “展示板：水平滚动条不存在”
 description: “当用户查看展示板并尝试水平滚动时，滚动条不存在，并且用户无法水平滚动。”
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
-source-wordcount: '75'
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
 
 # 展示板：水平滚动条不存在
+
+>[!NOTE]
+>
+>此问题已于 2023 年 7 月 13 日修复。
 
 当用户查看展示板并尝试水平滚动时，滚动条不存在，并且用户无法水平滚动。
 

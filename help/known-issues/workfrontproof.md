@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 90%
+source-wordcount: '362'
+ht-degree: 89%
 
 ---
 
@@ -31,7 +31,6 @@ ht-degree: 90%
 | [验证：无法在列表或项目符号中选择文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 2 日 |
 | [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
 | [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 7 月 20 日 |
-| [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 7 月 20 日 |
 
 {style="table-layout:auto"}
 
@@ -41,9 +40,8 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年8月3日 |
 | [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023年8月3日 |
-| [验证：锁定的验证批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023 年 7 月 21 日 |
-| [验证：审批选项未显示在[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中 | 2023 年 6 月 26 日 |
 
 {style="table-layout:auto"}
 
@@ -53,6 +51,7 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日 |
 | [验证：验证在预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023 年 6 月 9 日 |
 | [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] ，通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023 年 5 月 25 日 |
