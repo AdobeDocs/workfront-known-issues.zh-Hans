@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 90%
+source-wordcount: '661'
+ht-degree: 89%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [项目：固定项目未在某些列中显示信息](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 2023年8月4日 |
 | [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年8月3日 |
 | [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023年8月3日 |
 | [验证：创建新验证版本会删除验证的所有版本](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
