@@ -4,7 +4,7 @@ description: “当用户查看包含验证批准决策的报告时，该报告�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
 
