@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '1095'
-ht-degree: 97%
+source-wordcount: '1115'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报告：加载Matrix报告时的问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [验证：验证上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [验证： “[!UICONTROL 禁用验证电子邮件通知]”设置显示不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [项目：无法通过使用的URL导航到项目 [!UICONTROL 参考ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [展示板：加载展示板时的问题](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [项目：固定项目未在某些列中显示信息](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
