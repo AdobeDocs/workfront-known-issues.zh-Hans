@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 92%
+source-wordcount: '1095'
+ht-degree: 97%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [项目：无法通过使用的URL导航到项目 [!UICONTROL 参考ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [展示板：加载展示板时的问题](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [项目：固定项目未在某些列中显示信息](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [验证：验证无法生成](known-issues-workfront/wf-proofs-fail-to-generate.md)
-      + [验证：创建新验证版本会删除验证的所有版本](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
-      + [验证：已批准的验证仍保留在审批者的上 [!UICONTROL 主页工作列表]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
-      + [验证：顶部被剪切的验证显示](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
-      + [主页：无法删除 [!UICONTROL 待办事项] 新建中的项目 [!UICONTROL 主页] 体验](known-issues-workfront/wf-home-cannot-delete-todo.md)
-      + [验证：无法在列表或项目符号中选择文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
+      + [验证：创建新的验证版本会删除所有版本的验证](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [验证：批准的验证保留在审批者的[!UICONTROL 主页工作列表]中](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [验证：验证显示，顶部被切断](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [主页：无法删除新[!UICONTROL 主页]体验中的[!UICONTROL 待办事项]](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [验证：无法选择列表或项目符号中的文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [任务/问题：分配的用户未获得对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [文档：目前不支持 EPS 文件](known-issues-workfront/wf-documents-not-supporting-eps.md)
@@ -141,8 +142,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [[!DNL Workfront Fusion]：导致场景挂起的睡眠模块](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
-      + [[!DNL Workfront Fusion]：场景因“”失败[!UICONTROL 读取ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
+      + [[!DNL Workfront Fusion]：睡眠模块导致场景挂起](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]：无法在 [!DNL Workfront] > [!UICONTROL 监测活动]筛选条件中输入值](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]：“[!UICONTROL 无法执行更新]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：不发送通知电子邮件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)

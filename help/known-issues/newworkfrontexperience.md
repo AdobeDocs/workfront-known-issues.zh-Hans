@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 88%
+source-wordcount: '680'
+ht-degree: 96%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [展示板：加载展示板时的问题](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023年8月7日 |
-| [验证：验证无法生成](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023年8月3日 |
-| [验证：已批准的验证仍保留在审批者的上 [!UICONTROL 主页工作列表]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023 年 8 月 2 日 |
-| [验证：顶部被剪切的验证显示](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 2 日 |
-| [验证：无法在列表或项目符号中选择文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 2 日 |
+| [展示板：加载展示板时的问题](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 7 日 |
+| [验证：验证无法生成](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 3 日 |
+| [验证：批准的验证保留在审批者的[!UICONTROL 主页工作列表]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)中 | 2023 年 8 月 2 日 |
+| [验证：验证显示，顶部被切断](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 2 日 |
+| [验证：无法选择列表或项目符号中的文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 2 日 |
 | [任务/问题：分配的用户未获得对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023 年 7 月 27 日 |
 | [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 7 月 25 日 |
 
@@ -41,11 +41,12 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [项目：固定项目未在某些列中显示信息](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 2023年8月4日 |
-| [验证：点击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年8月3日 |
-| [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023年8月3日 |
-| [验证：创建新验证版本会删除验证的所有版本](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
-| [主页：无法删除 [!UICONTROL 待办事项] 新建中的项目 [!UICONTROL 主页] 体验](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023 年 8 月 2 日 |
+| [项目：无法通过使用的URL导航到项目 [!UICONTROL 参考ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 2023 年 8 月 8 日 |
+| [项目：固定项目未在某些列中显示信息](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 2023 年 8 月 4 日 |
+| [验证：单击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 8 月 3 日 |
+| [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 3 日 |
+| [验证：创建新的验证版本会删除所有版本的验证](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
+| [主页：无法删除新[!UICONTROL 主页]体验中的[!UICONTROL 待办事项]](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023 年 8 月 2 日 |
 | [[!UICONTROL 主页]：项目未出现在[!UICONTROL 主页工作列表中]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 2023 年 7 月 21 日 |
 | [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
@@ -58,11 +59,11 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日 |
+| [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [设置：无法编辑工作角色的“成本/小时”或“计费/小时”](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [文档集成：无法看到  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) 中的所有文件夹 | 2023 年 7 月 18 日 |
-| [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
+| [校对：校对在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023 年 5 月 5 日 |
 | [文档：[!UICONTROL 验证活动]选项引向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [筛选器：无法在仪表板上共享报告中的筛选器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
