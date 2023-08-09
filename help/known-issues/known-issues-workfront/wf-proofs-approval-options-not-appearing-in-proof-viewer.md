@@ -4,7 +4,7 @@ description: "当用户尝试在桌面验证查看器中批准验证时，在请
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
