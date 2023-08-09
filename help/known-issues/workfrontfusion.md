@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：导致场景挂起的睡眠模块](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | 2023年8月3日 |
-| [[!DNL Workfront Fusion]：场景因“”失败[!UICONTROL 读取ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023年8月3日 |
+| [[!DNL Workfront Fusion]：睡眠模块导致场景挂起](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | 2023 年 8 月 3 日 |
+| [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023 年 8 月 3 日 |
 
 {style="table-layout:auto"}
 
