@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '1127'
-ht-degree: 94%
+source-wordcount: '1147'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：验证颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL 主页]： &quot;[!UICONTROL 提及]新增“ ”构件 [!UICONTROL 主页] 不限于标记了用户的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作负载均衡器]： [!UICONTROL 总小时数] 不匹配总和 [!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [报告：加载Matrix报告时的问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [验证：验证上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
