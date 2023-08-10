@@ -3,9 +3,9 @@ title: "验证：审批选项未显示在验证查看器中"
 description: "当用户尝试在桌面验证查看器中批准验证时，在请求审批后不久，审批选项将不可见，并且用户无法批准验证。审批选项在请求审批几小时后显示。"
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+workflow-type: tm+mt
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->由于无法重现，此问题已关闭。
+>产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
 
 当用户尝试在[!UICONTROL 桌面验证查看器]中批准验证时，在请求审批后不久，审批选项将不可见，并且用户无法批准验证。审批选项在请求审批几小时后显示。
 
