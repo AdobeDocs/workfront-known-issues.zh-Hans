@@ -4,14 +4,18 @@ description: ''
 hidefromtoc: true
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
 feature: Projects
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 # 项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用
+
+>[!NOTE]
+>
+>此问题已于 2023 年 8 月 10 日修复。
 
 当用户从模板创建项目并且该模板没有关联组时，与用户的[!UICONTROL 主组]关联的自定义状态在“[!UICONTROL 创建项目]”界面的[!UICONTROL 状态]下拉菜单中不可用。
 

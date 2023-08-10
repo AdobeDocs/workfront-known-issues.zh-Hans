@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: ht
-source-wordcount: '138'
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：睡眠模块导致场景挂起](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md) | 2023 年 8 月 3 日 |
 | [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023 年 8 月 3 日 |
 
 {style="table-layout:auto"}
