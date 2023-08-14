@@ -1,19 +1,19 @@
 ---
-title: “项目：无法导航到URL使用引用ID的项目”
-description: “当用户尝试使用包含参考ID号的URL导航到项目时，他们被重定向到显示错误消息的页面。 使用带有引用ID的URL导航到任务可以按预期运行。”
+title: "项目：无法导航到其 URL 中使用了参考 ID 的项目"
+description: "当用户尝试使用包括参考 ID 数字的 URL 导航到项目时，用户被重定向到一个页面，其中显示一条错误消息。使用带有参考 ID 的 URL 导航到任务如预期的那样正常工作。"
 hidefromtoc: true
 feature: Projects
 source-git-commit: fcfc91f8e35e4bbb614193c9643eda456e4a5589
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# 项目：无法通过使用的URL导航到项目 [!UICONTROL 参考ID]
+# 项目：无法导航到其 URL 中使用了[!UICONTROL 参考 ID] 的项目
 
-当用户尝试使用包含的URL浏览项目时 [!UICONTROL 参考ID] 编号，它们将被重定向到显示错误消息的页面。 使用带有的URL导航到任务 [!UICONTROL 参考ID] 按预期工作。
+当用户尝试使用包括[!UICONTROL 参考 ID] 数字的 URL 导航到项目时，用户被重定向到一个页面，其中显示一条错误消息。使用带有[!UICONTROL 参考 ID] 的 URL 导航到任务如预期的那样正常工作。
 
 _首次报告于 2023 年 8 月 3 日。_
 
