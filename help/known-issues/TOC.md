@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
 source-wordcount: '1147'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 93%
       + [验证：验证颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 主页]： &quot;[!UICONTROL 提及]新增“ ”构件 [!UICONTROL 主页] 不限于标记了用户的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作负载均衡器]： [!UICONTROL 总小时数] 不匹配总和 [!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
-      + [报告：加载Matrix报告时的问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
-      + [验证：验证上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [验证： “[!UICONTROL 禁用验证电子邮件通知]”设置显示不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
-      + [项目：无法通过使用的URL导航到项目 [!UICONTROL 参考ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
-      + [展示板：加载展示板时的问题](known-issues-workfront/wf-boards-issues-with-loading.md)
-      + [项目：固定项目未在某些列中显示信息](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
+      + [报告：加载 Matrix 报告时出现问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [校样：校样上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [校样：“[!UICONTROL 禁用校样电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [项目：无法导航到其 URL 中使用了[!UICONTROL 参考 ID] 的项目](known-issues-workfront/wf-projects-unable-to-construct-url.md)
+      + [展示板：加载展示板时出现问题](known-issues-workfront/wf-boards-issues-with-loading.md)
+      + [项目：在某些列中，已固定的项目不显示信息](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [验证：验证无法生成](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [验证：创建新的验证版本会删除所有版本的验证](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
