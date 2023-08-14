@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4657'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 98%
 
 ## 2023 年 8 月更新
 
-+++**（已计划）2023年8月10日维护更新**
++++**（已规划）2023 年 8 月 10 日维护更新**
 
-**无法删除 [!UICONTROL 待办事项] 新建中的项目 [!UICONTROL 主页] 体验**
+**无法删除新[!UICONTROL 主页]体验中的[!UICONTROL 待办事项]**
 
 _主页_
 
@@ -34,13 +34,13 @@ _主页_
 
 在将小时数记录到[!UICONTROL 待办事项]时，可能会发生此情况。
 
-**固定项目在某些列中不会显示信息**
+**在某些列中，已固定的项目不显示信息**
 
 _项目_
 
-当用户使用pin导航到固定项目时，对象列表（如任务列表）可能会显示空白列。 例如， [!UICONTROL 指定任务] 列可能不会显示任何分配，即使已进行了分配。
+当用户使用大头针导航到已固定的项目时，对象列表（例如任务列表）可能会显示空白列。例如，[!UICONTROL 任务]列中可能显示没有任何任务，即使已经分配了任务。
 
-**导致场景挂起的睡眠模块**
+**睡眠模块导致场景挂起**
 
 _[!DNL Workfront Fusion]_
 
@@ -458,7 +458,7 @@ _验证_
 
 已安装[!UICONTROL 桌面验证查看器]的用户将自动获得此更新。
 
-用户也可以手动下载最新版本。有关详细信息，请参阅[安装[!UICONTROL 桌面验证查看器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html)。
+用户也可以手动下载最新版本。有关详细信息，请参阅[安装[!UICONTROL 桌面验证查看器]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=zh-Hans)。
 
 * 上一版本：2.1.22
 * 新版本：2.1.23
