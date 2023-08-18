@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1147'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [验证：验证颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
-      + [[!UICONTROL 主页]： &quot;[!UICONTROL 提及]新增“ ”构件 [!UICONTROL 主页] 不限于标记了用户的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL 工作负载均衡器]： [!UICONTROL 总小时数] 不匹配总和 [!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL 主页]：新[!UICONTROL 主页]中的[!UICONTROL “提及”]构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]总和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [报告：加载 Matrix 报告时出现问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [校样：校样上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [校样：“[!UICONTROL 禁用校样电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
@@ -30,7 +30,7 @@ ht-degree: 97%
       + [验证：验证无法生成](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [验证：创建新的验证版本会删除所有版本的验证](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
       + [验证：批准的验证保留在审批者的[!UICONTROL 主页工作列表]中](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
-      + [验证：验证显示，顶部被切断](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [验证：验证显示，顶部被剪切](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
       + [主页：无法删除新[!UICONTROL 主页]体验中的[!UICONTROL 待办事项]](known-issues-workfront/wf-home-cannot-delete-todo.md)
       + [验证：无法选择列表或项目符号中的文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [任务/问题：分配的用户未获得对象的访问权限](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
