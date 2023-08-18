@@ -4,9 +4,9 @@ description: “当新主页体验中的用户尝试从待办事项构件中删�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2023年8月10日解决。
+>此问题已于 2023 年 8 月 10 日解决。
 
 当新[!UICONTROL 主页]体验中的用户尝试从[!UICONTROL 待办事项]构件中删除一个项目时，该项目不会被删除，并且用户会看到以下错误：
 
