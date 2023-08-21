@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 98%
+source-wordcount: '1171'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [布局模板：布局模板导致报表不一致](known-issues-workfront/wf-layout-templates-classic.md)
       + [验证：无法从PDF创建验证](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL 资源规划者]：应用过滤器时规划者未加载](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
