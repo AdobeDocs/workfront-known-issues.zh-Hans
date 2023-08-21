@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: ht
-source-wordcount: '1147'
-ht-degree: 100%
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
+workflow-type: tm+mt
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 资源规划者]：应用过滤器时规划者未加载](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [验证：无法从PDF创建验证](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
       + [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 主页]：新[!UICONTROL 主页]中的[!UICONTROL “提及”]构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]总和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
