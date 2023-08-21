@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: ht
-source-wordcount: '723'
+source-wordcount: '696'
 ht-degree: 100%
 
 ---
@@ -47,10 +47,7 @@ ht-degree: 100%
 | [验证：无法选择列表或项目符号中的文本](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 10 日 |
 | [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 8 月 10 日 |
 | [校样：校样上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 8 日 |
-| [校样：“[!UICONTROL 禁用校样电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 8 日 |
-| [项目：无法导航到其 URL 中使用了[!UICONTROL 参考 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) 的项目 | 2023 年 8 月 8 日 |
 | [验证：单击验证时出现“无图像”消息](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 8 月 3 日 |
-| [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 3 日 |
 | [验证：创建新的验证版本会删除所有版本的验证](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023 年 8 月 2 日 |
 | [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023 年 3 月 30 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
