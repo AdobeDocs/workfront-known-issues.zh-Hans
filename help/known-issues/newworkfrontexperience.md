@@ -5,7 +5,7 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '696'
 ht-degree: 100%
 
