@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 99%
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：无法从PDF创建验证](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL 资源规划者]：应用过滤器时规划者未加载](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 主页]：新[!UICONTROL 主页]中的[!UICONTROL “提及”]构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)

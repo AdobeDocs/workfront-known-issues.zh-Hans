@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 98%
+source-wordcount: '714'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：无法从PDF创建验证](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 21 日 |
 | [[!UICONTROL 资源规划者]：应用过滤器时规划者未加载](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 8 月 21 日 |
 | [验证：验证显示，顶部被剪切](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 10 日 |
 | [验证：批准的验证保留在审批者的[!UICONTROL 主页工作列表]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)中 | 2023 年 8 月 10 日 |
