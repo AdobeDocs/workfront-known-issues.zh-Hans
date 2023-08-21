@@ -3,9 +3,9 @@ title: “验证：无法调整验证标记”
 description: “当用户在验证查看器中进行注释并标记验证，然后单击时，用户将无法再调整标记。”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # 验证：无法调整验证标记
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>此问题已于 2023 年 8 月 17 日修复。
 
 当用户在验证查看器中进行注释并标记验证，然后单击时，用户将无法再调整标记。
 

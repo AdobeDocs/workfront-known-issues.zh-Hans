@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
-workflow-type: ht
-source-wordcount: '4657'
-ht-degree: 100%
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+workflow-type: tm+mt
+source-wordcount: '4799'
+ht-degree: 99%
 
 ---
 
@@ -22,7 +22,29 @@ ht-degree: 100%
 
 ## 2023 年 8 月更新
 
-+++**（已规划）2023 年 8 月 10 日维护更新**
++++**2023年8月17日维护更新**
+
+**无法使用所使用的URL导航到项目 [!UICONTROL 参考ID]**
+
+_项目_
+
+当用户尝试使用包括[!UICONTROL 参考 ID] 数字的 URL 导航到项目时，用户被重定向到一个页面，其中显示一条错误消息。使用带有[!UICONTROL 参考 ID] 的 URL 导航到任务如预期的那样正常工作。
+
+**&quot;[!UICONTROL 禁用验证电子邮件通知]”设置显示不准确**
+
+_验证_
+
+当用户在 [!DNL Workfront] 中查看校样设置时，“[!UICONTROL 禁用校样电子邮件通知]”复选框未准确地显示正确的当前设置。选中该框时指示禁用了校样电子邮件通知，但实际上启用了通知。反之亦然。
+
+**无法调整校样标记**
+
+_验证_
+
+当用户在验证查看器中进行注释并标记验证，然后单击时，用户将无法再调整标记。
+
++++
+
++++**2023年8月10日维护更新**
 
 **无法删除新[!UICONTROL 主页]体验中的[!UICONTROL 待办事项]**
 
