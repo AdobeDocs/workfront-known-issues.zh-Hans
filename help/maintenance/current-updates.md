@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: ht
-source-wordcount: '4799'
-ht-degree: 100%
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+workflow-type: tm+mt
+source-wordcount: '4918'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,22 @@ ht-degree: 100%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 8 月更新
+
++++**（已规划）2023 年 8 月 24 日维护更新**
+
+**无法选择列表或项目符号中的文本**
+
+_验证_
+
+当用户在验证查看器中查看验证并尝试选择列表或项目符号中的文本时，文本选择工具不起作用，并且无法选择文本。
+
+**创建新验证版本会删除验证的所有版本**
+
+_验证_
+
+当用户从文档创建验证时，验证已创建。但是，如果用户创建另一个版本的验证，旧版本和新版本都会被删除。原始文档上有一个[!UICONTROL 创建验证]选项，并且可以在[!DNL Workfront] 中的[!UICONTROL 验证]区域的[!UICONTROL 垃圾桶]区域中找到验证版本。
+
++++
 
 +++**2023 年 8 月 17 日的维护更新**
 

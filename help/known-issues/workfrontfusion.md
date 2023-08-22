@@ -4,8 +4,8 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: ht
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023 年 8 月 3 日 |
+| 无 |  |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 无 |  |
+| [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023 年 8 月 3 日 |
 
 {style="table-layout:auto"}
 
