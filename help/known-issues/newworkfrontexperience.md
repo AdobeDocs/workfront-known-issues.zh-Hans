@@ -43,8 +43,8 @@ ht-degree: 97%
 | [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 23 日 |
 | [主页：无法删除新[!UICONTROL 主页]体验中的[!UICONTROL 待办事项]](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
 | [展示板：加载展示板时出现问题](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
-| [验证：无法从 PDF 中创建验证](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 21 日 |
-| [[!UICONTROL 资源规划程序]：应用筛选条件时不会加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 8 月 21 日 |
+| [校样：无法从 PDF 创建校样](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 21 日 |
+| [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 8 月 21 日 |
 | [验证：验证显示，顶部被剪切](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 10 日 |
 | [验证：验证无法生成](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 10 日 |
 | [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 8 月 10 日 |

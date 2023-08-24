@@ -37,7 +37,7 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 22 日 |
-| [验证：无法从 PDF 中创建验证](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 21 日 |
+| [校样：无法从 PDF 创建校样](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 21 日 |
 | [验证：验证显示，顶部被剪切](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 10 日 |
 | [验证：验证无法生成](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 10 日 |
 | [校样：校样上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 8 日 |
