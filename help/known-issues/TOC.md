@@ -5,7 +5,7 @@ role: User
 source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
 workflow-type: tm+mt
 source-wordcount: '1183'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [[!UICONTROL 主页]：过滤器不适用于新版本中的小组件 [!UICONTROL 主页] 体验](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
-      + [布局模板：布局模板导致报表不一致](known-issues-workfront/wf-layout-templates-classic.md)
+      + [[!UICONTROL 主页]：过滤器不适用于新[!UICONTROL 主页]体验中的小部件](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
+      + [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md)
       + [校样：无法从 PDF 创建校样](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 主页]：新[!UICONTROL 主页]中的[!UICONTROL “提及”]构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]总和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 规划小时数]总和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [报告：加载 Matrix 报告时出现问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [校样：校样上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [校样：“[!UICONTROL 禁用校样电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)

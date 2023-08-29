@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
 workflow-type: tm+mt
 source-wordcount: '673'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,10 +35,10 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 主页]：过滤器不适用于新版本中的小组件 [!UICONTROL 主页] 体验](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023 年 8 月 25 日 |
+| [[!UICONTROL 主页]：过滤器不适用于新[!UICONTROL 主页]体验中的小部件](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023 年 8 月 25 日 |
 | [报告：加载 Matrix 报告时出现问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 25 日 |
-| [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)总和不匹配 | 2023 年 8 月 22 日 |
-| [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 23 日 |
+| [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 8 月 22 日 |
+| [校样：校样颜色显示得不准确](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 23 日 |
 | [主页：无法删除新[!UICONTROL 主页]体验中的[!UICONTROL 待办事项]](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
 | [展示板：加载展示板时出现问题](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
 | [校样：无法从 PDF 创建校样](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 21 日 |
@@ -57,8 +57,8 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [布局模板：布局模板导致报表不一致](known-issues-workfront/wf-layout-templates-classic.md) | 2023 年 8 月 21 日 |
-| [验证：审批选项未显示在[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中 | 2023 年 8 月 10 日 |
+| [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md) | 2023 年 8 月 21 日 |
+| [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中未显示审批选项 | 2023 年 8 月 10 日 |
 | [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [设置：无法编辑工作角色的“成本/小时”或“计费/小时”](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
