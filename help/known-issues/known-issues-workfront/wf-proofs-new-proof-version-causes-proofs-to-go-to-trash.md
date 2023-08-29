@@ -4,7 +4,7 @@ description: “当用户从文档创建验证时，验证已创建。但是，�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
 ht-degree: 100%
 
