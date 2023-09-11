@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
-workflow-type: ht
-source-wordcount: '4917'
-ht-degree: 100%
+source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+workflow-type: tm+mt
+source-wordcount: '5189'
+ht-degree: 97%
 
 ---
 
@@ -20,7 +20,62 @@ ht-degree: 100%
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
+## 2023 年 9 月更新
+
++++**2023 年 9 月 11 日维护更新**
+
+**个人任务未显示在时间表中**
+
+_时间表_
+
+默认情况下，个人任务不再显示在时间表上。 当个人任务被固定或记录了小时数时，它们会显示在时间表上。 在此更改之前，默认情况下，个人任务显示在时间表上。
+
++++
+
++++**2023 年 9 月 7 日维护更新**
+
+**从新加载的项目为空白 [!UICONTROL 主页] 体验**
+
+_项目_
+
+当用户从其网站单击项目时 [!UICONTROL 主页] 页面时，无法加载项目的页面。
+
+当用户以其他用户身份登录，然后以其他用户身份注销并返回他们自己的身份时，会发生这种情况 [!UICONTROL 主页] 页面。
+
++++
+
+**过滤器不适用于新版本中的构件 [!UICONTROL 主页] 体验**
+
 ## 2023 年 8 月更新
+
++++**2023 年 8 月 31 日的维护更新**
+
+**过滤器不适用于新版本中的构件 [!UICONTROL 主页] 体验**
+
+_[!UICONTROL 主页]_
+
+当用户将过滤器应用于新[!UICONTROL 主页]体验中的小部件时，该小部件显示该过滤器应排除的项。
+
+已在“自定义沙盒”环境中报告过此问题。“预览”和“生产”环境中相同的小部件按预期的那样过滤。
+
+**加载Matrix报告时的问题**
+
+_报告_
+
+当用户尝试加载 Matrix 报表作为图表时，可能会发生以下情况之一：
+
+* 不加载报告中的某些信息
+* 报告给出错误“[!UICONTROL 无法从服务器加载内容]”
+
+**应用过滤器时规划者未加载**
+
+_[!UICONTROL 资源规划程序]_
+
+当用户尝试加载[!UICONTROL 资源规划程序]时，并不加载规划程序，而用户看到以下错误消息：
+
+&quot;[!UICONTROL 发生以下错误：连接到 WorkPerDay 服务时出现问题]&quot;
+
++++
 
 +++**2023 年 8 月 24 日的维护更新**
 
