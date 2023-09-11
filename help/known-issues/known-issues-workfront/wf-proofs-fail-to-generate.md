@@ -3,9 +3,9 @@ title: “验证：验证无法生成”
 description: “当用户尝试从已上传到 Workfront 的文档创建验证时，验证无法生成。”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: ht
-source-wordcount: '51'
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+workflow-type: tm+mt
+source-wordcount: '57'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # 验证：验证无法生成
 
 <!--Wf and WFP TOCs-->
+
+>[!NOTE]
+>
+>此问题已于 2023 年 8 月 24 日修复。
 
 当用户尝试从已上传到 [!DNL Workfront] 的文档创建验证时，验证无法生成。
 

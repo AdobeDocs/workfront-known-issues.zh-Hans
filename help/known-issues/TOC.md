@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '1183'
-ht-degree: 100%
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 主页]：新建 [!UICONTROL 主页] 构件预览未显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL 主页]： [!UICONTROL 请求] 构件不显示所有已分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [自定义表单：无法删除自定义字段](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL 主页]：搜索功能在旧版中不起作用 [!UICONTROL 主页工作列表]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [验证：静态验证中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [项目：从新加载的项目为空 [!UICONTROL 主页] 体验](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL 主页]：过滤器不适用于新[!UICONTROL 主页]体验中的小部件](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md)
       + [校样：无法从 PDF 创建校样](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

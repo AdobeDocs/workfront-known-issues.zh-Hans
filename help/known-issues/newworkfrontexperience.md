@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 100%
+source-wordcount: '648'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,10 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 主页]： [!UICONTROL 请求] 构件不显示所有已分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023年9月7日 |
+| [文档：下载时出现 XML 错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年9月1日 |
+| [验证：静态验证中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月1日 |
+| [项目：从新加载的项目为空 [!UICONTROL 主页] 体验](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023年9月1日 |
 | [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]“构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 8 月 10 日 |
 
 {style="table-layout:auto"}
@@ -35,18 +39,10 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 主页]：过滤器不适用于新[!UICONTROL 主页]体验中的小部件](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023 年 8 月 25 日 |
-| [报告：加载 Matrix 报告时出现问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 25 日 |
+| [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023年9月7日 |
+| [自定义表单：无法删除自定义字段](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023年9月1日 |
 | [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 8 月 22 日 |
-| [校样：校样颜色显示得不准确](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 23 日 |
-| [主页：无法删除新[!UICONTROL 主页]体验中的[!UICONTROL 待办事项]](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
 | [展示板：加载展示板时出现问题](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
-| [校样：无法从 PDF 创建校样](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 21 日 |
-| [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 8 月 21 日 |
-| [验证：验证显示，顶部被剪切](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 10 日 |
-| [验证：验证无法生成](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 10 日 |
-| [文档：文档审批未显示在[!UICONTROL 审批]区域中](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 8 月 10 日 |
-| [校样：校样上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 8 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
@@ -57,10 +53,10 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 主页]：新建 [!UICONTROL 主页] 构件预览未显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023年9月7日 |
 | [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md) | 2023 年 8 月 21 日 |
 | [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中未显示审批选项 | 2023 年 8 月 10 日 |
 | [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
-| [设置：无法编辑工作角色的“成本/小时”或“计费/小时”](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 21 日 |
 | [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [文档集成：无法看到  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) 中的所有文件夹 | 2023 年 7 月 18 日 |
 | [校对：校对在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |

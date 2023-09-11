@@ -3,15 +3,19 @@ title: "报告：加载 Matrix 报告时出现问题"
 description: "当用户尝试加载 Matrix 报告作为图表时，可能会出现问题。"
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 
 # 报告：加载 Matrix 报告时出现问题
+
+>[!NOTE]
+>
+>此问题已于 2023 年 8 月 31 日修复。
 
 当用户尝试加载 Matrix 报表作为图表时，可能会发生以下情况之一：
 
