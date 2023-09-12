@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '5189'
-ht-degree: 97%
+source-wordcount: '5290'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,28 @@ ht-degree: 97%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 9 月更新
+
++++**（已计划）2023年9月14日维护更新**
+
+**&quot;[!UICONTROL 无工厂]添加文档时出现&#39;&#39;错误**
+
+_文档_
+
+当用户尝试从外部源添加文档时， [!DNL Workfront] 无法访问源，且用户看到以下错误：
+
+&quot;[!UICONTROL 出现以下错误：未找到身份验证类型为null的工厂]&quot;
+
+**矩阵报告上出现“糟糕”错误**
+
+_报告_
+
+当用户尝试查看矩阵报告时，报告无法加载，并且用户看到以下错误：
+
+“[!UICONTROL 糟糕！ 出现问题。 请联系 Workfront，以便我们找出错误并加以修复。]”
+
+当按日期范围对报表进行分组时，会出现这种情况。
+
++++
 
 +++**2023 年 9 月 11 日维护更新**
 
