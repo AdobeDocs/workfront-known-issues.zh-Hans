@@ -3,17 +3,17 @@ title: "布局模板：布局模板导致报告中出现不一致"
 description: "经典 Workfront 体验中的布局模板在 Workfront 界面中不再可用，但仍可能会影响 Workfront 数据。这可能会导致报告或仪表板上受布局模板（例如“共享对象”）影响的字段中出现不一致。"
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 81%
 
 ---
 
 
 # 布局模板：布局模板导致报告中出现不一致
 
-经典 Workfront 体验中的布局模板在 Workfront 界面中不再可用，但仍可能会影响 Workfront 数据。这可能会导致报告或仪表板上受布局模板（例如“共享对象”）影响的字段中出现不一致。
+经典中的布局模板 [!DNL Workfront] 体验在中不再可用 [!DNL Workfront] 界面，但仍可能影响 [!DNL Workfront] 数据。 这可能会导致受布局模板影响的字段不一致(例如 [!UICONTROL 共享对象])。
 
 **解决方法**
 
