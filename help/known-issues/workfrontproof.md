@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 96%
+source-wordcount: '344'
+ht-degree: 95%
 
 ---
 
@@ -35,8 +35,10 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：无法将文档移动到其他文件夹](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 15 日 |
+| [验证：验证显示去饱和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 15 日 |
 | [文档：下载时出现 XML 错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 9 月 14 日 |
-| [验证：静态验证中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023 年 9 月 14 日 |
+| [校样：静态校样中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023 年 9 月 14 日 |
 | [校样：“[!UICONTROL 禁用校样电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 8 日 |
 | [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 3 日 |
 

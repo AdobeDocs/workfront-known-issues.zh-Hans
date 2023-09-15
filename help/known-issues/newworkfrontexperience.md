@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 91%
+source-wordcount: '709'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,9 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 主页]： [!UICONTROL 请求] 构件不显示所有已分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023年9月7日 |
-| [项目：从新加载的项目为空 [!UICONTROL 主页] 体验](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023年9月1日 |
+| [过滤器：标记为“”的按钮[!UICONTROL 已弃用]”共享过滤器时](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023 年 9 月 15 日 |
+| [[!UICONTROL 主页]：[!UICONTROL 请求]构件不显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
+| [项目：从新的[!UICONTROL 主页]体验](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)加载项目时为空白。 | 2023 年 9 月 1 日 |
 | [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]“构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 8 月 10 日 |
 
 {style="table-layout:auto"}
@@ -37,10 +38,15 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：无法将文档移动到其他文件夹](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 15 日 |
+| [验证：验证显示去饱和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 15 日 |
+| [更新：新评论体验中所做的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 15 日 |
+| [讨论区：无法在工作流中的讨论区上分配用户](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023 年 9 月 15 日 |
+| [更新：评论显示为从错误用户发送](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023 年 9 月 15 日 |
 | [文档：下载时出现 XML 错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 9 月 14 日 |
-| [验证：静态验证中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023 年 9 月 14 日 |
-| [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023年9月7日 |
-| [自定义表单：无法删除自定义字段](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023年9月1日 |
+| [校样：静态校样中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023 年 9 月 14 日 |
+| [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 7 日 |
+| [自定义表单：无法删除自定义字段](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023 年 9 月 1 日 |
 | [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 8 月 22 日 |
 | [展示板：加载展示板时出现问题](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
@@ -53,7 +59,7 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 主页]：新建 [!UICONTROL 主页] 构件预览未显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023年9月7日 |
+| [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览功能不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
 | [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md) | 2023 年 8 月 21 日 |
 | [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中未显示审批选项 | 2023 年 8 月 10 日 |
 | [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
