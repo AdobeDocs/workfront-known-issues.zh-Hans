@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
+source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
 workflow-type: tm+mt
-source-wordcount: '1326'
-ht-degree: 93%
+source-wordcount: '1337'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：对验证进行评论时出现额外、空白的评论](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [展示板：无标题信息卡显示并显示在积压中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
       + [验证：验证生成时间过长](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
       + [文档：无法将文档移动到其他文件夹](known-issues-workfront/wf-documents-cannot-move-to-folder.md)

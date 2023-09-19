@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 90%
+source-wordcount: '738'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：对验证进行评论时出现额外、空白的评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 | [展示板：无标题信息卡显示并显示在积压中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 2023 年 9 月 15 日 |
 | [过滤器：标记为“”的按钮[!UICONTROL 已弃用]”共享过滤器时](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023 年 9 月 15 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 请求]构件不显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
