@@ -3,15 +3,19 @@ title: “更新：评论显示为从错误用户发送”
 description: “当用户发表评论时，评论显示为来自其他用户的发布。”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 7%
+source-wordcount: '71'
+ht-degree: 15%
 
 ---
 
 
 # 更新：评论显示为从错误用户发送
+
+>[!NOTE]
+>
+>此问题已于 2023 年 9 月 14 日修复。
 
 当用户发表评论时，评论显示为从其他用户发布。
 
