@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 88%
+source-wordcount: '703'
+ht-degree: 92%
 
 ---
 
@@ -41,13 +41,8 @@ ht-degree: 88%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]：对象页面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023 年 9 月 20 日 |
-| [验证：验证生成时间过长](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023 年 9 月 18 日 |
-| [文档：无法将文档移动到其他文件夹](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 15 日 |
-| [验证：验证显示去饱和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 15 日 |
 | [更新：新评论体验中所做的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 15 日 |
-| [讨论区：无法在工作流中的讨论区上分配用户](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023 年 9 月 15 日 |
 | [更新：评论显示为从错误用户发送](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023 年 9 月 15 日 |
-| [文档：下载时出现 XML 错误](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 9 月 14 日 |
 | [校样：静态校样中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023 年 9 月 14 日 |
 | [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 7 日 |
 | [自定义表单：无法删除自定义字段](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023 年 9 月 1 日 |

@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '5601'
-ht-degree: 94%
+source-wordcount: '5631'
+ht-degree: 93%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 94%
 
 ## 2023 年 9 月更新
 
-+++**（已计划）2023年9月21日维护更新**
++++**2023 年 9 月 21 日维护更新**
 
 **无法在工作流的展示板上分配用户**
 
@@ -31,6 +31,12 @@ _展示板_
 当用户尝试将另一个用户从属于工作流的展示板中分配给任务，并开始键入用户名时，该用户未出现在可用用户的下拉列表中。 即使用户处于活动状态并且是讨论区和工作流的成员也会发生这种情况。
 
 用户可能还会注意到下拉列表中显示了已停用的用户。
+
+**无法删除清单项目**
+
+_展示板_
+
+当用户尝试从展示板上的信息卡删除清单项目时， [!UICONTROL 删除] 按钮无响应，并且项目未被删除。
 
 **自定义表单加载缓慢**
 

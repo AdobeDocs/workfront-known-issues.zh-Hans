@@ -3,15 +3,19 @@ title: “讨论区：无法在工作流中的讨论区上分配用户”
 description: “当用户尝试将另一个用户从属于工作流的展示板中分配给任务，并开始键入用户名时，该用户未出现在可用用户的下拉列表中。 即使用户处于活动状态并且是讨论区和工作流的成员也会发生这种情况。”
 hidefromtoc: true
 feature: Agile
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 2%
+source-wordcount: '156'
+ht-degree: 6%
 
 ---
 
 
 # 讨论区：无法在工作流中的讨论区上分配用户
+
+>[!NOTE]
+>
+>此问题已于 2023 年 9 月 21 日修复。
 
 当用户尝试将另一个用户从属于工作流的展示板中分配给任务，并开始键入用户名时，该用户未出现在可用用户的下拉列表中。 即使用户处于活动状态并且是讨论区和工作流的成员也会发生这种情况。
 
