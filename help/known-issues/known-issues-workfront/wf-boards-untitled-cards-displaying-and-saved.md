@@ -3,15 +3,19 @@ title: “展示板：无标题信息卡显示并出现在积压中”
 description: “当用户尝试打开信息卡时，该信息卡显示名称‘无标题’和空白字段。 一段时间后，可能会填充所需的信息卡详细信息，或者信息卡可能保持空白。 此外，这些无标题的卡片可能会保存到董事会的积压中，从而造成混乱。”
 hidefromtoc: true
 feature: Agile
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 展示板：无标题信息卡显示并显示在积压中
+
+>[!NOTE]
+>
+>此问题已于 2023 年 9 月 21 日修复。
 
 当用户尝试打开信息卡时，该信息卡显示名称“无标题”和空白字段。 一段时间后，可能会填充所需的信息卡详细信息，或者信息卡可能保持空白。
 

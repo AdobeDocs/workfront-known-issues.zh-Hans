@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,8 +26,6 @@ ht-degree: 93%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL 主页]：[!UICONTROL 请求]构件不显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
-| [项目：从新的[!UICONTROL 主页]体验](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)加载项目时该项目为空。 | 2023 年 9 月 1 日 |
-| [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]“构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 8 月 10 日 |
 
 {style="table-layout:auto"}
 
@@ -38,12 +36,9 @@ ht-degree: 93%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [验证：对验证进行评论时出现额外、空白的评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
-| [展示板：无标题信息卡显示并显示在积压中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 2023 年 9 月 21 日 |
 | [[!DNL Workfront]：对象页面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023 年 9 月 20 日 |
 | [更新：新评论体验中所做的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 15 日 |
-| [更新：评论显示为从错误用户发送](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023 年 9 月 15 日 |
 | [自定义表单：无法删除自定义字段](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023 年 9 月 1 日 |
-| [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 8 月 22 日 |
 | [展示板：加载展示板时出现问题](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 22 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
@@ -55,6 +50,7 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]“构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
 | [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
 | [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md) | 2023 年 8 月 21 日 |
 | [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中未显示审批选项 | 2023 年 8 月 10 日 |

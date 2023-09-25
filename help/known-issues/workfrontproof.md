@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,8 +36,6 @@ ht-degree: 92%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [验证：对验证进行评论时出现额外、空白的评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
-| [校样：“[!UICONTROL 禁用校样电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 8 日 |
-| [验证：无法调整验证标记](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 3 日 |
 
 {style="table-layout:auto"}
 
