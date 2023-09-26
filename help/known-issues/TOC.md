@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '1342'
-ht-degree: 92%
+source-wordcount: '1352'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [工作负载均衡器：由于容量不准确，用户显示为过度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]：对象页面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [验证：对验证进行评论时出现额外、空白的评论](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [展示板：无标题信息卡显示并显示在积压中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)

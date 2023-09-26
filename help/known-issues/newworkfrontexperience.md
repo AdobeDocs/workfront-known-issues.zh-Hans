@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '644'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 9 月 26 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 请求]构件不显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
 
 {style="table-layout:auto"}
@@ -35,6 +36,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [工作负载均衡器：由于容量不准确，用户显示为过度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
 | [验证：对验证进行评论时出现额外、空白的评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 | [[!DNL Workfront]：对象页面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023 年 9 月 20 日 |
 | [更新：新评论体验中所做的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 15 日 |
