@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5631'
-ht-degree: 93%
+source-wordcount: '5776'
+ht-degree: 91%
 
 ---
 
@@ -21,6 +21,32 @@ ht-degree: 93%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 9 月更新
+
++++**（已计划）2023年9月28日维护更新**
+
+**无法删除自定义字段**
+
+_自定义表单_
+
+当用户尝试删除某个自定义字段时无法删除它，并看到“[!UICONTROL 由于违反约束条件而导致出现数据库错误]”消息。
+
+**在新评论体验中所做的评论在旧版体验中不可见**
+
+_更新_
+
+当用户在新评论体验中发表评论，并且该评论出现在新体验的评论区域中时，相同的评论可能不会出现在旧版评论体验中。 这可能会导致使用旧版Experience的用户丢失评论。
+
+**对象页面缺少元素**
+
+_Workfront_
+
+当用户导航到中对象的自定义分区时 [!DNL Workfront]，加载的页面可能缺少某些元素。 这些元素可能包括：
+
+* 左侧导航面板
+* 自定义分区所属的对象的名称
+* 标题中的字段和信息
+
++++
 
 +++**2023 年 9 月 21 日维护更新**
 
