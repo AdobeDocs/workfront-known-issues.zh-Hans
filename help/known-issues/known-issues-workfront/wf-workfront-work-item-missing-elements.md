@@ -3,15 +3,19 @@ title: '"[!DNL Workfront]：对象页面缺少元素”'
 description: “当用户导航到中对象的自定义分区时 [!DNL Workfront]，加载的页面可能缺少某些元素。”
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 402424b48ce4de8c6907803ede4c60fcf1014e53
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 10%
+source-wordcount: '101'
+ht-degree: 15%
 
 ---
 
 
 # [!DNL Workfront]：对象页面缺少元素
+
+>[!NOTE]
+>
+>此问题已于 2023 年 9 月 28 日修复。
 
 当用户导航到中对象的自定义分区时 [!DNL Workfront]，加载的页面可能缺少某些元素。 这些元素可能包括：
 
