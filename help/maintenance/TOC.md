@@ -3,7 +3,7 @@ user-guide-title: 维护版本
 user-guide-description: ' [!DNL Adobe Workfront] 维护版本'
 role: User
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '11'
 ht-degree: 100%
 
