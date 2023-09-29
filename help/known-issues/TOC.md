@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 89%
+source-wordcount: '1402'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [展示板：信息卡显示清单项目计数不正确](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [通知：未发送自动提醒电子邮件](known-issues-workfront/wf-notifications-overdue-error.md)
       + [文档集成：将资产拖到Experience Manager Assets集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [用户：提醒用户注册时显示的错误消息不正确](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
