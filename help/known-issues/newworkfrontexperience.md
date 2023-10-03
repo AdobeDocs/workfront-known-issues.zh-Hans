@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 88%
+source-wordcount: '732'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：从电子邮件链接共享验证时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月3日 |
+| [登录：在操作成功的情况下重置密码时显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023年10月3日 |
 | [展示板：信息卡显示清单项目计数不正确](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |
 | [通知：未发送自动提醒电子邮件](known-issues-workfront/wf-notifications-overdue-error.md) | 2023 年 9 月 28 日 |
 | [文档集成：将资产拖到Experience Manager Assets集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
@@ -40,6 +42,8 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [工作负载均衡器：页面刷新后手动小时更改不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日 |
+| [主页：委派的任务未共享且未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日 |
 | [展示板：展示板加载缓慢](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2023年10月2 |
 | [展示板：无法移动展示板](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2023年10月2 |
 | [用户：提醒用户注册时显示的错误消息不正确](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023 年 9 月 28 日 |

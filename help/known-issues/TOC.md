@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 88%
+source-wordcount: '1452'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [工作负载均衡器：页面刷新后手动小时更改不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [主页：委派的任务未共享且未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [验证：从电子邮件链接共享验证时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [登录：在操作成功的情况下重置密码时显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [展示板：展示板加载缓慢](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [展示板：无法移动展示板](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [展示板：信息卡显示清单项目计数不正确](known-issues-workfront/wf-boards-checklist-item-count.md)
