@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5802'
+source-wordcount: '5791'
 ht-degree: 91%
 
 ---
@@ -166,8 +166,6 @@ _项目_
 当用户以另一用户身份登录，然后以该其他用户身份注销并返回其自己的[!UICONTROL 主页]页面时发生此情况。
 
 +++
-
-**筛选条件不适用于新的[!UICONTROL 主页]体验**&#x200B;中的构件
 
 ## 2023 年 8 月更新
 
