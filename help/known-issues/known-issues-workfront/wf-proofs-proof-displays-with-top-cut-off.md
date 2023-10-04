@@ -4,7 +4,7 @@ description: “当用户在验证查看器中查看验证时，会看到验证�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
 

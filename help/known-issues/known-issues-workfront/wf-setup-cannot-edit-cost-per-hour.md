@@ -4,9 +4,9 @@ description: "当用户编辑工作角色并尝试编辑“成本/小时”或�
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2023年8月24日修复
+>此问题已于 2023 年 8 月 24 日修复。
 
 当用户编辑工作角色并尝试编辑“成本/小时”或“计费/小时”字段时，这些字段为空，用户无法编辑它们。
 

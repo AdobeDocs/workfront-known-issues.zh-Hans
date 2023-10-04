@@ -4,7 +4,7 @@ description: "当用户查看文档的“审批”区域时，其中未显示所
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
