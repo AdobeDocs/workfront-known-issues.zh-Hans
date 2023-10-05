@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '704'
 ht-degree: 99%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023年10月5 |
 | [验证：从电子邮件链接共享验证时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月3日 |
 | [登录：在操作成功的情况下重置密码时显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023年10月3日 |
 | [展示板：信息卡显示清单项目计数不正确](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
 workflow-type: tm+mt
-source-wordcount: '1452'
-ht-degree: 85%
+source-wordcount: '1460'
+ht-degree: 99%
 
 ---
 
@@ -182,6 +182,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+      + [[!DNL Workfront Fusion]：使用发送邀请时出错 [!DNL Workfront] > [!UICONTROL 其他操作] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：睡眠模块导致场景挂起](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]：无法在 [!DNL Workfront] > [!UICONTROL 监测活动]筛选条件中输入值](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
