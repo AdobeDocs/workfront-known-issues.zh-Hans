@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '702'
 ht-degree: 99%
 
 ---
@@ -44,7 +44,6 @@ ht-degree: 99%
 | [工作负载均衡器：页面刷新后手动小时更改不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日 |
 | [主页：委派的任务未共享且未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日 |
 | [用户：提醒用户注册时显示的错误消息不正确](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023 年 9 月 28 日 |
-| [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 28 日 |
 | [工作负载均衡器：由于容量不准确，用户显示为过度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
 | [验证：对验证进行评论时出现额外、空白的评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
