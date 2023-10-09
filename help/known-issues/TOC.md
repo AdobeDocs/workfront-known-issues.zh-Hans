@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: 60959758457f54f6120171639b0c6abcce581310
 workflow-type: tm+mt
-source-wordcount: '1460'
-ht-degree: 99%
+source-wordcount: '1467'
+ht-degree: 98%
 
 ---
 
@@ -17,44 +17,45 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报告：专用更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [工作负载均衡器：页面刷新后手动小时更改不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [主页：委派的任务未共享且未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
-      + [验证：从电子邮件链接共享验证时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [登录：在操作成功的情况下重置密码时显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [主页：委派的任务未共享，也未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [验证：通过电子邮件链接共享验证时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [登录：虽然已成功重置密码，但仍显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [展示板：展示板加载缓慢](known-issues-workfront/wf-boards-board-loads-slowly.md)
-      + [展示板：无法移动展示板](known-issues-workfront/wf-boards-can-not-move-cards.md)
-      + [展示板：信息卡显示清单项目计数不正确](known-issues-workfront/wf-boards-checklist-item-count.md)
-      + [通知：未发送自动提醒电子邮件](known-issues-workfront/wf-notifications-overdue-error.md)
-      + [文档集成：将资产拖到Experience Manager Assets集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
-      + [用户：提醒用户注册时显示的错误消息不正确](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
+      + [展示板：无法移动信息卡](known-issues-workfront/wf-boards-can-not-move-cards.md)
+      + [展示板：信息卡未显示正确的清单项目计数](known-issues-workfront/wf-boards-checklist-item-count.md)
+      + [通知：不发送自动提醒电子邮件](known-issues-workfront/wf-notifications-overdue-error.md)
+      + [文档集成：将资源入 Experience Manager Assets 集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
+      + [用户：提醒用户注册时错误地显示错误消息](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [共享：共享对象时出错](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [工作负载均衡器：由于容量不准确，用户显示为过度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]：对象页面缺少元素](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
-      + [验证：对验证进行评论时出现额外、空白的评论](known-issues-workfront/wf-proofs-extra-blank-comment.md)
-      + [展示板：无标题信息卡显示并显示在积压中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
-      + [验证：验证生成时间过长](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
+      + [验证：对验证进行评论时显示额外的空白评论](known-issues-workfront/wf-proofs-extra-blank-comment.md)
+      + [展示板：无标题信息卡出现在积压中](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
+      + [验证：生成验证需花费过多的时间](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)
       + [文档：无法将文档移动到其他文件夹](known-issues-workfront/wf-documents-cannot-move-to-folder.md)
-      + [验证：验证显示去饱和或裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
-      + [更新：新评论体验中所做的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
-      + [更新：评论显示为从错误用户发送](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
-      + [讨论区：无法在工作流中的讨论区上分配用户](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
-      + [过滤器：标记为“”的按钮[!UICONTROL 已弃用]”共享过滤器时](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
+      + [验证：验证显得不饱和或已裁切](known-issues-workfront/wf-proofs-desaturated-and-cropped.md)
+      + [更新：在新评论体验中发表的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
+      + [更新：评论显示为发送自错误用户](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
+      + [展示板：无法在工作流的展示板上分配用户](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
+      + [过滤器：共享过滤器时按钮标记为“[!UICONTROL 已弃用]”](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
       + [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL 主页]：[!UICONTROL 请求]构件不显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [自定义表单：无法删除自定义字段](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
       + [[!UICONTROL 主页]：搜索功能在旧版[!UICONTROL 主页工作列表]中不起作用](known-issues-workfront/wf-home-search-not-working-legacy.md)
-      + [校样：静态校样中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [验证：静态验证中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
       + [项目：从新的[!UICONTROL 主页]体验加载项目时该项目为空。](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL 主页]：过滤器不适用于新[!UICONTROL 主页]体验中的小部件](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md)
-      + [校样：无法从 PDF 创建校样](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
+      + [验证：无法从 PDF 创建验证](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL 资源规划程序]：应用筛选条件后不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md)
-      + [校样：校样颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [验证：验证颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 主页]：新[!UICONTROL 主页]中的[!UICONTROL “提及”]构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 规划小时数]总和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [报告：加载 Matrix 报告时出现问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
-      + [校样：校样上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [校样：“[!UICONTROL 禁用校样电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [验证：验证上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [验证：“[!UICONTROL 禁用验证电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [项目：无法导航到其 URL 中使用了[!UICONTROL 参考 ID] 的项目](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [展示板：加载展示板时出现问题](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [项目：在某些列中，已固定的项目不显示信息](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
@@ -117,12 +118,12 @@ ht-degree: 99%
       + [文档：上载大文件时出错](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [文档：无法从  [!DNL Google Drive] 添加文档](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [文档：当父项问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
-      + [报告：报告使用报告创建程序而不是通配符 &quot;$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [报告：报告使用报告创建程序而不是通配符“$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [集成：无法打开  [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [验证：验证状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [自定义表单：跨对象自定义表单需要[!UICONTROL 管理]或者[!UICONTROL 编辑]权限来编辑字段](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [验证：验证查看器中显示的验证没有原始图像那么清晰](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [校样：打印摘要不显示图像缩略图](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [验证：打印摘要不显示图像缩略图](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [任务：无法更改任务的[!UICONTROL 规划完成日期]](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API：无法按动态字段排序](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [问题：当出现问题时，左侧导航显示“(0)”问题](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
@@ -158,8 +159,8 @@ ht-degree: 99%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
-      + [Workfront Proof：功能板数据并不总是准确的](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
-      + [Workfront Proof：搜索数据并不总是准确的](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
+      + [Workfront Proof：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront Proof：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [验证：验证在预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：搜索不返回任何结果](known-issues-workfront-proof/proof-search-returns-no-results.md)
