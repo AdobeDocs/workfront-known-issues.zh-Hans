@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 96%
+source-wordcount: '756'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 10 月 10 日 |
 | [验证：无法生成验证](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 9 日 |
 | [工作负载均衡器：页面刷新后手动小时更改不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 3 日 |
 | [主页：委派的任务未共享，也未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 3 日 |

@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '1488'
+source-wordcount: '1494'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [验证：无法生成验证](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [验证：完成的验证将保留为 [!UICONTROL 等待我的批准] 构件](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [验证：无法创建新版本的验证](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
