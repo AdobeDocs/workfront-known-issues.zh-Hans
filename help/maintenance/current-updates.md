@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '6044'
-ht-degree: 97%
+source-wordcount: '6083'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,13 @@ ht-degree: 97%
 
 ## 2023 年 10 月更新
 
-+++**（已规划）2023 年 10 月 12 日维护更新**
++++**2023 年 10 月 12 日维护更新**
+
+**已为不使用工作流的帐户删除了工作流**
+
+_展示板_
+
+对于从未在展示板应用程序中创建工作流的帐户，已从展示板仪表板中删除工作流区域。 使用工作流的帐户仍然可以访问工作流。
 
 **问题转化为任务时，计算字段未保留值**
 
