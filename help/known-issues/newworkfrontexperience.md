@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 95%
+source-wordcount: '731'
+ht-degree: 93%
 
 ---
 
@@ -27,15 +27,10 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [验证：完成的验证将保留为 [!UICONTROL 等待我的批准] 构件](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 9 日 |
 | [验证：无法创建新版本的验证](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 9 日 |
-| [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 10 月 6 日 |
-| [报告：专用更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 6 日 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 5 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 3 日 |
-| [登录：重置密码时虽然操作成功，但仍显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 3 日 |
 | [展示板：卡片显示的清单项数有误](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |
-| [文档集成：将资源拖入 Experience Manager Assets 集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
 | [共享：共享对象时出错](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023 年 9 月 27 日 |
-| [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 9 月 26 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 请求]构件不显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
 
 {style="table-layout:auto"}
@@ -46,11 +41,13 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [任务： [!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023 年 10 月 12 日 |
+| [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 10 月 12 日 |
+| [登录：重置密码时虽然操作成功，但仍显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 12 日 |
+| [报告：专用更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 12 日 |
 | [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 10 月 10 日 |
-| [验证：无法生成验证](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 9 日 |
 | [工作负载平衡器：手动更改的小时数在页面刷新后不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 3 日 |
 | [主页：委派的任务未共享，也未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 3 日 |
-| [用户：提醒用户注册时错误地显示错误消息](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023 年 9 月 28 日 |
 | [工作负载平衡器：由于容量不准确，因此用户显示为过度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
 | [校样：对校样作出评论时显示额外的空白评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

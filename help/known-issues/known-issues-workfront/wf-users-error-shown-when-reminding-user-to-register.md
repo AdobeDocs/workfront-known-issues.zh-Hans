@@ -3,15 +3,19 @@ title: "用户：提醒用户注册时错误地显示错误消息"
 description: "当一个用户提醒另一个用户注册时，按预期的那样发送提醒电子邮件，但发送提醒的用户看到错误消息：“我们未能发送邀请电子邮件。您可稍后尝试重新发送它，或与您的 Workfront 管理员联系。”这可能会导致无法确定是否发送了这封电子邮件。"
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
-workflow-type: ht
-source-wordcount: '135'
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 
-# 用户：提醒用户注册时错误地显示错误消息
+# 用户：提醒用户注册时错误地显示错误消息。
+
+>[!NOTE]
+>
+>此问题已于 2023 年 10 月 12 日修复。
 
 当一个用户提醒另一个用户注册时，按预期的那样发送提醒电子邮件，但发送提醒的用户看到错误消息：“[!UICONTROL 我们未能发送邀请电子邮件。您可稍后尝试重新发送它，或与您的 [!DNL Workfront] 管理员联系。]”这可能会导致无法确定是否发送了这封电子邮件。
 

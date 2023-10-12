@@ -4,14 +4,18 @@ description: 当用户尝试将资源拖至通过 Experience Manager Assets 集�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 5965a409-b14d-4ceb-90f4-55d7cffd3d19
-source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
-workflow-type: ht
-source-wordcount: '114'
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
+workflow-type: tm+mt
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
 
 # 文档集成：将资源拖入 Experience Manager Assets 集成中的文件夹时出错
+
+>[!NOTE]
+>
+>此问题已于 2023 年 10 月 12 日修复。
 
 当用户尝试将资源拖至通过 Experience Manager Assets 集成链接的文件夹时无法移动文档，并且用户看到以下错误。
 
