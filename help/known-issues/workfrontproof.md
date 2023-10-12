@@ -27,8 +27,8 @@ ht-degree: 94%
 | -----------------------------------------------------------------| ----------------- |
 | [验证：完成的验证将保留为 [!UICONTROL 等待我的批准] 构件](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 9 日 |
 | [验证：无法创建新版本的验证](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 9 日 |
-| [验证：通过电子邮件链接共享验证时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 3 日 |
-| [文档集成：将资源入 Experience Manager Assets 集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
+| [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 3 日 |
+| [文档集成：将资源拖入 Experience Manager Assets 集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
 
 {style="table-layout:auto"}
 
@@ -39,7 +39,7 @@ ht-degree: 94%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [验证：无法生成验证](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 9 日 |
-| [验证：对验证进行评论时显示额外的空白评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
+| [校样：对校样作出评论时显示额外的空白评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 
 {style="table-layout:auto"}
 
@@ -49,8 +49,8 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
-| [Workfront Proof：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
+| [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
+| [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
 | [验证：验证未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [验证：验证在预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023 年 6 月 9 日 |
 | [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |

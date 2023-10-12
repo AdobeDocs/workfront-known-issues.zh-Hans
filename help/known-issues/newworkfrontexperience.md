@@ -30,10 +30,10 @@ ht-degree: 95%
 | [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 10 月 6 日 |
 | [报告：专用更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 6 日 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 5 日 |
-| [验证：通过电子邮件链接共享验证时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 3 日 |
-| [登录：虽然已成功重置密码，但仍显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 3 日 |
-| [展示板：信息卡未显示正确的清单项目计数](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |
-| [文档集成：将资源入 Experience Manager Assets 集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
+| [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 3 日 |
+| [登录：重置密码时虽然操作成功，但仍显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 3 日 |
+| [展示板：卡片显示的清单项数有误](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |
+| [文档集成：将资源拖入 Experience Manager Assets 集成中的文件夹时出错](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023 年 9 月 28 日 |
 | [共享：共享对象时出错](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023 年 9 月 27 日 |
 | [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md) | 2023 年 9 月 26 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 请求]构件不显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 7 日 |
@@ -48,11 +48,11 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 10 月 10 日 |
 | [验证：无法生成验证](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 9 日 |
-| [工作负载均衡器：页面刷新后手动小时更改不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 3 日 |
+| [工作负载平衡器：手动更改的小时数在页面刷新后不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 3 日 |
 | [主页：委派的任务未共享，也未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 3 日 |
 | [用户：提醒用户注册时错误地显示错误消息](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023 年 9 月 28 日 |
-| [工作负载均衡器：由于容量不准确，用户显示为过度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
-| [验证：对验证进行评论时显示额外的空白评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
+| [工作负载平衡器：由于容量不准确，因此用户显示为过度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023 年 9 月 26 日 |
+| [校样：对校样作出评论时显示额外的空白评论](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 19 日 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  Experience League 上的支持案例](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
@@ -63,7 +63,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]“构件不限于用户被标记的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
+| [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”构件不限于其中标出了用户的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
 | [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
 | [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md) | 2023 年 8 月 21 日 |
 | [验证：在[!UICONTROL 验证查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中未显示审批选项 | 2023 年 8 月 10 日 |
@@ -88,8 +88,8 @@ ht-degree: 95%
 | [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 5 日 |
 | [[!UICONTROL 主页]：自定义术语不适用于”主页“区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 3 日 |
-| [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
-| [敏捷：在[!UICONTROL 敏捷]展示板](known-issues-workfront/wf-agile-issues-moving-cards.md)移动信息卡时的问题 | 2022 年 4 月 27 日 |
+| [敏捷：无法从卡片上的自定义表单中编辑字段](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
+| [敏捷：在[!UICONTROL 敏捷]展示板](known-issues-workfront/wf-agile-issues-moving-cards.md)移动卡片时的问题 | 2022 年 4 月 27 日 |
 | [审批：为不正确的天数设置了审批委派](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022 年 4 月 20 日 |
 | [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)显示已停用的用户 | 2021 年 10 月 1 日 |
 | [更新：团队名称未出现在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021 年 10 月 1 日 |
