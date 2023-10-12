@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
 workflow-type: tm+mt
-source-wordcount: '1508'
-ht-degree: 96%
+source-wordcount: '1328'
+ht-degree: 95%
 
 ---
 
@@ -87,39 +87,23 @@ ht-degree: 96%
       + [筛选条件：“[!UICONTROL 在系统范围启用]”和“[!UICONTROL 查看系统范围的]”表示不同的功能](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [报告：利用率报告未加载](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [验证：审批选项未显示在[!UICONTROL 验证查看器]中](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [时间表：在时间表中记录小时数时出错](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL 主页]：项目未出现在[!UICONTROL 主页工作列表中]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [报告：查看矩阵报告时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [验证：验证在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
-      + [自定义表单：在新的表单设计器 (beta) 中编辑自定义表单时丢失显示逻辑](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [敏捷：编辑卡片时[!UICONTROL 看板]展示板变成空白](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [报告：在按任意字段排序时，报告未正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [工作负载均衡器：小时数意外重新分配](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [报告：按列标题进行排序将恢复到上一排序](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [项目：使用[!UICONTROL 里程碑]视图时出错](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [任务：为[!UICONTROL 待审批]状态下的任务重新排序时没有错误消息](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [时间表：刷新页面时未应用过滤器](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [验证：锁定的验证批准仍显示在工作列表中](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [验证：[!UICONTROL 验证活动]选项卡打开[!UICONTROL 验证详细信息]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [模板：无法从[!UICONTROL 最喜爱的模板]中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [筛选器：无法在仪表板上共享报告中的筛选器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [项目：从模板创建项目时[!UICONTROL 主组]自定义状态不可用](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [验证：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [搜索： [!DNL Workfront] 搜索超时](known-issues-workfront/wf-search-search-times-out.md)
-      + [验证：查看验证时无法切换验证版本](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [验证：从验证工作流停用了用户，访问验证时显示“[!UICONTROL 不允许访问]”](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [文档：文档列表有问题](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [验证：当上一阶段截止日期已过的时候，验证阶段不激活](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [文档：访问从  [!DNL SharePoint] 链接的文档时出现 404 错误](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [文档：[!UICONTROL 验证活动]选项会导向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [过滤器：刷新页面时未应用过滤器](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL 工作负载平衡器]：小时数不调整以解释用户休假时间](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：无法在[!UICONTROL 更新]区域中记录当天的时间](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [文档：将文档移至新项目时不继承权限](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [Workload Balancer：同时使用多个筛选器时结果不准确](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [项目：从问题转化的项目不从作品集或程序继承权限](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [文档：上载大文件时出错](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [文档：无法从  [!DNL Google Drive] 添加文档](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [文档：当父项问题转换为项目时，不会继承文档权限](known-issues-workfront/wf-documents-permissions-not-inherited.md)
@@ -144,7 +128,6 @@ ht-degree: 96%
       + [[!UICONTROL 主页]：当使用非  [!DNL Chrome] 浏览器时，出现[!UICONTROL 主页]摘要问题](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段显示已停用的用户](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [更新：团队名称未出现在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [日程表：[!UICONTROL 休息时间]日程表问题](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [敏捷：开发周期[!UICONTROL 完成点]的差异](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [“电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [电子邮件通知：用户未定向到评论会话](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
@@ -168,7 +151,6 @@ ht-degree: 96%
       + [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [验证：验证在预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof]：搜索不返回任何结果](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]：不再支持[!UICONTROL 报告]区域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [验证：在验证评论中标出用户后，用户收不到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -192,10 +174,6 @@ ht-degree: 96%
       + [[!DNL Workfront Fusion]：睡眠模块导致场景挂起](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]：无法在 [!DNL Workfront] > [!UICONTROL 监测活动]筛选条件中输入值](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-      + [[!DNL Workfront Fusion]：“[!UICONTROL 无法执行更新]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
-      + [[!DNL Workfront Fusion]：不发送通知电子邮件](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]：执行遭遇停滞或推迟](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Adobe Workfront Fusion]：Workfront Fusion 中出现超时错误](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法验证连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
