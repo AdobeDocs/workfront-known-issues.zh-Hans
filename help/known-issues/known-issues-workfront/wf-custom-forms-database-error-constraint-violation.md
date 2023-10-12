@@ -1,13 +1,13 @@
 ---
 title: '自定义表单：无法删除自定义字段'
-description: 当用户尝试删除自定义字段时无法删除它，并且由于违反约束他们会看到消息“数据库错误”。
+description: 当用户尝试删除某个自定义字段时无法删除它，并看到“由于违反约束条件而导致出现数据库错误”消息。
 hidefromtoc: true
 feature: Custom Forms
-exl-id: 3cdd1501-ac22-4e77-a61f-95b2826cc826
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+exl-id: 35616468-ba26-47e6-9316-5a50b5e867ba
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 

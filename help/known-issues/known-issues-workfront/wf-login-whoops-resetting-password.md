@@ -1,22 +1,22 @@
 ---
-title: “登录：在操作成功的情况下重置密码时显示错误”
-description: “当用户重置密码时，会发送重置密码电子邮件，但用户会看到一个错误。”
+title: '登录：重置密码时虽然操作成功，但仍显示错误'
+description: 当用户重置其密码时，系统发送“重置密码”电子邮件，但用户看到一条错误。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
-workflow-type: tm+mt
+exl-id: f5509725-e63a-4fb0-9366-5a7d568dc0b0
+source-git-commit: 9eb50a49cbe61f679c3625f413a347286f0b2ea9
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
+# 登录：重置密码时虽然操作成功，但仍显示错误
 
-# 登录：在操作成功的情况下重置密码时显示错误
-
-当用户重置密码时，会发送重置密码电子邮件，但用户会看到以下错误：
+当用户重置其密码时，系统发送“重置密码”电子邮件，但用户看到以下错误：
 
 “[!UICONTROL 糟糕！ 出现问题。 请联系 [!DNL Workfront]，以便我们找出错误并加以修复。]”
 
-由于重置密码已按预期发送，因此错误消息的外观可能会导致混淆。
+由于已按预期发送了“重置密码”邮件，因此出现错误消息可能会令人不解。
 
 _首次报告于 2023 年 9 月 26 日。_

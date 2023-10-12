@@ -3,11 +3,11 @@ title: '展示板：加载展示板时出现问题'
 description: 当用户尝试加载展示板时，可能会出现问题。
 hidefromtoc: true
 feature: Agile
-exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+exl-id: 5417ba49-890d-4590-aeae-61a4e8e9fead
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 53%
 当用户尝试加载展示板时，可能会发生以下情况之一：
 
 * 展示板加载速度极慢
-* 展示板未加载，且用户看到错误消息&quot;[!UICONTROL 加载此展示板时出错。 刷新页面以重试，如果问题仍然存在，请使用下面的错误ID联系支持人员。]&quot;
+* 不加载该展示板，并且用户看到错误“[!UICONTROL 加载此展示板时出现问题。请刷新页面以重试，如果问题仍然存在，请联系支持人员并提供以下错误 ID。]”
 
 此问题似乎仅限于工作流中的展示板。
 

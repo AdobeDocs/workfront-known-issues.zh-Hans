@@ -1,22 +1,22 @@
 ---
-title: “验证：验证生成时间过长”
-description: “当用户尝试生成验证时，验证需要过多的时间才能生成。 校对生成可能需要几天时间。”
+title: '校样：生成校样耗时很长'
+description: 当用户尝试生成校样时，生成校样耗时很长。生成校样可能耗时数日。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
-workflow-type: tm+mt
+exl-id: dd5d8659-20eb-4ee3-b6f0-6c7a5b05da62
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
-
-# 验证：验证生成时间过长
+# 校样：生成校样耗时很长
 
 >[!NOTE]
 >
 >此问题已于 2023 年 9 月 21 日修复。
 
-当用户尝试生成验证时，验证需要过多的时间才能生成。 校对生成可能需要几天时间。
+当用户尝试生成校样时，生成校样耗时很长。生成校样可能耗时数日。
 
 _首次报告于 2023 年 8 月 2 日。_
