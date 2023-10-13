@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '1328'
-ht-degree: 95%
+source-wordcount: '1361'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [通知：评论会话的回复不会通知用户](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]：未应用品牌策略](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [讨论区：讨论区视图 [!UICONTROL 任务] 项目区域未加载](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [验证： [!UICONTROL 校对活动] 选项卡未打开](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [任务： [!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [验证：无法生成验证](known-issues-workfront/wf-proofs-cannot-generate-proof.md)

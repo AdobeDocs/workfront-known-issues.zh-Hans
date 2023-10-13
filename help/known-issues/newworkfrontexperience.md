@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 93%
+source-wordcount: '768'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]：未应用品牌策略](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023 年 10 月 13 日 |
+| [讨论区：讨论区视图 [!UICONTROL 任务] 项目区域未加载](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 2023 年 10 月 13 日 |
 | [验证：完成的验证将保留为 [!UICONTROL 等待我的批准] 构件](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 9 日 |
 | [验证：无法创建新版本的验证](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 9 日 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 5 日 |
@@ -41,6 +43,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：评论会话的回复不会通知用户](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 2023 年 10 月 13 日 |
+| [验证： [!UICONTROL 校对活动] 选项卡未打开](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 2023 年 10 月 13 日 |
 | [任务： [!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023 年 10 月 12 日 |
 | [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 10 月 12 日 |
 | [登录：重置密码时虽然操作成功，但仍显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 12 日 |
