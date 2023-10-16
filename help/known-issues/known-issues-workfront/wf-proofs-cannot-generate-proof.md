@@ -4,22 +4,20 @@ description: 当用户尝试生成验证时，验证未创建，并且用户看�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 8%
 
 ---
 
 # 验证：无法生成验证
 
->[!NOTE]
->
->此问题已于 2023 年 10 月 12 日修复。
-
 当用户尝试生成验证时，验证未创建，并且用户看到以下错误消息：
 
 &quot;[!UICONTROL 生成校对时出现错误]&quot;
+
+当用户的访问级别设置时，会发生这种情况[!UICONTROL  查看联系信息] 设置为“禁用”。
 
 **解决方法**
 
