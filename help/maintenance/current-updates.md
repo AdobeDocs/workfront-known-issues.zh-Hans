@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '6083'
-ht-degree: 96%
+source-wordcount: '6211'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,30 @@ ht-degree: 96%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 10 月更新
+
++++**（已规划）2023 年 10 月 19 日维护更新**
+
+评论会话上的回复不会通知用户
+
+_通知_
+
+当用户回复评论时，其他应接收回复通知的用户不会收到这些通知。 某些用户可能会收到通知，而其他用户则不会收到通知。
+
+**对验证进行评论时出现额外、空白的评论**
+
+_校样_
+
+当用户对校样发表评论时，该校样还产生另一条评论，而该评论为空。
+
+已在视频校样上报告了此情况。
+
+**[!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配**
+
+_任务_
+
+当用户被分派到具有 [!UICONTROL 计划小时数] 分配至任务的其他被分配人，任务的 [!UICONTROL 计划小时数] 均等分配给任务的所有被分配人。
+
++++
 
 +++**2023 年 10 月 12 日维护更新**
 
