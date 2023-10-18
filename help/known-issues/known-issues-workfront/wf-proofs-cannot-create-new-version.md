@@ -1,24 +1,24 @@
 ---
-title: “验证：无法创建新版本的验证”
-description: “当用户尝试创建新版本的验证时，不会创建新版本，并且用户会看到一条错误消息。”
+title: '校样：无法创建校样的新版本'
+description: 当用户尝试创建校样新版本时并不创建新版本，并且用户看到一条错误消息。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
-workflow-type: tm+mt
+exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
+source-git-commit: 392f9fe1a04695b2175796e7a835faaea89912a3
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
+# 校样：无法创建校样的新版本
 
-# 验证：无法创建新版本的验证
+当用户尝试创建校样的新版本时并不创建新版本，并且用户看到以下错误消息：
 
-当用户尝试创建新版本的验证时，不会创建新版本，并且用户会看到以下错误消息：
-
-&quot;[!UICONTROL 生成校对时出现错误]&quot;
+“[!UICONTROL 生成校样时出现错误]”
 
 **解决方法**
 
-创建新验证而不是新验证版本。
+创建新校样而非新校样版本。
 
 _首次报告于 2023 年 10 月 6 日。_

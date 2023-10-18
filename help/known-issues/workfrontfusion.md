@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023年10月5 |
+| [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 5 日 |
 
 {style="table-layout:auto"}
 
