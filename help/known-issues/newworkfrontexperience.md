@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 93%
+source-wordcount: '799'
+ht-degree: 91%
 
 ---
 
@@ -44,6 +44,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [更新： ”[!UICONTROL 已删除]当问题转换为任务时，“在系统更新中显示为用户的名称](known-issues-workfront/wf-updates-deleted-requested-team.md) | 2023 年 10 月 18 日 |
+| [登录：登录页面重定向到注销登陆页面](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 18 日 |
 | [通知：评论会话的回复不会通知用户](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 2023 年 10 月 13 日 |
 | [验证： [!UICONTROL 校对活动] 选项卡未打开](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 2023 年 10 月 13 日 |
 | [任务： [!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023 年 10 月 12 日 |
