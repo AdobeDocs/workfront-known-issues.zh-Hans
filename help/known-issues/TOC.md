@@ -5,7 +5,7 @@ role: User
 source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
 source-wordcount: '1361'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 93%
       + [验证： [!UICONTROL 校对活动] 选项卡未打开](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [任务： [!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
-      + [验证：无法生成验证](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
-      + [验证：完成的验证将保留为 [!UICONTROL 等待我的批准] 构件](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
-      + [验证：无法创建新版本的验证](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
-      + [报告：专用更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
+      + [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
+      + [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [校样：无法创建校样的新版本](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
+      + [报告：私有更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [工作负载平衡器：手动更改的小时数在页面刷新后不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
       + [主页：委派的任务未共享，也未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
@@ -61,7 +61,7 @@ ht-degree: 93%
       + [[!UICONTROL 资源规划程序]：应用过滤器时不加载规划程序](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [验证：验证颜色显示不准确](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”构件不限于其中标出了用户的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 规划小时数]总和不匹配](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 规划小时数]之和不同](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [报告：加载 Matrix 报告时出现问题](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [验证：验证上文本重叠](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [验证：“[!UICONTROL 禁用验证电子邮件通知]”设置显示得不准确](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
@@ -174,7 +174,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [[!DNL Workfront Fusion]：使用发送邀请时出错 [!DNL Workfront] > [!UICONTROL 其他操作] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md)
+      + [[!DNL Workfront Fusion]：使用 [!DNL Workfront] > [!UICONTROL 其他操作]模块发送邀请时出错](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：睡眠模块导致场景挂起](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]：无法在 [!DNL Workfront] > [!UICONTROL 监测活动]筛选条件中输入值](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：完成的验证将保留为 [!UICONTROL 等待我的批准] 构件](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 9 日 |
-| [验证：无法创建新版本的验证](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 9 日 |
+| [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 9 日 |
+| [校样：无法创建校样的新版本](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 9 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 3 日 |
 
 {style="table-layout:auto"}

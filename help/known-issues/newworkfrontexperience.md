@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
 source-wordcount: '773'
-ht-degree: 89%
+ht-degree: 93%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：无法生成验证](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 16 日 |
+| [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 16 日 |
 | [[!DNL Workfront]：未应用品牌策略](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023 年 10 月 13 日 |
 | [讨论区：讨论区视图 [!UICONTROL 任务] 项目区域未加载](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 2023 年 10 月 13 日 |
-| [验证：完成的验证将保留为 [!UICONTROL 等待我的批准] 构件](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 9 日 |
-| [验证：无法创建新版本的验证](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 9 日 |
+| [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 9 日 |
+| [校样：无法创建校样的新版本](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 9 日 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] 模块](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 5 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 3 日 |
 | [展示板：卡片显示的清单项数有误](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023 年 9 月 29 日 |
@@ -47,9 +47,9 @@ ht-degree: 89%
 | [通知：评论会话的回复不会通知用户](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 2023 年 10 月 13 日 |
 | [验证： [!UICONTROL 校对活动] 选项卡未打开](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 2023 年 10 月 13 日 |
 | [任务： [!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023 年 10 月 12 日 |
-| [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 计划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 10 月 12 日 |
+| [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 规划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 10 月 12 日 |
 | [登录：重置密码时虽然操作成功，但仍显示错误](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 12 日 |
-| [报告：专用更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 12 日 |
+| [报告：私有更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 12 日 |
 | [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 10 月 10 日 |
 | [工作负载平衡器：手动更改的小时数在页面刷新后不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 3 日 |
 | [主页：委派的任务未共享，也未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 3 日 |
