@@ -4,14 +4,18 @@ description: 当用户在展示板上查看卡片时，清单计数显示为 0/0
 hidefromtoc: true
 feature: Agile
 exl-id: 947b1d9b-1f09-4bd0-9bd9-bed352b85dcb
-source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+workflow-type: tm+mt
+source-wordcount: '88'
+ht-degree: 93%
 
 ---
 
 # 展示板：卡片显示的清单项数有误
+
+>[!NOTE]
+>
+>此问题已于10月19日修复。 2023.
 
 当用户在展示板上查看卡片时，清单计数显示为 0/0。当用户单击进入该卡片时，可看到现有的清单项。
 

@@ -4,14 +4,18 @@ description: 当 Fusion 场景执行 [!DNL Workfront] &gt; [!UICONTROL 其他操
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 67147ca0-1f40-4688-9164-ba492aa78b13
-source-git-commit: 90e0c5739fa95c9216038582b9f355b6646a3b44
-workflow-type: ht
-source-wordcount: '75'
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Fusion]：使用 [!DNL Workfront] > [!UICONTROL 其他操作]模块发送邀请时出错
+
+>[!NOTE]
+>
+>已解决此问题。
 
 当 [!DNL Fusion] 场景执行 [!DNL Workfront] > [!UICONTROL 其他操作]模块（设置为 `[!UICONTROL sendInvitationEmail]` 操作）时，该模块返回以下错误：
 
