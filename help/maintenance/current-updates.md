@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 97%
+source-wordcount: '6298'
+ht-degree: 96%
 
 ---
 
@@ -38,11 +38,23 @@ _校样_
 
 已在视频校样上报告了此情况。
 
+**[!UICONTROL 校对活动] 选项卡未打开**
+
+_校样_
+
+当用户查看验证并单击 [!UICONTROL 校对活动] 选项卡中，该选项卡将用户返回到 [!UICONTROL 校对详细信息] 选项卡。
+
 **[!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配**
 
 _任务_
 
 当用户被分派到具有 [!UICONTROL 计划小时数] 分配至任务的其他被分配人，任务的 [!UICONTROL 计划小时数] 均等分配给任务的所有被分配人。
+
+**&quot;[!UICONTROL 已删除]当问题转换为任务时，“在系统更新中显示为用户的名称**
+
+_更新_
+
+当以其他用户身份登录的用户将问题转化为任务，并且问题被分配给团队时，系统更新显示&quot;[!UICONTROL 已删除]”作为请求团队处理任务的用户。
 
 +++
 
