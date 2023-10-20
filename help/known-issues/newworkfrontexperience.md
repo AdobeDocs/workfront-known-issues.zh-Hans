@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 43f1e13d83c1dd56f38e889679455d57677bcfb0
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '717'
-ht-degree: 96%
+source-wordcount: '740'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：搜索不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
+| [展示板：预期的卡片未显示在展示板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023 年 10 月 20 日 |
+| [主页：项目和任务未加载到主页](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 2023 年 10 月 20 日 |
 | [文档：共享按钮不起作用](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 19 日 |
 | [文档：“[!UICONTROL 发送至]”选项导致空白页面和错误消息](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023 年 10 月 19 日 |
 | [[!DNL Workfront]：未应用品牌策略](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023 年 10 月 13 日 |
