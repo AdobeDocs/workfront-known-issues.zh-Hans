@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 92%
+source-wordcount: '1429'
+ht-degree: 95%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 92%
       + [文档：“[!UICONTROL 发送至]”选项导致空白页面和错误消息](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [更新： ”[!UICONTROL 已删除]当问题转换为任务时，“在系统更新中显示为用户的名称](known-issues-workfront/wf-updates-deleted-requested-team.md)
       + [登录：登录页面重定向到注销登陆页面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
-      + [通知：评论会话的回复不会通知用户](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
-      + [[!DNL Workfront]：未应用品牌策略](known-issues-workfront/wf-workfront-branding-not-applied.md)
-      + [讨论区：讨论区视图 [!UICONTROL 任务] 项目区域未加载](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
-      + [验证： [!UICONTROL 校对活动] 选项卡未打开](known-issues-workfront/wf-proof-activities-tab-not-working.md)
-      + [任务： [!UICONTROL 计划小时数] 当将附加用户分配给任务时重新分配](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
+      + [通知：用户未收到有关评论会话的回复](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]：未应用品牌化](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [展示板：项目的[!UICONTROL 任务]区域中的展示板视图未加载](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [验证：[!UICONTROL 验证活动]选项卡未打开](known-issues-workfront/wf-proof-activities-tab-not-working.md)
+      + [任务：在将其他用户分配给任务时，会重新分配[!UICONTROL 计划小时数]](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
@@ -181,6 +181,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+      + [Workfront Fusion：从单个模块创建的重复项目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]：使用 [!DNL Workfront] > [!UICONTROL 其他操作]模块发送邀请时出错](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：睡眠模块导致场景挂起](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
