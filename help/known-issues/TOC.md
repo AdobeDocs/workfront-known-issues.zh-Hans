@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 95%
+source-wordcount: '1444'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [任务：“[!UICONTROL 糟糕]任务标题中出现“”错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [登录：登录时出现错误消息](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [展示板：搜索不起作用](known-issues-workfront/wf-boards-search-not-working.md)
       + [展示板：预期的卡片未显示在展示板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
       + [主页：项目和任务未加载到主页](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
@@ -158,6 +160,7 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [校样：在预览环境中创建校样缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
