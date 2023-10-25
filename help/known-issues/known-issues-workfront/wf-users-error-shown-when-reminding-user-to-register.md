@@ -4,7 +4,7 @@ description: "当一个用户提醒另一个用户注册时，按预期的那样
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 392bc185c5549300b05299751af260df1d161009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 

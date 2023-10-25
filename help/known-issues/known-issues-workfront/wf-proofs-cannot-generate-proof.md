@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 
 “[!UICONTROL 生成校样时出现错误]”
 
-当用户的访问级别设置时，会发生这种情况[!UICONTROL  查看联系信息] 设置为“禁用”。
+将用户的访问级别设置[!UICONTROL 查看联系信息]设置为“已禁用”时发生此情况。
 
 **解决方法**
 
