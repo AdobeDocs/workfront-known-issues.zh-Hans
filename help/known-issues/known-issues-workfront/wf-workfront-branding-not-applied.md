@@ -3,15 +3,23 @@ title: "Workfront：未应用品牌化"
 description: "当用户将文件上传到设置的“品牌化”区域时，似乎正确上传了这些文件。但如果用户查看“主菜单”，却看不到徽标，而是看到一条错误消息。"
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 86%
 
 ---
 
 
 # [!DNL Workfront]：未应用品牌化
+
+>[!NOTE]
+>
+>此问题已关闭，因为它现在不构成问题。
+
+>[!IMPORTANT]
+>
+>如果您的组织已迁移到Adobe Admin Console或AdobeUnified Shell，则品牌不可用。
 
 当用户将文件上传到设置的[!UICONTROL 品牌化]区域时，似乎正确上传了这些文件。但如果用户查看[!UICONTROL 主菜单]，却看不到徽标，而是看到以下消息：
 

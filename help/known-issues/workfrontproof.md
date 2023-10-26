@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: b684aea3ae421aa26b45a54a394a581e14d65e82
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '364'
 ht-degree: 94%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
 | [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 19 日 |
 | [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 19 日 |
@@ -74,4 +75,3 @@ ht-degree: 94%
 | [文档：验证工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 3 月 5 日 |
 
 {style="table-layout:auto"}
-
