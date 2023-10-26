@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '355'
 ht-degree: 94%
 
 ---
@@ -39,7 +39,6 @@ ht-degree: 94%
 | [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 19 日 |
 | [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 19 日 |
-| [校样：无法创建校样的新版本](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
 
 {style="table-layout:auto"}
 

@@ -3,15 +3,19 @@ title: “任务： [!UICONTROL 糟糕] 任务标题中出错”
 description: “当用户查看任务时，任务标题不包含任何信息。 相反，用户会看到‘糟糕’消息。”
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 433990d6d5b03c82aa918eb85d8e9a0f9e72e386
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 28%
+source-wordcount: '83'
+ht-degree: 33%
 
 ---
 
 
 # 任务：“[!UICONTROL 糟糕]任务标题中出现“”错误
+
+>[!NOTE]
+>
+>此问题已于 2023 年 10 月 26 日修复。
 
 当用户查看任务时，任务标题不包含任何信息。 反而，用户会看到以下错误消息：
 

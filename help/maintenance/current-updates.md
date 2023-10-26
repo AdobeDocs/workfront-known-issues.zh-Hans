@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '6454'
+source-wordcount: '6537'
 ht-degree: 96%
 
 ---
@@ -38,6 +38,13 @@ _校样_
 
 &quot;[!UICONTROL 缺少键对ID查询参数或Cookie值]&quot;
 
+**无法创建新版本的验证**
+
+_校样_
+
+当用户尝试创建校样的新版本时并不创建新版本，并且用户看到以下错误消息：
+
+“[!UICONTROL 生成校样时出现错误]”
 
 **共享请求时复制用户**
 
@@ -46,6 +53,14 @@ _请求_
 共享请求时，如果与其共享请求的用户的访问级别被修改，则列表中该用户正上方的用户将成为该用户。
 
 例如，如果请求与用户A和用户B共享，并且用户B的访问权限被修改，则用户A将更改为用户B，并且列表中现在有两个用户B。 此外，只修改了顶级用户B的访问权限。
+
+**&quot;[!UICONTROL 糟糕]任务标题中出现“”错误**
+
+_任务_
+
+当用户查看任务时，任务标题不包含任何信息。 反而，用户会看到以下错误消息：
+
+“[!UICONTROL 糟糕！ 出现问题。 请联系 Workfront，以便我们找出错误并加以修复。]”
 
 +++
 

@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 91%
+source-wordcount: '746'
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 91%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion：从单个模块创建的重复项目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
-| [展示板：搜索不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 | [展示板：预期的卡片未显示在展示板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023 年 10 月 20 日 |
 | [主页：项目和任务未加载到主页](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 2023 年 10 月 20 日 |
 | [文档：共享按钮不起作用](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 19 日 |
@@ -43,12 +42,10 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [任务：“[!UICONTROL 糟糕]任务标题中出现“”错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 25 日 |
 | [登录：登录时出现错误消息](known-issues-workfront/wf-login-error-when-logging-in.md) | 2023 年 10 月 25 日 |
 | [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 19 日 |
 | [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 19 日 |
-| [校样：无法创建校样的新版本](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
 | [登录：登录页面重定向到注销登陆页面](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 18 日 |
 | [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 规划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 10 月 12 日 |
 | [报告：私有更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 12 日 |
