@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
 workflow-type: tm+mt
-source-wordcount: '1444'
-ht-degree: 94%
+source-wordcount: '1450'
+ht-degree: 93%
 
 ---
 
@@ -160,6 +160,7 @@ ht-degree: 94%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [[!UICONTROL Workfront Proof]：电子邮件和通知延迟](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)

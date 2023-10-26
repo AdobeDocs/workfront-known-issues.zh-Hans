@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
+source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '753'
 ht-degree: 92%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Workfront Proof]：电子邮件和通知延迟](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
 | [Workfront Fusion：从单个模块创建的重复项目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
 | [展示板：搜索不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 | [文档：“[!UICONTROL 发送至]”选项导致空白页面和错误消息](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023 年 10 月 19 日 |

@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: b684aea3ae421aa26b45a54a394a581e14d65e82
+source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 94%
+source-wordcount: '371'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Workfront Proof]：电子邮件和通知延迟](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
 | [文档：共享按钮不起作用](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 19 日 |
 | [文档：“[!UICONTROL 发送至]”选项导致空白页面和错误消息](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023 年 10 月 19 日 |
 
