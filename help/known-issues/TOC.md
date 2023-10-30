@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
 workflow-type: tm+mt
-source-wordcount: '1455'
-ht-degree: 93%
+source-wordcount: '1461'
+ht-degree: 97%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [仪表板：用户无法访问 [!UICONTROL 画布功能板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [任务：“[!UICONTROL 糟糕]任务标题中出现“”错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [登录：登录时出现错误消息](known-issues-workfront/wf-login-error-when-logging-in.md)
-      + [展示板：搜索不起作用](known-issues-workfront/wf-boards-search-not-working.md)
-      + [展示板：预期的卡片未显示在展示板上](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
-      + [主页：项目和任务未加载到主页](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
-      + [文档：共享按钮不起作用](known-issues-workfront/wf-documents-share-button-not-working.md)
-      + [文档：“[!UICONTROL 发送至]”选项导致空白页面和错误消息](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
-      + [更新： ”[!UICONTROL 已删除]当问题转换为任务时，“在系统更新中显示为用户的名称](known-issues-workfront/wf-updates-deleted-requested-team.md)
-      + [登录：登录页面重定向到注销登陆页面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
+      + [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md)
+      + [展示板：展示板上未显示预期的信息卡](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [主页：主页中未加载项目和任务](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
+      + [文档：“共享”按钮不起作用](known-issues-workfront/wf-documents-share-button-not-working.md)
+      + [文档：[!UICONTROL 发送至]选项导致出现空白页和错误消息](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
+      + [更新：当问题转换为任务时，[!UICONTROL 已删除]在系统更新中显示为用户名](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [登录：登陆页面重定向到注销登陆页面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [通知：未通知用户关于评论会话的回复](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
       + [[!DNL Workfront]：未应用品牌化](known-issues-workfront/wf-workfront-branding-not-applied.md)
       + [展示板：项目的[!UICONTROL 任务]区域中的展示板视图未加载](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
@@ -186,7 +187,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [Workfront Fusion：从单个模块创建的重复项目](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
+      + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]：使用 [!DNL Workfront] > [!UICONTROL 其他操作]模块发送邀请时出错](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：睡眠模块导致场景挂起](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：场景失败，显示“[!UICONTROL 读取 ECONNRESET]”错误](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
