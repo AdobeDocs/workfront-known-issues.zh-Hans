@@ -4,7 +4,7 @@ description: "将用户分配给一个任务并已将该任务的“规划小时
 hidefromtoc: true
 feature: Tasks
 source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 

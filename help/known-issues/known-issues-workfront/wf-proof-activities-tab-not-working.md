@@ -1,10 +1,10 @@
 ---
 title: "校样：“校样活动”选项卡未打开"
-description: "当用户查看校样并单击[!UICONTROL 校样活动]选项卡时，该选项卡使该用户返回[!UICONTROL 校样详细信息]选项卡。"
+description: "当用户查看验证并单击[!UICONTROL 验证活动]选项卡时，该选项卡使该用户返回[!UICONTROL 验证详细信息]选项卡。"
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 >
 >此问题已于 2023 年 10 月 19 日修复。
 
-当用户查看校样并单击[!UICONTROL 校样活动]选项卡时，该选项卡使该用户返回[!UICONTROL 校样详细信息]选项卡。
+当用户查看验证并单击[!UICONTROL 验证活动]选项卡时，该选项卡使该用户返回[!UICONTROL 验证详细信息]选项卡。
 
 **解决方法**
 
