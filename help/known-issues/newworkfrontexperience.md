@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '791'
+source-wordcount: '798'
 ht-degree: 93%
 
 ---
@@ -39,6 +39,7 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL 工作负载均衡器]： [!UICONTROL 工作负载均衡器] 加载缓慢](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 2023 年 10 月 31 日 |
 | [请求：“新请求”页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 30 日 |
 | [报告：利用率报告中的预算小时数与通过API报告的预算小时数不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 30 日 |
 | [仪表板：用户无法访问 [!UICONTROL 画布功能板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023 年 10 月 30 日 |

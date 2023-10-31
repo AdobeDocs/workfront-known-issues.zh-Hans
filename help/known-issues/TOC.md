@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '1484'
-ht-degree: 96%
+source-wordcount: '1490'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 工作负载均衡器]： [!UICONTROL 工作负载均衡器] 加载缓慢](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [请求：“新请求”页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md)
       + [报告：利用率报告中的预算小时数与通过API报告的预算小时数不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [仪表板：用户无法访问 [!UICONTROL 画布功能板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
