@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
+source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
 workflow-type: tm+mt
-source-wordcount: '1490'
-ht-degree: 95%
+source-wordcount: '1507'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：未显示附加到系统更新的注释](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
+      + [展示板：信息卡的“评论”部分出错](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL 工作负载均衡器]： [!UICONTROL 工作负载均衡器] 加载缓慢](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [请求：“新请求”页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md)
       + [报告：利用率报告中的预算小时数与通过API报告的预算小时数不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
