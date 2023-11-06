@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
 workflow-type: tm+mt
-source-wordcount: '1566'
-ht-degree: 91%
+source-wordcount: '1585'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [主页：项目中状态为“已批准”或“计划”的任务未包含在“我的任务”或“主页工作列表”中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [模板：子任务在父任务下移动时显示混乱](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [主页：审批卡住 [!UICONTROL 等待我的审批] 构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [验证：暂存激活问题](known-issues-workfront/wf-proofs-stage-activation-issues.md)
