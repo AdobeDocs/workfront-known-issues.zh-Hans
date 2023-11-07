@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '1585'
-ht-degree: 90%
+source-wordcount: '1594'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [仪表板：将仪表板打印到PDF时显示较大的空白边距](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [主页：项目中状态为“已批准”或“计划”的任务未包含在“我的任务”或“主页工作列表”中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [模板：子任务在父任务下移动时显示混乱](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [主页：审批卡住 [!UICONTROL 等待我的审批] 构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
@@ -27,10 +28,10 @@ ht-degree: 90%
       + [更新：未显示附加到系统更新的注释](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [展示板：信息卡的“评论”部分出错](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL 工作负载均衡器]： [!UICONTROL 工作负载均衡器] 加载缓慢](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
-      + [请求：“新请求”页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md)
-      + [报告：利用率报告中的预算小时数与通过API报告的预算小时数不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
-      + [仪表板：用户无法访问 [!UICONTROL 画布功能板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
-      + [任务：“[!UICONTROL 糟糕]任务标题中出现“”错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [请求：新请求页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md)
+      + [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [仪表板：用户无法访问[!UICONTROL 画布仪表板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
+      + [任务：任务标题中出现[!UICONTROL 糟糕]错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [登录：登录时出现错误消息](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md)
       + [展示板：展示板上未显示预期的信息卡](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
@@ -173,8 +174,8 @@ ht-degree: 90%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
-      + [[!DNL Workfront Proof]：上的时间戳不准确 [!UICONTROL 校对摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
-      + [[!UICONTROL Workfront Proof]：电子邮件和通知延迟](known-issues-workfront-proof/proof-delayed-notification.md)
+      + [[!DNL Workfront Proof]：[!UICONTROL 验证摘要]上的时间戳不正确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
+      + [[!UICONTROL Workfront 验证]：电子邮件和通知延迟](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
