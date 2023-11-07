@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 90%
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Workfront Proof]：电子邮件和通知延迟](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
+| [[!UICONTROL Workfront 校样]：电子邮件和通知发生延迟](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +38,7 @@ ht-degree: 90%
 | [主页：审批卡住 [!UICONTROL 等待我的审批] 构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日 |
 | [验证：暂存激活问题](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日 |
 | [验证：从电子邮件链接访问验证时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日 |
-| [[!DNL Workfront Proof]：上的时间戳不准确 [!UICONTROL 校对摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023 年 10 月 27 日 |
+| [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)上的时间戳不准确 | 2023 年 10 月 27 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
 | [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 19 日 |
 | [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |

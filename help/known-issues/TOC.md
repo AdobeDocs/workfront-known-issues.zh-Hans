@@ -31,7 +31,7 @@ ht-degree: 93%
       + [请求：新请求页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md)
       + [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [仪表板：用户无法访问[!UICONTROL 画布仪表板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
-      + [任务：任务标题中出现[!UICONTROL 糟糕]错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [任务：任务标题中出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [登录：登录时出现错误消息](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md)
       + [展示板：展示板上未显示预期的信息卡](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
@@ -73,7 +73,7 @@ ht-degree: 93%
       + [展示板：无法在工作流的展示板上分配用户](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
       + [过滤器：共享过滤器时按钮被称为“[!UICONTROL 已弃用]”](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
       + [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL 主页]：[!UICONTROL 请求]构件不显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL 主页]：[!UICONTROL 请求]构件未显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [自定义表单：无法删除自定义字段](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
       + [[!UICONTROL 主页]：搜索功能在旧版[!UICONTROL 主页工作列表]中不起作用](known-issues-workfront/wf-home-search-not-working-legacy.md)
       + [校样：静态校样中的文本格式与网站中的格式不匹配](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
@@ -174,8 +174,8 @@ ht-degree: 93%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
-      + [[!DNL Workfront Proof]：[!UICONTROL 验证摘要]上的时间戳不正确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
-      + [[!UICONTROL Workfront 验证]：电子邮件和通知延迟](known-issues-workfront-proof/proof-delayed-notification.md)
+      + [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]上的时间戳不准确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
+      + [[!UICONTROL Workfront 校样]：电子邮件和通知发生延迟](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
