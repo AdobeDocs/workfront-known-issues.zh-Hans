@@ -3,15 +3,19 @@ title: “模板：子任务在父任务下移动时显示混乱”
 description: “当用户使用模板创建任务，然后将这些任务移动到父任务下时，分配给子任务的编号未按预期顺序显示。 因此，在刷新页面时，子任务按意外的任务编号排序，因此子任务顺序混乱。”
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 3%
+source-wordcount: '151'
+ht-degree: 7%
 
 ---
 
 
 # 模板：子任务在父任务下移动时显示混乱
+
+>[!NOTE]
+>
+>此问题已于 2023 年 11 月 3 日修复。
 
 当用户在模板上创建任务，然后在父任务下移动这些任务时，分配给子任务的数字未按预期顺序显示。 因此，在刷新页面时，子任务按意外的任务编号排序，因此子任务顺序混乱。
 

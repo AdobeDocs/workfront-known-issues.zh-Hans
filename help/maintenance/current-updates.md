@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6830'
-ht-degree: 98%
+source-wordcount: '6904'
+ht-degree: 97%
 
 ---
 
@@ -51,6 +51,16 @@ _请求_
 _时间表_
 
 当用户在新[!UICONTROL 主页]体验的[!UICONTROL 待办事项]构件上创建任务时，该任务显示在用户的时间表上。即使该任务未记录小时数并且未固定个人项目，也发生这种情况。
+
++++
+
++++**2023年11月3日维护更新（修补程序）**
+
+**子任务在父任务下移动时显示混乱**
+
+_模板_
+
+当用户在模板上创建任务，然后在父任务下移动这些任务时，分配给子任务的数字未按预期顺序显示。 因此，在刷新页面时，子任务按意外的任务编号排序，因此子任务顺序混乱。
 
 +++
 
