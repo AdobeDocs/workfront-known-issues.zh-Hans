@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '835'
-ht-degree: 88%
+source-wordcount: '842'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [讨论区：查看子任务状态时出现问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日 |
 | [请求：将文档添加到请求时清除的字段](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 2023年11月3日 |
 | [更新：未显示附加到系统更新的注释](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023年11月1日 |
 | [展示板：信息卡的“评论”部分出错](known-issues-workfront/wf-boards-comment-section-error.md) | 2023年11月1日 |

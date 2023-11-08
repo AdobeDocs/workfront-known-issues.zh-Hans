@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 93%
+source-wordcount: '1600'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [讨论区：查看子任务状态时出现问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [仪表板：将仪表板打印到PDF时显示较大的空白边距](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [主页：项目中状态为“已批准”或“计划”的任务未包含在“我的任务”或“主页工作列表”中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [模板：子任务在父任务下移动时显示混乱](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
