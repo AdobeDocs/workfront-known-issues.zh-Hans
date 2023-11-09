@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '6904'
+source-wordcount: '6903'
 ht-degree: 97%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 97%
 
 ## 2023 年 11 月更新
 
-+++**（已计划）2023 年 11 月 9 日维护更新**
++++**2023 年 11 月 9 日维护更新**
 
 **当不在页面顶部时，我的工作构件缺少对象**
 

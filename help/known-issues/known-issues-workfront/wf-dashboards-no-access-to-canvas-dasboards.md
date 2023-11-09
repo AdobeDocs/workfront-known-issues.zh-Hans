@@ -3,15 +3,19 @@ title: "仪表板：用户无法访问[!UICONTROL 画布仪表板]"
 description: "当应有权访问[!UICONTROL 画布仪表板]的用户尝试访问[!UICONTROL 画布仪表板]时，该仪表板未加载，并且该用户看到一条消息。"
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
-workflow-type: ht
-source-wordcount: '108'
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 
 # 仪表板：用户无法访问[!UICONTROL 画布仪表板]
+
+>[!NOTE]
+>
+>此问题已于 2023 年 11 月 7 日修复。
 
 当应有权访问[!UICONTROL 画布仪表板]的用户尝试访问[!UICONTROL 画布仪表板]时，该仪表板未加载，并且该用户看到以下消息：
 
