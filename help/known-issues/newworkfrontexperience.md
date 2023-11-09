@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
+source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 87%
+source-wordcount: '855'
+ht-degree: 86%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 87%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [通知：在评论中标记用户时未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023年11月8日 |
 | [主页：项目中状态为“已批准”或“计划”的任务未包含在“我的任务”或“主页工作列表”中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日 |
 | [主页：审批卡住 [!UICONTROL 等待我的审批] 构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日 |
 | [验证：暂存激活问题](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日 |
