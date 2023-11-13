@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
+source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
-source-wordcount: '1628'
+source-wordcount: '1637'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 主页]：任务未在中显示 [!UICONTROL 我的工作] 构件](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [任务：重新计算时间线时，任务日期因延长时间而灰显](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [展示板：无法编辑标记颜色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [通知：在评论中标记用户时未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md)

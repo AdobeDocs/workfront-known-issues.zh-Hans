@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
+source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
-source-wordcount: '828'
-ht-degree: 95%
+source-wordcount: '838'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 主页]：任务未在中显示 [!UICONTROL 我的工作] 构件](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023 年 11 月 13 日 |
 | [展示板：无法编辑标记颜色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 10 日 |
 | [讨论区：查看子任务状态时出现问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
 | [更新：不显示附加到系统更新的评论](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023 年 11 月 1 日 |
