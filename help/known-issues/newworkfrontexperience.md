@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
 source-wordcount: '828'
-ht-degree: 86%
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 86%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [展示板：无法编辑标记颜色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023年11月10日 |
-| [讨论区：查看子任务状态时出现问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日 |
-| [更新：未显示附加到系统更新的注释](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023年11月1日 |
+| [展示板：无法编辑标记颜色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 10 日 |
+| [讨论区：查看子任务状态时出现问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
+| [更新：不显示附加到系统更新的评论](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023 年 11 月 1 日 |
 | [[!UICONTROL Workfront 校样]：电子邮件和通知发生延迟](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 26 日 |
 | [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 
@@ -39,13 +39,13 @@ ht-degree: 86%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [任务：重新计算时间线时，任务日期因延长时间而灰显](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日 |
-| [通知：在评论中标记用户时未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023年11月8日 |
-| [主页：项目中状态为“已批准”或“计划”的任务未包含在“我的任务”或“主页工作列表”中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日 |
-| [主页：审批卡住 [!UICONTROL 等待我的审批] 构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日 |
-| [验证：暂存激活问题](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日 |
-| [验证：从电子邮件链接访问验证时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日 |
-| [更新：通过API或进行的注释中存在额外的行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023年11月2 |
+| [任务：重新计算时间线时，任务日期因延长时间而灰显](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
+| [通知：在评论中标记用户时未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023 年 11 月 8 日 |
+| [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
+| [主页：审批卡在[!UICONTROL 正在等待我的审批]构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)上 | 2023 年 11 月 3 日 |
+| [校样：激活阶段时有问题](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 3 日 |
+| [校样：从电子邮件链接访问校样时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
+| [更新：通过 API 或  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) 发表的评论中行数过多 | 2023 年 11 月 2 日 |
 | [请求：新请求页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 30 日 |
 | [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 30 日 |
 | [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)上的时间戳不准确 | 2023 年 10 月 27 日 |
@@ -67,8 +67,8 @@ ht-degree: 86%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年11月9日 |
-| [仪表板：将仪表板打印到PDF时显示较大的空白边距](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023年11月7日 |
+| [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 11 月 9 日 |
+| [仪表板：将仪表板打印为 PDF 时空白边距较大](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 7 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 请求]构件未显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 10 月 26 日 |
 | [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
 | [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”构件不限于其中标出了用户的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |

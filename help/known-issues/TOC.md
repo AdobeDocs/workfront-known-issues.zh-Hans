@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
 source-wordcount: '1628'
-ht-degree: 91%
+ht-degree: 97%
 
 ---
 
@@ -21,17 +21,17 @@ ht-degree: 91%
       + [展示板：无法编辑标记颜色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [通知：在评论中标记用户时未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md)
       + [讨论区：查看子任务状态时出现问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
-      + [仪表板：将仪表板打印到PDF时显示较大的空白边距](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
-      + [主页：项目中状态为“已批准”或“计划”的任务未包含在“我的任务”或“主页工作列表”中](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
-      + [模板：子任务在父任务下移动时显示混乱](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
-      + [主页：审批卡住 [!UICONTROL 等待我的审批] 构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
-      + [验证：暂存激活问题](known-issues-workfront/wf-proofs-stage-activation-issues.md)
-      + [验证：从电子邮件链接访问验证时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
-      + [请求：将文档添加到请求时清除的字段](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
-      + [更新：通过API或进行的注释中存在额外的行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
-      + [更新：未显示附加到系统更新的注释](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
-      + [展示板：信息卡的“评论”部分出错](known-issues-workfront/wf-boards-comment-section-error.md)
-      + [[!UICONTROL 工作负载均衡器]： [!UICONTROL 工作负载均衡器] 加载缓慢](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
+      + [仪表板：将仪表板打印为 PDF 时空白边距较大](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
+      + [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
+      + [模板：将子任务移至父任务下方时，子任务的显示顺序混乱](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
+      + [主页：审批卡在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [校样：激活阶段时有问题](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [校样：从电子邮件链接访问校样时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [请求：将文档添加到请求时字段清空](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
+      + [更新：通过 API 或  [!DNL Workfront Fusion] 发表的评论中行数过多](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
+      + [更新：不显示附加到系统更新的评论](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
+      + [展示板：信息卡的“评论”部分中有错](known-issues-workfront/wf-boards-comment-section-error.md)
+      + [[!UICONTROL 工作负载均衡器]：[!UICONTROL 工作负载均衡器]加载缓慢](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [请求：新请求页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md)
       + [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [仪表板：用户无法访问[!UICONTROL 画布仪表板]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
