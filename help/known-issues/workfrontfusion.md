@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 9 日 |
+| 无 |  |
 
 {style="table-layout:auto"}
 
@@ -46,6 +46,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
 | [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)访问 [!DNL Workfront Proof] 时出现 500 错误 | 2023 年 5 月 25 日 |
 | [[!DNL Workfront Fusion]：“无法验证连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022 年 9 月 29 日 |

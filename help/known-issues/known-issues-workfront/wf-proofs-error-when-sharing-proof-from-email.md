@@ -4,14 +4,18 @@ description: 当与访客共享校样，而该访客尝试使用电子邮件中�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 0ab7a42f-f87e-49d1-b5e5-3d05f7764eab
-source-git-commit: 9eb50a49cbe61f679c3625f413a347286f0b2ea9
-workflow-type: ht
-source-wordcount: '143'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
 
 # 校样：从电子邮件链接共享校样时出错
+
+>[!NOTE]
+>
+>产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
 
 当与访客共享校样，而该访客尝试使用电子邮件中的“与其他人共享此校样”选项时，访客在尝试提交要与其共享校样的电子邮件地址时收到一条错误消息。电子邮件字段变红，并且用户看到以下错误：
 

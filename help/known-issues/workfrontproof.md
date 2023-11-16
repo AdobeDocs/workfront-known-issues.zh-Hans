@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
-workflow-type: ht
-source-wordcount: '380'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '374'
 ht-degree: 100%
 
 ---
@@ -38,10 +38,8 @@ ht-degree: 100%
 | [主页：审批卡在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023 年 11 月 3 日 |
 | [校样：激活阶段时有问题](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 3 日 |
 | [校样：从电子邮件链接访问校样时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
-| [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)上的时间戳不准确 | 2023 年 10 月 27 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
 | [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
-| [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 19 日 |
 
 {style="table-layout:auto"}
 
@@ -51,6 +49,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
 | [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
 | [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
 | [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
