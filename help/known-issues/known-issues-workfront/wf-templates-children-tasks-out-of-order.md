@@ -4,7 +4,7 @@ description: "当用户在模板上创建任务，然后将这些任务移至父
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 当用户在模板上创建任务，然后将这些任务移至父任务下时，分配给子任务的编号不按预期顺序显示。因此，当刷新页面时，按照意外的任务编号为子任务排序，并因此子任务顺序混乱。
 
-**变通方法**
+**解决方法**
 
 尝试刷新页面。
 

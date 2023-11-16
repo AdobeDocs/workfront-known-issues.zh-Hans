@@ -4,7 +4,7 @@ description: "当用户创建请求，填写表单中的字段，然后添加或
 hidefromtoc: true
 feature: Requests
 source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
