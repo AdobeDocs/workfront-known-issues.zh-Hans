@@ -3,15 +3,19 @@ title: "请求：新请求页面上显示的自定义货币不正确"
 description: "当用户提交请求并选择更改请求表单上的显示逻辑时，所显示的货币恢复为默认货币，而非在请求队列所代表的项目上设置的自定义货币。"
 hidefromtoc: true
 feature: Requests
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
 
 # 请求：新请求页面上显示的自定义货币不正确
+
+>[!NOTE]
+>
+>此问题已于 2023 年 11 月 16 日修复。
 
 当用户提交请求并选择更改请求表单上的显示逻辑时，所显示的货币恢复为默认货币，而非在请求队列所代表的项目上设置的自定义货币。
 

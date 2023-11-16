@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
-workflow-type: ht
-source-wordcount: '151'
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 9 日 |
-| [更新：通过 API 或  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) 发表的评论中行数过多 | 2023 年 11 月 2 日 |
 
 {style="table-layout:auto"}
 

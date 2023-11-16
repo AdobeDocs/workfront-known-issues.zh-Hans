@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '803'
 ht-degree: 98%
 
 ---
@@ -46,9 +46,6 @@ ht-degree: 98%
 | [主页：审批卡在[!UICONTROL 正在等待我的审批]构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)上 | 2023 年 11 月 3 日 |
 | [校样：激活阶段时有问题](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 3 日 |
 | [校样：从电子邮件链接访问校样时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
-| [更新：通过 API 或  [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) 发表的评论中行数过多 | 2023 年 11 月 2 日 |
-| [请求：新请求页面上显示的自定义货币不正确](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 30 日 |
-| [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 30 日 |
 | [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)上的时间戳不准确 | 2023 年 10 月 27 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
 | [展示板：展示板上未显示预期的信息卡](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023 年 10 月 26 日 |

@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '7087'
+source-wordcount: '7086'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 99%
 
 ## 2023 年 11 月更新
 
-+++**（已规划）2023 年 11 月 16 日维护更新**
++++**2023 年 11 月 16 日维护更新**
 
 **利用率报表中的预算小时数与通过API报告的预算小时数不匹配**
 
@@ -48,7 +48,7 @@ _更新_
 
 +++
 
-+++**2023 年 11 月 9 日维护更新**
+    +++**2023 年 11 月 9 日维护更新**
 
 **“我的工作”构件不在页面顶部时缺少对象**
 
