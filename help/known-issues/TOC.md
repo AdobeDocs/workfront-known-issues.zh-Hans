@@ -18,7 +18,7 @@ ht-degree: 99%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [模板：无法从中选择模板 [!UICONTROL 收藏夹] 列表](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL 主页]：任务未在中显示 [!UICONTROL 我的工作] 构件](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
+      + [[!UICONTROL 主页]：任务未出现在[!UICONTROL 我的工作]构件中](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [任务：重新计算时间线时，任务日期变灰很久](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [展示板：无法编辑标记颜色](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [通知：在评论中标出用户后未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md)
