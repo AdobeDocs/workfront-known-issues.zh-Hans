@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7086'
 ht-degree: 100%
 
@@ -405,7 +405,7 @@ _[!UICONTROL 主页]_
 
 _报告_
 
-当用户尝试加载 Matrix 报表作为图表时，可能会发生以下情况之一：
+当用户尝试加载 Matrix 报告作为图表时，可能会发生以下情况之一：
 
 * 不加载报告中的某些信息
 * 报告给出错误“[!UICONTROL 无法从服务器加载内容]”
@@ -670,7 +670,7 @@ _自定义表单_
 
 +++**2023 年 5 月 18 日维护更新**
 
-**在按自定义字段排序时，报表未正确排序**
+**在按自定义字段排序时，报告未正确排序**
 
 _报告_
 当用户运行任务报告时，报告在加载时似乎排序正确，但在完成加载后用户会看到报告排序不正确。

@@ -4,7 +4,7 @@ description: "当用户对系统操作（如状态更改）发表评论时，不
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已关闭，因为它就是被设计成这样运作。
+>此问题已关闭，因为其正在按设计的那样发挥作用。
 
 当用户对系统操作（如状态更改）发表评论时，不在“更新”区域中显示该评论。
 

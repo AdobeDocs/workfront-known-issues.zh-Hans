@@ -4,7 +4,7 @@ description: "当用户通过 API 或 Workfront Fusion 提交评论时，“更�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
 ht-degree: 100%
 
