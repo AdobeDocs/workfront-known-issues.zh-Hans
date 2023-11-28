@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ ht-degree: 100%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2023 年 11 月更新
+
++++**（已规划）2023 年 11 月 30 日维护更新**
+
+**任务未出现在 [!UICONTROL 我的工作] 构件**
+
+_[!UICONTROL 主页]_
+
+当用户在[!UICONTROL 主页]中查看其[!UICONTROL 我的工作]构件时，分配给该用户的某些任务未出现在该构件中。例如，用户进入某个项目可能会看到在该项目中为其分配了任务，但这些任务未出现在该用户的[!UICONTROL 我的工作]构件中。
+
+**登录页面重定向到注销登陆页面**
+
+_登录_
+
+用户在尝试登录 [!DNL Workfront] 时被定向到注销将登陆的页面，而非登录页面。
+
+**导出报告时出现500错误**
+
+_报告_
+
+当用户尝试导出报告时，导出失败并出现以下错误：
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+该问题已在使用 `valueexpression` 以引用 `lastNote` 注释文本。
+
++++
 
 +++**2023 年 11 月 16 日维护更新**
 
@@ -48,7 +76,7 @@ _更新_
 
 +++
 
-    +++**2023 年 11 月 9 日维护更新**
++++**2023 年 11 月 9 日维护更新**
 
 **“我的工作”构件不在页面顶部时缺少对象**
 
