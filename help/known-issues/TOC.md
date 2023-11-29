@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '1693'
-ht-degree: 97%
+source-wordcount: '1705'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [展示板：移动到列的卡片在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [验证：未决批准的验证不会出现在报表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [任务：复制任务导致任务按错误顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
