@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 95%
+source-wordcount: '841'
+ht-degree: 94%
 
 ---
 
@@ -43,6 +43,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [验证：未决批准的验证不会出现在报表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023 年 11 月 29 日 |
 | [自定义表单：无法在模板任务中批量添加或批量删除自定义表单](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023 年 11 月 21 日 |
 | [报告：导出报告时出现500错误](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 2023 年 11 月 20 日 |
 | [任务：重新计算时间线时，任务日期变灰很久](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
