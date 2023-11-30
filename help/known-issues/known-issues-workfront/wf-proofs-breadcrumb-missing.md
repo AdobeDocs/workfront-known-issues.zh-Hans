@@ -1,17 +1,21 @@
 ---
-title: "校样：从电子邮件链接访问校样时缺少痕迹导航"
-description: "当用户通过单击校样通知电子邮件中的“转到校样”按钮而查看校样时，缺少该校样的父对象的痕迹导航链接。"
+title: '校样：从电子邮件链接访问校样时缺少痕迹导航'
+description: 当用户通过单击校样通知电子邮件中的“转到校样”按钮而查看校样时，缺少该校样的父对象的痕迹导航链接。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
-workflow-type: ht
-source-wordcount: '94'
+exl-id: fb79a7cd-bd29-4a69-a2c9-4455edad9acc
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
-
 # 校样：从电子邮件链接访问校样时缺少痕迹导航
+
+>[!NOTE]
+>
+>由于无法重现此问题，因此已关闭它。
 
 当用户通过单击校样通知电子邮件中的“转到校样”按钮而查看校样时，缺少该校样的父对象的痕迹导航链接。
 

@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 96%
+source-wordcount: '1713'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [展示板：移动到列的卡片在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [验证：未决批准的验证不会出现在报表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [任务：复制任务导致任务按错误顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)

@@ -4,14 +4,18 @@ description: 在 Workfront 校样中发生应触发通知或电子邮件的事�
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
 exl-id: ce44dca5-5bd8-4d05-9af5-a53be13dcd20
-source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Workfront 校样]：电子邮件和通知发生延迟
+
+>[!NOTE]
+>
+>此问题已关闭。
 
 <!--WF and WFP TOCs-->
 
