@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1713'
-ht-degree: 95%
+source-wordcount: '1734'
+ht-degree: 96%
 
 ---
 
@@ -17,14 +17,16 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [任务/问题：在任务或问题的讨论区视图中添加工作项时的问题](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [展示板：错误 [!UICONTROL 评论] 卡片部分](known-issues-workfront/wf-boards-comments-section-error.md)
       + [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [展示板：移动到列的卡片在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [验证：未决批准的验证不会出现在报表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [任务：复制任务导致任务按错误顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
-      + [自定义表单：无法在模板任务中批量添加或批量删除自定义表单](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
-      + [展示板：信息卡会显示在多个冲刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
-      + [报告：导出报告时出现500错误](known-issues-workfront/wf-reports-500-error-when-exporting.md)
+      + [自定义表单：无法在模板任务上批量添加或批量删除自定义表单](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
+      + [展示板：卡片出现在多个冲刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
+      + [报告：导出报告时出现 500 错误](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [模板：无法从[!UICONTROL 收藏夹]列表中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL 主页]：任务未出现在[!UICONTROL 我的工作]构件中](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [任务：重新计算时间线时，任务日期变灰很久](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
