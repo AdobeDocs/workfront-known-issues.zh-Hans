@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
+source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
 workflow-type: tm+mt
-source-wordcount: '7226'
-ht-degree: 99%
+source-wordcount: '7401'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,32 @@ ht-degree: 99%
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
+## 2023 年 12 月更新
+
++++**2023年12月7日维护更新**
+
+**审批持续时间 [!UICONTROL 等待我的审批] 构件**
+
+_主页_
+
+当上传文档的新版本但未完成以前版本的审批时，该文档的旧版本卡在审批者的[!UICONTROL 正在等待我的审批]构件上。由于存在新版本，因此无法通过该审批，并且无法从该构件中删除它。
+
+**在任务或问题的讨论区视图中添加工作项时的问题**
+
+_任务/问题_
+
+当用户查看项目中任务或问题区域的讨论区视图并尝试添加任务或问题时，可能会出现以下情况：
+
+* 弹出窗口在两个不同的窗口样式之间来回切换
+* 用户无法关闭弹出窗口
+
+据报告，当用户输入任何信息之前从弹出窗口的左侧导航中选择一个区域时，就会发生这种情况。
+
++++
+
 ## 2023 年 11 月更新
 
-+++**2023 年 11 月 30 日维护更新**
++++**2023年11月30日维护更新**
 
 **任务未出现在 [!UICONTROL 我的工作] 构件**
 
@@ -46,7 +69,7 @@ _报告_
 500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
 ```
 
-该问题已在使用 `valueexpression` 以引用 `lastNote` 注释文本。
+在使用 `valueexpression` 引用 `lastNote` 注释文本的报告中已经报告了这一点。
 
 +++
 
@@ -238,7 +261,7 @@ _主页_
 
 当用户在[!UICONTROL 主页]上更改过滤器时，[!UICONTROL 主页]区域未加载，并且用户看到以下错误：
 
-&quot;[!UICONTROL 出现了错误，我们正在努力解决问题。要继续工作，请尝试刷新此浏览器页面。]&quot;
+&quot;[!UICONTROL 出现错误，因此我们正在寻找解决问题的方法。 要继续您的工作，请尝试刷新此浏览器页面。]”
 
 +++
 
