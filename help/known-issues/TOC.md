@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
 workflow-type: tm+mt
-source-wordcount: '1753'
+source-wordcount: '1759'
 ht-degree: 95%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [状态： [!UICONTROL 糟糕] 隐藏状态时出错](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [更新：新的评论体验中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [任务/问题：在任务或问题的讨论区视图中添加工作项时的问题](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [展示板：错误 [!UICONTROL 评论] 卡片部分](known-issues-workfront/wf-boards-comments-section-error.md)
