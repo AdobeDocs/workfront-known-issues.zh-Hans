@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 91%
+source-wordcount: '882'
+ht-degree: 90%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：新的评论体验中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日 |
 | [任务/问题：在任务或问题的讨论区视图中添加工作项时的问题](known-issues-workfront/wf-tasks-issues-board-view.md) | 2023年12月1日 |
 | [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日 |
 | [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年11月30日 |
