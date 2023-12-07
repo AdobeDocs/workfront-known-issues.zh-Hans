@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
+source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 95%
+source-wordcount: '1792'
+ht-degree: 97%
 
 ---
 
@@ -17,14 +17,17 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [设置：设置中的某些问题类型中缺少默认问题状态](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [展示板：状态更改时信息卡未移动到相应的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [主页：“我的项目”和“我的任务”小组件仅显示25项](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [状态： [!UICONTROL 糟糕] 隐藏状态时出错](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [更新：新的评论体验中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [任务/问题：在任务或问题的讨论区视图中添加工作项时的问题](known-issues-workfront/wf-tasks-issues-board-view.md)
-      + [展示板：错误 [!UICONTROL 评论] 卡片部分](known-issues-workfront/wf-boards-comments-section-error.md)
+      + [任务/问题：在任务或问题的展示板视图中添加工作项时出现问题](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [展示板：信息卡的[!UICONTROL 评论]部分中有错](known-issues-workfront/wf-boards-comments-section-error.md)
       + [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
-      + [展示板：移动到列的卡片在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
-      + [验证：未决批准的验证不会出现在报表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
-      + [任务：复制任务导致任务按错误顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
+      + [展示板：移至列的信息卡在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
+      + [验证：等待审批的验证未显示在报告中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
+      + [任务：重复任务导致任务以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [自定义表单：无法在模板任务上批量添加或批量删除自定义表单](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [展示板：卡片出现在多个冲刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)

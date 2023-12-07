@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
+source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 97%
+source-wordcount: '901'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [设置：设置中的某些问题类型中缺少默认问题状态](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日 |
+| [展示板：状态更改时信息卡未移动到相应的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月7日 |
 | [展示板：信息卡的[!UICONTROL 评论]部分中有错](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 1 日 |
 | [展示板：移至列的信息卡在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023 年 11 月 29 日 |
 | [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
@@ -41,6 +43,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [主页：“我的项目”和“我的任务”小组件仅显示25项](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023年12月7日 |
 | [状态： [!UICONTROL 糟糕] 隐藏状态时出错](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日 |
 | [更新：新的评论体验中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日 |
 | [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 11 月 30 日 |
