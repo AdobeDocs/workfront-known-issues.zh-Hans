@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
+source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
 workflow-type: tm+mt
-source-wordcount: '889'
-ht-degree: 89%
+source-wordcount: '865'
+ht-degree: 97%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [展示板：错误 [!UICONTROL 评论] 卡片部分](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月1日 |
-| [展示板：移动到列的卡片在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023年11月29日 |
-| [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023年11月27日 |
+| [展示板：信息卡的[!UICONTROL 评论]部分中有错](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 1 日 |
+| [展示板：移至列的信息卡在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023 年 11 月 29 日 |
+| [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
 | [展示板：卡片出现在多个冲刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023 年 11 月 21 日 |
 | [模板：无法从[!UICONTROL 收藏夹]列表中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 11 月 16 日 |
 | [展示板：查看子任务状态时有问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
@@ -43,16 +43,14 @@ ht-degree: 89%
 |----------------------------------| ----------------- |
 | [状态： [!UICONTROL 糟糕] 隐藏状态时出错](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日 |
 | [更新：新的评论体验中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日 |
-| [任务/问题：在任务或问题的讨论区视图中添加工作项时的问题](known-issues-workfront/wf-tasks-issues-board-view.md) | 2023年12月1日 |
-| [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日 |
-| [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年11月30日 |
-| [任务：复制任务导致任务按错误顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日 |
-| [验证：未决批准的验证不会出现在报表中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023年11月29日 |
+| [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 11 月 30 日 |
+| [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 11 月 30 日 |
+| [任务：重复任务导致任务以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
+| [验证：等待审批的验证未显示在报告中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023 年 11 月 29 日 |
 | [自定义表单：无法在模板任务上批量添加或批量删除自定义表单](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023 年 11 月 21 日 |
 | [任务：重新计算时间线时，任务日期变灰很久](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
 | [通知：在评论中标出用户后未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023 年 11 月 8 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
-| [主页：审批卡在[!UICONTROL 正在等待我的审批]构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)上 | 2023 年 11 月 3 日 |
 | [校样：激活阶段时有问题](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 3 日 |
 | [任务：任务标题中出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 25 日 |
 | [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
@@ -70,7 +68,7 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | 2023年11月30日 |
+| [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | 2023 年 11 月 30 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 11 月 9 日 |
 | [仪表板：将仪表板打印为 PDF 时空白边距较大](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 7 日 |
