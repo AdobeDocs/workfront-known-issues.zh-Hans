@@ -3,15 +3,19 @@ title: "报告：利用率报告中的预算小时与通过 API 报告的预算�
 description: "当用户对给定项目的 RPBGHR 对象发起 API 调用，并比较该调用的结果与该项目的利用率报告时，结果不匹配。"
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
 
 
 # 报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配
+
+>[!NOTE]
+>
+>此问题已于 2023 年 11 月 30 日修复。
 
 当用户对给定项目的 RPBGHR 对象发起 API 调用，并比较该调用的结果与该项目的利用率报告时，结果不匹配。
 

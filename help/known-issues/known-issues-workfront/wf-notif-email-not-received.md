@@ -1,17 +1,21 @@
 ---
-title: "通知：在评论中标出用户后未收到电子邮件通知"
-description: "在评论中标出用户后，该用户未收到关于该评论的电子邮件通知。"
+title: '通知：当用户在评论中标记时，未收到电子邮件通知'
+description: 在评论中标出用户后，该用户未收到关于该评论的电子邮件通知。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+exl-id: a97849b4-206d-43c1-a83b-843d3ecfdbf6
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 84%
 
 ---
 
-
 # 通知：在评论中标出用户后未收到电子邮件通知
+
+>[!NOTE]
+>
+>此问题已于 2023 年 11 月 30 日修复。
 
 在评论中标出用户后，该用户未收到关于该评论的电子邮件通知。
 

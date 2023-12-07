@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 94%
+source-wordcount: '852'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [设置：设置中的某些问题类型中缺少默认问题状态](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日 |
 | [展示板：状态更改时信息卡未移动到相应的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月7日 |
 | [展示板：信息卡的[!UICONTROL 评论]部分中有错](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 1 日 |
 | [展示板：移至列的信息卡在刷新后返回到原始列](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023 年 11 月 29 日 |
@@ -43,24 +42,21 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [设置：设置中的某些问题类型中缺少默认问题状态](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日 |
 | [主页：“我的项目”和“我的任务”小组件仅显示25项](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023年12月7日 |
 | [状态： [!UICONTROL 糟糕] 隐藏状态时出错](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日 |
 | [更新：新的评论体验中缺少某些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日 |
 | [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 11 月 30 日 |
-| [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 11 月 30 日 |
 | [任务：重复任务导致任务以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [验证：等待审批的验证未显示在报告中](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023 年 11 月 29 日 |
 | [自定义表单：无法在模板任务上批量添加或批量删除自定义表单](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023 年 11 月 21 日 |
 | [任务：重新计算时间线时，任务日期变灰很久](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |
-| [通知：在评论中标出用户后未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md) | 2023 年 11 月 8 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
-| [校样：激活阶段时有问题](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 3 日 |
 | [任务：任务标题中出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 25 日 |
 | [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [校样：无法创建校样的新版本](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 19 日 |
 | [登录：登录页面重定向到注销登陆页面](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 18 日 |
 | [[!UICONTROL 工作负载均衡器]：[!UICONTROL 总小时数]与[!UICONTROL 规划小时数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)之和不同 | 2023 年 10 月 12 日 |
-| [主页：委派的任务未共享，也未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 3 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
