@@ -1,19 +1,19 @@
 ---
-title: “展示板：信息卡的‘评论’部分出现错误”
-description: “当用户查看信息卡并滚动到 [!UICONTROL 评论]，部分，不显示评论，并且用户看到一个错误。”
+title: "展示板：信息卡的“评论”部分中有错"
+description: "当用户查看信息卡并滚动到[!UICONTROL 评论]部分时，不显示评论，而用户看到错误。"
 hidefromtoc: true
 feature: Agile
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# 展示板：错误 [!UICONTROL 评论] 卡片部分
+# 展示板：信息卡的[!UICONTROL 评论]部分中有错
 
-当用户查看信息卡并滚动到 [!UICONTROL 评论]，部分，不显示评论，并且用户看到以下错误：
+当用户查看信息卡并滚动到[!UICONTROL 评论]部分时，不显示评论，而用户看到以下错误：
 
 “[!UICONTROL 出现问题。请稍后重试。]”
 

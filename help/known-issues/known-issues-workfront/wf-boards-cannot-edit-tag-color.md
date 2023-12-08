@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 65c148d6-1020-4345-8efb-0ac128dccd68
 source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 

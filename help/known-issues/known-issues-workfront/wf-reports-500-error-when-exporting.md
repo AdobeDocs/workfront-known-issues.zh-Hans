@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此问题已于2023年11月30日修复。
+>此问题已于 2023 年 11 月 30 日修复。
 
 当用户尝试导出报告时，导出失败并出现以下错误：
 
