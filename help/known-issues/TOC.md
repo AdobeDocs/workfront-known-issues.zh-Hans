@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
+source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
 workflow-type: tm+mt
-source-wordcount: '1808'
-ht-degree: 99%
+source-wordcount: '1813'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [模板：将模板附加到项目时出错](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [报告：预算小时数报告未按预期每小时更新](known-issues-workfront/wf-reports-report-not-updating.md)
       + [设置：“设置”中某些问题类型缺少默认问题状态](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
