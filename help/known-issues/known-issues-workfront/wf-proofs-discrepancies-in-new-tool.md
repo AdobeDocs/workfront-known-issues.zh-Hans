@@ -1,12 +1,12 @@
 ---
 title: “验证：处理静态文件时出现问题”
-description: “Workfront最近将其验证处理工具从第三方提供商更改为内部解决方案，并发现两个系统的功能存在一些差异。 这些差异可能会导致处理静态文件(尤其是PDF、Word和PPT文件)时出现问题。 有可用的解决方法”
+description: “Workfront最近将其验证处理工具从第三方提供商更改为内部解决方案，并发现两个系统的功能存在一些差异。 这些差异可能会导致处理静态文件(尤其是PDF、Word和PPT文件)时出现问题。 有变通方法可用。"
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 494e8c83c0bc1f6f9cb8abdf7b147a78add6f699
+source-git-commit: d07005982af8484714e574ee54034f438def6cc7
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
