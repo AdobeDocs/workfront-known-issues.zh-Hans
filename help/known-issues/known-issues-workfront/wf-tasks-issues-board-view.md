@@ -1,12 +1,12 @@
 ---
-title: "任务/问题：在任务或问题的展示板视图中添加工作项时出现问题"
+title: “任务/问题：在任务或问题的展示板视图中添加工作项时出现问题”
 description: "当用户查看项目中的任务或问题区域的展示板视图并尝试添加任务或问题时，可能会出现此处列出的问题。"
 hidefromtoc: true
 feature: Tasks, Work Management, Agile
 source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2023年12月7日修复。
+>此问题已于 2023 年 12 月 7 日修复。
 
 当用户查看项目中的任务或问题区域的展示板视图并尝试添加任务或问题时，可能会出现以下情况：
 

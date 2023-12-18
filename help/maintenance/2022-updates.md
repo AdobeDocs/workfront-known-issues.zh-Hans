@@ -1,11 +1,11 @@
 ---
-title: Workfront 维护更新 (2022)
+title: 2022 年的 Workfront 维护更新
 description: 2022 年 [!DNL Adobe Workfront] 维护更新
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
 workflow-type: ht
-source-wordcount: '16739'
+source-wordcount: '16795'
 ht-degree: 100%
 
 ---
@@ -280,7 +280,7 @@ Kanban 团队不受此问题的影响。
 
 通过仪表板访问报告会更新上次查看信息。
 
-**[!DNL Workfront]：对 [!DNL Workfront] 对象**&#x200B;进行更改时出现 500 错误+
+**[!DNL Workfront]：对 [!DNL Workfront] 对象**+进行更改时出现 500 错误
 
 *[!DNL Workfront]*
 
@@ -511,7 +511,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 当用户尝试以触发自动保存的方式编辑时间表时，更改未保存，并且用户看到以下消息：
 
-[!UICONTROL 您最近的更改未保存。请刷新页面以查看。]
+“[!UICONTROL 您最近的更改未保存。 刷新要查看的页面。]”
 
 编辑以下内容时会报告此情况：
 
@@ -586,7 +586,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 当用户尝试在时间表上记录任务的小时数时，小时数未自动保存，并且用户看到以下错误消息：
 
-“[!UICONTROL 抱歉，保存失败，因为有其他人同时在保存该项目。请尝试再次保存。]”
+“[!UICONTROL 抱歉，保存失败，因为有其他人同时在保存该项目。请再次重试保存。]”
 
 **无法在更新流中关闭用户信息卡**
 
@@ -649,7 +649,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 自 2022 年 9 月 8 日星期四起，我们已移除将验证通过电子邮件发送到独立版 [!DNL Workfront Proof] 产品中的拖放区域的功能。
 
-您仍然可以通过其他方式使用拖放区域向您的帐户提交新验证和新版本验证，而无需登录您的帐户。 有关更多信息，请参阅[拖放区域](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=zh-Hans)。
+您仍然可以通过其他方式使用拖放区域向您的帐户提交新验证和新版本验证，而无需登录您的帐户。 有关更多信息，请参阅[拖放区域](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html)。
 
 +++
 
@@ -886,7 +886,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 当用户尝试打开其[!UICONTROL 主页工作]列表上的项目时，该项目未打开，且用户看到以下错误消息：
 
-“[!UICONTROL 出现错误，因此我们正在寻找解决问题的方法。要继续工作，请尝试刷新此浏览器页面。]”
+&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
 
 **委派给用户的任务和问题未出现在用户的“主页工作列表”中**
 
@@ -1177,7 +1177,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 当用户查看[!UICONTROL 主页工作列表]并单击[!UICONTROL 我已提交的审批]分区中的项时，页面显示以下错误：
 
-“[!UICONTROL 出现错误，因此我们正在寻找解决问题的方法。要继续工作，请尝试刷新此浏览器页面。]”
+&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
 
 如果用户刷新页面，然后单击[!UICONTROL 工作列表]中的任何项，出现该错误。 该问题不再只影响[!UICONTROL 我已提交的审批]分区中的项。
 
@@ -1509,7 +1509,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 当用户尝试在项目的 [!DNL Workload Balancer] 中进行分配时，用户被重定向到显示以下消息的页面：
 
-“[!UICONTROL 出现错误，因此我们正在寻找解决问题的方法。要继续工作，请尝试刷新此浏览器页面。]”
+&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
 
 用户在刷新页面之前无法导航离开该页面。
 
