@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 95%
+source-wordcount: '871'
+ht-degree: 93%
 
 ---
 
@@ -41,6 +41,8 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [任务：一个或多个任务中已取消分配用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日 |
+| [展示板：无法将文档附加到信息卡](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 2023年12月18日 |
 | [验证：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日 |
 | [展示板：信息卡的[!UICONTROL 评论]部分中有错](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月14日 |
 | [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年12月14日 |

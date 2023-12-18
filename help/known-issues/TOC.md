@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '1813'
-ht-degree: 98%
+source-wordcount: '1830'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [任务：一个或多个任务中已取消分配用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [展示板：无法将文档附加到信息卡](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [验证：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [模板：将模板附加到项目时出错](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [报告：预算小时数报告未按预期每小时更新](known-issues-workfront/wf-reports-report-not-updating.md)
