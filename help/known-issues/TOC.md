@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '1830'
-ht-degree: 97%
+source-wordcount: '1849'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：从Word文档创建的验证不包括注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [任务：创建新任务时关闭窗口](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [任务：一个或多个任务中已取消分配用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
       + [展示板：无法将文档附加到信息卡](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [验证：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)

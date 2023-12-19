@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 93%
+source-wordcount: '892'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：从Word文档创建的验证不包括注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023年12月19日 |
+| [任务：创建新任务时关闭窗口](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023年12月19日 |
 | [模板：将模板附加到项目时出错](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023年12月15日 |
 | [报告：预算小时数报告未按预期每小时更新](known-issues-workfront/wf-reports-report-not-updating.md) | 2023年12月14日 |
 | [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
