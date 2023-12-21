@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '7699'
+source-wordcount: '7697'
 ht-degree: 98%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 98%
 
 ## 2023 年 12 月更新
 
-+++**（已计划）2023年12月21日维护更新**
++++**2023年12月21日维护更新**
 
 **查看子任务状态时出现问题**
 
@@ -55,7 +55,7 @@ _更新_
 
 +++
 
-+++**（已计划） [!DNL Adobe Workfront Fusion] 2023年12月21日维护更新**
++++**[!DNL Adobe Workfront Fusion]2023年12月21日维护更新**
 
 模块字段打开时间过长
 
@@ -67,9 +67,9 @@ _[!DNL Workfront Fusion]_
 
 +++
 
-+++**2023年12月14日维护更新**
++++**2023 年 12 月 14 日维护更新**
 
-**未决批准的验证不会出现在报告中**
+**等待审批的验证未显示在报告中**
 
 _验证_
 
@@ -315,7 +315,7 @@ _主页_
 
 当用户在[!UICONTROL 主页]上更改过滤器时，[!UICONTROL 主页]区域未加载，并且用户看到以下错误：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 +++
 

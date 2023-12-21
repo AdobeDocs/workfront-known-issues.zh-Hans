@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 90%
+source-wordcount: '857'
+ht-degree: 96%
 
 ---
 
@@ -27,12 +27,10 @@ ht-degree: 90%
 | -----------------------------------------------------------------| ----------------- |
 | [验证：从Word文档创建的验证不包括注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023年12月19日 |
 | [任务：创建新任务时关闭窗口](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023年12月19日 |
-| [模板：将模板附加到项目时出错](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023年12月15日 |
-| [报告：预算小时数报告未按预期每小时更新](known-issues-workfront/wf-reports-report-not-updating.md) | 2023年12月14日 |
+| [模板：将模板附加到项目时出错](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023 年 12 月 15 日 |
+| [报告：预算小时报告未按预期每小时更新](known-issues-workfront/wf-reports-report-not-updating.md) | 2023 年 12 月 14 日 |
 | [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
 | [展示板：卡片出现在多个冲刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023 年 11 月 21 日 |
-| [模板：无法从[!UICONTROL 收藏夹]列表中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 11 月 16 日 |
-| [展示板：查看子任务状态时有问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 8 日 |
 | [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 
 {style="table-layout:auto"}
@@ -44,15 +42,13 @@ ht-degree: 90%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [任务：一个或多个任务中已取消分配用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日 |
-| [展示板：无法将文档附加到信息卡](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 2023年12月18日 |
-| [验证：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日 |
-| [展示板：信息卡的[!UICONTROL 评论]部分中有错](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月14日 |
-| [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年12月14日 |
-| [展示板：状态更改时信息卡未移动到适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月14日 |
-| [更新：新评论体验中所做的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023年12月14日 |
+| [验证：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
+| [展示板：信息卡的[!UICONTROL 评论]部分中有错](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 14 日 |
+| [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 12 月 14 日 |
+| [展示板：状态更改时信息卡未移动到适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023 年 12 月 14 日 |
+| [更新：在新评论体验中发表的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 12 月 14 日 |
 | [设置：“设置”中某些问题类型缺少默认问题状态](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023 年 12 月 7 日 |
 | [状态：隐藏状态时出现[!UICONTROL ‘哎呦’]错误](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023 年 12 月 6 日 |
-| [更新：新的评论体验中缺少一些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023 年 12 月 6 日 |
 | [任务：重复任务导致任务以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [自定义表单：无法在模板任务上批量添加或批量删除自定义表单](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023 年 11 月 21 日 |
 | [任务：重新计算时间线时，任务日期变灰很久](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 10 日 |

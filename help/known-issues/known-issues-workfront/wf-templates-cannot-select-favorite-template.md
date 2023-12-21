@@ -3,15 +3,19 @@ title: "模板：无法从[!UICONTROL 收藏夹]列表中选择模板"
 description: "如果用户尝试从[!UICONTROL 收藏夹]列表中选择模板，则当用户将其鼠标移至该列表时，该列表消失，并且用户无法选择模板。"
 hidefromtoc: true
 feature: Projects
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
-workflow-type: ht
-source-wordcount: '118'
-ht-degree: 100%
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 95%
 
 ---
 
 
 # 模板：无法从[!UICONTROL 收藏夹]列表中选择模板
+
+>[!NOTE]
+>
+>此问题已于2023年12月21日修复。
 
 如果用户尝试从[!UICONTROL 收藏夹]列表中选择模板，则当用户将其鼠标移至该列表时，该列表消失，并且用户无法选择模板。
 
