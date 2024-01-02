@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 96%
+source-wordcount: '879'
+ht-degree: 97%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：从Word文档创建的验证不包括注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023年12月19日 |
-| [任务：创建新任务时关闭窗口](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023年12月19日 |
+| [验证：从 Word 文档创建的验证不包含注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023 年 12 月 19 日 |
+| [任务：创建新任务时窗口关闭](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023 年 12 月 19 日 |
 | [模板：将模板附加到项目时出错](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023 年 12 月 15 日 |
 | [报告：预算小时报告未按预期每小时更新](known-issues-workfront/wf-reports-report-not-updating.md) | 2023 年 12 月 14 日 |
 | [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023 年 11 月 27 日 |
@@ -41,7 +41,9 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [任务：一个或多个任务中已取消分配用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日 |
+| [讨论区： “[!UICONTROL 您没有访问权限]”在信息卡上查看评论时](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024年1月2日 |
+| [团队：设置团队状态时出现问题 [!UICONTROL 完成] 按钮](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月2日 |
+| [任务：用户被取消分配一项或多项任务](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [展示板：信息卡的[!UICONTROL 评论]部分中有错](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 14 日 |
 | [报告：利用率报告中的预算小时与通过 API 报告的预算小时不匹配](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 12 月 14 日 |
