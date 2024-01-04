@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
 workflow-type: tm+mt
-source-wordcount: '1869'
-ht-degree: 98%
+source-wordcount: '1887'
+ht-degree: 97%
 
 ---
 
@@ -17,12 +17,14 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [新建 [!UICONTROL 主页]：小部件筛选器和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [展示板：更改迭代时保留信息卡](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [讨论区： “[!UICONTROL 您没有访问权限]”在信息卡上查看评论时](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [团队：设置团队状态时出现问题 [!UICONTROL 完成] 按钮](known-issues-workfront/wf-teams-statuses-missing.md)
-      + [验证：从 Word 文档创建的验证不包含注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [校样：从 Word 文档创建的校样不包含注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [任务：创建新任务时窗口关闭](known-issues-workfront/wf-tasks-new-window-closes.md)
-      + [任务：用户被取消分配一项或多项任务](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
-      + [展示板：无法将文档附加到信息卡上](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
+      + [任务：从一项或多项任务取消分配了用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [展示板：无法将文档附加到信息卡](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [模板：将模板附加到项目时出错](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [报告：预算小时报告未按预期每小时更新](known-issues-workfront/wf-reports-report-not-updating.md)
