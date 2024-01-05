@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '869'
-ht-degree: 93%
+source-wordcount: '880'
+ht-degree: 92%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [问题：批量编辑问题时时间字段保存的时间不正确](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日 |
 | [校样：从 Word 文档创建的校样不包含注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日 |
 | [模板：将模板附加到项目时出错](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2024年1月4日 |
 | [任务：创建新任务时窗口关闭](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日 |

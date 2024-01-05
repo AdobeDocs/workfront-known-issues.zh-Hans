@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '1887'
+source-wordcount: '1897'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [问题：批量编辑问题时时间字段保存的时间不正确](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [新建 [!UICONTROL 主页]：小部件筛选器和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [展示板：更改迭代时保留信息卡](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [讨论区： “[!UICONTROL 您没有访问权限]”在信息卡上查看评论时](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
