@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
+source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
-source-wordcount: '1908'
+source-wordcount: '1914'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [展示板：在项目中使用展示板视图时，信息卡未关闭](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [问题：批量编辑问题时时间字段保存的时间不正确](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [新建 [!UICONTROL 主页]：小部件筛选器和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
