@@ -4,15 +4,18 @@ description: 关于在展示板中的信息卡上查看子任务状态已报告�
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 94%
 
 ---
 
 # 展示板：查看子任务状态时出现问题
 
+>[!NOTE]
+>
+>此问题已于2024年1月12日修复。
 
 关于在展示板中的信息卡上查看子任务状态已报告以下问题：
 

@@ -3,14 +3,14 @@ title: 2022 年的 Workfront 维护更新
 description: 2022 年 [!DNL Adobe Workfront] 维护更新
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
-workflow-type: ht
-source-wordcount: '16795'
-ht-degree: 100%
+source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+workflow-type: tm+mt
+source-wordcount: '16797'
+ht-degree: 99%
 
 ---
 
-# [!DNL Workfront] 维护更新
+# [!DNL Workfront] 2022年维护更新
 
 2022 年进行了以下维护更新。
 
@@ -1177,7 +1177,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 当用户查看[!UICONTROL 主页工作列表]并单击[!UICONTROL 我已提交的审批]分区中的项时，页面显示以下错误：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 如果用户刷新页面，然后单击[!UICONTROL 工作列表]中的任何项，出现该错误。 该问题不再只影响[!UICONTROL 我已提交的审批]分区中的项。
 
@@ -1509,7 +1509,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 当用户尝试在项目的 [!DNL Workload Balancer] 中进行分配时，用户被重定向到显示以下消息的页面：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 用户在刷新页面之前无法导航离开该页面。
 

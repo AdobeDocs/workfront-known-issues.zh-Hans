@@ -2,10 +2,10 @@
 user-guide-title: 维护版本
 user-guide-description: ' [!DNL Adobe Workfront] 维护版本'
 role: User
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 5888405d48bb6a271fcfe748d3cce99e2ccfadaf
 workflow-type: tm+mt
-source-wordcount: '11'
-ht-degree: 100%
+source-wordcount: '15'
+ht-degree: 86%
 
 ---
 
@@ -13,6 +13,7 @@ ht-degree: 100%
 # 维护版本 {#releases}
 
 + [当前更新](current-updates.md)
++ [2023年更新](2023-updates.md)
 + [2022 年更新](2022-updates.md)
 + [2021 年更新](2021-updates.md)
 
