@@ -3,15 +3,19 @@ title: "展示板：无法将文档附加到信息卡"
 description: "当用户尝试将文档附加到已连接的信息卡时，用户可选择要附加的文档，但该文档不出现在该信息卡的文档区域中，并且该文档不附加到该信息卡连接到的对象。"
 hidefromtoc: true
 feature: Agile
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 96%
 
 ---
 
 
 # 展示板：无法将文档附加到信息卡
+
+>[!NOTE]
+>
+>此问题已于2024年1月12日修复。
 
 <!--WF and WFP TOCs-->
 

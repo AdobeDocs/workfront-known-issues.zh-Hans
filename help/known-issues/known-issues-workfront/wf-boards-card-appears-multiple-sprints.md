@@ -4,14 +4,18 @@ description: 当用户在展示板上查看某个冲刺时，展示板上出现�
 hidefromtoc: true
 feature: Agile
 exl-id: 660cb70d-a513-4176-a205-ca54e02aac71
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 91%
 
 ---
 
 # 展示板：卡片出现在多个冲刺中
+
+>[!NOTE]
+>
+>此问题已于2024年1月12日修复。
 
 当用户在展示板上查看某个冲刺时，展示板上出现其他冲刺中的卡片。此问题时有时无。
 

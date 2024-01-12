@@ -3,15 +3,19 @@ title: '"任务：重新计算时间线时，任务日期变灰很久'
 description: "当用户在任务列表中作出触发重新计算时间线的更改时，还将重新计算该时间线影响的其他任务。当发生这种情况时，这些其他任务中受影响的日期变灰。在此问题中，这些任务保持变灰很久。"
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: ht
-source-wordcount: '149'
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '155'
 ht-degree: 100%
 
 ---
 
 
 # 任务：重新计算时间线时，任务日期变灰很久
+
+>[!NOTE]
+>
+>此问题已于 2023 年 12 月 21 日修复。
 
 当用户在任务列表中作出触发重新计算时间线的更改时，还将重新计算该时间线影响的其他任务。当发生这种情况时，这些其他任务中受影响的日期变灰。在此问题中，这些任务保持变灰很久。
 
