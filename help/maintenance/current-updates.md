@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 48%
+source-wordcount: '172'
+ht-degree: 44%
 
 ---
 
@@ -22,54 +22,58 @@ ht-degree: 48%
 
 ## 2024 年 1 月更新
 
-+++**2024年1月12日维护更新**
+<!--
 
-### 2024年1月12日维护更新
++++**Maintenance Update on January 12, 2024**
 
-#### 展示板
+### Maintenance Update on January 12, 2024
 
-**无法将文档附加到信息卡**
+#### Boards
 
-当用户尝试将文档附加到已连接的信息卡时，用户可选择要附加的文档，但该文档不出现在该信息卡的文档区域中，并且该文档不附加到该信息卡连接到的对象。
+**Cannot attach a document to a card**
 
-已在与问题相关的信息卡中报告了这种情况。
+When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
 
-**信息卡出现在多个冲刺中**
+This has been reported in cards connected to issues.
 
-当用户在展示板上查看某个冲刺时，展示板上出现其他冲刺中的卡片。此问题时有时无。
+**Card appears on multiple sprints**
 
-**在项目中使用展示板视图时，信息卡未关闭**
+When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
 
-当用户查看项目中任务列表的“展示板”视图，并创建信息卡时，信息卡未关闭或保存。 这会阻止用户返回项目。
+**Card doesn't close when using Boards view in a Project**
 
-要关闭卡，用户必须编辑URL以删除“展示板”及“展示板”右侧的任何内容。
+When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
 
-**更改迭代时信息卡会保留**
+To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
 
-当用户查看展示板上的小版本然后更改小版本时，为新小版本显示的卡片是用户之前查看的小版本中的卡片。
+**Cards persist when changing iteration**
 
-**中的错误 [!UICONTROL 评论] 卡片部分**
+When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
 
-当用户查看信息卡并滚动到[!UICONTROL 评论]部分时，不显示评论，而用户看到以下错误：
+**Error in [!UICONTROL Comments] section of cards**
 
-“[!UICONTROL 出现问题。请稍后重试。]”
+When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
 
-**查看子任务状态时有问题**
+"[!UICONTROL Something went wrong. Please try again later.]"
 
-关于在展示板中的信息卡上查看子任务状态已报告以下问题：
+**Issues when viewing subtask status**
 
-* 即使在任务已有某种状态时，仍将状态显示为“选择状态”。直接查看任务时可看到此状态。
-* 如果用户尝试选择状态，则屏幕变为空白，并且必须刷新屏幕。
+The following issues have been reported regarding viewing subtask status on a card in Boards:
 
-**&quot;[!UICONTROL 您没有访问权限]”在信息卡上查看评论时**
+* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
+* If the user attempts to select a status, the screen goes blank and must be refreshed.
 
-当用户尝试在未连接到的信息卡上查看评论时 [!DNL Workfront] 对象时，他们会看到以下消息：
+**"[!UICONTROL You have no access]" when viewing comments on a card**
 
-&quot;[!UICONTROL 您没有查看此对象注释的权限]&quot;
+When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
 
-即使用户以前可以在信息卡上看到评论，也可能发生这种情况。
+"[!UICONTROL You have no access to view comments on this object]"
+
+This may occur even when the user could previously see comments on the card.
 
 +++
+
+-->
 
 +++**2023年1月11日维护更新**
 

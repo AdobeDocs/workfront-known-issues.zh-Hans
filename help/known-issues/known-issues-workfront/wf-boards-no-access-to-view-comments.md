@@ -3,7 +3,7 @@ title: “展示板：在信息卡上查看评论时，您没有访问权限。�
 description: “当用户尝试在未连接到Workfront对象的信息卡上查看评论时，他们会看到一条错误消息。”
 hidefromtoc: true
 feature: Agile
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 3%
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->此问题已于2024年1月12日修复。
+>此问题已于2024年1月12日修复。—>
 
 当用户尝试在未连接到的信息卡上查看评论时 [!DNL Workfront] 对象时，他们会看到以下消息：
 
