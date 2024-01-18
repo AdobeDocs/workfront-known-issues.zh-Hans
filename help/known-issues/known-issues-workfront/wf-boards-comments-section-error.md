@@ -4,19 +4,18 @@ description: 当用户查看信息卡并滚动到 [!UICONTROL 评论]，部分�
 hidefromtoc: true
 feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
-source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 58%
+source-wordcount: '78'
+ht-degree: 53%
 
 ---
 
 # 展示板：信息卡的[!UICONTROL 评论]部分中有错
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on January 12, 2024.-->
+>此问题已于2024年1月18日修复。
 
 当用户查看信息卡并滚动到[!UICONTROL 评论]部分时，不显示评论，而用户看到以下错误：
 

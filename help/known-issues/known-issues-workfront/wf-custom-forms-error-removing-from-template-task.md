@@ -4,14 +4,18 @@ description: 如果用户尝试在模板任务上批量添加或批量删除某�
 hidefromtoc: true
 feature: Custom Forms
 exl-id: e9014f67-2098-46e4-a301-6a742a0c2ddb
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 96%
 
 ---
 
 # 自定义表单：无法在模板任务上批量添加或批量删除自定义表单
+
+>[!NOTE]
+>
+>此问题已于2024年1月18日修复。
 
 如果用户尝试在模板任务上批量添加或批量删除某个自定义表单，并不添加或删除该表单，并且出现以下错误：
 

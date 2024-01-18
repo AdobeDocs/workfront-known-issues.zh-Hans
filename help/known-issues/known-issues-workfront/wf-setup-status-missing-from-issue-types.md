@@ -3,15 +3,19 @@ title: “设置：“设置”中某些问题类型缺少默认问题状态”
 description: “当用户在“设置”中查看问题状态时，他们会发现某些类型的问题缺少默认问题状态（“新”、“正在进行”和“完成”）。默认状态没有更改问题类型的选项，因此用户无法重新配置状态以显示受影响的问题类型。”
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
-workflow-type: ht
-source-wordcount: '136'
-ht-degree: 100%
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '142'
+ht-degree: 95%
 
 ---
 
 
 # 设置：“设置”中某些问题类型缺少默认问题状态
+
+>[!NOTE]
+>
+>此问题已于2024年1月17日修复。
 
 当用户在“设置”中查看问题状态时，他们会发现某些类型的问题缺少默认问题状态（“新”、“正在进行”和“完成”）。默认状态没有更改问题类型的选项，因此用户无法重新配置状态以显示受影响的问题类型。
 

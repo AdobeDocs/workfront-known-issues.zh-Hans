@@ -3,9 +3,9 @@ title: “展示板：在项目中使用展示板视图时，信息卡未关闭�
 description: “当用户查看项目中任务列表的‘展示板’视图并创建信息卡时，信息卡不会关闭或保存。 这会阻止用户返回项目。”
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,9 @@ ht-degree: 0%
 
 # 展示板：在项目中使用展示板视图时，信息卡未关闭
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on January 12, 2024.-->
+>此问题已于2024年1月18日修复。
 
 当用户查看项目中任务列表的“展示板”视图，并创建信息卡时，信息卡未关闭或保存。 这会阻止用户返回项目。
 

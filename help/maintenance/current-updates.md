@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 44%
+source-wordcount: '945'
+ht-degree: 49%
 
 ---
 
@@ -22,58 +22,107 @@ ht-degree: 44%
 
 ## 2024 年 1 月更新
 
-<!--
++++**2024年1月18日维护更新**
 
-+++**Maintenance Update on January 12, 2024**
+### 2024年1月18日维护更新
 
-### Maintenance Update on January 12, 2024
+#### 展示板
 
-#### Boards
+**无法将文档附加到信息卡**
 
-**Cannot attach a document to a card**
+当用户尝试将文档附加到已连接的信息卡时，用户可选择要附加的文档，但该文档不出现在该信息卡的文档区域中，并且该文档不附加到该信息卡连接到的对象。
 
-When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
+已在与问题相关的信息卡中报告了这种情况。
 
-This has been reported in cards connected to issues.
+**信息卡出现在多个冲刺中**
 
-**Card appears on multiple sprints**
+当用户在展示板上查看某个冲刺时，展示板上出现其他冲刺中的卡片。此问题时有时无。
 
-When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
+**在项目中使用展示板视图时，信息卡未关闭**
 
-**Card doesn't close when using Boards view in a Project**
+当用户查看项目中任务列表的“展示板”视图，并创建信息卡时，信息卡未关闭或保存。 这会阻止用户返回项目。
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+要关闭卡，用户必须编辑URL以删除“展示板”及“展示板”右侧的任何内容。
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+**更改迭代时信息卡会保留**
 
-**Cards persist when changing iteration**
+当用户查看展示板上的小版本然后更改小版本时，为新小版本显示的卡片是用户之前查看的小版本中的卡片。
 
-When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
+**中的错误 [!UICONTROL 评论] 卡片部分**
 
-**Error in [!UICONTROL Comments] section of cards**
+当用户查看信息卡并滚动到[!UICONTROL 评论]部分时，不显示评论，而用户看到以下错误：
 
-When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
+“[!UICONTROL 出现问题。请稍后重试。]”
 
-"[!UICONTROL Something went wrong. Please try again later.]"
+**查看子任务状态时有问题**
 
-**Issues when viewing subtask status**
+关于在展示板中的信息卡上查看子任务状态已报告以下问题：
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+* 即使在任务已有某种状态时，仍将状态显示为“选择状态”。直接查看任务时可看到此状态。
+* 如果用户尝试选择状态，则屏幕变为空白，并且必须刷新屏幕。
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**&quot;[!UICONTROL 您没有访问权限]”在信息卡上查看评论时**
 
-**"[!UICONTROL You have no access]" when viewing comments on a card**
+当用户尝试在未连接到的信息卡上查看评论时 [!DNL Workfront] 对象时，他们会看到以下消息：
 
-When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
+&quot;[!UICONTROL 您没有查看此对象注释的权限]&quot;
 
-"[!UICONTROL You have no access to view comments on this object]"
+即使用户以前可以在信息卡上看到评论，也可能发生这种情况。
 
-This may occur even when the user could previously see comments on the card.
+#### 自定义表单
+
+**无法在模板任务中批量添加或批量删除自定义表单**
+
+如果用户尝试在模板任务上批量添加或批量删除某个自定义表单，并不添加或删除该表单，并且出现以下错误：
+
+[!UICONTROL 让我们再试一次。无效参数：templateID 值 &quot;XXXXXXXXXXXXXXXX&quot;]
+
+如果用户找到具有指定 GUID 的模板，然后尝试在模板任务的剩余部分添加或删除自定义表单，则使用另一个 templateID 将重现该错误。
+
+可在单个模板任务上添加或删除自定义表单。此错误仅适用于批量添加或删除。
+
+#### 项目组合
+
+**自定义术语不适用于组页面**
+
+当用户在Portfolio级别设置自定义术语时，这些术语不适用于组级别页面。
+
+#### 设置
+
+**无法隐藏可选状态**
+
+当用户尝试隐藏系统和组级别的可选状态时，状态未隐藏。 如果用户查看状态，则隐藏状态的选项不会启用，即使用户启用了并保存了更改。
+
+**设置中的某些问题类型中缺少默认问题状态**
+
+当用户在“设置”中查看问题状态时，他们会发现某些类型的问题缺少默认问题状态（“新”、“正在进行”和“完成”）。默认状态没有更改问题类型的选项，因此用户无法重新配置状态以显示受影响的问题类型。
+
+#### 团队
+
+**设置团队状态时出现问题 [!UICONTROL 完成] 按钮**
+
+已报告了以下有关以下各项的状态的问题： [!UICONTROL 完成] 编辑或创建团队时的按钮：
+
+* 的“完成”按钮区域中可能缺少某些状态 [!UICONTROL 新团队] 窗口或 [!UICONTROL 团队设置] 现有团队的区域。
+* 如果用户尝试保存团队，则可能会看到错误消息“您必须在每个类别中选择至少一个状态。”
+
+#### 模板
+
+**将模板附加到项目时出错**
+
+当用户尝试将模板附加到项目时，他们收到以下错误：
+
+&quot;糟糕！出现问题。请联系 Workfront，以便我们找出错误并加以修复。”
+
+当用户对于附加到模板的自定义表单没有“查看”权限时，发生这种情况。
+
+#### 更新
+
+**评论不会在旧体验和新体验之间转移**
+
+在旧版评论体验中所做的评论可能无法在新评论体验中可见。 也可能出现相反的情况。
 
 +++
-
--->
 
 +++**2023年1月11日维护更新**
 
