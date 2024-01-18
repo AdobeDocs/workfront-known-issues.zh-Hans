@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '384'
 ht-degree: 93%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 93%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront Proof]：创建验证时无法重新排序资源](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | 2024年1月17日 |
-| [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月16日 |
 | [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
 
 {style="table-layout:auto"}
@@ -37,8 +36,7 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：从 Word 文档创建的校样不包含注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日 |
-| [主页：审批卡在[!UICONTROL 正在等待我的审批]构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)上 | 2024年1月4日 |
+| [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [校样：从电子邮件链接访问校样时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |

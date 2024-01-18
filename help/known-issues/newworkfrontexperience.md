@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '766'
 ht-degree: 94%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月16日 |
 | [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
 | [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 
@@ -37,11 +36,10 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
 | [问题：批量编辑问题时时间字段保存的时间不正确](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日 |
-| [校样：从 Word 文档创建的校样不包含注释或标记](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日 |
 | [任务：创建新任务时窗口关闭](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日 |
 | [模板：无法从[!UICONTROL 收藏夹]列表中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024年1月4日 |
-| [主页：审批卡在[!UICONTROL 正在等待我的审批]构件](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)上 | 2024年1月4日 |
 | [新建 [!UICONTROL 主页]：小部件筛选器和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日 |
 | [任务：从一项或多项任务取消分配了用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |

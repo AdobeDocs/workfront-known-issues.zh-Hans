@@ -4,14 +4,18 @@ description: 当上传文档的新版本但未完成以前版本的审批时，�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
-source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 95%
 
 ---
 
 # 主页：审批卡在[!UICONTROL 正在等待我的审批]构件上
+
+>[!NOTE]
+>
+>此问题已于2024年1月18日修复。
 
 <!--on WF and WFP TOCs-->
 
