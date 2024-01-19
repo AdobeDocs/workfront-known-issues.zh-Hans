@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 94%
+source-wordcount: '794'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：将通知标记为“已查看”不持久](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2023年1月19日 |
 | [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
 | [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
 
@@ -36,6 +37,8 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [集成：无法从Workfront为Jira集成记录时间](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024年1月19日 |
+| [更新：无法查看或下载评论中的图像](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日 |
 | [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
 | [问题：批量编辑问题时时间字段保存的时间不正确](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日 |
 | [任务：创建新任务时窗口关闭](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日 |

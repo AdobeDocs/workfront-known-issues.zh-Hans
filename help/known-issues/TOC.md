@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '1934'
-ht-degree: 95%
+source-wordcount: '1959'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [集成：无法从Workfront为Jira集成记录时间](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [更新：无法查看或下载评论中的图像](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [通知：将通知标记为“已查看”不持久](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL 设置]：无法隐藏可选状态](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md)
       + [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
