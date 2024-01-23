@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '945'
-ht-degree: 49%
+source-wordcount: '1085'
+ht-degree: 47%
 
 ---
 
@@ -21,6 +21,24 @@ ht-degree: 49%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 1 月更新
+
++++**2024年1月25日维护更新**
+
+### 2024年1月25日维护更新
+
+#### 展示板
+
+**状态更改时信息卡未移动到相应的列**
+
+当直接在对象上更改已连接信息卡的链接对象的状态时，该卡不会移动到相应的列。如果信息卡上的对象状态发生更改，或者将信息卡拖到新列，则信息卡会按预期运行。
+
+#### 通知
+
+**将通知标记为已查看的情况不会持续存在**
+
+当用户将其通知标记为已查看，然后导航到中的其他页面时 [!DNL Workfront]，通知图标仍会显示用户将其标记为可见之前存在的未读通知数，并且当用户单击该图标时，通知仍会列出。 如果用户将它们标记为已查看，并导航到其他页面或返回原始页面，则会继续此操作。
+
++++
 
 +++**2024年1月18日维护更新**
 
