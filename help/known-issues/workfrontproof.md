@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 93%
+source-wordcount: '400'
+ht-degree: 90%
 
 ---
 
@@ -25,8 +25,10 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：无法将文档从文件夹移动到根](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
+| [验证：GIF呈现为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
 | [[!UICONTROL Workfront Proof]：创建验证时无法重新排序资源](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | 2024年1月17日 |
-| [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
+| [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
 
 {style="table-layout:auto"}
 

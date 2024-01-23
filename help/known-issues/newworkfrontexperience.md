@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 91%
+source-wordcount: '821'
+ht-degree: 88%
 
 ---
 
@@ -25,9 +25,12 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [通知：将通知标记为“已查看”不持久](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2023年1月19日 |
-| [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日 |
-| [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2023 年 10 月 20 日 |
+| [文档：无法将文档从文件夹移动到根](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
+| [验证：GIF呈现为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
+| [资源管理：由于工作角色问题，财务计算不正确](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月23日 |
+| [通知：将通知标记为“已查看”不持久](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2024年1月19日 |
+| [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
+| [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2024年10月20日 |
 
 {style="table-layout:auto"}
 
