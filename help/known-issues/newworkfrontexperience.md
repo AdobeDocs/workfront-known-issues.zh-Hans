@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 88%
+source-wordcount: '844'
+ht-degree: 85%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：在旧版评论Experience中所做的评论在新版Experience中不可见](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024年1月24日 |
+| [更新：旧版评论体验中的标记问题](known-issues-workfront/wf-updates-showing-first-name.md) | 2024年1月24日 |
 | [集成：无法从Workfront为Jira集成记录时间](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024年1月19日 |
 | [更新：无法查看或下载评论中的图像](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日 |
 | [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
