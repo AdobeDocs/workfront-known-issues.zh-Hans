@@ -3,15 +3,19 @@ title: “通知：将通知标记为已查看不具有持续性”
 description: “当用户将其通知标记为已查看，然后导航到Workfront中的其他页面时，通知图标仍会显示用户将其标记为已查看之前存在的未读通知数，并且当用户单击该图标时，通知仍会列出。 如果用户将它们标记为已查看，并导航到其他页面或返回原始页面，则这种情况会继续。”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 
 # 通知：将通知标记为“已查看”不持久
+
+>[!NOTE]
+>
+>此问题已于2024年1月25日修复。
 
 当用户将其通知标记为已查看，然后导航到中的其他页面时 [!DNL Workfront]，通知图标仍会显示用户将其标记为可见之前存在的未读通知数，并且当用户单击该图标时，通知仍会列出。 如果用户将它们标记为已查看，并导航到其他页面或返回原始页面，则会继续此操作。
 

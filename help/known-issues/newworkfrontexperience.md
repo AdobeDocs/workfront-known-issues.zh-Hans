@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 85%
+source-wordcount: '814'
+ht-degree: 87%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 85%
 | [文档：无法将文档从文件夹移动到根](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
 | [验证：GIF呈现为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
 | [资源管理：由于工作角色问题，财务计算不正确](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月23日 |
-| [通知：将通知标记为“已查看”不持久](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2024年1月19日 |
 | [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
 | [展示板：搜索功能不起作用](known-issues-workfront/wf-boards-search-not-working.md) | 2024年10月20日 |
 
@@ -41,7 +40,6 @@ ht-degree: 85%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [更新：在旧版评论Experience中所做的评论在新版Experience中不可见](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024年1月24日 |
-| [更新：旧版评论体验中的标记问题](known-issues-workfront/wf-updates-showing-first-name.md) | 2024年1月24日 |
 | [集成：无法从Workfront为Jira集成记录时间](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024年1月19日 |
 | [更新：无法查看或下载评论中的图像](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日 |
 | [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
@@ -51,7 +49,6 @@ ht-degree: 85%
 | [新建 [!UICONTROL 主页]：小部件筛选器和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日 |
 | [任务：从一项或多项任务取消分配了用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
-| [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023 年 12 月 14 日 |
 | [任务：重复任务导致任务以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
 | [任务：任务标题中出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 25 日 |
