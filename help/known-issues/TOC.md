@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
 workflow-type: tm+mt
-source-wordcount: '2004'
-ht-degree: 92%
+source-wordcount: '2012'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [[!UICONTROL 资源管理]：无法更改日期 [!UICONTROL 利用] 区域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [更新：在旧版评论Experience中所做的评论在新版Experience中不可见](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [更新：旧版评论体验中的标记问题](known-issues-workfront/wf-updates-showing-first-name.md)
       + [文档：无法将文档从文件夹移动到根](known-issues-workfront/wf-documents-cannot-move-to-root.md)
