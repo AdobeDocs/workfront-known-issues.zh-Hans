@@ -3,15 +3,19 @@ title: “集成：无法从Workfront为Jira集成记录时间”
 description: “当用户尝试在Workfront For Jira集成中记录时间时，时间未记录，并且用户看到错误消息。”
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 
 # 集成：无法从Workfront为Jira集成记录时间
+
+>[!NOTE]
+>
+>此问题已于1月19日修复。 2024年。
 
 当用户尝试在Workfront For Jira集成中记录时间时，时间未记录，并且用户看到以下错误消息：
 
