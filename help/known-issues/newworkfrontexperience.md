@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '828'
 ht-degree: 85%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 85%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [模板：复制模板时出错](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024年1月26日 |
 | [[!UICONTROL 资源管理]：无法更改日期 [!UICONTROL 利用] 区域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日 |
 | [团队：设置团队状态时出现问题 [!UICONTROL 完成] 按钮](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日 |
 | [资源管理：由于工作角色问题，财务计算不正确](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日 |
