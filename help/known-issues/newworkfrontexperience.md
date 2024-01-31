@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '807'
-ht-degree: 85%
+source-wordcount: '838'
+ht-degree: 81%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 85%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：无法使用移动列中的信息卡 [!UICONTROL 移动] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024年1月26日 |
 | [文档：无法将文档从文件夹移动到根](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
 | [验证：GIF呈现为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
 | [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
@@ -37,6 +38,8 @@ ht-degree: 85%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日 |
+| [更新：编辑评论时，可以使用禁用的图像选项](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024年1月31日 |
 | [模板：复制模板时出错](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024年1月26日 |
 | [[!UICONTROL 资源管理]：无法更改日期 [!UICONTROL 利用] 区域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日 |
 | [团队：设置团队状态时出现问题 [!UICONTROL 完成] 按钮](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日 |
