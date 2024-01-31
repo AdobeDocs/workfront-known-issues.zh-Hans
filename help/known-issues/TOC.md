@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1516'
 ht-degree: 86%
 
 ---
@@ -189,6 +189,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+      + [Workfront Fusion：输出日期的格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：来自Workfront模块的200响应出现RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
