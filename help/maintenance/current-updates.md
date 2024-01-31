@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1158'
-ht-degree: 44%
+source-wordcount: '1333'
+ht-degree: 39%
 
 ---
 
@@ -20,7 +20,43 @@ ht-degree: 44%
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
+## 2024 年 2 月更新
+
++++**（已计划）2024年2月1日维护更新**
+
+### （已计划）2024年2月1日维护更新
+
+#### 登录
+
+**使用SSO的用户在登录时不会重定向到原始位置**
+
+当用户在中的页面上 [!DNL Workfront] 和使用SSO登录，登录完成后，它们将被定向到 [!UICONTROL 主页] 而不是登录之前所在的页面。
+
+#### 模板
+
+**复制模板时出错**
+
+当用户尝试复制新模板或现有模板时，模板未复制，并且用户看到以下错误消息：
+
+&quot;[!UICONTROL ID不能为空]&quot;
+
++++
+
 ## 2024 年 1 月更新
+
++++**2024年1月30日维护更新（修补程序）**
+
+### 2024年1月30日维护更新（修补程序）
+
+#### 报告
+
+**外部API字段未在列表和报告中显示所有可用值**
+
+以前，用户可以在列表和报告中看到为外部查找字段选择的值（并编辑该值），但看不到包含来自API的选项的下拉列表。
+
+现在，当在列表或报告中使用外部查找自定义字段时，包含外部API中所有选项的下拉菜单可用。
+
++++
 
 +++**2024年1月25日维护更新**
 
