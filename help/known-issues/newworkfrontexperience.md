@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 81%
+source-wordcount: '832'
+ht-degree: 91%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 81%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [展示板：无法使用移动列中的信息卡 [!UICONTROL 移动] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024年1月26日 |
-| [文档：无法将文档从文件夹移动到根](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日 |
-| [验证：GIF呈现为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日 |
-| [验证：无法生成压缩验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日 |
+| [文档：无法将文档从文件夹移动到根目录](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024 年 1 月 23 日 |
+| [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
+| [验证：无法生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
 {style="table-layout:auto"}
 
@@ -40,17 +40,16 @@ ht-degree: 81%
 |----------------------------------| ----------------- |
 | [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日 |
 | [更新：编辑评论时，可以使用禁用的图像选项](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024年1月31日 |
-| [模板：复制模板时出错](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024年1月26日 |
 | [[!UICONTROL 资源管理]：无法更改日期 [!UICONTROL 利用] 区域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日 |
 | [团队：设置团队状态时出现问题 [!UICONTROL 完成] 按钮](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日 |
-| [资源管理：由于工作角色问题，财务计算不正确](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日 |
+| [资源管理：由于工作角色问题导致财务计算有误](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日 |
 | [展示板：更改迭代时保留信息卡](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024年1月25日 |
 | [更新：在旧版评论Experience中所做的评论在新版Experience中不可见](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024年1月24日 |
-| [更新：无法查看或下载评论中的图像](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日 |
-| [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日 |
-| [问题：批量编辑问题时时间字段保存的时间不正确](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日 |
-| [模板：无法从[!UICONTROL 收藏夹]列表中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024年1月4日 |
-| [新建 [!UICONTROL 主页]：小部件筛选器和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日 |
+| [更新：无法查看或下载评论中的图片](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024 年 1 月 19 日 |
+| [文档：查看文档列表时出现问题](known-issues-workfront/wf-documents-list-not-loading.md) | 2024 年 1 月 18 日 |
+| [问题：批量编辑时时间字段保存的时间有误的问题](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024 年 1 月 5 日 |
+| [模板：无法从[!UICONTROL 收藏夹]列表中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024 年 1 月 4 日 |
+| [新[!UICONTROL 主页]：构件过滤器和分组默认值未遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [任务：从一项或多项任务取消分配了用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [任务：重复任务导致任务以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |

@@ -3,15 +3,19 @@ title: “模板：复制模板时出错”
 description: “当用户尝试复制新模板或现有模板时，模板未复制，并且用户看到错误消息。”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 
 # 模板：复制模板时出错
+
+>[!NOTE]
+>
+>此问题已于2024年2月1日修复。
 
 当用户尝试复制新模板或现有模板时，模板未复制，并且用户看到以下错误消息：
 
