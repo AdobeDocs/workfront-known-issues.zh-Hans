@@ -4,14 +4,16 @@ description: 当新  [!DNL Adobe Workfront]  Experience 中的用户在“主页
 exl-id: 32257ac1-9804-4793-9c37-62ca5608df3d
 feature: Get Started with Workfront, Tasks
 hidefromtoc: true
-source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: ht
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL 主页]：[!UICONTROL 新任务]选项在[!UICONTROL 任务负责人]字段显示已停用的用户
+
+<!--Valid issue, won't fix-->
 
 当新 [!DNL Adobe Workfront] Experience 中的用户在[!UICONTROL 主页]区域创建新任务或问题，并且尝试分配用户时，停用的用户在预输入下拉列表中显示为选择。
 

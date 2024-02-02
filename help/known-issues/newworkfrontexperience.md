@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '793'
 ht-degree: 92%
 
 ---
@@ -26,8 +26,8 @@ ht-degree: 92%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [展示板：无法使用移动列中的信息卡 [!UICONTROL 移动] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024年1月26日 |
-| [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
-| [验证：无法生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
+| [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
+| [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
 {style="table-layout:auto"}
 
@@ -37,21 +37,20 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [文档：无法将文档从文件夹移动到根目录](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年2月1日 |
+| [文档：无法将文档从文件夹移至根](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年2月1日 |
 | [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日 |
 | [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日 |
 | [更新：编辑评论时，可以使用禁用的图像选项](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024年1月31日 |
 | [[!UICONTROL 资源管理]：无法更改日期 [!UICONTROL 利用] 区域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日 |
 | [团队：设置团队状态时出现问题 [!UICONTROL 完成] 按钮](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日 |
-| [资源管理：由于工作角色问题导致财务计算有误](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日 |
+| [资源管理：由于工作角色问题导致财务计算结果有误](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日 |
 | [展示板：更改迭代时保留信息卡](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024年1月25日 |
-| [问题：批量编辑时时间字段保存的时间有误的问题](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024 年 1 月 5 日 |
-| [新[!UICONTROL 主页]：构件过滤器和分组默认值未遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
+| [问题：在批量编辑问题时，时间字段保存的时间有误](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024 年 1 月 5 日 |
+| [新[!UICONTROL 主页]：构件筛选条件和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [任务：从一项或多项任务取消分配了用户](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023 年 12 月 18 日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [任务：重复任务导致任务以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
-| [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
@@ -74,7 +73,6 @@ ht-degree: 92%
 | [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中未显示审批选项 | 2023 年 8 月 10 日 |
 | [校样：校样未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
-| [文档集成：无法看到  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) 中的所有文件夹 | 2023 年 7 月 18 日 |
 | [校样：在预览环境中创建校样缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023 年 5 月 5 日 |
 | [文档：[!UICONTROL 校样活动]选项引向登录页面](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
