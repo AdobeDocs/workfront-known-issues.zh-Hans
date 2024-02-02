@@ -4,9 +4,9 @@ description: “当用户在“设置”中查看问题状态时，他们会发�
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年1月17日修复。
+>此问题已于 2024 年 1 月 17 日修复。
 
 当用户在“设置”中查看问题状态时，他们会发现某些类型的问题缺少默认问题状态（“新”、“正在进行”和“完成”）。默认状态没有更改问题类型的选项，因此用户无法重新配置状态以显示受影响的问题类型。
 

@@ -4,9 +4,9 @@ description: "当用户从包含标记或嵌入式注释的 Word 文档创建校
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年1月11日修复。
+>此问题已于 2024 年 1 月 11 日修复。
 
 <!--WF and EFP TOCs-->
 

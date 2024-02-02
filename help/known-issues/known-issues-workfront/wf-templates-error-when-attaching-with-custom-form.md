@@ -1,12 +1,12 @@
 ---
 title: "模板：将模板附加到项目时出错"
-description: "当用户尝试将模板附加到项目时，他们收到错误。有变通方法可用。"
+description: '"当用户尝试将模板附加到项目时，他们收到错误。有变通方法可用。”'
 hidefromtoc: true
 feature: Projects
 source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年1月18日修复。
+>此问题已于 2024 年 1 月 18 日修复。
 
 当用户尝试将模板附加到项目时，他们收到以下错误：
 

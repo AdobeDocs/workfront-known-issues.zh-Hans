@@ -4,9 +4,9 @@ description: "当用户尝试将文档附加到已连接的信息卡时，用户
 hidefromtoc: true
 feature: Agile
 source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此问题已于2024年1月18日修复。
+>此问题已于 2024 年 1 月 18 日修复。
 
 <!--WF and WFP TOCs-->
 

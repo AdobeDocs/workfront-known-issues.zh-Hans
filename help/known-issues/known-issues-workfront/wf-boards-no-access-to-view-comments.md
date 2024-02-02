@@ -1,26 +1,26 @@
 ---
-title: “展示板：在信息卡上查看评论时，您没有访问权限。”
-description: “当用户尝试在未连接到Workfront对象的信息卡上查看评论时，他们会看到一条错误消息。”
+title: "展示板：在信息卡上查看评论时出现“您无权访问”消息。"
+description: "当用户尝试在与 Workfront 对象无关的信息卡上查看评论时，他们看到一条错误消息。"
 hidefromtoc: true
 feature: Agile
 source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# 讨论区： “[!UICONTROL 您没有访问权限]”在信息卡上查看评论时
+# 展示板：在信息卡上查看评论时出现“[!UICONTROL 您无权访问]”消息
 
 >[!NOTE]
 >
->此问题已于2024年1月18日修复。
+>此问题已于 2024 年 1 月 18 日修复。
 
-当用户尝试在未连接到的信息卡上查看评论时 [!DNL Workfront] 对象时，他们会看到以下消息：
+当用户尝试在与 [!DNL Workfront] 对象无关的信息卡上查看评论时，他们看到以下消息：
 
-&quot;[!UICONTROL 您没有查看此对象注释的权限]&quot;
+“[!UICONTROL 您无权在此对象上查看评论]”
 
-即使用户以前可以在信息卡上看到评论，也可能发生这种情况。
+即使用户以前可在该信息卡上查看评论，也可能发生这种情况。
 
 _首次报告于 2023 年 11 月 30 日。_

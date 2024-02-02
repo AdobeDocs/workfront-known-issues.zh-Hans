@@ -4,7 +4,7 @@ description: "当用户在任务列表中作出触发重新计算时间线的更
 hidefromtoc: true
 feature: Tasks
 source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 将保存在这些日期变灰时对这些日期作出的更改。
 
-**解决方法**
+**变通方法**
 
 刷新页面。
 

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
 source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年1月18日修复。
+>此问题已于 2024 年 1 月 18 日修复。
 
 <!--on WF and WFP TOCs-->
 
