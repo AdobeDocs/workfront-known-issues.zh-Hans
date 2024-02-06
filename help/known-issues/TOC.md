@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
 workflow-type: tm+mt
-source-wordcount: '1523'
-ht-degree: 94%
+source-wordcount: '1532'
+ht-degree: 98%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 94%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md)
-      + [更新：编辑评论时，可以使用禁用的图像选项](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [展示板：无法使用移动列中的信息卡 [!UICONTROL 移动] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [更新：已禁用的图像选项在编辑评论时可用](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [展示板：无法使用[!UICONTROL 移动]选项移动列中的信息卡](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [模板：复制模板时出错](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL 资源管理]：无法更改日期 [!UICONTROL 利用] 区域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
-      + [更新：在旧版评论Experience中所做的评论在新版Experience中不可见](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
-      + [更新：旧版评论体验中的标记问题](known-issues-workfront/wf-updates-showing-first-name.md)
+      + [[!UICONTROL 资源管理]：无法更改[!UICONTROL 利用率]区域中的日期](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [更新：在旧版评论体验中发表的评论在新版体验中不可见](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [更新：旧版评论体验中的标记出现问题](known-issues-workfront/wf-updates-showing-first-name.md)
       + [文档：无法将文档从文件夹移至根](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [资源管理：由于工作角色问题导致财务计算结果有误](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
@@ -84,7 +84,7 @@ ht-degree: 94%
       + [展示板：展示板上未显示预期的信息卡](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
       + [文档：“共享”按钮不起作用](known-issues-workfront/wf-documents-share-button-not-working.md)
       + [文档：“[!UICONTROL 收件人”]选项导致空白页和错误消息](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
-      + [登录：登录页面重定向到注销登陆页面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
+      + [登录：登陆页面重定向到注销登陆页面](known-issues-workfront/wf-login-redirects-to-logout-page.md)
       + [[!DNL Workfront]：未应用品牌化](known-issues-workfront/wf-workfront-branding-not-applied.md)
       + [时间表：个人任务显示在时间表上](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
@@ -106,7 +106,7 @@ ht-degree: 94%
       + [校样：校样未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [文档集成：无法看到  [!DNL OneDrive] 中的所有文件夹](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [展示板：水平滚动条不存在](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [校样：审批选项未显示在[!UICONTROL 校样查看器]中](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [校样：审批选项未显示在[!UICONTROL 验证查看器]中](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [校样：在预览环境中创建校样缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [报告：在按任意字段排序时，报告未正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
@@ -189,9 +189,10 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+      + [Workfront Fusion： Workfront Proof > Watch Proof模块超时](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
-      + [Workfront Fusion：输出日期的格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion：来自Workfront模块的200响应出现RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
+      + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
+      + [Workfront Fusion：RuntimeError，显示来自 Workfront 模块的 200 响应](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)

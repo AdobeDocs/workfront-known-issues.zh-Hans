@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 85%
+source-wordcount: '177'
+ht-degree: 89%
 
 ---
 
@@ -36,7 +36,8 @@ ht-degree: 85%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：来自Workfront模块的200响应出现RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024年1月29日 |
+| [Workfront Fusion： Workfront Proof > Watch Proof模块超时](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | 2024年2月6日 |
+| [Workfront Fusion：RuntimeError，显示来自 Workfront 模块的 200 响应](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024 年 1 月 29 日 |
 
 {style="table-layout:auto"}
 
@@ -47,7 +48,7 @@ ht-degree: 85%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024年2月5日 |
-| [Workfront Fusion：输出日期的格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024年1月31日 |
+| [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024 年 1 月 31 日 |
 | [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
 | [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)访问 [!DNL Workfront Proof] 时出现 500 错误 | 2023 年 5 月 25 日 |
