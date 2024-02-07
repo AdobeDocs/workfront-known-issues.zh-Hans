@@ -1,10 +1,10 @@
 ---
-title: "文档：查看文档列表时出现问题"
-description: "有人反映查看文档列表出现问题。可在本文中找到详细信息。"
+title: “文档：查看文档列表时出现问题”
+description: “有人反映查看文档列表出现问题。可在本文中找到详细信息。”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 

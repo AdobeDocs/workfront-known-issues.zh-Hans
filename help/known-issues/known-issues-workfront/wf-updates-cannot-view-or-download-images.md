@@ -4,9 +4,9 @@ description: "当用户在 Workfront 中尝试查看或下载评论中的图像�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年1月25日修复。
+>此问题已于 2024 年 1 月 25 日修复。
 
 当用户在 Workfront 中尝试查看或下载评论中的图像时看到错误。
 
