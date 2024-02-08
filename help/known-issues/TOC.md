@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
+source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
-source-wordcount: '1532'
+source-wordcount: '1542'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [用户：创建用户时无法访问较低访问级别](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：已禁用的图像选项在编辑评论时可用](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [展示板：无法使用[!UICONTROL 移动]选项移动列中的信息卡](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
