@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1518'
 ht-degree: 96%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 96%
 
 ## 2024 年 2 月更新
 
-+++**（已计划）2024年2月8日维护更新**
++++**2024年2月8日维护更新**
 
-### （已计划）2024年2月8日维护更新
+### 2024年2月8日维护更新
 
 #### 展示板
 
@@ -41,6 +41,14 @@ ht-degree: 96%
 **“无值”列不显示任何结果**
 
 当图表报告具有“[!DNL No value]“”列中，即使数据应该存在，列也不显示任何数据。
+
+#### 资源管理
+
+**由于工作角色问题，财务计算不正确**
+
+工时和财务计算结果可能有误，因为即使在具有成本费率的工作角色中记录了工时，成本也显示为 0。
+
+这是因为工作角色自动创建没有开始或结束日期的重复费率。正是由于它们没有开始或结束日期，因此在运行财务计算时将其值视为 0。
 
 +++
 

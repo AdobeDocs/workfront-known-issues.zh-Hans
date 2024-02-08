@@ -3,15 +3,19 @@ title: "资源管理：由于工作角色问题导致财务计算结果有误"
 description: "工时和财务计算结果可能有误，因为即使在具有成本费率的工作角色中记录了工时，成本也显示为 0。"
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+workflow-type: tm+mt
+source-wordcount: '141'
+ht-degree: 95%
 
 ---
 
 
 # 资源管理：由于工作角色问题导致财务计算结果有误
+
+>[!NOTE]
+>
+>此问题已于2024年2月8日修复。
 
 工时和财务计算结果可能有误，因为即使在具有成本费率的工作角色中记录了工时，成本也显示为 0。
 
