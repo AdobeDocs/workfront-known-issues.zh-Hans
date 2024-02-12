@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 98%
+source-wordcount: '788'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：筛选多个用户不会返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月12日 |
 | [用户：创建用户时无法访问较低访问级别](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月8日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -37,6 +38,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：回复其他公司的用户时屏幕变为空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024年2月12日 |
 | [文档：无法将文档从文件夹移至根](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024 年 2 月 1 日 |
 | [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
