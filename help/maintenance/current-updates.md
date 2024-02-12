@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
 source-wordcount: '1518'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 96%
 
 #### 展示板
 
-**无法使用移动列中的卡片 [!UICONTROL 移动] options**
+**无法使用[!UICONTROL 移动]选项在列中移动信息卡**
 
-当用户尝试使用三点菜单中的[!UICONTROL 列顶]或[!UICONTROL 列底]选项移动列中的信息卡时，信息卡未移动。
+当用户尝试使用三点菜单中的“[!UICONTROL 列顶]”或“[!UICONTROL 列底]”选项在列中移动某个信息卡时，该信息卡不移动。
 
 **更改开发周期时信息卡仍然存在**
 
@@ -38,9 +38,9 @@ ht-degree: 96%
 
 #### 报告
 
-**“无值”列不显示任何结果**
+**“无值”列不显示结果**
 
-当图表报告具有“[!DNL No value]“”列中，即使数据应该存在，列也不显示任何数据。
+当图表报告具有“[!DNL No value]”列时，即使应存在数据，该列也不显示任何数据。
 
 #### 资源管理
 
@@ -54,7 +54,7 @@ ht-degree: 96%
 
 +++**2024 年 2 月 1 日维护更新**
 
-### 2024年2月1日维护更新
+### 2024 年 2 月 1 日维护更新
 
 #### 登录
 
