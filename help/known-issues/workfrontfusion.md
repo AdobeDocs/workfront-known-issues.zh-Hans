@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion： Workfront Proof > Watch Proof模块超时](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | 2024年2月6日 |
+| [Workfront Fusion: Workfront Proof > Watch Proof 模块超时](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | 2024 年 2 月 6 日 |
 | [Workfront Fusion：RuntimeError，显示来自 Workfront 模块的 200 响应](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024 年 1 月 29 日 |
 
 {style="table-layout:auto"}
@@ -47,7 +47,7 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024年2月5日 |
+| [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024 年 2 月 5 日 |
 | [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024 年 1 月 31 日 |
 | [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
