@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 95%
+source-wordcount: '821'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [集成：从创建请求时未附加文档 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024年2月13日 |
+| [验证：无法创建验证 [!UICONTROL 高级工作流] 从 [!DNL SharePoint] 文档](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月13日 |
+| [展示板：将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日 |
 | [展示板：筛选多个用户不会返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月12日 |
 | [用户：创建用户时无法访问较低访问级别](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月8日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
 workflow-type: tm+mt
-source-wordcount: '1564'
-ht-degree: 97%
+source-wordcount: '1594'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [集成：从创建请求时未附加文档 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [验证：无法创建验证 [!UICONTROL 高级工作流] 从 [!DNL SharePoint] 文档](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [展示板：将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [更新：回复其他公司的用户时屏幕变为空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [展示板：筛选多个用户不会返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [用户：创建用户时无法访问较低访问级别](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
