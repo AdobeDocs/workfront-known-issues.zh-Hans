@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '1594'
+source-wordcount: '1599'
 ht-degree: 96%
 
 ---
@@ -17,12 +17,13 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [集成：从创建请求时未附加文档 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [验证：无法创建验证 [!UICONTROL 高级工作流] 从 [!DNL SharePoint] 文档](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [展示板：将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [更新：回复其他公司的用户时屏幕变为空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [展示板：筛选多个用户不会返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
-      + [用户：创建用户时无法访问较低访问级别](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
+      + [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：已禁用的图像选项在编辑评论时可用](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [展示板：无法使用[!UICONTROL 移动]选项移动列中的信息卡](known-issues-workfront/wf-boards-top-of-column-ineffective.md)

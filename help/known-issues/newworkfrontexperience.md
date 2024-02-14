@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 91%
+source-wordcount: '827'
+ht-degree: 92%
 
 ---
 
@@ -25,11 +25,12 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月14日 |
 | [集成：从创建请求时未附加文档 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024年2月13日 |
 | [验证：无法创建验证 [!UICONTROL 高级工作流] 从 [!DNL SharePoint] 文档](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月13日 |
 | [展示板：将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日 |
 | [展示板：筛选多个用户不会返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月12日 |
-| [用户：创建用户时无法访问较低访问级别](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月8日 |
+| [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024 年 2 月 8 日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
