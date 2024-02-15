@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 92%
+source-wordcount: '794'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [主页：工作区和pin未加载](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | 2024年2月15日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月14日 |
 | [集成：从创建请求时未附加文档 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024年2月13日 |
-| [验证：无法创建验证 [!UICONTROL 高级工作流] 从 [!DNL SharePoint] 文档](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月13日 |
 | [展示板：将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日 |
 | [展示板：筛选多个用户不会返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月12日 |
 | [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024 年 2 月 8 日 |
@@ -42,8 +42,8 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [验证：无法创建验证 [!UICONTROL 高级工作流] 从 [!DNL SharePoint] 文档](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月15日 |
 | [更新：回复其他公司的用户时屏幕变为空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024年2月12日 |
-| [文档：无法将文档从文件夹移至根](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024 年 2 月 1 日 |
 | [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
 | [团队：设置团队时[!UICONTROL 完成]按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md) | 2024 年 1 月 25 日 |

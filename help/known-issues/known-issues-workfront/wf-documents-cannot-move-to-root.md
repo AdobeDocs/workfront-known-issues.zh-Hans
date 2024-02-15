@@ -3,15 +3,19 @@ title: “文档：无法将文档从文件夹移至根”
 description: "当用户尝试将文件夹从用户创建的文件夹移至项目的“文档”根文件夹时，文档不移动，而用户看到一条错误。"
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '121'
-ht-degree: 100%
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+workflow-type: tm+mt
+source-wordcount: '127'
+ht-degree: 95%
 
 ---
 
 
 # 文档：无法将文档从文件夹移至根
+
+>[!NOTE]
+>
+>此问题已于2024年1月24日修复。
 
 当用户尝试将文件夹从用户创建的文件夹移至项目的“文档”根文件夹时，文档不移动，并且用户看到以下错误：
 
