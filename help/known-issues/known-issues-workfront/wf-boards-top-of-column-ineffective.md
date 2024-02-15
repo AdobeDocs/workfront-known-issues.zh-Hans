@@ -4,9 +4,9 @@ description: “当用户尝试使用三点菜单中的‘列顶’或‘列底�
 hidefromtoc: true
 feature: Agile
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年2月8日修复。
+>此问题已于 2024 年 2 月 8 日修复。
 
 当用户尝试使用三点菜单中的[!UICONTROL 列顶]或[!UICONTROL 列底]选项移动列中的信息卡时，信息卡未移动。
 

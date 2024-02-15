@@ -4,7 +4,7 @@ description: “当用户查看[!UICONTROL 资源管理]的[!UICONTROL 利用率
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 

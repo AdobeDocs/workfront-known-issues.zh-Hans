@@ -4,9 +4,9 @@ description: "当用户在展示板上查看开发周期，然后更改该开发
 hidefromtoc: true
 feature: Agile
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年2月8日修复。
+>此问题已于 2024 年 2 月 8 日修复。
 
 当用户在展示板上查看开发周期，然后更改该开发周期时，为新开发周期显示的信息卡仍是用户以前查看的开发周期产生的信息卡。
 
