@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
-source-wordcount: '1606'
-ht-degree: 96%
+source-wordcount: '1624'
+ht-degree: 98%
 
 ---
 
@@ -17,13 +17,16 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [展示板：信息卡不包括子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md)
+      + [展示板：查看信息卡详细信息时屏幕变为空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [主页：工作区和pin未加载](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [集成：从创建请求时未附加文档 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
-      + [验证：无法创建验证 [!UICONTROL 高级工作流] 从 [!DNL SharePoint] 文档](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
-      + [展示板：将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
-      + [更新：回复其他公司的用户时屏幕变为空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
-      + [展示板：筛选多个用户不会返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
+      + [集成：从 [!DNL Outlook] 创建请求时未附加文档](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [验证：无法使用[!UICONTROL 高级工作流]从 [!DNL SharePoint] 文档创建验证](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [展示板：将任务添加到展示板时出现 400 错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
+      + [更新：在回复另一家公司的用户时屏幕变成空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [展示板：过滤多个用户不返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：已禁用的图像选项在编辑评论时可用](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
