@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 98%
+source-wordcount: '1647'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [自定义表单：将文本粘贴到富文本字段时出错](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [项目：更改任务日期时，时间线重新计算速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [展示板：信息卡不包括子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md)
       + [展示板：查看信息卡详细信息时屏幕变为空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

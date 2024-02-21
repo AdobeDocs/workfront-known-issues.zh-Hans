@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
-ht-degree: 92%
+source-wordcount: '1860'
+ht-degree: 91%
 
 ---
 
@@ -45,6 +45,12 @@ ht-degree: 92%
 
 * 访问级别字段已禁用。
 * 组管理员无法选择较低的访问级别。
+
+#### 工作负载均衡器
+
+**非工作时间的标签**
+
+工作负载均衡器和个人休息时间日程表现在显示&quot;[!UICONTROL 非工作时间]”表示用户开始使用的时间。 以前，显示屏显示“[!UICONTROL 工作时间]”表示非工作时间。
 
 +++
 
