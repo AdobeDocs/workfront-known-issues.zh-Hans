@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：无法创建验证 [!UICONTROL 高级工作流] 从 [!DNL SharePoint] 文档](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月15日 |
+| [校样：无法用[!UICONTROL 高级工作流]从 [!DNL SharePoint] 文档创建校样](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月15日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [校样：从电子邮件链接访问校样时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
