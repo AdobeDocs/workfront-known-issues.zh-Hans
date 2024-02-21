@@ -1,20 +1,20 @@
 ---
-title: “更新：回复来自其他公司的用户时屏幕变为空白”
-description: “当用户尝试回复其他公司的用户的评论时，屏幕变为空白。”
+title: "更新：在回复另一家公司的用户时屏幕变成空白"
+description: "当用户尝试回复另一家公司的用户发表的评论时，屏幕变成空白。"
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 更新：回复其他公司的用户时屏幕变为空白
+# 更新：在回复另一家公司的用户时屏幕变成空白
 
-当用户尝试回复其他公司的用户的评论时，屏幕变为空白。
+当用户尝试回复另一家公司的用户发表的评论时，屏幕变成空白。
 
-这是因为用户无权查看来自其他公司的用户。
+这是因为该用户无权查看其他公司的用户。
 
-_首次报告于2024年1月8日。_
+_首次报告于 2024 年 1 月 8 日。_
