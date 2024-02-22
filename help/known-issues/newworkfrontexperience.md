@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '840'
-ht-degree: 93%
+source-wordcount: '788'
+ht-degree: 96%
 
 ---
 
@@ -25,12 +25,8 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [主页：工作区和pin未加载](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | 2024年2月15日 |
-| [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 14 日 |
-| [集成：从 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 创建请求时未附加文档 | 2024 年 2 月 13 日 |
 | [展示板：将任务添加到展示板时出现 400 错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024 年 2 月 13 日 |
 | [展示板：为多个用户过滤无法返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024 年 2 月 12 日 |
-| [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024 年 2 月 8 日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
@@ -42,19 +38,18 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [自定义表单：将文本粘贴到富文本字段时出错](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | 2024年2月21日 |
+| [集成：从 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 创建请求时未附加文档 | 2024年2月22日 |
+| [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日 |
+| [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日 |
 | [项目：更改任务日期时，时间线重新计算速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日 |
 | [展示板：信息卡不包括子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日 |
 | [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日 |
-| [展示板：查看信息卡详细信息时屏幕变为空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 2024年2月16日 |
-| [校样：无法用[!UICONTROL 高级工作流]从 [!DNL SharePoint] 文档创建校样](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月15日 |
 | [更新：在回复另一家公司的用户时屏幕变成空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024 年 2 月 12 日 |
 | [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
 | [团队：设置团队时[!UICONTROL 完成]按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md) | 2024 年 1 月 25 日 |
 | [新[!UICONTROL 主页]：构件筛选条件和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
-| [任务：重复任务导致任务以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023 年 11 月 30 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 

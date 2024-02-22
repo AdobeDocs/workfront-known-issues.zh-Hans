@@ -3,15 +3,19 @@ title: “主页：工作区和pin未加载”
 description: “当用户登录时，其Home Workspace和pin未加载，并且他们看到错误消息。”
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 15%
 
 ---
 
 
 # [!UICONTROL 主页]： [!UICONTROL 工作区] 大头针不加载
+
+>[!NOTE]
+>
+>此问题已于2024年2月22日修复。
 
 当用户登录时，可能会出现以下情况：
 
