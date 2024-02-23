@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1647'
-ht-degree: 97%
+source-wordcount: '1686'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [工作负载均衡器：规划小时数未在工作负载均衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [展示板：上传到展示板的文档显示错误的时间戳](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [时间表：查看摘要面板时出错](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [展示板：清单总数不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [项目：在产品列表上使用过滤器时出错](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [自定义表单：将文本粘贴到富文本字段时出错](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [项目：更改任务日期时，时间线重新计算速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [展示板：信息卡不包括子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md)

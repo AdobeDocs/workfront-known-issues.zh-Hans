@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 96%
+source-wordcount: '832'
+ht-degree: 91%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [项目：在产品列表上使用过滤器时出错](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024年2月22日 |
 | [展示板：将任务添加到展示板时出现 400 错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024 年 2 月 13 日 |
-| [展示板：为多个用户过滤无法返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024 年 2 月 12 日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
@@ -38,6 +38,11 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [工作负载均衡器：规划小时数未在工作负载均衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日 |
+| [展示板：上传到展示板的文档显示错误的时间戳](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024年2月23日 |
+| [时间表：查看摘要面板时出错](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024年2月23日 |
+| [展示板：清单总数不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日 |
+| [展示板：为多个用户过滤无法返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月22日 |
 | [集成：从 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 创建请求时未附加文档 | 2024年2月22日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日 |
 | [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日 |
