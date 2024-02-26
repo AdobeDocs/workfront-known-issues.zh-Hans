@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '1686'
-ht-degree: 94%
+source-wordcount: '1699'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报告：在文本模式下所做的更改不适用于报告或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [工作负载均衡器：规划小时数未在工作负载均衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [展示板：上传到展示板的文档显示错误的时间戳](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [时间表：查看摘要面板时出错](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
@@ -24,10 +25,10 @@ ht-degree: 94%
       + [项目：在产品列表上使用过滤器时出错](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [自定义表单：将文本粘贴到富文本字段时出错](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [项目：更改任务日期时，时间线重新计算速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
-      + [展示板：信息卡不包括子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md)
       + [展示板：查看信息卡详细信息时屏幕变为空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [主页：工作区和pin未加载](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [主页：Workspace 和大头针未加载](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [集成：从 [!DNL Outlook] 创建请求时未附加文档](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [校样：无法用[!UICONTROL 高级工作流]从 [!DNL SharePoint] 文档创建校样](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)

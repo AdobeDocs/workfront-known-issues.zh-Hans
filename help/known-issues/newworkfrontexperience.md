@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 91%
+source-wordcount: '860'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [任务：创建或复制任务导致任务列表显示顺序错误](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26 |
+| [报告：在文本模式下所做的更改不适用于报告或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26 |
 | [项目：在产品列表上使用过滤器时出错](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024年2月22日 |
 | [展示板：将任务添加到展示板时出现 400 错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024 年 2 月 13 日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
@@ -47,8 +49,8 @@ ht-degree: 91%
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日 |
 | [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日 |
 | [项目：更改任务日期时，时间线重新计算速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日 |
-| [展示板：信息卡不包括子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日 |
-| [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日 |
+| [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 2 月 16 日 |
+| [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md) | 2024 年 2 月 16 日 |
 | [更新：在回复另一家公司的用户时屏幕变成空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024 年 2 月 12 日 |
 | [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
