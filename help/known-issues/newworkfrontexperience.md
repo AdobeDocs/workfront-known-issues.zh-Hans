@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 89%
+source-wordcount: '851'
+ht-degree: 90%
 
 ---
 
@@ -41,7 +41,6 @@ ht-degree: 89%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [工作负载均衡器：规划小时数未在工作负载均衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日 |
-| [展示板：上传到展示板的文档显示错误的时间戳](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024年2月23日 |
 | [时间表：查看摘要面板时出错](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024年2月23日 |
 | [展示板：清单总数不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日 |
 | [展示板：为多个用户过滤无法返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月22日 |

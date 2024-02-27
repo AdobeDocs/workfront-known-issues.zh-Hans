@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1913'
 ht-degree: 96%
 
 ---
@@ -21,6 +21,20 @@ ht-degree: 96%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 2 月更新
+
++++**2024年2月29日维护更新**
+
+### 2024年2月29日维护更新
+
+#### 更新
+
+**更新：在回复另一家公司的用户时屏幕变成空白**
+
+当用户尝试回复另一家公司的用户发表的评论时，屏幕变成空白。
+
+这是因为该用户无权查看其他公司的用户。
+
++++
 
 +++**2024年2月22日维护更新**
 
