@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
 source-wordcount: '1858'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -28,12 +28,12 @@ ht-degree: 91%
 
 #### 主页
 
-**[!UICONTROL 主页]： [!UICONTROL 工作区] 大头针不加载**
+**[!UICONTROL 主页]：[!UICONTROL Workspace ]和大头针未加载**
 
 当用户登录时，可能会出现以下情况：
 
-* 用户的新内容 [!UICONTROL 主页工作区] 未加载，且用户看到错误消息”[!UICONTROL 我们无法加载您的工作区信息。 请联系 Workfront，以便我们找出错误并加以修复。]”
-* 用户的pin未加载，且他们看到错误消息”[!UICONTROL 由于系统错误，您的pin不可用。 尝试刷新浏览器以解决问题。]&quot;
+* 该用户新的[!UICONTROL 主页 Workspace ]未加载，他们看到错误“[!UICONTROL 我们无法加载您的 Workspace 信息。请联系 Workfront，以便我们找出错误并加以修复。]”
+* 用户的大头针未加载，并且他们看到错误“[!UICONTROL 由于系统错误，您的 PIN 码不可用。请尝试刷新浏览器来解决问题。]”
 
 #### 用户
 
@@ -43,8 +43,8 @@ ht-degree: 91%
 
 当组管理员尝试更改用户的访问级别时，可能会出现以下情况之一：
 
-* 访问级别字段已禁用。
-* 组管理员无法选择较低的访问级别。
+* 访问级别字段被禁用。
+* 群组管理员无法选择较低的访问级别。
 
 #### 工作负载均衡器
 
@@ -54,9 +54,9 @@ ht-degree: 91%
 
 +++
 
-+++**2024年2月15日维护更新**
++++**2024 年 2 月 15 日维护更新**
 
-### 2024年2月15日维护更新
+### 2024 年 2 月 15 日维护更新
 
 #### 问题
 
