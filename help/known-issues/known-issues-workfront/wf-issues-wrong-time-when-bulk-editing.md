@@ -4,9 +4,9 @@ description: "当用户批量编辑问题，然后为日期字段选择日期和
 hidefromtoc: true
 feature: Work Management
 source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年2月15日修复。
+>此问题已于 2024 年 2 月 15 日修复。
 
 当用户批量编辑问题，然后为日期字段选择日期和时间并保存时，在问题中保存到此字段的时间不是用户选择的时间。而是在用户保存时似乎将该时间转换为 UTC。
 

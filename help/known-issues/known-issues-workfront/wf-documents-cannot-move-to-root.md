@@ -4,9 +4,9 @@ description: "当用户尝试将文件夹从用户创建的文件夹移至项目
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年1月24日修复。
+>此问题已于 2024 年 1 月 24 日修复。
 
 当用户尝试将文件夹从用户创建的文件夹移至项目的“文档”根文件夹时，文档不移动，并且用户看到以下错误：
 

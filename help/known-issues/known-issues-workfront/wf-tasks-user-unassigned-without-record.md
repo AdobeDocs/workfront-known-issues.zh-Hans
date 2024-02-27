@@ -4,9 +4,9 @@ description: "可能会从将用户分配到的任务自动取消分配该用户
 hidefromtoc: true
 feature: Tasks
 source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年2月15日修复。
+>此问题已于 2024 年 2 月 15 日修复。
 
 可能会从将用户分配到的任务自动取消分配该用户。一项或多项任务可能会发生这种情况。在任务的“系统更新”区域中不显示取消分配的情况，但在设置菜单的“更新馈送”部分中显示。
 
