@@ -1,18 +1,22 @@
 ---
-title: “展示板：上传到信息卡的文档显示错误的时间戳”
+title: “展示板：上传到信息卡的文档显示的时间戳不正确”
 description: ""
 hidefromtoc: true
 feature: Agile
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: '67'
+ht-degree: 91%
 
 ---
 
 
-# 展示板：上传到展示板的文档显示错误的时间戳
+# 展示板：上传到信息卡的文档显示的时间戳不正确
 
-当用户将文档上传到信息卡时，时间戳采用GMT (UTC)而不是用户的时区。 相对时间（例如“2小时前”）是准确的，但卡显示实际时间时并不准确。
+>[!NOTE]
+>
+>此问题已于2024年2月16日修复。
+
+当用户将文档上传到信息卡时，时间戳采用的是 GMT (UTC)，而不是用户的时区。“2 小时前”等相对时间是正确的，但当信息卡显示实际时间时，该时间不正确。
 
 _首次报告于 2024 年 1 月 30 日。_

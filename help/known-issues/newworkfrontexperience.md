@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 89%
+source-wordcount: '810'
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,8 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [任务：创建或复制任务导致任务列表显示顺序错误](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26 |
-| [报告：在文本模式下所做的更改不适用于报告或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26 |
-| [项目：在产品列表上使用过滤器时出错](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024年2月22日 |
+| [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
+| [报表：在文本模式下所做的更改未应用于报表或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024 年 2 月 26 日 |
 | [展示板：将任务添加到展示板时出现 400 错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024 年 2 月 13 日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -40,18 +39,14 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [展示板：上传到展示板的文档显示错误的时间戳](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024年2月28日 |
-| [工作负载均衡器：规划小时数未在工作负载均衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日 |
-| [时间表：查看摘要面板时出错](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024年2月23日 |
-| [展示板：清单总数不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日 |
-| [展示板：为多个用户过滤无法返回所有结果](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月22日 |
-| [集成：从 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 创建请求时未附加文档 | 2024年2月22日 |
-| [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日 |
-| [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日 |
-| [项目：更改任务日期时，时间线重新计算速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日 |
+| [工作负载均衡器：工作负载均衡器中未更新规划小时数](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024 年 2 月 23 日 |
+| [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
+| [集成：从 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 创建请求时未附加文档 | 2024 年 2 月 22 日 |
+| [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
+| [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024 年 2 月 22 日 |
+| [项目：更改任务日期时，时间线重新计算的速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024 年 2 月 21 日 |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 2 月 16 日 |
 | [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md) | 2024 年 2 月 16 日 |
-| [更新：在回复另一家公司的用户时屏幕变成空白](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024 年 2 月 12 日 |
 | [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
 | [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
 | [团队：设置团队时[!UICONTROL 完成]按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md) | 2024 年 1 月 25 日 |
