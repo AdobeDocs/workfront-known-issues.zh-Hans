@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
 workflow-type: tm+mt
-source-wordcount: '1699'
-ht-degree: 95%
+source-wordcount: '1711'
+ht-degree: 99%
 
 ---
 
@@ -17,14 +17,15 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [报告：在文本模式下所做的更改不适用于报告或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md)
-      + [工作负载均衡器：规划小时数未在工作负载均衡器中更新](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
-      + [展示板：上传到展示板的文档显示错误的时间戳](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [验证：从链接文档创建的验证未应用验证模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
+      + [报表：在文本模式下所做的更改未应用于报表或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md)
+      + [工作负载均衡器：工作负载均衡器中未更新规划小时数](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [展示板：上传到信息卡的文档显示的时间戳不正确](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [时间表：查看摘要面板时出错](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
-      + [展示板：清单总数不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
       + [项目：在产品列表上使用过滤器时出错](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [自定义表单：将文本粘贴到富文本字段时出错](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
-      + [项目：更改任务日期时，时间线重新计算速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
+      + [项目：更改任务日期时，时间线重新计算的速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md)
       + [展示板：查看信息卡详细信息时屏幕变为空白](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
