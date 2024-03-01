@@ -4,9 +4,9 @@ description: “当用户点击展示板中的信息卡时，信息卡详细信�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此问题已于2024年2月22日修复。
+>此问题已于 2024 年 2 月 22 日修复。
 
 当用户点击展示板上的信息卡时，信息卡详细信息会短暂显示，然后屏幕会变为空白。
 
