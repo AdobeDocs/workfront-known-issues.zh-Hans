@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
 source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1711'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [验证：从链接文档创建的验证未应用验证模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
+      + [校样：从链接文档创建的校样未应用校样模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [报表：在文本模式下所做的更改未应用于报表或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [工作负载均衡器：工作负载均衡器中未更新规划小时数](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [展示板：上传到信息卡的文档显示的时间戳不正确](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
@@ -224,8 +224,8 @@ ht-degree: 99%
    + [存在于  [!DNL Workfront Goals] 的已知问题](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [存在于  [!DNL Workfront Library] 的已知问题](workfrontlibrary.md)
-+ [!DNL Workfront]移动应用程序{#mobile}
-   + [ [!DNL Workfront]  移动应用程序中的已知问题](workfrontmobile.md)
++ [!DNL Workfront]移动设备应用程序{#mobile}
+   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [存在于  [!DNL Workfront Scenario Planner] 的已知问题](workfrontscenarioplanner.md)
 

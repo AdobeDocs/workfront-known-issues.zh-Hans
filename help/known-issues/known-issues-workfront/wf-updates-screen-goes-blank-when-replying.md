@@ -4,9 +4,9 @@ description: "当用户尝试回复另一家公司的用户发表的评论时，
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年2月29日修复。
+>此问题已于 2024 年 2 月 29 日修复。
 
 当用户尝试回复另一家公司的用户发表的评论时，屏幕变成空白。
 

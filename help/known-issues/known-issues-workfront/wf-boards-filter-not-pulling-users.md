@@ -4,9 +4,9 @@ description: "一个用户在展示板的分配过滤器中为多个用户过滤
 hidefromtoc: true
 feature: Agile
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此问题已于2月29日修复。 修复。
+>此问题已于 2024 年 2 月 29 日修复。
 
 一个用户在展示板的分配过滤器中为多个用户过滤无法返回所有预期的结果。
 

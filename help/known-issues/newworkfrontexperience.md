@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '823'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [验证：从链接文档创建的验证未应用验证模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月1日 |
+| [校样：从链接文档创建的校样未应用校样模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024 年 3 月 1 日 |
 | [工作负载均衡器：工作负载均衡器中未更新规划小时数](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024 年 2 月 23 日 |
 | [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
 | [集成：从 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 创建请求时未附加文档 | 2024 年 2 月 22 日 |

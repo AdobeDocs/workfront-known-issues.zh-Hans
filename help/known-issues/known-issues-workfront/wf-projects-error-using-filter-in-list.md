@@ -4,9 +4,9 @@ description: “如果用户在查看项目列表时应用过滤器，该列表�
 hidefromtoc: true
 feature: Projects
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年2月23日修复。
+>此问题已于 2024 年 2 月 23 日修复。
 
 如果用户在查看项目列表时应用过滤器，该列表将消失，并且用户会看到以下错误消息：
 
