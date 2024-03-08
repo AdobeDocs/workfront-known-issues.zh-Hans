@@ -3,15 +3,19 @@ title: "Workfront Fusion: Workfront Proof > Watch Proof 模块超时"
 description: "使用 Workfront Proof > Watch Proof 模块的场景可能会因 Watch Proof 模块超时而停用。"
 hidefromtoc: true
 feature: Workfront Fusion, Workfront Proof
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 90%
 
 ---
 
 
 # Workfront Fusion: Workfront Proof > Watch Proof 模块超时
+
+>[!NOTE]
+>
+>此问题已于2024年3月7日修复。
 
 使用 Workfront Proof > Watch Proof 模块的场景可能会因 Watch Proof 模块超时而停用。
 

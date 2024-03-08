@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
-workflow-type: ht
-source-wordcount: '1913'
-ht-degree: 100%
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+workflow-type: tm+mt
+source-wordcount: '2093'
+ht-degree: 95%
 
 ---
 
@@ -19,6 +19,45 @@ ht-degree: 100%
 >这些更新还包括其他次要或不太突出的错误修复。 [!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
 
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
+
+## 2024 年 3 月更新
+
++++**2024年3月7日维护更新**
+
+### 2024年3月7日维护更新
+
+#### 展示板
+
+**将任务添加到展示板时出现400错误**
+
+当用户查看项目并尝试将任务添加到展示板时，未添加该任务，并且用户看到以下错误：
+
+错误：“400：未定义/boards-service/graphql”
+
+#### 主页
+
+**在“我的任务”小组件中内联编辑任务时出错**
+
+当用户尝试在“我的任务”小组件中内联编辑任务时，他们会看到以下错误：
+
+“出现错误，因此我们正在寻找解决问题的方法。 要继续工作，请尝试刷新此浏览器页面’。”
+
+
+#### 工作负载均衡器
+
+**计划小时数未在工作负载均衡器中更新**
+
+在更新项目的规划小时数时，该小时数未在工作负载均衡器中进行更新。即使项目中准确反映了更改，此情况也可能发生。
+
++++
+
+++**Workfront Fusion 2024年3月7日维护更新
+
+**Workfront Proof > Watch Proof模块超时**
+
+使用 Workfront Proof > Watch Proof 模块的场景可能会因 Watch Proof 模块超时而停用。
+
++++
 
 ## 2024 年 2 月更新
 
