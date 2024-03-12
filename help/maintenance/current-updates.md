@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
 workflow-type: tm+mt
-source-wordcount: '2093'
-ht-degree: 95%
+source-wordcount: '2235'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,32 @@ ht-degree: 95%
 有关 2023 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 3 月更新
+
++++**（已计划）2024年3月14日维护更新**
+
+### （已计划）2024年3月14日维护更新
+
+#### 集成
+
+**从创建请求时未附加文档[!DNL Outlook]**
+
+当用户从 [!DNL Outlook] 创建请求时，附加到电子邮件的文档未附加到该请求。
+
+#### 验证
+
+**从链接文档创建的验证未应用验证模板**
+
+当用户从链接文档创建校样时，未正确应用校样模板，并且校样可能缺少工作流等信息。
+
+这一点还适用于通过 API 和通过 Workfront Fusion 创建的校样。
+
+#### 用户
+
+**创建用户时无法访问较低访问级别**
+
+当一个用户在创建另一个用户时，只有第一个用户的访问级别对新创建的用户可用。权限低于创建用户的那些用户的所有访问级别都应可分配给新用户。
+
++++
 
 +++**2024年3月7日维护更新**
 
