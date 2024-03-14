@@ -4,9 +4,9 @@ description: "使用 Workfront Proof > Watch Proof 模块的场景可能会因 W
 hidefromtoc: true
 feature: Workfront Fusion, Workfront Proof
 source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此问题已于2024年3月7日修复。
+>此问题已于 2024 年 3 月 7 日修复。
 
 使用 Workfront Proof > Watch Proof 模块的场景可能会因 Watch Proof 模块超时而停用。
 
