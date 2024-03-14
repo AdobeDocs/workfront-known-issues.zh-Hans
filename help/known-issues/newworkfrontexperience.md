@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 98%
+source-wordcount: '818'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [更新：文档注释未出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月14日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -37,6 +38,10 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [验证：无法从网站生成验证](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024年3月14日 |
+| [搜索：无法从搜索中编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日 |
+| [更新：将用户标记为无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024年3月14日 |
+| [记录时间：用户无法记录当天的时间](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024年3月14日 |
 | [展示板：将任务添加到展示板时出现 400 错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年3月14日 |
 | [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [报表：在文本模式下所做的更改未应用于报表或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024 年 2 月 26 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '1725'
-ht-degree: 99%
+source-wordcount: '1764'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：无法从网站生成验证](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [搜索：无法从搜索中编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [更新：标记用户无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [记录时间：用户无法记录当天的时间](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [更新：文档注释未出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [更新：行与行之间的间距较大](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [校样：从链接文档创建的校样未应用校样模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
