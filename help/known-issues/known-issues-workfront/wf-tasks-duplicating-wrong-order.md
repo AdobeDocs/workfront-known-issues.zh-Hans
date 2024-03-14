@@ -3,15 +3,19 @@ title: "任务：重复任务导致任务以错误的顺序显示"
 description: "当用户在任务列表上选择一个或多个任务并重复这些任务时，任务列表随后根据任务顺序编号以错误的顺序显示这些任务。任务编号正确，但其显示顺序有误。有变通方法可用。"
 hidefromtoc: true
 feature: Tasks
-source-git-commit: d68b7fa7c3aa816b7d0c83ed172c0728d8031caf
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 95%
 
 ---
 
 
 # 任务：创建或重复任务导致任务列表以错误的顺序显示
+
+>[!NOTE]
+>
+>此问题已于2024年3月11日修复。
 
 当用户在任务列表上创建或重复任务时，任务列表随后根据任务顺序编号以错误的顺序显示这些任务。任务编号正确，但其显示顺序有误。
 

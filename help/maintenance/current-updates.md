@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '2235'
-ht-degree: 94%
+source-wordcount: '2205'
+ht-degree: 98%
 
 ---
 
@@ -22,15 +22,9 @@ ht-degree: 94%
 
 ## 2024 年 3 月更新
 
-+++**（已计划）2024年3月14日维护更新**
++++**2024年3月14日维护更新**
 
-### （已计划）2024年3月14日维护更新
-
-#### 集成
-
-**从创建请求时未附加文档[!DNL Outlook]**
-
-当用户从 [!DNL Outlook] 创建请求时，附加到电子邮件的文档未附加到该请求。
+### 2024年3月14日维护更新
 
 #### 验证
 
@@ -48,17 +42,17 @@ ht-degree: 94%
 
 +++
 
-+++**2024年3月7日维护更新**
++++**2024 年 3 月 7 日维护更新**
 
-### 2024年3月7日维护更新
+### 2024 年 3 月 7 日维护更新
 
 #### 展示板
 
-**将任务添加到展示板时出现400错误**
+**将任务添加到展示板时出现 400 错误**
 
 当用户查看项目并尝试将任务添加到展示板时，未添加该任务，并且用户看到以下错误：
 
-错误：“400：未定义/boards-service/graphql”
+错误：“400：未定义的 /boards-service/graphql”
 
 #### 主页
 
@@ -66,20 +60,20 @@ ht-degree: 94%
 
 当用户尝试在“我的任务”小组件中内联编辑任务时，他们会看到以下错误：
 
-“出现错误，因此我们正在寻找解决问题的方法。 要继续工作，请尝试刷新此浏览器页面’。”
+“出现错误，我们正在寻找解决问题的方法。要继续工作，请尝试刷新此浏览器页面’。”
 
 
 #### 工作负载均衡器
 
-**计划小时数未在工作负载均衡器中更新**
+**工作负载均衡器中未更新规划小时数**
 
 在更新项目的规划小时数时，该小时数未在工作负载均衡器中进行更新。即使项目中准确反映了更改，此情况也可能发生。
 
 +++
 
-++**Workfront Fusion 2024年3月7日维护更新
+**2024 年 3 月 7 日 Workfront Fusion 维护更新
 
-**Workfront Proof > Watch Proof模块超时**
+**Workfront Proof > Watch Proof 模块超时**
 
 使用 Workfront Proof > Watch Proof 模块的场景可能会因 Watch Proof 模块超时而停用。
 

@@ -3,9 +3,9 @@ title: "团队：设置团队时“完成”按钮的状态有问题"
 description: "有人反映在编辑或创建团队时[!UICONTROL 完成]按钮的状态有问题。有变通方法可用。"
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '134'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # 团队：设置团队时[!UICONTROL 完成]按钮的状态有问题
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 18, 2024.
-
--->
+>此问题已关闭，因为它现在不构成问题。
 
 有人反映在编辑或创建团队时[!UICONTROL 完成]按钮的状态有以下问题：
 

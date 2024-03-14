@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '831'
-ht-degree: 97%
+source-wordcount: '774'
+ht-degree: 98%
 
 ---
 
@@ -37,21 +37,16 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日 |
+| [展示板：将任务添加到展示板时出现 400 错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年3月14日 |
+| [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [报表：在文本模式下所做的更改未应用于报表或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024 年 2 月 26 日 |
-| [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年3月8日 |
-| [更新：行与行之间有大空格](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024年3月8日 |
-| [校样：从链接文档创建的校样未应用校样模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024 年 3 月 1 日 |
+| [更新：行与行之间的间距较大](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024 年 3 月 8 日 |
 | [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
 | [集成：从 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) 创建请求时未附加文档 | 2024 年 2 月 22 日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
-| [用户：创建用户时较低的访问级别不可用](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024 年 2 月 22 日 |
-| [项目：更改任务日期时，时间线重新计算的速度非常慢](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024 年 2 月 21 日 |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 2 月 16 日 |
 | [展示板：信息卡未排序](known-issues-workfront/wf-boards-not-sorting.md) | 2024 年 2 月 16 日 |
 | [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024 年 2 月 1 日 |
-| [问题：问题状态不在下拉列表中](known-issues-workfront/wf-issues-status-not-available.md) | 2024 年 1 月 31 日 |
-| [团队：设置团队时[!UICONTROL 完成]按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md) | 2024 年 1 月 25 日 |
 | [新[!UICONTROL 主页]：构件筛选条件和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |

@@ -3,15 +3,19 @@ title: “项目：更改任务日期时，时间线重新计算的速度非常�
 description: “当用户查看项目并更改某个项目任务的日期时，项目中的所有日期都将重新计算。这个过程可能需要花费几分钟时间，在此期间，项目任务的日期将灰显且无响应。”
 hidefromtoc: true
 feature: Projects
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
-workflow-type: ht
-source-wordcount: '114'
-ht-degree: 100%
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 95%
 
 ---
 
 
 # 项目：更改任务日期时，时间线重新计算的速度非常慢
+
+>[!NOTE]
+>
+>此问题已于2024年3月8日修复。
 
 当用户查看项目并更改某个项目任务的日期时，项目中的所有日期都将重新计算。这个过程可能需要花费几分钟时间，在此期间，项目任务的日期将灰显且无响应。
 
