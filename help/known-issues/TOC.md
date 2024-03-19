@@ -22,7 +22,7 @@ ht-degree: 97%
       + [更新：标记用户无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [记录时间：用户无法记录当天的时间](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [更新：文档注释未出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md)
-      + [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [更新：行与行之间的间距较大](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [校样：从链接文档创建的校样未应用校样模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [报表：在文本模式下所做的更改未应用于报表或视图](known-issues-workfront/wf-reports-text-mode-not-saving.md)
