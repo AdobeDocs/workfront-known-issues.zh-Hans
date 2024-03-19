@@ -4,9 +4,9 @@ description: "当用户在任务列表上选择一个或多个任务并重复这
 hidefromtoc: true
 feature: Tasks
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年3月11日修复。
+>此问题已于 2024 年 3 月 11 日修复。
 
 当用户在任务列表上创建或重复任务时，任务列表随后根据任务顺序编号以错误的顺序显示这些任务。任务编号正确，但其显示顺序有误。
 

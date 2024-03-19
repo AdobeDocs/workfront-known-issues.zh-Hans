@@ -4,7 +4,7 @@ description: "有人反映在编辑或创建团队时[!UICONTROL 完成]按钮�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 

@@ -4,9 +4,9 @@ description: "当用户从链接文档创建校样时，未正确应用校样模
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年3月14日修复。
+>此问题已于 2024 年 3 月 14 日修复。
 
 当用户从链接文档创建校样时，未正确应用校样模板，并且校样可能缺少工作流等信息。
 
