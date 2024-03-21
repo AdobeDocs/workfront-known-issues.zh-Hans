@@ -3,15 +3,19 @@ title: “更新：行与行之间的间距较大”
 description: “当用户使用 Return 或 Enter 键键入多行更新，或者将多行粘贴到更新中时，更新将按预期显示。但是，如果用户随后在报告中查看更新，则会发现行之间存在较大间距。”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
-workflow-type: ht
-source-wordcount: '113'
-ht-degree: 100%
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 94%
 
 ---
 
 
 # 更新：行与行之间的间距较大
+
+>[!NOTE]
+>
+>此问题已于2024年3月21日修复。
 
 当用户使用 Return 或 Enter 键键入多行更新，或者将多行粘贴到更新中时，更新将按预期显示。但是，如果用户随后在报告中查看更新，则会发现行之间存在较大间距。
 
