@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 99%
+source-wordcount: '869'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [敏捷：看板卡不显示自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月22日 |
+| [任务：前置任务工具提示不显示任务名称](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | 2024年3月22日 |
+| [展示板：从Kanban展示板将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024年3月22日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -37,6 +40,10 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [验证：验证仍保留在“我的审批”小组件上](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 2024年3月22日 |
+| [项目：如果附加Web验证，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日 |
+| [资源管理：预算小时数差异](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 2024年3月22日 |
+| [验证：新文档版本的简单验证包括以前版本的工作流](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024年3月22日 |
 | [更新：文档评论不会出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
 | [证明：无法从网站生成证明](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
 | [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |

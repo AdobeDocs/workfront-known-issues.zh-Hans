@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '1764'
-ht-degree: 100%
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
+workflow-type: tm+mt
+source-wordcount: '1830'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [敏捷：看板卡不显示自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [验证：验证仍保留在“我的审批”小组件上](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [项目：如果附加Web验证，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [资源管理：预算小时数差异](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [验证：新文档版本的简单验证包括以前版本的工作流](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [任务：前置任务工具提示不显示任务名称](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [展示板：从Kanban展示板将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [证明：无法从网站生成证明](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [更新：标记用户无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
