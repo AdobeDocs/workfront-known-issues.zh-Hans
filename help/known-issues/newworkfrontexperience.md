@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -37,9 +37,9 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [更新：文档注释未出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
-| [验证：无法从网站生成验证](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
-| [搜索：无法从搜索中编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
+| [更新：文档评论不会出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
+| [证明：无法从网站生成证明](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
+| [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
 | [更新：将用户标记为无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024 年 3 月 14 日 |
 | [记录时间：用户无法记录当天的时间](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024 年 3 月 14 日 |
 | [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
