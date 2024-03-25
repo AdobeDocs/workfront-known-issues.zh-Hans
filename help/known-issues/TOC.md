@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1f22f63be60fe561d6a14eaa6d87af70a22f6579
+source-git-commit: ed2e5c9068d18b185218fbde53b738097203c98c
 workflow-type: tm+mt
-source-wordcount: '1758'
+source-wordcount: '1724'
 ht-degree: 96%
 
 ---
@@ -82,7 +82,6 @@ ht-degree: 96%
       + [报告：预算小时报告未按预期每小时更新](known-issues-workfront/wf-reports-report-not-updating.md)
       + [设置：“设置”中某些问题类型缺少默认问题状态](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [主页：‘我的项目’和‘我的任务’构件仅显示 25 个项目](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [状态：隐藏状态时出现[!UICONTROL ‘哎呦’]错误](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [更新：新的评论体验中缺少一些更新](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [任务/问题：在任务或问题的展示板视图中添加工作项时出现问题](known-issues-workfront/wf-tasks-issues-board-view.md)
@@ -95,7 +94,6 @@ ht-degree: 96%
       + [展示板：信息卡出现在多个冲刺中](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [报告：导出报告时出现 500 错误](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [模板：无法从[!UICONTROL 收藏夹]列表中选择模板](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL 主页]：任务未显示在[!UICONTROL 我的工作]构件中](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [任务：重新计算时间线时，任务日期变灰很久](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [通知：在评论中标出用户后未收到电子邮件通知](known-issues-workfront/wf-notif-email-not-received.md)
       + [展示板：查看子任务状态时出现问题](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
@@ -119,15 +117,14 @@ ht-degree: 96%
       + [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [报告：私有更新显示在值表达式字段中](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [工作负载平衡器：手动更改的小时数在页面刷新后不准确](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [主页：委派的任务未共享，也未显示在主页工作列表中](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [共享：共享对象时出错](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [工作负载平衡器：由于容量不准确，因此用户显示为过度分配](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [更新：在新评论体验中发表的评论在旧版体验中不可见](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
       + [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL 主页]：[!UICONTROL 请求]构件未显示所有分配的团队](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL 主页]：[!UICONTROL 请求]构件未显示所有分配的团队](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/wf-layout-templates-classic.md)
-      + [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”构件不限于其中标出了用户的消息](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”构件不限于其中标出了用户的消息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 工作负载平衡器]：[!UICONTROL 总小时数]与[!UICONTROL 规划小时数]总和不同](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [校样：校样未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
@@ -137,7 +134,7 @@ ht-degree: 96%
       + [报告：在按任意字段排序时，报告未正确排序](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [校样：[!UICONTROL 校样活动]选项卡打开[!UICONTROL 校样详细信息]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [过滤器：无法在仪表板上共享报告中的过滤器](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [过滤器：无法在仪表板上共享报告中的过滤器](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [文档：文档列表有问题](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [文档：访问从  [!DNL SharePoint] 链接的文档时出现 404 错误](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
@@ -157,28 +154,28 @@ ht-degree: 96%
       + [API：无法按动态字段排序](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + [问题：当出现问题时，左侧导航显示“(0)”问题](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 设置]：在[!UICONTROL 设置]中加载列表缓慢](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [任务：在任务的[!UICONTROL “摘要”面板]中输入小时数时未保存该数值](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [任务：在任务的[!UICONTROL “摘要”面板]中输入小时数时未保存该数值](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [校样：[!UICONTROL 主要校样阶段]字段为空](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [敏捷：在“敏捷”展示板移动卡片时的问题](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
-      + [主页：自定义术语不适用于”主页“区域](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
+      + [主页：自定义术语不适用于”主页“区域](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [敏捷：无法从卡片上的自定义表单中编辑字段](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [审批：为不正确的天数设置了审批委派](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL 主页]：当使用非  [!DNL Chrome] 浏览器时，出现[!UICONTROL 主页]摘要问题](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
-      + [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段显示已停用的用户](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
+      + [[!UICONTROL 主页]：当使用非  [!DNL Chrome] 浏览器时，出现[!UICONTROL 主页]摘要问题](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段显示已停用的用户](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [更新：团队名称未出现在 @提及中](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
       + [敏捷：开发周期[!UICONTROL 完成点]的差异](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + [“电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [电子邮件通知：用户未定向到评论会话](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [日程表： [!DNL OR]  过滤语句不包括过滤规则](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [报告：在仪表板上查看时无法水平滚动报告](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
-      + [[!UICONTROL 主页]：项目名称在[!UICONTROL 工作列表]显示为 GUID](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
+      + [[!UICONTROL 主页]：项目名称在[!UICONTROL 工作列表]显示为 GUID](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [报告：日程表默认为旧日期](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
       + [‘电子邮件通知： [!DNL Outlook] 中的电子邮件格式不正确](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
-      + [[!UICONTROL 主页]：无法在[!UICONTROL 工作列表]中查看文档图像](known-issues-workfront/wf-home-unable-to-view-document-image.md)
+      + [[!UICONTROL 主页]：无法在[!UICONTROL 工作列表]中查看文档图像](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [列表：显示名称未应用于自定义字段分组](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
-      + [[!UICONTROL 主页]：刷新后审批委派日期发生变化并发送 2 封电子邮件](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+      + [[!UICONTROL 主页]：刷新后审批委派日期发生变化并发送 2 封电子邮件](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)
       + [日程表：未显示任务](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
 
