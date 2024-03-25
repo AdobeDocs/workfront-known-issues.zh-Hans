@@ -1,17 +1,19 @@
 ---
-title: “项目：在产品列表上使用过滤器时出错”
+title: “项目：在项目列表上使用过滤器时出错”
 description: “如果用户在查看项目列表时应用过滤器，该列表将消失，并且用户会看到一条错误消息。”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: ht
+exl-id: e7619967-e68a-42ae-a8a9-656446e619a9
+source-git-commit: e5bc1a7458c6a28b1628fdb6602e4afea522cd5a
+workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
 
-# 项目：在产品列表上使用过滤器时出错
+# 项目：在项目列表上使用过滤器时出错
+
 
 >[!NOTE]
 >
