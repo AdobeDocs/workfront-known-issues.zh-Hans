@@ -44,7 +44,7 @@ ht-degree: 91%
 | [项目：如果附加Web验证，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日 |
 | [资源管理：预算小时数差异](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 2024年3月22日 |
 | [验证：新文档版本的简单验证包括以前版本的工作流](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024年3月22日 |
-| [更新：文档评论不会出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日 |
+| [更新：文档评论不会出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024 年 3 月 21 日 |
 | [证明：无法从网站生成证明](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
 | [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
 | [更新：将用户标记为无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024 年 3 月 14 日 |
