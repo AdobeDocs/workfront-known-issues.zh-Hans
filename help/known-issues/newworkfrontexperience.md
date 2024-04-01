@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '787'
-ht-degree: 93%
+source-wordcount: '796'
+ht-degree: 92%
 
 ---
 
@@ -61,6 +61,7 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报告：报告过滤器未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024年4月1日 |
 | [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023 年 11 月 30 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 11 月 9 日 |

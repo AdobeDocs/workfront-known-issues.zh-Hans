@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1502'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报告：报告过滤器未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [展示板：当用户团队添加到展示板时，用户无法看到展示板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [敏捷：看板卡不显示自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [验证：验证仍保留在“我的审批”小组件上](known-issues-workfront/wf-proofs-stuck-on-widget.md)
