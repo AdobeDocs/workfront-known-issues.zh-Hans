@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 91%
+source-wordcount: '372'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：文档评论不会出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024 年 3 月 14 日 |
+| [校样：从链接文档创建的校样未应用校样模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月27日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
 
 {style="table-layout:auto"}
@@ -36,13 +36,8 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：验证仍保留在“我的审批”小组件上](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 2024年3月22日 |
 | [项目：如果附加Web验证，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日 |
-| [验证：新文档版本的简单验证包括以前版本的工作流](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024年3月22日 |
-| [校样：处理静态文件时出现问题](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023 年 12 月 15 日 |
 | [校样：从电子邮件链接访问校样时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
-| [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 26 日 |
-| [校样：无法生成校样](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 19 日 |
 
 {style="table-layout:auto"}
 
@@ -52,16 +47,16 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [校样：从电子邮件链接共享校样时出错](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
+| [校样：从电子邮件链接共享校样时出错](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
 | [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
 | [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
 | [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
-| [校样：校样未在报告中显示为已批准](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
+| [校样：校样未在报告中显示为已批准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [校样：校样预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023 年 6 月 9 日 |
-| [校样：校样在预览环境中创建缓慢](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
+| [校样：校样在预览环境中创建缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)访问 [!DNL Workfront Proof] 时出现 500 错误 | 2023 年 5 月 25 日 |
 | [文档：[!UICONTROL 校样活动]选项引向登录页面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
-| [校样：测量工具不接受小数点](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
+| [校样：测量工具不接受小数点](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
 | [文档：访问从  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误 | 2023 年 3 月 23 日 |
 | [文档：文档列表有问题](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
 | [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 23 日 |

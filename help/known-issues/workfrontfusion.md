@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: ht
-source-wordcount: '167'
-ht-degree: 100%
+source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 无 |  |
+| [校样：从链接文档创建的校样未应用校样模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月27日 |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：RuntimeError，显示来自 Workfront 模块的 200 响应](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024 年 1 月 29 日 |
+| 无 |  |
 
 {style="table-layout:auto"}
 
