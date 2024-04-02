@@ -1,25 +1,25 @@
 ---
-title: “资源管理：预算小时数差异”
-description: “Workfront某个区域显示的预算小时数可能与另一个区域显示的预算小时数不匹配。”
+title: '资源管理：预算小时数差异'
+description: Workfront某个区域显示的预算小时数可能与另一个区域显示的预算小时数不匹配。
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
+source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 10%
+ht-degree: 54%
 
 ---
 
-
-# 资源管理：预算小时数差异
+# 资源管理：预算时间差异
 
 >[!NOTE]
 >
 >此问题已于2024年3月28日修复。
 
-以下区域之一显示的预算小时数可能与其中另一个区域显示的预算小时数不匹配：
+以下区域之一中显示的预算时间可能与其他区域中显示的预算时间不匹配：
 
-* 商业论证
+* 业务案例
 * 报告
 * 资源预算工具
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [校样：从链接文档创建的校样未应用校样模板](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月27日 |
 | [展示板：当用户团队添加到展示板时，用户无法看到展示板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | 2024年3月27日 |
-| [展示板：从Kanban展示板将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024年3月22日 |
+| [展示板：从看板向展示板添加任务时出现 400 错误](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024 年 3 月 22 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [校样：GIF 渲染为静态校样](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -40,8 +40,8 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [敏捷：看板卡不显示自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日 |
-| [项目：如果附加Web验证，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日 |
+| [敏捷：看板信息卡未显示在自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日 |
+| [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [证明：无法从网站生成证明](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024 年 3 月 14 日 |
 | [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
 | [记录时间：用户无法记录当天的时间](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024 年 3 月 14 日 |

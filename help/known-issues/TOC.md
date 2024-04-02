@@ -5,7 +5,7 @@ role: User
 source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
 source-wordcount: '1502'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 94%
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [报告：报告过滤器未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [展示板：当用户团队添加到展示板时，用户无法看到展示板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
-      + [敏捷：看板卡不显示自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
-      + [验证：验证仍保留在“我的审批”小组件上](known-issues-workfront/wf-proofs-stuck-on-widget.md)
-      + [项目：如果附加Web验证，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [资源管理：预算小时数差异](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
-      + [验证：新文档版本的简单验证包括以前版本的工作流](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
-      + [任务：前置任务工具提示不显示任务名称](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [展示板：从Kanban展示板将任务添加到展示板时出现400错误](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [敏捷：看板信息卡未显示在自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [验证：验证保留在“我的审批”构件中](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [资源管理：预算时间差异](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [验证：新文档版本的简单验证包括先前版本的工作流程](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [任务：前置任务工具提示未显示任务名称](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [展示板：从看板向展示板添加任务时出现 400 错误](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [证明：无法从网站生成证明](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [更新：标记用户无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
