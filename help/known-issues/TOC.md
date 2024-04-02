@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
+source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
 workflow-type: tm+mt
-source-wordcount: '1502'
+source-wordcount: '1510'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：更新中的图像预览模糊](known-issues-workfront/wf-updates-images-blurred.md)
       + [报告：报告过滤器未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [展示板：当用户团队添加到展示板时，用户无法看到展示板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [敏捷：看板信息卡未显示在自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
