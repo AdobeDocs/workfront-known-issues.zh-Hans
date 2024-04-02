@@ -1,13 +1,13 @@
 ---
-title: '展示板：无法将文档附加到信息卡'
+title: “展示板：无法将文档附加到信息卡”
 description: 当用户尝试将文档附加到已连接的信息卡时，用户可选择要附加的文档，但该文档不出现在该信息卡的文档区域中，并且该文档不附加到该信息卡连接到的对象。
 hidefromtoc: true
 feature: Agile
 exl-id: 3f204bb2-52b7-4b4f-ba3b-469059a809cd
 source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

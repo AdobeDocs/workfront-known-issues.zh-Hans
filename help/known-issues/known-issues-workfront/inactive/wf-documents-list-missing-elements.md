@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 关于文件列表，报告了以下问题：
 
 * 不显示缩略图。
-* 如果用户在“列表”视图中切换所选文件夹，则“筛选器”、“视图”和“分组”选项不再起作用。
+* 如果用户在处于“列表”视图时切换所选的文件夹，“筛选”、“查看”和“分组”选项不再起作用。
 
 **解决方法**
 
