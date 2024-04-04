@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
 workflow-type: tm+mt
-source-wordcount: '745'
-ht-degree: 98%
+source-wordcount: '836'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [布局模板：登陆页面不正确](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | 2024年4月4日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [验证：未能生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -37,6 +38,15 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：评论未显示&quot;[!UICONTROL 代表]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日 |
+| [日程表：刷新日程表时出错](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024年4月4日 |
+| [更新：导航离开并返回评论时未保留文本](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日 |
+| [任务：添加或删除任务时出现Bizcontext错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日 |
+| [任务：前置任务信息不包括链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日 |
+| [Workfront Proof：电子签名不起作用](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月4日 |
+| [更新： ”[!UICONTROL 我们无法发布您的评论]回复时显示“ ”消息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月4日 |
+| [日志记录时间：无法编辑任务或问题的小时数](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日 |
+| [自定义表单：外部查找字段不返回结果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日 |
 | [更新：更新中的图像预览模糊](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月2日 |
 | [敏捷：看板信息卡未显示在自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024 年 3 月 28 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
