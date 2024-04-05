@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '844'
 ht-degree: 88%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [报告：导出报告时出现 500 错误](known-issues-workfront/wf-reports-500-error-exporting.md) | 2024年4月5日 |
 | [更新：评论未显示&quot;[!UICONTROL 代表]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日 |
 | [日程表：刷新日程表时出错](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024年4月4日 |
 | [更新：导航离开并返回评论时未保留文本](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日 |
