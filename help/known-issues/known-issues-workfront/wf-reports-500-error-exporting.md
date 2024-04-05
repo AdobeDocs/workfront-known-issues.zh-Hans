@@ -3,7 +3,7 @@ title: “报告：导出报告时出现500错误”
 description: “当用户尝试导出报告时，报告未导出，并且用户看到一个错误。 有变通方法可用。"
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 12%
@@ -24,3 +24,4 @@ ht-degree: 12%
 删除引用自定义货币字段的列，然后再次导出报表。
 
 _首次报告于2024年4月4日。_
+
