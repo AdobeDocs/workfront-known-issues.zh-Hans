@@ -4,9 +4,9 @@ description: “当用户对文档发表批注时，该批注不会立即出现�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年3月28日修复。
+>此问题已于 2024 年 3 月 28 日修复。
 
 <!--WF, WFP-->
 

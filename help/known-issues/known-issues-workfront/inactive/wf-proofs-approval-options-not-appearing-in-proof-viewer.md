@@ -1,17 +1,17 @@
 ---
-title: '验证：审批选项未出现在验证查看者中'
-description: 当用户尝试在桌面验证查看者中审批验证时，请求审批后不久，审批选项不可见，用户无法审批验证。 审批选项在请求审批几小时后显示。
+title: “验证：审批选项未显示在验证查看器中”
+description: 当用户尝试在桌面验证查看器中批准验证时，在请求审批后不久，审批选项将不可见，并且用户无法批准验证。审批选项在请求审批几小时后显示。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# 校样：审批选项未显示在[!UICONTROL 验证查看器]中
+# 验证：审批选项未显示在[!UICONTROL 验证查看器]中
 
 >[!NOTE]
 >

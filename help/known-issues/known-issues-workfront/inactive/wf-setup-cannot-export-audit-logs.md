@@ -1,13 +1,13 @@
 ---
-title: '设置：无法导出审核日志'
+title: “设置：无法导出审核日志”
 description: 当用户尝试导出大量审核日志时，日志不会导出。没有迹象表明导出失败。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
