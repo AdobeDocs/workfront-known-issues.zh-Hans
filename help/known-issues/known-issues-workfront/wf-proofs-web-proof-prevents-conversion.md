@@ -1,15 +1,15 @@
 ---
-title: “验证：验证阻止将任务或问题转换为项目”
-description: “当用户尝试将包含Web生成的验证的任务或问题转换为项目时，项目未创建，并且用户看到一条消息。 有变通方法可用。"
+title: '验证：验证阻止将任务或问题转换为项目'
+description: 当用户尝试将包含Web生成的验证的任务或问题转换为项目时，项目未创建，并且用户看到一条消息。 有解决方法可用。
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
+exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
+source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 3%
+source-wordcount: '152'
+ht-degree: 2%
 
 ---
-
 
 # 验证：验证阻止将任务或问题转换为项目
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 &quot;[!UICONTROL 复制文件时出现问题] \xxxxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>。 [!UICONTROL 请移除文件或联系支持部门并重试。]&quot;
 
-**解决方法**
+**解决方法** s
 
 执行以下过程：
 

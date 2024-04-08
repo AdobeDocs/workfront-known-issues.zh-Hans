@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '855'
-ht-degree: 86%
+source-wordcount: '840'
+ht-degree: 87%
 
 ---
 
@@ -39,13 +39,11 @@ ht-degree: 86%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [验证：验证阻止将任务或问题转换为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日 |
-| [报告：导出报告时出现 500 错误](known-issues-workfront/wf-reports-500-error-exporting.md) | 2024年4月5日 |
 | [更新：评论未显示&quot;[!UICONTROL 代表]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日 |
 | [日程表：刷新日程表时出错](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024年4月4日 |
 | [更新：导航离开并返回评论时未保留文本](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日 |
 | [任务：添加或删除任务时出现Bizcontext错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日 |
 | [任务：前置任务信息不包括链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日 |
-| [Workfront Proof：电子签名不起作用](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月4日 |
 | [更新： ”[!UICONTROL 我们无法发布您的评论]回复时显示“ ”消息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月4日 |
 | [日志记录时间：无法编辑任务或问题的小时数](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日 |
 | [自定义表单：外部查找字段不返回结果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日 |
