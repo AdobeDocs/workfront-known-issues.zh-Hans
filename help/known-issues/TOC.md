@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '1608'
-ht-degree: 93%
+source-wordcount: '1618'
+ht-degree: 98%
 
 ---
 
@@ -17,19 +17,20 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [请求：填写请求时计算字段未更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [验证：验证阻止将任务或问题转换为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [报告：导出报告时出现 500 错误](known-issues-workfront/wf-reports-500-error-exporting.md)
-      + [更新： ”[!UICONTROL 我们无法发布您的评论]回复时显示“ ”消息](known-issues-workfront/wf-updates-were-unable-to-post.md)
-      + [更新：评论未显示&quot;[!UICONTROL 代表]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [更新：回复时显示“[!UICONTROL 我们无法发布您的评论]”消息](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [更新：评论不显示“[!UICONTROL 代表]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
       + [日程表：刷新日程表时出错](known-issues-workfront/wf-calendar-error-when-refresh.md)
-      + [更新：导航离开并返回评论时未保留文本](known-issues-workfront/wf-updates-text-missing-after-mention.md)
-      + [任务：添加或删除任务时出现Bizcontext错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
-      + [任务：前置任务信息不包括链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [更新：离开并返回评论时，文本不会保留](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [任务：前置任务信息不包含链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
       + [Workfront Proof：电子签名不起作用](known-issues-workfront-proof/proof-esignatures-not-working.md)
       + [布局模板：登陆页面不正确](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
-      + [日志记录时间：无法编辑任务或问题的小时数](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
-      + [自定义表单：外部查找字段不返回结果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
-      + [更新：更新中的图像预览模糊](known-issues-workfront/wf-updates-images-blurred.md)
+      + [记录时间：无法编辑任务或问题的时间](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [自定义表单：外部查找字段不会返回结果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
+      + [更新：更新中的图像预览很模糊](known-issues-workfront/wf-updates-images-blurred.md)
       + [报告：报告筛选条件未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [展示板：当将用户的团队添加到展示板时，用户无法看到展示板](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [敏捷：看板信息卡未显示在自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
@@ -39,7 +40,7 @@ ht-degree: 93%
       + [验证：新文档版本的简单验证包括先前版本的工作流程](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
       + [任务：前置任务工具提示未显示任务名称](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
       + [展示板：从看板向展示板添加任务时出现 400 错误](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
-      + [证明：无法从网站生成证明](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [校样：无法从网站生成校样](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [更新：标记用户无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [记录时间：用户无法记录当天的时间](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
