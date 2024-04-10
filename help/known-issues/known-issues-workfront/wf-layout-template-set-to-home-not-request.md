@@ -1,21 +1,24 @@
 ---
 title: “布局模板：登陆页面不正确”
-description: “当具有请求者许可证的用户被分配给将请求页面设置为登陆页面的布局模板时，该用户被定向到主页作为其登陆页面。”
+description: 当拥有“请求者”许可证的用户被分配到将“请求”页面设置为登陆页面的布局模板时，该用户会被引导到“主页”作为其登录页面。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
+exl-id: 4106a592-61ee-4dcd-9bf9-c42e65f83d37
+source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
-
 # 布局模板：登陆页面不正确
 
-当具有请求者许可证的用户被分配给将请求页面设置为登陆页面的布局模板时，该用户被定向到主页作为其登陆页面。
+>[!NOTE]
+>
+>此问题已关闭，因为它现在不构成问题。
 
-已为请求者许可证报告此问题。
+当拥有“请求者”许可证的用户被分配到将“请求”页面设置为登陆页面的布局模板时，该用户会被引导到“主页”作为其登录页面。
 
-_首次报告于2024年3月22日。_
+已针对“请求者”许可证报告了此问题。
 
+_首次报告于 2024 年 3 月 22 日。_
