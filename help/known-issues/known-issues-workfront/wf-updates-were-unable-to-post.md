@@ -1,21 +1,21 @@
 ---
-title: “更新：回复时无法发布您的评论消息”
-description: “当用户尝试在新评论体验中回复消息时，回复未保存，并且用户看到一条消息。”
+title: “更新：回复时显示“我们无法发布您的评论”消息”
+description: “当用户尝试在新的评论体验中回复消息时，回复不会保存，并且用户会看到一条消息。”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 更新： ”[!UICONTROL 我们无法发布您的评论]回复时显示“ ”消息
+# 更新：回复时显示“[!UICONTROL 我们无法发布您的评论]”消息
 
-当用户尝试在新评论体验中回复消息时，回复未保存，并且用户看到以下消息：
+当用户尝试在新的评论体验中回复消息时，回复不会保存，并且用户会看到以下消息：
 
-&quot;[!UICONTROL 当前无法发布您的评论。 请稍等片刻，然后重试。]&quot;
+“[!UICONTROL 我们现在无法发布您的评论。请稍等片刻，然后重试。]”
 
-_首次报告于2024年3月27日。_
+_首次报告于 2024 年 3 月 27 日。_
 

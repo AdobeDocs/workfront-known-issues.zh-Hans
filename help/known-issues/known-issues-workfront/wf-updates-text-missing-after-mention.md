@@ -1,21 +1,21 @@
 ---
-title: “更新：导航离开并返回评论时未保留文本”
-description: “当用户撰写包含@mention的评论时，然后在提交评论之前导航离开并返回评论，评论草稿中缺少在@mention后输入的任何文本。”
+title: “更新：离开后再次返回评论时，文本不会保留”
+description: “当用户撰写包含 @mention 的评论时，在提交之前离开，然后又返回该评论，评论草稿中会缺少在 @mention 之后输入的任何文本。”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# 更新：导航离开并返回评论时未保留文本
+# 更新：离开后再次返回评论时，文本不会保留
 
-当用户编写包含@mention的评论，然后在提交评论之前导航离开并返回评论时，@mention注草稿中缺少在评论之后输入的任何文本。
+当用户撰写包含 @mention 的评论时，在提交之前离开，然后又返回该评论，评论草稿中会缺少在 @mention 之后输入的任何文本。
 
 已在新的评论体验中报告了此问题。
 
-_首次报告于2024年3月21日。_
+_首次报告于 2024 年 3 月 21 日。_
 
