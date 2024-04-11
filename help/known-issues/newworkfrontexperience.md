@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 97%
+source-wordcount: '817'
+ht-degree: 96%
 
 ---
 
@@ -44,14 +44,11 @@ ht-degree: 97%
 | [更新：离开后再次返回评论时，文本不会保留](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024 年 4 月 4 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [任务：前置任务信息不包含链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024 年 4 月 4 日 |
-| [更新：回复时显示“[!UICONTROL 我们无法发布您的评论]”消息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024 年 4 月 4 日 |
 | [记录时间：无法编辑任务或问题的时间](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024 年 4 月 4 日 |
 | [自定义表单：外部查找字段不会返回结果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024 年 4 月 4 日 |
-| [更新：更新中的图像预览很模糊](known-issues-workfront/wf-updates-images-blurred.md) | 2024 年 4 月 2 日 |
 | [敏捷：看板信息卡未显示在自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024 年 3 月 28 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
-| [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024 年 3 月 14 日 |
-| [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
+| [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 2 月 16 日 |

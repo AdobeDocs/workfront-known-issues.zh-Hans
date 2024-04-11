@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '2905'
-ht-degree: 99%
+source-wordcount: '3037'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,32 @@ ht-degree: 99%
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 4 月更新
+
++++**2024年4月11日维护更新**
+
+### 2024年4月11日维护更新
+
+#### 搜索
+
+**无法从搜索中编辑**
+
+当用户使用高级搜索并尝试编辑或批量编辑搜索结果时，编辑图标没有响应。
+
+#### 更新
+
+**更新中的图像预览模糊**
+
+当用户查看更新并单击图像上的放大镜来预览图像时，打开的预览非常模糊。
+
+如果用户下载该图像，则该图像会以预期的分辨率显示。
+
+**&quot;[!UICONTROL 我们无法发布您的评论]回复时显示“ ”消息**
+
+当用户尝试在新的评论体验中回复消息时，回复不会保存，并且用户会看到以下消息：
+
+“[!UICONTROL 我们现在无法发布您的评论。请稍等片刻，然后重试。]”
+
++++
 
 +++**2024 年 4 月 4 日维护更新**
 

@@ -3,15 +3,15 @@ title: “更新：请求者用户无法在更新中添加图像”
 description: “拥有请求者许可证的用户查看更新区域并尝试添加图像时，添加图像的图标丢失，并且用户无法使用添加图像的选项。”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 92%
 
 ---
 
 
-# 更新：请求者用户无法在更新中添加图像
+# 更新：请求者用户无法将图像添加到更新
 
 拥有请求者许可证的用户查看更新区域并尝试添加图像时，添加图像的图标丢失，并且用户无法使用添加图像的选项。
 
