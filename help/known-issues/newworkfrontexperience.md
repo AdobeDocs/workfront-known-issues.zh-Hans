@@ -41,7 +41,7 @@ ht-degree: 97%
 | [验证：验证阻止将任务或问题转换为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日 |
 | [更新：评论不显示“[!UICONTROL 代表]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024 年 4 月 4 日 |
 | [日程表：刷新日程表时出错](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024 年 4 月 4 日 |
-| [更新：离开并返回评论时，文本不会保留](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024 年 4 月 4 日 |
+| [更新：离开后再次返回评论时，文本不会保留](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024 年 4 月 4 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [任务：前置任务信息不包含链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024 年 4 月 4 日 |
 | [更新：回复时显示“[!UICONTROL 我们无法发布您的评论]”消息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024 年 4 月 4 日 |
