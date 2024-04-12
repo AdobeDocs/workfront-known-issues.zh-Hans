@@ -1,17 +1,21 @@
 ---
-title: “展示板：清单总计不准确”
-description: “当用户查看包含清单项目的信息卡并进行更改以使清单总计发生变化时，总计未发生改变。”
+title: '展示板：清单总数不准确'
+description: 当用户查看包含清单项目的信息卡并进行更改以使清单总计发生变化时，总计未发生改变。
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 87%
 
 ---
 
-
 # 展示板：清单总计不准确
+
+>[!NOTE]
+>
+>此问题已于2024年4月11日修复。
 
 当用户查看包含清单项目的信息卡并进行更改以使清单总计发生变化时，总计未发生改变。
 

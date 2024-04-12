@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
+source-git-commit: c1303ae0fa8e6f18a7e8d88c065579ed89c18e87
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 95%
+source-wordcount: '827'
+ht-degree: 94%
 
 ---
 
@@ -37,6 +37,8 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日 |
+| [Workfront Proof：电子签名不起作用](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日 |
 | [请求：填写请求时计算字段未更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024年4月9日 |
 | [验证：验证阻止将任务或问题转换为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日 |
@@ -50,9 +52,7 @@ ht-degree: 95%
 | [敏捷：看板信息卡未显示在自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024 年 3 月 28 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
-| [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 2 月 23 日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
-| [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 2 月 16 日 |
 | [新[!UICONTROL 主页]：构件筛选条件和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

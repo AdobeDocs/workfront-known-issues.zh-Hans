@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
 workflow-type: tm+mt
-source-wordcount: '1626'
-ht-degree: 98%
+source-wordcount: '1633'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [请求：填写请求时计算字段未更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [验证：验证阻止将任务或问题转换为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
