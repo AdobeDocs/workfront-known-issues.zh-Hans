@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c1303ae0fa8e6f18a7e8d88c065579ed89c18e87
+source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 94%
+source-wordcount: '833'
+ht-degree: 93%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日 |
 | [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日 |
 | [Workfront Proof：电子签名不起作用](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日 |
