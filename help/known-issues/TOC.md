@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '1638'
+source-wordcount: '1659'
 ht-degree: 97%
 
 ---
@@ -17,11 +17,13 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：编号列表未正确编号](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [验证：从集成资产创建的验证未正确应用模板和工作流](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
-      + [请求：填写请求时计算字段未更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
-      + [验证：验证阻止将任务或问题转换为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
+      + [请求：填写请求时计算字段不会更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
+      + [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [报告：导出报告时出现 500 错误](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [更新：回复时显示“[!UICONTROL 我们无法发布您的评论]”消息](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [更新：评论不显示“[!UICONTROL 代表]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
