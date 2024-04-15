@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
+source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
-source-wordcount: '1659'
-ht-degree: 97%
+source-wordcount: '1670'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：通过API发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [更新：编号列表未正确编号](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [验证：从集成资产创建的验证未正确应用模板和工作流](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
