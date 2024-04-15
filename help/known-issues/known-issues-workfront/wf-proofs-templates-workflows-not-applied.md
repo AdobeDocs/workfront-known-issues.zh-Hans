@@ -3,7 +3,7 @@ title: “验证：从集成资产创建的验证未正确应用模板和工作�
 description: ""
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9ba06d760825cca476e2384bd68c284c52217e0d
+source-git-commit: 770c89523348785ad9cbdef87ddf6ac75a7d001a
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
@@ -22,3 +22,4 @@ ht-degree: 4%
 * 电子邮件通知（未发送）
 
 _首次报告于 2024 年 2 月 28 日。_
+
