@@ -4,22 +4,18 @@ description: 当用户在 Workfront Proof 中查看校样并尝试使用电子�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ff93f7b2-7d40-44ba-b8f6-f02cda5acde9
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 92%
 
 ---
 
 # Workfront Proof：电子签名不起作用
 
-
-<!-- 
 >[!NOTE]
 >
->This issue was fixed on April 5, 2024.
-
--->
+>此问题已于2024年4月18日修复。
 
 <!--wf. wfp-->
 

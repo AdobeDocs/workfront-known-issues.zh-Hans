@@ -4,14 +4,18 @@ description: 当用户查看已配置为包含自定义字段的看板时，这�
 hidefromtoc: true
 feature: Agile
 exl-id: b1f94663-78ee-4e1d-bc14-9453cbde4753
-source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 91%
 
 ---
 
 # 敏捷：看板信息卡未显示在自定义字段
+
+>[!NOTE]
+>
+>此问题已于2024年4月18日修复。
 
 当用户查看已配置为包含自定义字段的看板时，这些自定义字段可能不会显示。
 

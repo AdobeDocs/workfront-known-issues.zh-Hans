@@ -4,18 +4,22 @@ description: 当用户查看包含清单项目的信息卡并进行更改以使�
 hidefromtoc: true
 feature: Agile
 exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 87%
+source-wordcount: '88'
+ht-degree: 93%
 
 ---
 
 # 展示板：清单总计不准确
 
+<!--
+
 >[!NOTE]
 >
->此问题已于2024年4月11日修复。
+>This issue was fixed on April 11, 2024.
+
+-->
 
 当用户查看包含清单项目的信息卡并进行更改以使清单总计发生变化时，总计未发生改变。
 

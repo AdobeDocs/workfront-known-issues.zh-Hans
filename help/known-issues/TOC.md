@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '1670'
+source-wordcount: '1680'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [请求：无法共享请求队列路径](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [更新：通过API发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [更新：编号列表未正确编号](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [验证：从集成资产创建的验证未正确应用模板和工作流](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)

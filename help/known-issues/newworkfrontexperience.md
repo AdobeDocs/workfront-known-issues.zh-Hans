@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '848'
 ht-degree: 92%
 
 ---
@@ -38,23 +38,22 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [请求：无法共享请求队列路径](known-issues-workfront/wf-requests-cannot-share-path.md) | 2024年4月18日 |
+| [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日 |
+| [更新：回复时显示“[!UICONTROL 我们无法发布您的评论]”消息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月18日 |
+| [更新：更新中的图像预览很模糊](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月18日 |
+| [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年4月18日 |
 | [更新：编号列表未正确编号](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日 |
-| [验证：从集成资产创建的验证未正确应用模板和工作流](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | 2024年4月15日 |
 | [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日 |
 | [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日 |
-| [Workfront Proof：电子签名不起作用](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日 |
 | [请求：填写请求时计算字段不会更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
 | [更新：评论不显示“[!UICONTROL 代表]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024 年 4 月 4 日 |
-| [日程表：刷新日程表时出错](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024 年 4 月 4 日 |
 | [更新：离开后再次返回评论时，文本不会保留](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024 年 4 月 4 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [任务：前置任务信息不包含链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024 年 4 月 4 日 |
 | [记录时间：无法编辑任务或问题的时间](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024 年 4 月 4 日 |
-| [自定义表单：外部查找字段不会返回结果](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024 年 4 月 4 日 |
-| [敏捷：看板信息卡未显示在自定义字段](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024 年 3 月 28 日 |
-| [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
 | [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
 | [新[!UICONTROL 主页]：构件筛选条件和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
