@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 92%
+source-wordcount: '857'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [更新：评论中的链接进入空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年4月18日 |
 | [更新：通过API发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月15日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
