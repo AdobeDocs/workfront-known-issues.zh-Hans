@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 91%
+source-wordcount: '867'
+ht-degree: 90%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [项目、任务和问题：不显示继承的权限](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 2024年4月19日 |
 | [请求：无法共享请求队列路径](known-issues-workfront/wf-requests-cannot-share-path.md) | 2024年4月18日 |
 | [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日 |
 | [更新：回复时显示“[!UICONTROL 我们无法发布您的评论]”消息](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月18日 |

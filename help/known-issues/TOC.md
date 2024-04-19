@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '1688'
+source-wordcount: '1697'
 ht-degree: 95%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [项目、任务和问题：不显示继承的权限](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [更新：评论中的链接进入空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [请求：无法共享请求队列路径](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md)
