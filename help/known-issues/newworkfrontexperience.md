@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -25,8 +25,9 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：来自文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日 |
 | [更新：评论中的链接进入空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年4月18日 |
-| [更新：通过API发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月15日 |
+| [更新：通过 API 发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024 年 4 月 15 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [验证：未能生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -41,13 +42,12 @@ ht-degree: 89%
 |----------------------------------| ----------------- |
 | [展示板：信息卡会短暂地返回到原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024年4月22日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日 |
-| [项目、任务和问题：不显示继承的权限](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 2024年4月19日 |
 | [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日 |
 | [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年4月18日 |
-| [更新：编号列表未正确编号](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日 |
-| [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日 |
-| [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日 |
-| [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日 |
+| [更新：编号列表的编号不正确](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024 年 4 月 15 日 |
+| [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024 年 4 月 12 日 |
+| [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024 年 4 月 12 日 |
+| [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [请求：填写请求时计算字段不会更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
 | [更新：评论不显示“[!UICONTROL 代表]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024 年 4 月 4 日 |
@@ -55,7 +55,7 @@ ht-degree: 89%
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [任务：前置任务信息不包含链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024 年 4 月 4 日 |
 | [记录时间：无法编辑任务或问题的时间](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024 年 4 月 4 日 |
-| [更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
+| [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |
 | [新[!UICONTROL 主页]：构件筛选条件和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024 年 1 月 4 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 6 日 |

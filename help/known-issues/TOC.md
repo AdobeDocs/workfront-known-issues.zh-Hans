@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '1710'
-ht-degree: 94%
+source-wordcount: '1719'
+ht-degree: 97%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [通知：来自文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [展示板：信息卡会短暂地返回到原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [项目、任务和问题：不显示继承的权限](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [更新：评论中的链接进入空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [请求：无法共享请求队列路径](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [更新：通过API发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
-      + [更新：编号列表未正确编号](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [验证：从集成资产创建的验证未正确应用模板和工作流](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [更新：通过 API 发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [更新：编号列表的编号不正确](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [校样：从集成资产创建的校样没有正确应用模板和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
@@ -53,7 +54,7 @@ ht-degree: 94%
       + [任务：前置任务工具提示未显示任务名称](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
       + [展示板：从看板向展示板添加任务时出现 400 错误](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [校样：无法从网站生成校样](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
-      + [搜索：无法通过搜索进行编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [搜索：无法从搜索中编辑](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [更新：标记用户无效](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
       + [记录时间：用户无法记录当天的时间](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
       + [更新：文档评论不会出现在父对象的更新中](known-issues-workfront/wf-updates-document-comments-not-visible.md)

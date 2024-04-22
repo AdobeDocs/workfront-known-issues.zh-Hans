@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5281eacf00a514ef944d7894c5b67c259ea20a29
+source-git-commit: e8c00ddda577af3496d2cfaec1b0289092656364
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 98%
+source-wordcount: '376'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 无 | |
+| [通知：来自文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日 |
 
 {style="table-layout:auto"}
 
