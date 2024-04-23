@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
+source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 95%
+source-wordcount: '869'
+ht-degree: 94%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [展示板：Workfront原生字段未显示在信息卡上](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024年4月23日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日 |
 | [展示板：信息卡会短暂地返回到原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024年4月22日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日 |
@@ -54,7 +55,6 @@ ht-degree: 95%
 | [更新：评论不显示“[!UICONTROL 代表]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024 年 4 月 4 日 |
 | [更新：离开后再次返回评论时，文本不会保留](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024 年 4 月 4 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
-| [任务：前置任务信息不包含链接](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024 年 4 月 4 日 |
 | [记录时间：无法编辑任务或问题的时间](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024 年 4 月 4 日 |
 | [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 2 月 22 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
+source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
 workflow-type: tm+mt
-source-wordcount: '1719'
-ht-degree: 97%
+source-wordcount: '1728'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [展示板：Workfront原生字段未显示在信息卡上](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [通知：来自文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [展示板：信息卡会短暂地返回到原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
