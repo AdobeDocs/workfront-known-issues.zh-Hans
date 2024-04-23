@@ -1,13 +1,13 @@
 ---
-title: '展示板：信息卡不包括子任务'
+title: “展示板：信息卡未包含子任务”
 description: 当用户查看作为父任务的任务的信息卡时，该父任务的子任务不会在信息卡上显示。相反，信息卡上显示有 0 个子任务。
 hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
 source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

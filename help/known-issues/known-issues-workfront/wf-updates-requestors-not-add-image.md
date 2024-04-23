@@ -4,14 +4,14 @@ description: “拥有请求者许可证的用户查看更新区域并尝试添�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 
-# 更新：请求者用户无法将图像添加到更新
+# 更新：请求者用户无法在更新中添加图像
 
 拥有请求者许可证的用户查看更新区域并尝试添加图像时，添加图像的图标丢失，并且用户无法使用添加图像的选项。
 
