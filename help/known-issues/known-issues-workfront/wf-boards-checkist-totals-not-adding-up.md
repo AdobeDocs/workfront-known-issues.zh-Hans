@@ -1,5 +1,5 @@
 ---
-title: '展示板：清单总数不准确'
+title: “展示板：清单总计不准确”
 description: 当用户查看包含清单项目的信息卡并进行更改以使清单总计发生变化时，总计未发生改变。
 hidefromtoc: true
 feature: Agile
@@ -7,7 +7,7 @@ exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
 source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
