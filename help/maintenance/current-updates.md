@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '3258'
+source-wordcount: '3360'
 ht-degree: 98%
 
 ---
@@ -21,6 +21,26 @@ ht-degree: 98%
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 4 月更新
+
++++**（已计划）2024年4月25日维护更新**
+
+### （已计划）2024年4月25日维护更新
+
+#### 更新
+
+**编号列表未正确编号**
+
+当用户提交包含编号列表的评论时，该列表在更新中显示的编号不正确。
+
+已在新的评论体验中报告了此问题。
+
+**导航离开并返回评论时未保留文本**
+
+当用户撰写包含 @mention 的评论时，在提交之前离开，然后又返回该评论，评论草稿中会缺少在 @mention 之后输入的任何文本。
+
+已在新的评论体验中报告了此问题。
+
++++
 
 +++**2024年4月18日维护更新**
 
@@ -56,9 +76,9 @@ ht-degree: 98%
 
 +++
 
-+++**2024年4月11日维护更新**
++++**2024 年 4 月 11 日维护更新**
 
-### 2024年4月11日维护更新
+### 2024 年 4 月 11 日维护更新
 
 #### 搜索
 

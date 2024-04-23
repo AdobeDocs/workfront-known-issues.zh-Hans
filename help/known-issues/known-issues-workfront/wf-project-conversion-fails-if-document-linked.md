@@ -4,18 +4,22 @@ description: 当问题附加了 Web 验证（使用来自外部文档提供商�
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+source-git-commit: 2e1c28291232d0401c2c01568b10efa23db88996
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 95%
+source-wordcount: '140'
+ht-degree: 100%
 
 ---
 
 # 项目：如果附加了 Web 验证，则无法将问题转换为项目
 
+<!--
+
 >[!NOTE]
 >
->此问题已于2024年4月18日修复。
+>This issue was fixed on April 18, 2024.
+
+-->
 
 当问题附加了 Web 验证（使用来自外部文档提供商（例如 SharePoint）的链接的 URL 验证），并且用户尝试将该问题转化为项目时，转化会失败并且不会创建项目。用户会看到以下错误：
 
