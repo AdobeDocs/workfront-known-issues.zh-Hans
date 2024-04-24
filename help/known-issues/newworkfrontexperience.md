@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
-source-wordcount: '869'
-ht-degree: 94%
+source-wordcount: '887'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [集成：通过集成发送到AEM时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日 |
+| [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日 |
 | [通知：来自文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日 |
 | [更新：评论中的链接进入空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年4月18日 |
 | [更新：通过 API 发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024 年 4 月 15 日 |
