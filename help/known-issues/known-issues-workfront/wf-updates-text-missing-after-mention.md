@@ -3,15 +3,19 @@ title: “更新：离开后再次返回评论时，文本不会保留”
 description: “当用户撰写包含 @mention 的评论时，在提交之前离开，然后又返回该评论，评论草稿中会缺少在 @mention 之后输入的任何文本。”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 94%
 
 ---
 
 
 # 更新：离开后再次返回评论时，文本不会保留
+
+>[!NOTE]
+>
+>此问题已于2024年4月25日修复。
 
 当用户撰写包含 @mention 的评论时，在提交之前离开，然后又返回该评论，评论草稿中会缺少在 @mention 之后输入的任何文本。
 
