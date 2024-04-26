@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
 workflow-type: tm+mt
-source-wordcount: '858'
+source-wordcount: '849'
 ht-degree: 96%
 
 ---
@@ -28,7 +28,6 @@ ht-degree: 96%
 | [集成：通过集成发送到AEM时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日 |
 | [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日 |
 | [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
-| [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 4 月 18 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [验证：未能生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
