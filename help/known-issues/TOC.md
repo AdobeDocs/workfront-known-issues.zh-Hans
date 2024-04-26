@@ -5,7 +5,7 @@ role: User
 source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
 source-wordcount: '1744'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 95%
       + [集成：通过集成发送到AEM时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [展示板：Workfront原生字段未显示在信息卡上](known-issues-workfront/wf-boards-native-fields-not-display.md)
-      + [通知：来自文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
-      + [展示板：信息卡会短暂地返回到原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
+      + [展示板：信息卡短暂返回原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [项目、任务和问题：不显示继承的权限](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
-      + [更新：评论中的链接进入空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
+      + [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [请求：无法共享请求队列路径](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [更新：通过 API 发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
