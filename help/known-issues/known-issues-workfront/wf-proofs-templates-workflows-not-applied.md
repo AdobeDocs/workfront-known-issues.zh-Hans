@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 90ce6128-4521-476d-ba85-c51b86bbeb7d
 source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年4月18日修复。
+>该问题已于 2024 年 4 月 18 日修复。
 
 当用户从集成（链接到 Workfront 的外部文档提供程序）的资产创建校样，并应用模板或自动化工作流程时，某些模板或工作流程元素无法在校样中应用。
 

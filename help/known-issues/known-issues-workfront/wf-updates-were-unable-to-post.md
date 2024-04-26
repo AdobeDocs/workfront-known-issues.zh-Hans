@@ -4,9 +4,9 @@ description: “当用户尝试在新的评论体验中回复消息时，回复�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年4月18日修复。
+>该问题已于 2024 年 4 月 18 日修复。
 
 当用户尝试在新的评论体验中回复消息时，回复不会保存，并且用户会看到以下消息：
 
