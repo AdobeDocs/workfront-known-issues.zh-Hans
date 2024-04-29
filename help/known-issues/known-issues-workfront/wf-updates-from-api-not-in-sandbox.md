@@ -3,15 +3,19 @@ title: “更新：通过 API 发表的评论在沙盒环境中不可见”
 description: “当通过 Workfront API 发表评论时，该评论在生产环境中可见。但是，该评论在沙盒环境中不可见。"
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 96a81dc4927e887fbbaf8289d8acb8be1762d253
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 93%
 
 ---
 
 
 # 更新：通过 API 发表的评论在沙盒环境中不可见
+
+>[!NOTE]
+>
+>此问题已于2024年4月29日修复。
 
 当通过 Workfront API 发表评论时，该评论在生产环境中可见。但是，该评论在沙盒环境中不可见。
 

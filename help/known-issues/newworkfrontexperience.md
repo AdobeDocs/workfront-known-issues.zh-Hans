@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '841'
 ht-degree: 96%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [更新：通过 API 发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月25日 |
+| [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
 | [展示板：Workfront原生字段未显示在信息卡上](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024 年 4 月 23 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [展示板：信息卡短暂返回原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024 年 4 月 22 日 |
