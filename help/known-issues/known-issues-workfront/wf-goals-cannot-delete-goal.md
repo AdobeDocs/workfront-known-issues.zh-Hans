@@ -3,7 +3,7 @@ title: “Workfront目标：无法删除目标”
 description: “当用户尝试删除中的目标时 [!DNL Workfront Goals]，目标未被删除，并且用户会看到一条错误消息。”
 hidefromtoc: true
 feature: Workfront Goals
-source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+source-git-commit: fb310bcfdd5b20a26c6eb3e7be3c4cd484f3e409
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 5%
@@ -18,3 +18,5 @@ ht-degree: 5%
 &quot;[!UICONTROL 错误：无法针对JDBC连接提交；嵌套异常为org.hibernate.TransactionException：无法针对JDBC连接提交]&quot;
 
 _首次报告于 2024 年 3 月 26 日。_
+
+
