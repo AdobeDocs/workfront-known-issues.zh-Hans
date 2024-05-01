@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
 workflow-type: tm+mt
-source-wordcount: '1747'
-ht-degree: 98%
+source-wordcount: '1755'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：无法在专用工作流阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [集成：通过集成发送到AEM时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md)
