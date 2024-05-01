@@ -4,14 +4,18 @@ description: 当用户在展示板上将信息卡移至其他列时，信息卡�
 hidefromtoc: true
 feature: Agile
 exl-id: 39135352-ec7e-4385-adca-8a6677a7150c
-source-git-commit: 73ac32c4856ce24548c4536781e1b36a2395fb64
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
+workflow-type: tm+mt
+source-wordcount: '78'
+ht-degree: 92%
 
 ---
 
 # 展示板：信息卡短暂返回原始列
+
+>[!NOTE]
+>
+>此问题已于2024年4月30日修复。
 
 当用户在展示板上将信息卡移至其他列时，信息卡会短暂返回原始列，然后再移动到所需的列。
 

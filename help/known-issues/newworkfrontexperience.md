@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 95%
+source-wordcount: '849'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [项目：共享项目时出错](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 2024年5月1日 |
 | [验证：无法在专用工作流阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
 | [集成：通过集成发送到AEM时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日 |
 | [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日 |
@@ -44,7 +45,6 @@ ht-degree: 95%
 | [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
 | [展示板：Workfront原生字段未显示在信息卡上](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024 年 4 月 23 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
-| [展示板：信息卡短暂返回原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024 年 4 月 22 日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 4 月 22 日 |
 | [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
 | [展示板：清单总计不准确](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024 年 4 月 18 日 |
