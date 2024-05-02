@@ -4,14 +4,18 @@ description: 新主页体验中的“正在等待我的审批”构件无法准�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3b96bccc-8e2c-47f5-8639-10e870953bb4
-source-git-commit: 73ac32c4856ce24548c4536781e1b36a2395fb64
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 92%
 
 ---
 
 # 主页：审批构件不准确
+
+>[!NOTE]
+>
+>此问题已于2024年5月2日修复。
 
 <!-- WF, WFP-->
 
