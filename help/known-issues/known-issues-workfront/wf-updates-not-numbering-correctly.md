@@ -4,9 +4,9 @@ description: “当用户提交包含编号列表的评论时，该列表在更�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此问题已于2024年4月25日修复。
+>此问题已于 2024 年 4 月 25 日修复。
 
 当用户提交包含编号列表的评论时，该列表在更新中显示的编号不正确。
 

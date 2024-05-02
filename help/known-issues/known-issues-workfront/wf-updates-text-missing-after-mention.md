@@ -4,9 +4,9 @@ description: “当用户撰写包含 @mention 的评论时，在提交之前离
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年4月25日修复。
+>此问题已于 2024 年 4 月 25 日修复。
 
 当用户撰写包含 @mention 的评论时，在提交之前离开，然后又返回该评论，评论草稿中会缺少在 @mention 之后输入的任何文本。
 
