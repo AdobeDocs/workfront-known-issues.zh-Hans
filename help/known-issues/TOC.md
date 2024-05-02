@@ -5,7 +5,7 @@ role: User
 source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
 source-wordcount: '1761'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 97%
       + [项目：共享项目时出错](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [验证：无法在专用工作流阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [集成：通过集成发送到AEM时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md)
+      + [集成：通过集成发送到 AEM 时文件名为“空”](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md)
-      + [展示板：Workfront原生字段未显示在信息卡上](known-issues-workfront/wf-boards-native-fields-not-display.md)
+      + [展示板：Workfront 原生字段不显示在卡片上](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [展示板：信息卡短暂返回原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)

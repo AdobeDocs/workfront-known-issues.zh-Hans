@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 94%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [验证：无法在专用工作流阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
-| [集成：通过集成发送到AEM时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日 |
+| [集成：通过集成发送到 AEM 时文件名为“空”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
 | [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 
 {style="table-layout:auto"}

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
 source-wordcount: '849'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -27,8 +27,8 @@ ht-degree: 94%
 | -----------------------------------------------------------------| ----------------- |
 | [项目：共享项目时出错](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 2024年5月1日 |
 | [验证：无法在专用工作流阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
-| [集成：通过集成发送到AEM时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日 |
-| [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日 |
+| [集成：通过集成发送到 AEM 时文件名为“空”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
+| [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 4 月 24 日 |
 | [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
@@ -43,7 +43,7 @@ ht-degree: 94%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
-| [展示板：Workfront原生字段未显示在信息卡上](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024 年 4 月 23 日 |
+| [展示板：Workfront 原生字段不显示在卡片上](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024 年 4 月 23 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 4 月 22 日 |
 | [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
