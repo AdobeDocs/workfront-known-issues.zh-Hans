@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
+source-git-commit: f87a1b9d5b18aadb292397036b64ce9eb708f4ba
 workflow-type: tm+mt
-source-wordcount: '1812'
+source-wordcount: '1834'
 ht-degree: 96%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 96%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [时间表：将时间表固定到空白页](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [设置：以其他用户身份登录时，不显示“登录身份”横幅。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [验证审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [讨论区：用户看不到团队被分配到的讨论区](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [更新：在“摘要”面板中使用@标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [项目：使用模板创建的项目与模板的优先级不匹配](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [展示板：清单项目不会保持选中状态](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [项目：共享项目时出错](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [校样：无法在专用工作流程阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
@@ -39,6 +41,7 @@ ht-degree: 96%
       + [更新：通过 API 发表的评论在沙盒环境中不可见](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [更新：编号列表的编号不正确](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [校样：从集成资产创建的校样没有正确应用模板和工作流程](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [列表：列表未显示所有项目](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [请求：填写请求时计算字段不会更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
