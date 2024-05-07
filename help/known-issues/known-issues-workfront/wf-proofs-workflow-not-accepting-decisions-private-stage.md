@@ -1,26 +1,24 @@
 ---
-title: “验证：无法在专用工作流阶段做出决策”
-description: “当自动化工作流阶段为专用阶段时，用户无法从文档详情>验证工作流阶段做出验证决策。 有变通方法可用。"
+title: “校样：无法在专用工作流程阶段做出决策”
+description: 当自动化工作流程阶段是专用的时，用户无法从“文档详细信息”>“校样工作流程阶段”做出校样决策。有解决方法可用。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 1a27716e0c4b5b4bbbb838bd9e032ad33c84f62d
-workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 5%
+exl-id: f60b7fe8-7a1f-418b-9ca7-00fc2e2653f6
+source-git-commit: 0bcaf4abfe4e57a3b4fbdea55ad62d63ca4f389a
+workflow-type: ht
+source-wordcount: '86'
+ht-degree: 100%
 
 ---
 
+# 校样：无法在专用工作流程阶段做出决策
 
-# 验证：无法在专用工作流阶段做出决策
+当自动化工作流程阶段是专用的时，用户无法从“文档详细信息”>“校样工作流程阶段”做出校样决策。
 
-当自动化工作流阶段为专用阶段时，用户无法从文档详情>验证工作流阶段做出验证决策。
-
-验证查看者中的验证决策可按预期运行。
+校样查看器中的校样决策功能符合预期。
 
 **解决方法**
 
-使用验证查看者做出决策。
+使用校样查看器来做出决定。
 
-_首次报告于2024年4月23日。_
-
-
+_首次报告于 2024 年 4 月 23 日。_

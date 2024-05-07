@@ -4,9 +4,9 @@ description: “当通过 Workfront API 发表评论时，该评论在生产环�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年4月29日修复。
+>此问题已于 2024 年 4 月 29 日修复。
 
 当通过 Workfront API 发表评论时，该评论在生产环境中可见。但是，该评论在沙盒环境中不可见。
 

@@ -1,12 +1,12 @@
 ---
 title: “更新：评论中的链接转至空白屏幕”
-description: “当用户点击评论中的链接时，该链接会将用户引导至空白屏幕。有变通方法可用。"
+description: “当用户点击评论中的链接时，该链接会将用户引导至空白屏幕。有解决方法可用。"
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年4月25日修复。
+>此问题已于 2024 年 4 月 25 日修复。
 
 当用户点击评论中的链接时，该链接会将用户引导至空白屏幕。
 
