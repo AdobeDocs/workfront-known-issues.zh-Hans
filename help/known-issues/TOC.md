@@ -24,7 +24,7 @@ ht-degree: 96%
       + [更新：在“摘要”面板中使用@标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
       + [展示板：清单项目不会保持选中状态](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [项目：共享项目时出错](known-issues-workfront/wf-projects-error-when-sharing-project.md)
-      + [校对：无法在专用工作流程阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
+      + [校样：无法在专用工作流程阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [集成：通过集成发送到 AEM 时文件名为“空”](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md)
