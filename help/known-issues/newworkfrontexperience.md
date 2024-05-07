@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f171e93a7f10360d0e504e028e512d5023591693
+source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 94%
+source-wordcount: '850'
+ht-degree: 91%
 
 ---
 
@@ -25,11 +25,12 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [项目：使用模板创建的项目与模板的优先级不匹配](known-issues-workfront/wf-projects-priority-does-not-match-template.md) | 2024年5月2日 |
+| [设置：以其他用户身份登录时，不显示“登录身份”横幅。](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日 |
+| [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日 |
 | [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日 |
 | [展示板：清单项目不会保持选中状态](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日 |
-| [验证：无法在专用工作流阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日 |
-| [集成：通过集成发送到 AEM 时文件名为“空”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
+| [校样：无法在专用工作流程阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024 年 5 月 1 日 |
+| [集成：通过集成发送到文档提供程序时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [验证：未能生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -42,12 +43,13 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [验证审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日 |
+| [讨论区：用户看不到团队被分配到的讨论区](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日 |
 | [更新：在“摘要”面板中使用@标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日 |
 | [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月2日 |
-| [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日 |
+| [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
-| [请求：打开草稿时出错](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024 年 4 月 12 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [请求：填写请求时计算字段不会更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
