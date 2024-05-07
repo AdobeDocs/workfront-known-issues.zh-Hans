@@ -3,7 +3,7 @@ title: “时间表：已固定的时间表转到空白页”
 description: “当用户在Workfront中单击要转到其时间表的pin时，该pin将转到空白页。 有解决方法可用。"
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 4%
@@ -24,3 +24,4 @@ ht-degree: 4%
 1. 重新固定时间表。
 
 _首次报告于2024年5月7日。_
+
