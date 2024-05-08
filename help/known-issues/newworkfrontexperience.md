@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '883'
 ht-degree: 88%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日 |
 | [项目：使用模板从问题创建的项目不反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月8日 |
 | [设置：以其他用户身份登录时，不显示“登录身份”横幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日 |
 | [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日 |
