@@ -4,14 +4,18 @@ description: ”当通过 Workfront 集成将大文件（超过 100 MB）发送�
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 50%
+source-wordcount: '110'
+ht-degree: 47%
 
 ---
 
 # 集成：文件名在发送到文档集成时为“null”
+
+>[!NOTE]
+>
+>此问题已于2024年5月8日修复。
 
 当通过Workfront集成向文档提供程序发送大文件（超过100 MB）时，文档提供程序中的文件名是“null”。
 

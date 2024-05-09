@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 88%
+source-wordcount: '871'
+ht-degree: 89%
 
 ---
 
@@ -26,13 +26,10 @@ ht-degree: 88%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日 |
-| [项目：使用模板从问题创建的项目不反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月8日 |
 | [设置：以其他用户身份登录时，不显示“登录身份”横幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日 |
 | [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日 |
 | [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日 |
 | [展示板：清单项目不会保持选中状态](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日 |
-| [校样：无法在专用工作流程阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024 年 5 月 1 日 |
-| [集成：通过集成发送到文档提供程序时，文件名为“null”](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024 年 4 月 24 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [验证：未能生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -45,6 +42,8 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日 |
+| [项目：使用模板从问题创建的项目不反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月9日 |
 | [验证审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日 |
 | [讨论区：用户看不到团队被分配到的讨论区](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日 |
 | [更新：在“摘要”面板中使用@标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日 |

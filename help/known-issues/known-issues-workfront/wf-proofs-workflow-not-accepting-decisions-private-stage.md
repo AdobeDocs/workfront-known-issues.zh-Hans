@@ -4,14 +4,18 @@ description: 当自动化工作流程阶段是专用的时，用户无法从“�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: f60b7fe8-7a1f-418b-9ca7-00fc2e2653f6
-source-git-commit: 0bcaf4abfe4e57a3b4fbdea55ad62d63ca4f389a
-workflow-type: ht
-source-wordcount: '86'
-ht-degree: 100%
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 93%
 
 ---
 
 # 校样：无法在专用工作流程阶段做出决策
+
+>[!NOTE]
+>
+>此问题已于2024年5月9日修复。
 
 当自动化工作流程阶段是专用的时，用户无法从“文档详细信息”>“校样工作流程阶段”做出校样决策。
 

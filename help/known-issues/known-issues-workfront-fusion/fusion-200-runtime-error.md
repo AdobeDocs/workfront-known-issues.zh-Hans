@@ -4,22 +4,18 @@ description: Workfront 模块会返回 ‘RuntimeError [200]’ 响应。200 意
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 99967e3b-08bd-4035-b0b2-b90eff8cf1a1
-source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
 # Workfront Fusion：RuntimeError，显示来自 Workfront 模块的 200 响应
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on March 28, 2024.
-
--->
+>此问题已于2024年5月9日修复。
 
 Workfront 模块可以返回 `RuntimeError [200]` 响应。200 意味着响应成功，而错误表明请求失败。
 
