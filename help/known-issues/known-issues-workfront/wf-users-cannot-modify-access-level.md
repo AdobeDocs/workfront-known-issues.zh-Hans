@@ -3,15 +3,19 @@ title: “用户：无法修改用户的访问级别”
 description: “当组管理员尝试修改组中用户的访问级别时，访问级别字段被禁用，并且组管理员无法更改用户的访问级别。”
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 41a57db7e73bffae2731e3db403587565ff49d8e
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 94%
 
 ---
 
 
 # 用户：无法修改用户的访问级别
+
+>[!NOTE]
+>
+>此问题已于2024年5月9日修复。
 
 当组管理员尝试修改组中用户的访问级别时，访问级别字段被禁用，并且组管理员无法更改用户的访问级别。
 

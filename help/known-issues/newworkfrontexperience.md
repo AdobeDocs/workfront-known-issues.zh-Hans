@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '864'
 ht-degree: 89%
 
 ---
@@ -47,7 +47,6 @@ ht-degree: 89%
 | [验证审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日 |
 | [讨论区：用户看不到团队被分配到的讨论区](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日 |
 | [更新：在“摘要”面板中使用@标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日 |
-| [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月2日 |
 | [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
