@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Requests
 exl-id: 802753e8-0e8e-42b1-917e-95185567c95a
 source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年5月2日修复。
+>此问题已于 2024 年 5 月 2 日修复。
 
 当用户创建新请求，并且显示与该请求队列相关的草稿时，通过单击打开草稿时无法打开草稿，并且用户会看到以下错误。
 

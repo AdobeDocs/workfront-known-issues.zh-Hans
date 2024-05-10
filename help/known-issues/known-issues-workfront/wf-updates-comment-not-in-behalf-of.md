@@ -4,9 +4,9 @@ description: “当管理员以其他用户身份登录并发表评论时，评�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 3898ec1db137cd7794132a3e27253b0edc73726e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年5月2日修复。
+>此问题已于 2024 年 5 月 2 日修复。
 
 当管理员以其他用户身份登录并发表评论时，评论将归属于该用户，而不是归属于“[!UICONTROL 代表]”该用户的管理员。
 
