@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '860'
 ht-degree: 95%
 
 ---
@@ -42,8 +42,8 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：复制和粘贴提及内容不会通知提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日 |
 | [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日 |
-| [项目：使用模板从问题创建的项目不反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月9日 |
 | [校样审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024 年 5 月 7 日 |
 | [展示板：用户无法查看分配给团队的展示板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024 年 5 月 7 日 |
 | [更新：在“摘要”面板中使用 @ 标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024 年 5 月 2 日 |

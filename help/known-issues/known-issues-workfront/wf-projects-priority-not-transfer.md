@@ -1,18 +1,24 @@
 ---
-title: “项目：使用模板从问题创建的项目不反映模板中设置的优先级”
-description: “当用户使用模板将问题转化为项目时，新创建项目中的优先级与模板中设置的优先级不匹配。”
+title: '项目：使用模板从问题创建的项目不反映模板中设置的优先级'
+description: 当用户使用模板将问题转化为项目时，新创建项目中的优先级与模板中设置的优先级不匹配。
 hidefromtoc: true
 feature: Projects
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+exl-id: 431a94ee-c73f-4536-b7ff-33f5b3870892
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 11%
 
 ---
 
-
 # 项目：使用模板从问题创建的项目不反映模板中设置的优先级
+
+>[!NOTE]
+>
+>此问题已关闭，因为它就是如此设计的。
 
 当用户使用模板将问题转化为项目时，新创建项目中的优先级与模板中设置的优先级不匹配。
 
-_首次报告于2024年5月2日。_
+这是按设计工作的。 将问题转化为带或不带模板的项目时，问题的优先级转移到已创建的项目。
+
+_首次报告于 2024 年 5 月 2 日。_
