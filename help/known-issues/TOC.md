@@ -5,7 +5,7 @@ role: User
 source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
 source-wordcount: '1850'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 95%
       + [项目：使用模板从问题创建的项目不反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [时间表：将时间表固定到空白页](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [设置：以其他用户身份登录时，不显示“登录身份”横幅。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
-      + [验证审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [讨论区：用户看不到团队被分配到的讨论区](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [更新：在“摘要”面板中使用@标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [设置：以其他用户身份登录时，登录横幅不会出现。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [校样审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [展示板：用户无法查看分配给团队的展示板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
+      + [更新：在“摘要”面板中使用 @ 标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
       + [项目：使用模板创建的项目与模板的优先级不匹配](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [展示板：清单项目不会保持选中状态](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [展示板：清单项未保持选中状态](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [项目：共享项目时出错](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [校样：无法在专用工作流程阶段做出决策](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [集成：通过集成发送到 AEM 时文件名为“空”](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md)
-      + [展示板：Workfront 原生字段不显示在卡片上](known-issues-workfront/wf-boards-native-fields-not-display.md)
+      + [展示板：Workfront 原生字段不显示在信息卡上](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [展示板：信息卡短暂返回原始列](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
@@ -177,9 +177,9 @@ ht-degree: 95%
       + [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
-      + [敏捷：在“敏捷”展示板移动卡片时的问题](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
+      + [敏捷：在“敏捷”展示板移动信息卡时的问题](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + [主页：自定义术语不适用于”主页“区域](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
-      + [敏捷：无法从卡片上的自定义表单中编辑字段](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
+      + [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [审批：为不正确的天数设置了审批委派](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
       + [[!UICONTROL 主页]：当使用非  [!DNL Chrome] 浏览器时，出现[!UICONTROL 主页]摘要问题](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段显示已停用的用户](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)

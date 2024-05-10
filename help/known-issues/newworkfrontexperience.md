@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
 workflow-type: tm+mt
 source-wordcount: '864'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 89%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日 |
-| [设置：以其他用户身份登录时，不显示“登录身份”横幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日 |
-| [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日 |
-| [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日 |
-| [展示板：清单项目不会保持选中状态](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日 |
+| [设置：以其他用户身份登录时，不显示“登录身份”横幅](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
+| [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024 年 5 月 7 日 |
+| [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 5 月 2 日 |
+| [展示板：清单项未保持选中状态](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024 年 5 月 2 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
 | [验证：未能生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 1 月 9 日 |
@@ -44,9 +44,9 @@ ht-degree: 89%
 |----------------------------------| ----------------- |
 | [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日 |
 | [项目：使用模板从问题创建的项目不反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月9日 |
-| [验证审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日 |
-| [讨论区：用户看不到团队被分配到的讨论区](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日 |
-| [更新：在“摘要”面板中使用@标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日 |
+| [校样审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024 年 5 月 7 日 |
+| [展示板：用户无法查看分配给团队的展示板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024 年 5 月 7 日 |
+| [更新：在“摘要”面板中使用 @ 标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024 年 5 月 2 日 |
 | [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
 | [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
@@ -99,8 +99,8 @@ ht-degree: 89%
 | [验证：[!UICONTROL 主要验证阶段]字段为空](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 5 日 |
 | [[!UICONTROL 主页]：自定义术语不适用于”主页“区域](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 3 日 |
-| [敏捷：无法从卡片上的自定义表单中编辑字段](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
-| [敏捷：在[!UICONTROL 敏捷]展示板](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)移动卡片时的问题 | 2022 年 4 月 27 日 |
+| [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
+| [敏捷：在[!UICONTROL 敏捷]展示板](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)移动信息卡时的问题 | 2022 年 4 月 27 日 |
 | [审批：为不正确的天数设置了审批委派](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | 2022 年 4 月 20 日 |
 | [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)显示已停用的用户 | 2021 年 10 月 1 日 |
 | [更新：团队名称未出现在 @提及中](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 2021 年 10 月 1 日 |
