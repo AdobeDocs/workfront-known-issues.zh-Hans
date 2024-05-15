@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: f60b7fe8-7a1f-418b-9ca7-00fc2e2653f6
 source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年5月9日修复。
+>此问题已于 2024 年 5 月 9 日修复。
 
 当自动化工作流程阶段是专用的时，用户无法从“文档详细信息”>“校样工作流程阶段”做出校样决策。
 

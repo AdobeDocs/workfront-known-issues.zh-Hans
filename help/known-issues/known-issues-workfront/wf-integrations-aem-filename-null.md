@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
 source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年5月8日修复。
+>此问题已于 2024 年 5 月 8 日修复。
 
 当通过 Workfront 集成向文档提供程序发送大文件（超过 100 MB）时，文档提供程序中的文件名为“空”。
 

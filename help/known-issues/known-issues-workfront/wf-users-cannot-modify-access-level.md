@@ -4,9 +4,9 @@ description: “当组管理员尝试修改组中用户的访问级别时，访�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年5月9日修复。
+>此问题已于 2024 年 5 月 9 日修复。
 
 当组管理员尝试修改组中用户的访问级别时，访问级别字段被禁用，并且组管理员无法更改用户的访问级别。
 
