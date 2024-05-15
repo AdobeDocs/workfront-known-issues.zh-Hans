@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: 2d22bba261f1a53625ed46e91609411931420791
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 98%
+source-wordcount: '870'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [集成：使用SSO时用户收到错误的请求错误](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 | [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024 年 5 月 7 日 |
