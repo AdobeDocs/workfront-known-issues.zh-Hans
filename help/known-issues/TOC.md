@@ -5,7 +5,7 @@ role: User
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '1862'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 98%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [更新：复制和粘贴提及内容不会通知提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [项目：使用模板从问题创建的项目不反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [项目：使用模板从问题创建的项目未反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
-      + [时间表：将时间表固定到空白页](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
+      + [时间表：固定的时间表变为空白页面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [设置：以其他用户身份登录时，登录横幅不会出现。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [校样审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [展示板：用户无法查看分配给团队的展示板](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
