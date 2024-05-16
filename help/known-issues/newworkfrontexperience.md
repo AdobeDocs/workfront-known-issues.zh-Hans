@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d22bba261f1a53625ed46e91609411931420791
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '865'
 ht-degree: 97%
 
 ---
@@ -50,7 +50,6 @@ ht-degree: 97%
 | [更新：在“摘要”面板中使用 @ 标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024 年 5 月 2 日 |
 | [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
-| [用户：无法删除用户](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024 年 4 月 18 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [请求：填写请求时计算字段不会更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
