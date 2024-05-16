@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
+source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
 workflow-type: tm+mt
-source-wordcount: '1871'
+source-wordcount: '1880'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [请求：无法访问请求页面(“……/submitted” URL)上的仪表板](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [集成：使用SSO时用户收到错误的请求错误](known-issues-workfront/wf-outlook-wrong-request.md)
       + [更新：复制和粘贴提及内容不会通知提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [项目：使用模板从问题创建的项目未反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md)
