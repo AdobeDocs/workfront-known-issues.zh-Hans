@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '1880'
-ht-degree: 98%
+source-wordcount: '1919'
+ht-degree: 97%
 
 ---
 
@@ -17,9 +17,13 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：下载或预览资源时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [用户：用户属性不从SSO映射](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [程序：更新用户对程序的访问权限时，将失去对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [文档：从集成链接文档时的UNK文件扩展名](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [请求：无法访问请求页面(“……/submitted” URL)上的仪表板](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [集成：使用SSO时用户收到错误的请求错误](known-issues-workfront/wf-outlook-wrong-request.md)
-      + [更新：复制和粘贴提及内容不会通知提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
+      + [更新：复制并粘贴提及不会通知被提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [项目：使用模板从问题创建的项目未反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [时间表：固定的时间表变为空白页面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
