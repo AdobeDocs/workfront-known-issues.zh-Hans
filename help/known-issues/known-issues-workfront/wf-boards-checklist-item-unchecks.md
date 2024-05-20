@@ -4,14 +4,18 @@ description: 当用户勾选信息卡上的清单项时，该清单项会立即�
 hidefromtoc: true
 feature: Agile
 exl-id: 65191c68-f88e-4ffc-8d57-6786e1d6f08e
-source-git-commit: 1c2c5d7c97ae47278154011e097f636feaa48417
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 90%
 
 ---
 
 # 展示板：清单项未保持选中状态
+
+>[!NOTE]
+>
+>此问题已于2024年5月16日修复。
 
 当用户勾选信息卡上的清单项时，该清单项会立即取消勾选。该项不再保持选中状态。
 
