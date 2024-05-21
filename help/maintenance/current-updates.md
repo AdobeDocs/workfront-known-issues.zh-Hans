@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3529'
-ht-degree: 99%
+source-wordcount: '3628'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,22 @@ ht-degree: 99%
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 5 月更新
+
++++ **（已计划）2024年5月23日维护更新**
+
+### （已计划）2024年5月23日维护更新
+
+#### 更新
+
+**已标记的用户看不到谁标记了他们**
+
+当用户在更新中被标记时，他们看不到谁标记了他们。 当“其他公司的人员应仅查看来自……的用户”设置设为“他们的公司”时，会发生这种情况。
+
+**在“摘要”面板中使用@标记用户无效**
+
+当用户尝试在“摘要”面板的“更新”区域中使用 @ 标记另一个用户时，单击下拉菜单中的用户姓名无效。第二次尝试标记用户时，效果与预期一样。
+
++++
 
 +++**2024年5月16日维护更新**
 
