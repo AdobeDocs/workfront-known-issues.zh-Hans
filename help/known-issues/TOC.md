@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
 workflow-type: tm+mt
-source-wordcount: '1919'
-ht-degree: 97%
+source-wordcount: '1933'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：已标记的用户看不到谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [主页：计划小时数以分钟为单位显示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [文档：下载或预览资源时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [用户：用户属性不从SSO映射](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [程序：更新用户对程序的访问权限时，将失去对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md)

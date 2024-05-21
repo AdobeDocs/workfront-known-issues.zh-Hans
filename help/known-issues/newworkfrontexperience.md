@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: d3931cc536f625b78a888856f048663558dc771e
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 93%
+source-wordcount: '885'
+ht-degree: 91%
 
 ---
 
@@ -41,12 +41,13 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：已标记的用户看不到谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 2024年5月21日 |
+| [主页：计划小时数以分钟为单位显示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | 2024年5月21日 |
 | [文档：下载或预览资源时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日 |
 | [用户：用户属性不从SSO映射](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 2024年5月20日 |
 | [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月20日 |
 | [更新：复制并粘贴提及不会通知被提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024 年 5 月 10 日 |
 | [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 5 月 9 日 |
-| [校样审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024 年 5 月 7 日 |
 | [更新：在“摘要”面板中使用 @ 标记用户无效](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024 年 5 月 2 日 |
 | [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 4 月 23 日 |
@@ -121,4 +122,5 @@ ht-degree: 93%
 | [日程表：未显示任务](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020 年 11 月 9 日 |
 
 {style="table-layout:auto"}
+
 
