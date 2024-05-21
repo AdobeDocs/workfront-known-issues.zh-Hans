@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Projects
 exl-id: 431a94ee-c73f-4536-b7ff-33f5b3870892
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->此问题已关闭，因为它就是如此设计的。
+>此问题已关闭，因为它已按设计运行。
 
 当用户使用模板将问题转换为项目时，新创建项目的优先级与模板中设置的优先级不匹配。
 
-这是按设计工作的。 将问题转化为带或不带模板的项目时，问题的优先级转移到已创建的项目。
+该问题已按设计运行。将问题转换为有或无模板的项目时，问题的优先级都会转移到创建的项目。
 
 _首次报告于 2024 年 5 月 2 日。_
