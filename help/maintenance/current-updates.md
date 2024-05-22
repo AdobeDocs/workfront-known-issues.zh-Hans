@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 98%
+source-wordcount: '3680'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,16 @@ ht-degree: 98%
 +++ **（已计划）2024年5月23日维护更新**
 
 ### （已计划）2024年5月23日维护更新
+
+#### 报告
+
+当用户查看报告并单击浏览器的“返回”按钮时，可能会出现以下情况之一：
+
+* 用户仍保留在“报告”页面上。
+* 用户将被定向到浏览器的登陆页面。
+* 用户将被定向到“登录”页面。
+
+Chrome浏览器已报告该问题。
 
 #### 更新
 
