@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '1933'
-ht-degree: 96%
+source-wordcount: '1937'
+ht-degree: 99%
 
 ---
 
@@ -17,14 +17,15 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [更新：已标记的用户看不到谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [主页：计划小时数以分钟为单位显示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
-      + [文档：下载或预览资源时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [用户：用户属性不从SSO映射](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
-      + [程序：更新用户对程序的访问权限时，将失去对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md)
-      + [文档：从集成链接文档时的UNK文件扩展名](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [请求：无法访问请求页面(“……/submitted” URL)上的仪表板](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
-      + [集成：使用SSO时用户收到错误的请求错误](known-issues-workfront/wf-outlook-wrong-request.md)
+      + [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [用户：用户属性未从 SSO 映射](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [程序：当用户对程序的访问权限更新时，对程序的所有访问权限都将丢失](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [文档：链接集成文档时使用 UNK 文件扩展名](known-issues-workfront/wf-documents-unk-file-extension.md)
+      + [请求：无法在请求页面（“../submitted”URL）上使用 Access Dashboards](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
+      + [集成：用户使用 SSO 时收到错误的请求错误](known-issues-workfront/wf-outlook-wrong-request.md)
       + [更新：复制并粘贴提及不会通知被提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [项目：使用模板从问题创建的项目未反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [展示板：高级过滤器未返回预期的信息卡](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
