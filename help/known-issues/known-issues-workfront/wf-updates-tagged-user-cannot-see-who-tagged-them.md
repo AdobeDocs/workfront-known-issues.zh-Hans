@@ -3,15 +3,19 @@ title: “更新：已标记的用户看不到谁标记了他们”
 description: “当用户在更新中被标记时，他们看不到谁标记了他们。 当设置“其他公司中的人员应仅查看来自……的用户”设置为“他们的公司”时，会发生这种情况。”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 5%
+source-wordcount: '105'
+ht-degree: 4%
 
 ---
 
 
 # 更新：已标记的用户看不到谁标记了他们
+
+>[!NOTE]
+>
+>此问题已于2024年5月23日修复。
 
 当用户在更新中被标记时，他们看不到谁标记了他们。 当“其他公司的人员应仅查看来自……的用户”设置设为“他们的公司”时，会发生这种情况。
 

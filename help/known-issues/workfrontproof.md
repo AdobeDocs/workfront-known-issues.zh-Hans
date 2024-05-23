@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 95%
+source-wordcount: '385'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：从集成链接文档时的UNK文件扩展名](known-issues-workfront/wf-documents-unk-file-extension.md) | 2024年5月20日 |
 | [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 
 {style="table-layout:auto"}
