@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 46ca4c32-6e7a-4460-abea-85a90c29a865
 source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年5月16日修复。
+>此问题已于 2024 年 5 月 16 日修复。
 
 当用户在“设置”中查看问题状态时，他们会发现某些类型的问题缺少默认问题状态（“新”、“正在进行”和“完成”）。默认状态没有更改问题类型的选项，因此用户无法重新配置状态以显示受影响的问题类型。
 

@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：RuntimeError，显示来自 Workfront 模块的 200 响应](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024年5月20日 |
+| [Workfront Fusion：RuntimeError，显示来自 Workfront 模块的 200 响应](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024 年 5 月 20 日 |
 
 {style="table-layout:auto"}
 

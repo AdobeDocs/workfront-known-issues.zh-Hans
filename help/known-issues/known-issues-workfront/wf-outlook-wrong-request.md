@@ -1,18 +1,18 @@
 ---
-title: '集成：使用SSO时用户收到错误请求错误'
-description: 当用户尝试在启用SSO的情况下登录Outlook的Workfront插件时，会显示“错误请求”页面，并且用户无法登录。
+title: “集成：用户使用 SSO 时收到错误的请求错误”
+description: 当用户尝试登录启用了 SSO 的 Outlook 的 Workfront 插件时，会显示错误请求页面，并且用户无法登录。
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 2c2d01432d707a470a69aea42b3949a2bf27af9b
-workflow-type: tm+mt
+exl-id: 89e082c3-1e7a-49bb-9b08-66d21e53075a
+source-git-commit: a3a26086c21cabf5cc6bae5bb42b4a97b78618ad
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 集成：用户使用 SSO 时收到错误的请求错误
 
-# 集成：使用SSO时用户收到错误的请求错误
+当用户尝试登录启用了 SSO 的 Outlook 的 Workfront 插件时，会显示“错误请求”页面，并且用户无法登录。
 
-当用户尝试在启用SSO的情况下登录Outlook的Workfront插件时，会显示“错误请求”页面，并且用户无法登录。
-
-_首次报告于2024年5月14日。_
+_首次报告于 2024 年 5 月 14 日。_

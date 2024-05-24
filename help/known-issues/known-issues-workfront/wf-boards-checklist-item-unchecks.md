@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: 65191c68-f88e-4ffc-8d57-6786e1d6f08e
 source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此问题已于2024年5月16日修复。
+>此问题已于 2024 年 5 月 16 日修复。
 
 当用户勾选信息卡上的清单项时，该清单项会立即取消勾选。该项不再保持选中状态。
 
