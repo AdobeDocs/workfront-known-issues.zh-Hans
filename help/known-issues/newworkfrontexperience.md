@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: 8e019afd934a4a5339a9623c4fa2f4a880326bd9
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '845'
 ht-degree: 98%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月24日 |
 | [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 2024年5月24日 |
 | [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日 |
 | [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
@@ -48,7 +49,6 @@ ht-degree: 98%
 | [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 5 月 9 日 |
 | [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
-| [请求：填写请求时计算字段不会更新](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024 年 4 月 9 日 |
 | [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 4 月 5 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 3 月 8 日 |
