@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
+source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
 workflow-type: tm+mt
-source-wordcount: '1937'
-ht-degree: 99%
+source-wordcount: '1945'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [更新：已标记的用户看不到谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [主页：计划小时数以分钟为单位显示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)

@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
+source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 99%
+source-wordcount: '841'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 2024年5月24日 |
 | [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日 |
 | [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 5 月 20 日 |
