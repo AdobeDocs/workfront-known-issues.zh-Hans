@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [程序：当用户对程序的访问权限更新时，对程序的所有访问权限都将丢失](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024 年 5 月 20 日 |
+| [程序：更新用户对程序的访问权限时，将丢失对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024 年 5 月 20 日 |
 | [集成：用户使用 SSO 时收到错误的请求错误](known-issues-workfront/wf-outlook-wrong-request.md) | 2024 年 5 月 14 日 |
 | [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |

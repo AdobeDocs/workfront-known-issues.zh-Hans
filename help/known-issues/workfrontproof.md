@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [文档：下载或预览资源时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日 |
+| [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [验证：未能生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 4 月 12 日 |
 | [项目：如果附加了 Web 验证，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
