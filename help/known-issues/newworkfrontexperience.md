@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e019afd934a4a5339a9623c4fa2f4a880326bd9
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 98%
+source-wordcount: '843'
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 98%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [程序：更新用户对程序的访问权限时，将丢失对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024 年 5 月 20 日 |
-| [集成：用户使用 SSO 时收到错误的请求错误](known-issues-workfront/wf-outlook-wrong-request.md) | 2024 年 5 月 14 日 |
 | [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 | [任务：创建或重复任务导致任务列表以错误的顺序显示](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024 年 2 月 26 日 |
 | [验证：GIF 渲染为静态验证](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024 年 1 月 23 日 |
@@ -40,9 +39,10 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [用户：进行批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024年5月28日 |
 | [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月24日 |
 | [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 2024年5月24日 |
-| [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日 |
+| [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024 年 5 月 23 日 |
 | [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 5 月 20 日 |
 | [更新：复制并粘贴提及不会通知被提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024 年 5 月 10 日 |

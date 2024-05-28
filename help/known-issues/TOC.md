@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '1945'
-ht-degree: 98%
+source-wordcount: '1952'
+ht-degree: 99%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [用户：进行批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [更新：已标记的用户看不到谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
-      + [主页：计划小时数以分钟为单位显示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
+      + [更新：被标记的用户无法看到是谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [主页：规划小时数以分钟为单位显示](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [用户：用户属性未从 SSO 映射](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [程序：更新用户对程序的访问权限时，将丢失对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md)
