@@ -4,9 +4,9 @@ description: “当用户尝试在“摘要”面板的“更新”区域中使�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年5月23日修复。
+>此问题已于 2024 年 5 月 23 日修复。
 
 当用户尝试在“摘要”面板的“更新”区域中使用 @ 标记另一个用户时，单击下拉菜单中的用户姓名无效。第二次尝试标记用户时，效果与预期一样。
 

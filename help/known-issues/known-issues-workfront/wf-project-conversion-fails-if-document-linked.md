@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年5月23日修复。
+>此问题已于 2024 年 5 月 23 日修复。
 
 当问题有文档并当用户尝试将该问题转换为项目时，转换会失败并且不会创建项目。用户会看到以下错误：
 
