@@ -5,7 +5,7 @@ role: User
 source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
 source-wordcount: '1966'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [任务：将用户分配给任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
-      + [用户：进行批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
+      + [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [更新：被标记的用户无法看到是谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)

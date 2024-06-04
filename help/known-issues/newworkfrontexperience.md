@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -41,8 +41,8 @@ ht-degree: 95%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [项目：如果文档已附件，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日 |
-| [用户：进行批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024年5月28日 |
-| [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月24日 |
+| [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
+| [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 24 日 |
 | [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024 年 5 月 23 日 |
 | [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 5 月 20 日 |
