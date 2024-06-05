@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: ht
-source-wordcount: '385'
-ht-degree: 100%
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+workflow-type: tm+mt
+source-wordcount: '402'
+ht-degree: 95%
 
 ---
 
@@ -35,6 +35,8 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：使用指向文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日 |
+| [验证：无法关闭验证查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
 | [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [验证：未能生成压缩的验证](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 4 月 12 日 |

@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '1987'
-ht-degree: 98%
+source-wordcount: '2008'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：使用指向文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [验证：无法关闭验证查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [项目：共享菜单未加载](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [报告：指向报告的公共链接不起作用](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL 资源规划者]：无法共享过滤器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [实际完成日期显示为N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)

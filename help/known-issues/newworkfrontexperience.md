@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 93%
+source-wordcount: '880'
+ht-degree: 91%
 
 ---
 
@@ -41,9 +41,11 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [文档：使用指向文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日 |
+| [验证：无法关闭验证查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
+| [项目：共享菜单未加载](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | 2024年6月5日 |
 | [[!UICONTROL 资源规划者]：无法共享过滤器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 2024年6月4日 |
 | [实际完成日期显示为N/A](known-issues-workfront/wf-projects-completion-date-is-na.md) | 2024年6月4日 |
-| [更新：已标记的用户看不到谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 2024年6月4日 |
 | [项目：如果附加文档，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日 |
 | [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024 年 5 月 23 日 |
