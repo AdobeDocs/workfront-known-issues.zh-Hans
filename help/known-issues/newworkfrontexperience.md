@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 91%
+source-wordcount: '866'
+ht-degree: 92%
 
 ---
 
@@ -43,14 +43,12 @@ ht-degree: 91%
 |----------------------------------| ----------------- |
 | [文档：使用指向文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日 |
 | [验证：无法关闭验证查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
-| [项目：共享菜单未加载](known-issues-workfront/wf-projects-cannot-share-task-issue.md) | 2024年6月5日 |
 | [[!UICONTROL 资源规划者]：无法共享过滤器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 2024年6月4日 |
 | [实际完成日期显示为N/A](known-issues-workfront/wf-projects-completion-date-is-na.md) | 2024年6月4日 |
 | [项目：如果附加文档，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日 |
 | [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024 年 5 月 23 日 |
 | [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 5 月 20 日 |
-| [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024 年 5 月 20 日 |
 | [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024 年 5 月 9 日 |
 | [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024 年 4 月 29 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |

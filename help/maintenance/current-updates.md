@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3808'
-ht-degree: 99%
+source-wordcount: '3824'
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,13 @@ ht-degree: 99%
 
 +++ **2024年6月6日维护更新**
 
-此更新仅包含次要或影响不大的错误修复。[!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
+### 2024年6月6日维护更新
+
+#### 自定义表单
+
+**表单设计器中的本机字段限制**
+
+在表单设计器中创建的自定义表单现在支持多个本地字段。 以前，每个表单只能有一个本机字段。
 
 +++
 
