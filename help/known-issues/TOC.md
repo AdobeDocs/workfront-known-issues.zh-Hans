@@ -23,7 +23,7 @@ ht-degree: 97%
       + [报告：指向报告的公共链接不起作用](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL 资源规划者]：无法共享过滤器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [实际完成日期显示为N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
-      + [任务：将用户分配给任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
+      + [任务：当用户被分配任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
