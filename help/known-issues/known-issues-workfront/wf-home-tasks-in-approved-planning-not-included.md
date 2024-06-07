@@ -1,17 +1,21 @@
 ---
-title: "主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务"
-description: "“主页”中不显示状态为“已批准”或“正在规划”的项目中的任务。有变通方法可用。"
+title: '主页：项目中状态为“已批准”或“计划”的任务未包含在“我的任务”或“主页工作列表”中'
+description: 项目中状态为“已批准”或“计划”的任务不会显示在主页中。 有解决方法可用。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 5b22b37a13774e4552ec9390a70040f0182851d3
-workflow-type: ht
-source-wordcount: '166'
-ht-degree: 100%
+exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '195'
+ht-degree: 82%
 
 ---
 
-
 # 主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务
+
+>[!NOTE]
+>
+>产品团队目前正在评估此问题的解决方案。 解决此问题后，将在“产品公告”中进行沟通，而非在“维护更新”中进行沟通。
 
 以下区域中不显示状态为“已批准”或“正在规划”的项目中的任务：
 

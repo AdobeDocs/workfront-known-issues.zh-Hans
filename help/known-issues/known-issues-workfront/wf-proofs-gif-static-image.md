@@ -1,17 +1,21 @@
 ---
-title: "校样：GIF 渲染为静态校样"
-description: "当用户尝试从 GIF 创建校样时，仅用该 GIF 的第一帧以静态图像的形式创建该校样。"
+title: '验证：GIF呈现为静态验证'
+description: 当用户尝试从 GIF 创建校样时，仅用该 GIF 的第一帧以静态图像的形式创建该校样。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+exl-id: 27cfca56-7bf3-45f6-855e-45369ff85bce
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 92%
 
 ---
 
+# 验证：GIF 渲染为静态验证
 
-# 校样：GIF 渲染为静态校样
+>[!NOTE]
+>
+>此问题已于 2024 年 1 月 25 日修复。
 
 当用户尝试从 GIF 创建校样时，仅用该 GIF 的第一帧以静态图像的形式创建该校样。
 
