@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Custom Forms
 exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年5月30日修复。
+>此问题已于 2024 年 5 月 30 日修复。
 
 当用户尝试编辑自定义表单上的描述性文本时，该文本不会保存，并且用户会看到以下错误：
 

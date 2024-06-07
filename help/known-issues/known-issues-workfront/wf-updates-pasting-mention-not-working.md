@@ -4,9 +4,9 @@ description: “当用户复制包含 @ 格式提及的评论，然后将该评�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年5月30日修复。
+>此问题已于 2024 年 5 月 30 日修复。
 
 当用户复制包含 @ 格式提及的评论，然后将该评论粘贴到另一个对象的更新区域时，提及的用户不会收到有关粘贴评论的通知。
 
