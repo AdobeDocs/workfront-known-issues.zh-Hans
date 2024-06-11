@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '801'
-ht-degree: 95%
+source-wordcount: '806'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [导航：“返回”按钮未返回到上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月11日 |
 | [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 
 {style="table-layout:auto"}
@@ -39,7 +40,6 @@ ht-degree: 95%
 | [任务：当用户被分配任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日 |
 | [文档：使用指向文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日 |
 | [验证：无法关闭验证查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
-| [[!UICONTROL 资源规划者]：无法共享过滤器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 2024年6月4日 |
 | [项目：如果附加文档，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024 年 5 月 23 日 |

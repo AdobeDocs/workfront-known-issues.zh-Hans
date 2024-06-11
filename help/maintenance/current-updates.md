@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '3824'
+source-wordcount: '3861'
 ht-degree: 98%
 
 ---
@@ -21,6 +21,18 @@ ht-degree: 98%
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 6 月更新
+
++++**（已计划）2024年6月13日维护更新**
+
+### **（已计划）2024年6月13日维护更新**
+
+#### 组
+
+**无法添加子组**
+
+当用户尝试将现有子组添加到组时，“保存”按钮无效，子组无法被添加。
+
++++
 
 +++ **2024年6月6日维护更新**
 

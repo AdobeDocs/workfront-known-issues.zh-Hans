@@ -1,17 +1,21 @@
 ---
-title: “资源规划者：无法共享筛选器”
-description: “当用户尝试在 [!UICONTROL 资源规划者]，他们无法共享过滤器，且看到错误消息。”
+title: '资源规划者：无法共享筛选器'
+description: 当用户尝试在中共享过滤器时 [!UICONTROL 资源规划者]，则他们无法共享过滤器，且会看到一条错误消息。
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 0f35655e-96b7-4279-b536-63106276efc3
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 12%
+source-wordcount: '86'
+ht-degree: 11%
 
 ---
 
-
 # [!UICONTROL 资源规划者]：无法共享过滤器
+
+>[!NOTE]
+>
+>此问题已于2024年6月10日修复。
 
 当用户尝试在中共享过滤器时 [!UICONTROL 资源规划者]，则他们无法共享过滤器，且会看到以下消息：
 
