@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
+source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
 workflow-type: tm+mt
-source-wordcount: '2023'
-ht-degree: 97%
+source-wordcount: '2029'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [状态：无法重用之前删除的状态](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [主页：无法删除提及小组件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [导航：“返回”按钮未返回到上一页](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [文档：使用指向文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md)
