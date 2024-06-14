@@ -1,22 +1,22 @@
 ---
-title: “文档：使用指向文档的公共链接时出错”
-description: “当用户单击公共链接以转到Workfront中的文档时，他们可能会看到错误。”
+title: ”文档：使用文档的公共链接时出错“
+description: 当用户单击公共链接转到 Workfront 中的文档时，他们可能会看到错误。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: tm+mt
+exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
+source-git-commit: 492e3e74ffb96d976f160d2d2c3656a270a77ae2
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
+# 文档：使用文档的公共链接时出错
 
-# 文档：使用指向文档的公共链接时出错
+当用户单击公共链接转到 Workfront 中的文档时，他们可能会看到以下错误之一：
 
-当用户单击公共链接以转到Workfront中的文档时，他们可能会看到以下错误之一：
-
-* 500错误
+* 500 错误
 * “[!UICONTROL 糟糕！ 出现问题。 请联系 Workfront，以便我们找出错误并加以修复。]”
 
 
-_首次报告于2024年5月30日。_
+_首次报告于 2024 年 5 月 30 日。_
