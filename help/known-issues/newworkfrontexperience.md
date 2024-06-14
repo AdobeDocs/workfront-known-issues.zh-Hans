@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 92%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [资源规划： [!UICONTROL 更多] 按钮不可见](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日 |
 | [导航：“返回”按钮未返回到上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月11日 |
 | [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 
@@ -36,12 +37,11 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [状态：无法重用之前删除的状态](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md) | 2024年6月13日 |
 | [程序：更新用户对程序的访问权限时，将丢失对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年6月7日 |
 | [任务：当用户被分配任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日 |
-| [文档：使用指向文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日 |
-| [验证：无法关闭验证查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日 |
-| [项目：如果附加文档，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
+| [文档：使用文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
+| [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024 年 6 月 5 日 |
+| [项目：如果附加了文件，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |

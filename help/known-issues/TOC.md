@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '2029'
-ht-degree: 96%
+source-wordcount: '2036'
+ht-degree: 98%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [资源规划： [!UICONTROL 更多] 按钮不可见](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [状态：无法重用之前删除的状态](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [主页：无法删除提及小组件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [导航：“返回”按钮未返回到上一页](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [文档：使用指向文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md)
-      + [验证：无法关闭验证查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [文档：使用文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [项目：共享菜单未加载](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [报告：指向报告的公共链接不起作用](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL 资源规划者]：无法共享过滤器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
-      + [实际完成日期显示为N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
+      + [报告：报告的公共链接无效](known-issues-workfront/wf-reports-public-link-not-working.md)
+      + [[!UICONTROL 资源规划员]：无法共享过滤器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
+      + [实际完成日期显示为 N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [任务：当用户被分配任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
