@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
+source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '846'
+ht-degree: 91%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [更新：复制的链接未正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024年6月19日 |
 | [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年6月17日 |
 | [程序：更新用户对程序的访问权限时，将丢失对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年6月7日 |
 | [任务：当用户被分配任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日 |

@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '3859'
-ht-degree: 99%
+source-wordcount: '3963'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,27 @@ ht-degree: 99%
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 6 月更新
+
++++**（已计划）2024年6月20日维护更新**
+
+### （已计划）2024年6月20日维护更新
+
+#### 导航
+
+**“返回”按钮未返回上一页**
+
+当Workfront中的用户单击浏览器的“返回”按钮时，可能会出现以下情况之一。
+
+* 浏览器选项卡的名称会更改，但页面不会更改。 再次单击“返回”按钮可能会解决问题。
+* 用户将被带入其浏览器登陆页面。
+
+#### 验证
+
+**无法关闭验证查看器**
+
+当用户在校样查看器中查看校样并尝试通过单击右上角的 X 来关闭校样时，校样不会关闭。
+
++++
 
 +++**2024年6月13日维护更新**
 
