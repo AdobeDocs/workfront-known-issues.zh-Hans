@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
 workflow-type: tm+mt
-source-wordcount: '1652'
-ht-degree: 97%
+source-wordcount: '1663'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [主页：“我的问题”小组件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [审批：重定向次数过多](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：复制的链接未正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [报告：当分组名称具有正斜杠或反斜杠时“没有要显示的数据”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
