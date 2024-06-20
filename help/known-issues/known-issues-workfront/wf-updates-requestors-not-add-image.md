@@ -4,7 +4,7 @@ description: “拥有请求者许可证的用户查看更新区域并尝试添�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 

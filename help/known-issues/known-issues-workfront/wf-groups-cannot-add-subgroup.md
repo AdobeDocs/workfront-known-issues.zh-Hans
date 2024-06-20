@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: c29668b9-46c3-432c-8773-2573de606b99
 source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此问题已于2024年6月13日修复。
+>此问题已于 2024 年 6 月 13 日修复。
 
 当用户尝试将现有子组添加到组时，“保存”按钮无效，子组无法被添加。
 

@@ -1,17 +1,17 @@
 ---
-title: '验证：无法生成压缩验证'
+title: 校样：未能生成压缩的校样
 description: 当用户尝试创建压缩的校样，并且该校样中有两个或更多文件同名时，未能生成该校样。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# 验证：未能生成压缩的验证
+# 校样：未能生成压缩的校样
 
 <!--WF and WFP TOCs-->
 
@@ -21,7 +21,7 @@ ht-degree: 94%
 
 当用户尝试创建压缩的校样，并且该校样中有两个或更多文件同名时，未能生成该校样。
 
-**变通方法**
+**解决方法**
 
 重命名这些文件，以使任何文件都不与另一文件同名。
 

@@ -1,13 +1,13 @@
 ---
-title: '主页：项目中状态为“已批准”或“计划”的任务未包含在“我的任务”或“主页工作列表”中'
-description: 项目中状态为“已批准”或“计划”的任务不会显示在主页中。 有解决方法可用。
+title: “主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务”
+description: “主页”中不显示状态为“已批准”或“正在规划”的项目中的任务。有解决方法可用。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '195'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 82%
 
 这是因为当前在 2000 项查询限制中包括处于这些状态的项目中的任务，但不在“我的任务”或“主页工作列表”中显示它们。这可能会造成任务少于 2000 个的用户看不到这些任务的情况。
 
-**变通方法**
+**解决方法**
 
 创建一个自定义任务报告，其中包括以下文本模式过滤器：
 

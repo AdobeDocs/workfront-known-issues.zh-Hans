@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Resource Management
 exl-id: 0f35655e-96b7-4279-b536-63106276efc3
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年6月10日修复。
+>此问题已于 2024 年 6 月 10 日修复。
 
 当用户尝试在 [!UICONTROL 资源规划器]中共享过滤器时，他们无法共享该过滤器，并会看到下列消息。
 
