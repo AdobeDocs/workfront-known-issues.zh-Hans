@@ -4,14 +4,18 @@ description: 当用户单击公共链接转到 Workfront 中的文档时，他�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
-source-git-commit: 492e3e74ffb96d976f160d2d2c3656a270a77ae2
-workflow-type: ht
-source-wordcount: '85'
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # 文档：使用文档的公共链接时出错
+
+>[!NOTE]
+>
+>已解决此问题。
 
 当用户单击公共链接转到 Workfront 中的文档时，他们可能会看到以下错误之一：
 
