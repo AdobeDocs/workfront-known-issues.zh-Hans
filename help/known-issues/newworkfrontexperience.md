@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
 workflow-type: tm+mt
-source-wordcount: '858'
-ht-degree: 88%
+source-wordcount: '849'
+ht-degree: 93%
 
 ---
 
@@ -28,8 +28,8 @@ ht-degree: 88%
 | [集成：无法从添加文档的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日 |
 | [验证：单击验证名称会指向空白屏幕](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024年6月21日 |
 | [展示板：使用时，展示板不显示为用户 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日 |
-| [报告：当分组名称具有正斜杠或反斜杠时“没有要显示的数据”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日 |
-| [集成：Dropbox集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
+| [报告：“当分组名称有正斜杠或反斜杠时，没有数据可显示”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024 年 6 月 18 日 |
+| [集成：Dropbox 集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
 | [报告：查看按自定义日期分组的报告详细信息时出错](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
 | [资源规划：[!UICONTROL 更多]按钮不可见](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024 年 6 月 14 日 |
 | [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
@@ -43,8 +43,8 @@ ht-degree: 88%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [报告：当默认货币为USD时，报告未加载](known-issues-workfront/wf-reports-default-currency-error.md) | 2024年6月21日 |
-| [更新：复制的链接未正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024年6月19日 |
-| [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年6月17日 |
+| [更新：复制的链接无法正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024 年 6 月 19 日 |
+| [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 6 月 17 日 |
 | [任务：当用户被分配任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
 | [项目：如果附加了文件，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
@@ -60,7 +60,7 @@ ht-degree: 88%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [主页：“我的问题”小组件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024年6月20日 |
+| [主页：“我的问题”小组件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024 年 6 月 20 日 |
 | [主页：无法移除“提及”构件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024 年 6 月 12 日 |
 | [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 6 月 7 日 |
 | [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 6 月 7 日 |
@@ -77,7 +77,6 @@ ht-degree: 88%
 | [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
 | [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”构件不限于其中标出了用户的消息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
 | [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
-| [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/inactive/wf-layout-templates-classic.md) | 2023 年 8 月 21 日 |
 | [校样：在[!UICONTROL 校样查看器]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)中未显示审批选项 | 2023 年 8 月 10 日 |
 | [校样：校样未在报告中显示为已批准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |

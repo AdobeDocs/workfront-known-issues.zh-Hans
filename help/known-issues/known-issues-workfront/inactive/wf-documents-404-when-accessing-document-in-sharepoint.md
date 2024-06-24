@@ -4,10 +4,10 @@ description: 当用户尝试访问通过 SharePoint 链接的文档时，他们�
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: ht
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 **解决方法**
 
-[!DNL SharePoint] 建议生成一个短 url，并将其用于该链接。
+[!DNL SharePoint] 建议生成一个简短URL，并将其用于链接。
 
 _首次报告于 2023 年 3 月 14 日。_

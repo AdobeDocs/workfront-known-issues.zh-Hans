@@ -4,16 +4,20 @@ description: 经典 Workfront 体验中的布局模板在 Workfront 界面中不
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: ht
-source-wordcount: '193'
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # 布局模板：布局模板导致报告中出现不一致
 
-<!--Live for workaround-->
+<!--Can delete after 9/24/2024-->
+
+>[!NOTE]
+>
+>已解决此问题。
 
 经典 [!DNL Workfront] 体验中的布局模板在 [!DNL Workfront] 界面中不再可用，但仍可能会影响 [!DNL Workfront] 数据。这可能会导致报告或仪表板上受布局模板影响的字段（如[!UICONTROL 共享对象]）中出现不一致。
 
