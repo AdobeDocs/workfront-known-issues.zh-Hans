@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
+source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
 workflow-type: tm+mt
-source-wordcount: '1702'
-ht-degree: 94%
+source-wordcount: '1711'
+ht-degree: 96%
 
 ---
 
@@ -17,15 +17,16 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：关闭验证会指向产品文档页面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [集成：无法从添加文档的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [验证：单击验证名称会指向空白屏幕](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [报告：当默认货币为USD时，报告未加载](known-issues-workfront/wf-reports-default-currency-error.md)
       + [展示板：使用时，展示板不显示为用户 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md)
       + [主页：“我的问题”小组件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [审批：重定向次数过多](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
-      + [更新：复制的链接未正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
-      + [报告：当分组名称具有正斜杠或反斜杠时“没有要显示的数据”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [集成：Dropbox集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [更新：复制的链接无法正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
+      + [报告：“当分组名称有正斜杠或反斜杠时，没有数据可显示”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [集成：Dropbox 集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [报告：查看按自定义日期分组的报告详细信息时出错](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [资源规划：[!UICONTROL 更多]按钮不可见](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
@@ -117,8 +118,8 @@ ht-degree: 94%
       + [集成：从 [!DNL Outlook] 创建请求时未附加文档](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [展示板：将任务添加到展示板时出现 400 错误](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [新[!UICONTROL 主页]：构件筛选条件和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
-      + [团队：设置团队时[!UICONTROL 完成]按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [新[!UICONTROL 主页]：构件筛选条件和分组默认值不遵循版面模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [团队：设置团队时 [!UICONTROL 完成] 按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md)
       + [设置：“设置”中某些问题类型缺少默认问题状态](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [展示板：状态更改时信息卡未移至适当的列](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
