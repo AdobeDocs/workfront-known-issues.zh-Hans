@@ -1,17 +1,19 @@
 ---
-title: “主页：无法移除“提及”构件”
-description: “如果新主页中的用户想要移除“提及”构件，则无法移除该构件。”
+title: '主页：无法删除提及小组件'
+description: 如果新主页中的用户想要移除“提及”构件，则无法移除该构件。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
-workflow-type: ht
+exl-id: 57defe2f-47df-43ce-a9c7-e6f3a3e79ff5
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
-
 # 主页：无法移除“提及”构件
+
+<!--valid issue; won't fix-->
 
 如果新主页中的用户想要移除“提及”构件，则无法移除该构件。
 
