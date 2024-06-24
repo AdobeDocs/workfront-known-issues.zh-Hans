@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '1693'
-ht-degree: 95%
+source-wordcount: '1702'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [集成：无法从添加文档的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [验证：单击验证名称会指向空白屏幕](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [报告：当默认货币为USD时，报告未加载](known-issues-workfront/wf-reports-default-currency-error.md)
       + [展示板：使用时，展示板不显示为用户 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md)

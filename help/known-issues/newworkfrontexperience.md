@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 89%
+source-wordcount: '858'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [集成：无法从添加文档的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日 |
 | [验证：单击验证名称会指向空白屏幕](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024年6月21日 |
 | [展示板：使用时，展示板不显示为用户 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日 |
 | [报告：当分组名称具有正斜杠或反斜杠时“没有要显示的数据”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日 |
