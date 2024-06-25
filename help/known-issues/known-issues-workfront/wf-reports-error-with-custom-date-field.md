@@ -1,21 +1,21 @@
 ---
 title: “报告：查看按自定义日期分组的报告详细信息时出错”
-description: “当用户查看报告并单击进入详细信息，并且报告按自定义日期字段分组时，详细信息未加载，且用户看到错误消息。”
+description: 当用户查看报告并单击详细信息时，如果报告按自定义日期字段分组，则不会加载详细信息，并且用户会看到错误。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: f78fa5cbcd333b4e2534f2b0dedf603eb915996a
-workflow-type: tm+mt
+exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
-
 # 报告：查看按自定义日期分组的报告详细信息时出错
 
-当用户查看报告并单击进入详细信息，并且报告按自定义日期字段分组时，详细信息未加载，且用户看到以下错误消息：
+当用户查看报告并单击详细信息时，如果报告按自定义日期字段分组，则不会加载详细信息，并且用户会看到下列错误：
 
 “[!UICONTROL 糟糕！ 出现问题。 请联系 Workfront，以便我们找出错误并加以修复。]”
 
 
-_首次报告于2024年6月14日。_
+_首次报告于 2024 年 6 月 14 日。_
