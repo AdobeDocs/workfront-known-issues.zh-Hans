@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
 workflow-type: tm+mt
-source-wordcount: '4072'
+source-wordcount: '4124'
 ht-degree: 98%
 
 ---
@@ -39,6 +39,14 @@ ht-degree: 98%
 如果用户通过右键单击并选择 [!UICONTROL 复制链接地址] 从更新中复制链接，然后将该链接粘贴到更新中，则该链接无法正确粘贴。只有链接的第一部分才是链接，URL 的其余部分将被忽略。
 
 使用 [!UICONTROL 复制链接地址] 以外的方法复制链接可使链接按预期粘贴。
+
+#### 用户
+
+**进行批量分配时缺少用户**
+
+当用户尝试进行批量分配，并且为任务分配了工作角色时，具有该工作角色的用户不会出现在列表中，并且分配用户无法选择他们。
+
+工作负载平衡器中也报告了此种行为。
 
 +++
 
