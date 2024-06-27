@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '870'
-ht-degree: 91%
+source-wordcount: '851'
+ht-degree: 92%
 
 ---
 
@@ -44,8 +44,6 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [报告：当默认货币为USD时，报告未加载](known-issues-workfront/wf-reports-default-currency-error.md) | 2024年6月21日 |
-| [更新：复制的链接无法正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024 年 6 月 19 日 |
 | [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024 年 6 月 17 日 |
 | [任务：当用户被分配任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024 年 6 月 7 日 |
 | [项目：如果附加了文件，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
