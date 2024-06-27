@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 92%
+source-wordcount: '854'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [项目：批量编辑项目时出错](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日 |
+| [任务：在任务分配中搜索名字不会返回用户](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日 |
 | [集成：链接文件夹 [!DNL Google Drive] 不链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日 |
 | [验证：关闭验证会指向产品文档页面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日 |
 | [集成：无法从添加文档的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日 |
