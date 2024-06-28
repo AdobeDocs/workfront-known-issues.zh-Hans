@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
 source-wordcount: '4070'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 98%
 
 #### 报告
 
-**默认货币为USD时不加载报表**
+**报告：默认货币为美元时，不会加载报告**
 
-当用户尝试查看默认货币为USD的报表时，该报表未加载。
+当用户尝试查看默认货币为美元的报告时，该报告不会加载。
 
 #### 更新
 
-**复制的链接未正确粘贴**
+**复制的链接无法正确粘贴**
 
 如果用户通过右键单击并选择 [!UICONTROL 复制链接地址] 从更新中复制链接，然后将该链接粘贴到更新中，则该链接无法正确粘贴。只有链接的第一部分才是链接，URL 的其余部分将被忽略。
 

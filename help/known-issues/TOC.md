@@ -5,7 +5,7 @@ role: User
 source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
 source-wordcount: '1739'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 94%
       + [项目：批量编辑项目时出错](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [任务：在任务分配中搜索名字不会返回用户](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [集成：链接文件夹 [!DNL Google Drive] 不链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
-      + [验证：关闭验证会指向产品文档页面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
-      + [集成：无法从添加文档的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
-      + [验证：单击验证名称会指向空白屏幕](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
-      + [报告：当默认货币为USD时，报告未加载](known-issues-workfront/wf-reports-default-currency-error.md)
-      + [展示板：使用时，展示板不显示为用户 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md)
-      + [主页：“我的问题”小组件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [校样：关闭校样将进入产品文档页面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
+      + [集成：无法从  [!DNL Google Drive] 添加文档的新版本](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
+      + [校样：单击校样名称会导致屏幕空白](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
+      + [报告：默认货币为美元时，不会加载报告](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [展示板：用户使用 [!UICONTROL 登录身份] 时，展示板不会显示](known-issues-workfront/wf-boards-log-in-as.md)
+      + [主页：我的问题构件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [审批：重定向次数过多](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：复制的链接无法正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [报告：“当分组名称有正斜杠或反斜杠时，没有数据可显示”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
@@ -195,8 +195,8 @@ ht-degree: 94%
       + [[!UICONTROL Workfront Proof]：创建校样时无法为资源重新排序](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]上的时间戳不准确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)
-      + [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
-      + [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
+      + [Workfront Proof：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront Proof：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [校样：在预览环境中创建校样缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)

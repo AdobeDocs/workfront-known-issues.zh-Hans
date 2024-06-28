@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
 source-wordcount: '430'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 92%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [集成：链接文件夹 [!DNL Google Drive] 不链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日 |
-| [验证：关闭验证会指向产品文档页面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日 |
-| [集成：无法从添加文档的新版本 [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日 |
+| [校样：关闭校样将进入产品文档页面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
+| [集成：无法从  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) 添加文档的新版本 | 2024 年 6 月 24 日 |
 | [集成：Dropbox 集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
 | [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 
@@ -56,8 +56,8 @@ ht-degree: 92%
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 6 月 7 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
 | [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
-| [Workfront 校样：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
-| [Workfront 校样：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
+| [Workfront Proof：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
+| [Workfront Proof：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
 | [校样：校样未在报告中显示为已批准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [校样：校样预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023 年 6 月 9 日 |
 | [校样：校样在预览环境中创建缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
