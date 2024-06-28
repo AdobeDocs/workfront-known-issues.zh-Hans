@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
 source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 经典 [!DNL Workfront] 体验中的布局模板在 [!DNL Workfront] 界面中不再可用，但仍可能会影响 [!DNL Workfront] 数据。这可能会导致报告或仪表板上受布局模板影响的字段（如[!UICONTROL 共享对象]）中出现不一致。
 
-**变通方法**
+**解决方法**
 
 使用 API 调用删除经典布局模板。您必须登录到 Workfront。
 

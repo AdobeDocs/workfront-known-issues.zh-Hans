@@ -1,18 +1,18 @@
 ---
-title: “展示板：使用‘登录身份’时，展示板不显示为用户”
-description: “当管理员或组管理员以其他用户身份登录并查看展示板时，显示的展示板是管理员的展示板，而不是用户的展示板。”
+title: “展示板：用户使用 登录身份 时，展示板不会显示”
+description: 当管理员或群组管理员以其他用户身份登录并查看展示板时，显示的展示板是管理员展示板，而非用户展示板。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
-workflow-type: tm+mt
+exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
+source-git-commit: 2ab561d9b97aea63728c811e310fd23d0f51c018
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 展示板：用户使用 [!UICONTROL 登录身份] 时，展示板不会显示
 
-# 展示板：使用时，展示板不显示为用户 [!UICONTROL 登录身份]
+当管理员或群组管理员以其他用户身份登录并查看展示板时，显示的展示板是管理员展示板，而非用户展示板。
 
-当管理员或组管理员以其他用户身份登录并查看展示板时，显示的展示板是管理员的展示板，而不是用户的展示板。
-
-_首次报告于2024年6月11日。_
+_首次报告于 2024 年 6 月 11 日。_
