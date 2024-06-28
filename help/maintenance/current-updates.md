@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
 workflow-type: tm+mt
-source-wordcount: '4070'
+source-wordcount: '4096'
 ht-degree: 99%
 
 ---
@@ -25,6 +25,12 @@ ht-degree: 99%
 +++**2024年6月27日维护更新**
 
 ### 2024年6月27日维护更新
+
+#### 展示板
+
+**只有展示板所有者可以更新配置过滤器**
+
+出于安全原因，只有展示板的所有者才能在“配置”面板中更改展示板筛选器。
 
 #### 报告
 
