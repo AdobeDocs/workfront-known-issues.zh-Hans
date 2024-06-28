@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '862'
-ht-degree: 95%
+source-wordcount: '872'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [开票记录：添加更多开票记录按钮缺失](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024年6月28日 |
 | [文档：文档计数不准确](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日 |
 | [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日 |
 | [项目：批量编辑项目时出错](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日 |
