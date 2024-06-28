@@ -4,18 +4,22 @@ description: 当用户在 Workfront 中单击浏览器的“返回”按钮时�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
 # 导航：“返回”按钮无法返回上一页
 
+<!--
+
 >[!NOTE]
 >
->此问题已于 2024 年 6 月 20 日修复。
+>This issue was fixed on June 20, 2024.
+
+-->
 
 当用户在 Workfront 中单击浏览器的“返回”按钮时，可能会发生以下情况之一。
 

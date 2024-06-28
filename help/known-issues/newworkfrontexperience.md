@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 96%
+source-wordcount: '862'
+ht-degree: 95%
 
 ---
 
@@ -25,12 +25,13 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：文档计数不准确](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日 |
+| [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日 |
 | [项目：批量编辑项目时出错](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日 |
 | [任务：在任务分配中搜索名字不会返回用户](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日 |
 | [集成：链接文件夹 [!DNL Google Drive] 不链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日 |
 | [校样：关闭校样将进入产品文档页面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
 | [集成：无法从  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) 添加文档的新版本 | 2024 年 6 月 24 日 |
-| [校样：单击校样名称会导致屏幕空白](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024 年 6 月 21 日 |
 | [展示板：用户使用 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) 时，展示板不会显示 | 2024 年 6 月 21 日 |
 | [报告：“当分组名称有正斜杠或反斜杠时，没有数据可显示”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024 年 6 月 18 日 |
 | [集成：Dropbox 集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |

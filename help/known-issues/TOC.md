@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1744'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：文档计数不准确](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [项目：批量编辑项目时出错](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [任务：在任务分配中搜索名字不会返回用户](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [集成：链接文件夹 [!DNL Google Drive] 不链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
