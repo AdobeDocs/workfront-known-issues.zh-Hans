@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: b312cc55-78c3-4cf4-bb0c-5d8ba4d0600d
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此问题已于2024年6月27日修复。
+>此问题已于 2024 年 6 月 27 日修复。
 
 当用户尝试查看默认货币为美元的报告时，该报告不会加载。
 

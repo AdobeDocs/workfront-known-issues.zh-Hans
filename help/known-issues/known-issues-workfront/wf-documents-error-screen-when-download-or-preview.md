@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
 source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此问题已于2024年6月27日修复。
+>此问题已于 2024 年 6 月 27 日修复。
 
 当用户尝试在 Workfront 中下载或预览资产时，他们会被引导至错误屏幕。
 
