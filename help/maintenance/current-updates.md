@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4096'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 99%
 
 #### 展示板
 
-**只有展示板所有者可以更新配置过滤器**
+**只有展示板所有者才能更新配置过滤器**
 
-出于安全原因，只有展示板的所有者才能在“配置”面板中更改展示板筛选器。
+出于安全原因，只有展示板所有者才能更改“配置”面板中的展示板过滤器。
 
 #### 报告
 
