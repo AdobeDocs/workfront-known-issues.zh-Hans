@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
-workflow-type: ht
-source-wordcount: '1753'
-ht-degree: 100%
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+workflow-type: tm+mt
+source-wordcount: '1811'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [主页：无法打开以下位置的项目： [!UICONTROL 主页日程表] 或 [!UICONTROL 工作列表]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [通知：缩略图在电子邮件通知中不可见](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [问题：对问题进行高级分配时出错](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [Portfolio：用户无法设置项目组合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront：自定义术语不适用](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [时间：在记录时间时，不默认使用过滤的小时类型](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [账单记录：缺少“添加更多账单记录”按钮](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [文件：文件数量不准确](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [项目：批量编辑项目时出错](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
