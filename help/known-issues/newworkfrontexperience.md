@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 92%
+source-wordcount: '923'
+ht-degree: 91%
 
 ---
 
@@ -25,13 +25,13 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [敏捷：添加子任务时故事板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月10日 |
 | [主页：无法打开以下位置的项目： [!UICONTROL 主页日程表] 或 [!UICONTROL 工作列表]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 2024年7月8日 |
 | [通知：缩略图在电子邮件通知中不可见](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日 |
 | [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日 |
 | [账单记录：缺少“添加更多账单记录”按钮](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024 年 6 月 28 日 |
 | [文件：文件数量不准确](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
-| [项目：批量编辑项目时出错](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024 年 6 月 27 日 |
 | [任务：在任务分配中搜索名字无法返回用户](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024 年 6 月 27 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [校样：关闭校样将进入产品文档页面](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024 年 6 月 24 日 |
@@ -49,6 +49,7 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [用户：用户配置文件页面持续加载](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024年7月10日 |
 | [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年7月9日 |
 | [问题：对问题进行高级分配时出错](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 2024年7月8日 |
 | [Portfolio：用户无法设置项目组合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日 |
