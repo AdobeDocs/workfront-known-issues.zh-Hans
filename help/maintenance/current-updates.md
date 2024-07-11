@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '4346'
-ht-degree: 96%
+source-wordcount: '4344'
+ht-degree: 97%
 
 ---
 
@@ -22,17 +22,17 @@ ht-degree: 96%
 
 ## 2024 年 7 月更新
 
-+++**（已计划）2024年7月11日维护更新**
++++**2024年7月11日维护更新**
 
-### （已计划）2024年7月11日维护更新
+### 2024年7月11日维护更新
 
 #### 问题
 
 **对问题执行高级分配时出错**
 
-当用户尝试在Workfront中对问题进行高级分配时，该问题未被分配，并且用户看到以下错误消息：
+当用户尝试在 Workfront 中对问题进行高级分配时，该问题未被分配，并且用户会看到一条错误消息。
 
-&quot;[!UICONTROL APIModel INTERNAL不支持字段持续时间(OpTask)]&quot;
+“[!UICONTROL APIModel INTERNAL 不支持字段持续时间（OpTask）]”
 
 #### 报告
 

@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 91%
+source-wordcount: '912'
+ht-degree: 98%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 91%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [敏捷：添加子任务时故事板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月10日 |
-| [主页：无法打开以下位置的项目： [!UICONTROL 主页日程表] 或 [!UICONTROL 工作列表]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 2024年7月8日 |
-| [通知：缩略图在电子邮件通知中不可见](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日 |
-| [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日 |
+| [主页：无法从[!UICONTROL 主日程表] 或 [!UICONTROL 工作列]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)表中打开项目” | 2024 年 7 月 8 日 |
+| [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
+| [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
 | [账单记录：缺少“添加更多账单记录”按钮](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024 年 6 月 28 日 |
 | [文件：文件数量不准确](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
@@ -51,10 +51,9 @@ ht-degree: 91%
 |----------------------------------| ----------------- |
 | [用户：用户配置文件页面持续加载](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024年7月10日 |
 | [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年7月9日 |
-| [问题：对问题进行高级分配时出错](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 2024年7月8日 |
-| [Portfolio：用户无法设置项目组合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日 |
-| [Workfront：自定义术语不适用](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024年7月8日 |
-| [时间：在记录时间时，不默认使用过滤的小时类型](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 2024年7月8日 |
+| [作品集：用户无法设置作品集](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024 年 7 月 8 日 |
+| [Workfront：不适用自定义术语](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024 年 7 月 8 日 |
+| [时间：记录时间时，过滤的小时类型不是默认类型](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 2024 年 7 月 8 日 |
 | [项目：如果附加了文件，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 5 月 29 日 |
 | [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024 年 5 月 28 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
