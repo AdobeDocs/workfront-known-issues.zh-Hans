@@ -1,22 +1,22 @@
 ---
-title: “主页：无法从主页日程表或工作列表打开项目”
-description: “当用户尝试从主页日程表或主页工作列表打开工作项目或验证时，该项目未打开。”
+title: “主页：无法打开主日程表或工作列表中的项目”
+description: “当用户尝试从其主日程表或主工作列表中打开工作项目或校样时，该项目不会打开。”
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# 主页：无法打开以下位置的项目： [!UICONTROL 主页日程表] 或 [!UICONTROL 工作列表]
+# “主页：无法从[!UICONTROL 主日程表] 或 [!UICONTROL 工作列表]中打开项目”
 
-当用户尝试从他们的打开工作项或验证时 [!UICONTROL 主页日程表] 或 [!UICONTROL 主页工作列表]，则不会打开该项目。
+“当用户尝试从其[!UICONTROL 主日程表] 或 [!UICONTROL 主工作列表]中打开工作项目或校样时，该项目不会打开。”
 
 **解决方法**
 
 刷新页面。
 
-_首次报告于2024年7月2日。_
+_首次报告于 2024 年 7 月 2 日。_
