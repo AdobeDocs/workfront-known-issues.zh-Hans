@@ -5,7 +5,7 @@ role: User
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
 workflow-type: tm+mt
 source-wordcount: '1831'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 95%
       + [敏捷：添加子任务时故事板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [用户：用户配置文件页面持续加载](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile：无法打开验证](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [主页：无法打开以下位置的项目： [!UICONTROL 主页日程表] 或 [!UICONTROL 工作列表]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
-      + [通知：缩略图在电子邮件通知中不可见](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [“主页：无法从[!UICONTROL 主日程表] 或 [!UICONTROL 工作列表]中打开项目”](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [问题：对问题进行高级分配时出错](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfolio：用户无法设置项目组合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
-      + [Workfront：自定义术语不适用](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
-      + [时间：在记录时间时，不默认使用过滤的小时类型](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
+      + [作品集：用户无法设置作品集](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront：不适用自定义术语](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [时间：记录时间时，过滤的小时类型不是默认类型](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [账单记录：缺少“添加更多账单记录”按钮](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [文件：文件数量不准确](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [项目：批量编辑项目时出错](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
