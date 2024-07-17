@@ -4,7 +4,7 @@ description: “当用户尝试从文档中删除自定义表单时，他们会�
 hidefromtoc: true
 feature: Custom Forms, Digital Content and Documents
 source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 * 任务标头
 * [!UICONTROL 任务详细信息]区域
 
-**变通方法**
+**解决方法**
 
 执行下列操作之一：
 

@@ -1,15 +1,15 @@
 ---
-title: "展示板：将任务添加到展示板时出现 400 错误"
-description: "当用户查看项目并尝试将任务添加到展示板时，未添加该任务，并且用户看到错误。有变通方法可用。"
+title: '展示板：将任务添加到展示板时出现400错误'
+description: 当用户查看项目并尝试将任务添加到展示板时，未添加该任务，并且用户看到错误。有变通方法可用。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
+exl-id: 8bd8815c-d9e0-4258-8093-afb5283951e4
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # 展示板：将任务添加到展示板时出现 400 错误
 

@@ -4,7 +4,7 @@ description: “当用户尝试批量编辑项目时，编辑窗口为空白，�
 hidefromtoc: true
 feature: Projects
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 

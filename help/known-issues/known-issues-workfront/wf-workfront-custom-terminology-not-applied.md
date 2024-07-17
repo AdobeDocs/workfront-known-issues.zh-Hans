@@ -4,7 +4,7 @@ description: “版面模板中设置的自定义术语不会出现在 Workfront
 hidefromtoc: true
 feature: Work Management
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 

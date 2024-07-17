@@ -1,15 +1,15 @@
 ---
-title: "Workfront Proof：通过 API 或 Workfront Fusion 访问 Workfront Proof 时出现 500 错误"
-description: "当用户访问 Proof API getAllProofs 操作时，Workfront Proof 服务器返回消息：500 内部服务器错误"
+title: 'Workfront Proof：通过API或Workfront Fusion访问Workfront Proof时出现500错误'
+description: '当用户访问验证API getAllProofs操作时，Workfront Proof服务器返回消息：500内部服务器错误'
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+exl-id: 3c968354-58e2-43fc-8c27-2670683ac862
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
-
 
 # [!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误
 
@@ -26,4 +26,3 @@ ht-degree: 100%
 由于 [!DNL Workfront Fusion] 将 [!DNL Workfront Proof] API 用于 [!DNL Workfront Proof] 模块，因此，该错误可能会返回到一个模块，从而停止场景。
 
 _首次报告于 2023 年 4 月 28 日。_
-

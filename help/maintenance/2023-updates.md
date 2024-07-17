@@ -2,8 +2,9 @@
 title: Workfront 的 2023 年维护更新
 description: ' [!DNL Adobe Workfront] 的维护更新'
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
-workflow-type: ht
+exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '7701'
 ht-degree: 100%
 

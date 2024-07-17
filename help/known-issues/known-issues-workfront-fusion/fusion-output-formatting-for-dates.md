@@ -1,15 +1,15 @@
 ---
-title: “Workfront Fusion：日期的输出格式”
-description: “在将日期作为字符串输出时，可将日期作为 UTC 或 ISO 字符串输出。这取决于映射面板中的逻辑。”
+title: 'Workfront Fusion：输出日期的格式'
+description: 在将日期作为字符串输出时，可将日期作为 UTC 或 ISO 字符串输出。这取决于映射面板中的逻辑。
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
-workflow-type: ht
+exl-id: e01a2260-f230-4f72-a8c6-3dae56b22ff5
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
-
 
 # Workfront Fusion：日期的输出格式
 

@@ -4,7 +4,7 @@ description: 2021 年  [!DNL Adobe Workfront] 维护更新历史记录
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '10060'
 ht-degree: 100%
 
@@ -160,7 +160,7 @@ _[!DNL Workfront]_
 
 当用户使用 [!DNL Workfront] 时，页面不加载，且用户看到以下错误消息：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 此问题已报告于
 
@@ -214,7 +214,7 @@ _[!DNL Workfront]_
 
 当用户使用 [!DNL Workfront] 时，页面不加载，且用户看到以下错误消息：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 此问题已报告于
 
@@ -294,7 +294,7 @@ _[!DNL Workfront]_
 
 当用户使用 [!DNL Firefox] 在 [!DNL Workfront] 中工作时，页面不加载，且用户看到以下错误消息：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 此错误是随机发生的，可能会影响 [!DNL Workfront] 的任何区域。
 
@@ -494,7 +494,7 @@ _[!UICONTROL 工作负载均衡器]_
 
 当用户尝试从[!UICONTROL 工作负载均衡器]进行分配时，工作未分配，且用户看到以下错误：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 +++
 
@@ -509,7 +509,7 @@ _主页_
 
 当用户快速导航到或离开[!UICONTROL 主页]时，页面未加载，且用户看到以下错误消息：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 通过 pin 导航到[!UICONTROL 主页]时也会发生这种情况。
 
@@ -815,7 +815,7 @@ _[!UICONTROL 工作负载均衡器]_
 
 当用户为[!UICONTROL 分配小时数]选择[!UICONTROL 百分比]选项，并且[!UICONTROL 未分配工作]分区列出了工作时，用户看到以下错误消息：
 
-&quot;[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]&quot;
+“[!UICONTROL 出现错误，我们正在寻找解决问题的方法。要继续您的工作，请尝试刷新此浏览器页面。]”
 
 +++
 

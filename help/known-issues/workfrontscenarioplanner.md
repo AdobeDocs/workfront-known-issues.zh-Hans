@@ -5,8 +5,8 @@ keywords: 新建文件，添加文件
 exl-id: b8978767-93dd-42c5-bd85-27b1f4509191
 feature: Workfront Scenario Planner
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '50'
+workflow-type: tm+mt
+source-wordcount: '49'
 ht-degree: 100%
 
 ---

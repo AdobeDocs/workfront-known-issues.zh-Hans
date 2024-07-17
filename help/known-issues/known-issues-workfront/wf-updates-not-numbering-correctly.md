@@ -1,15 +1,15 @@
 ---
-title: “更新：编号列表的编号不正确”
-description: “当用户提交包含编号列表的评论时，该列表在更新中显示的编号不正确。”
+title: '更新：编号列表未正确编号'
+description: 当用户提交包含编号列表的评论时，该列表在更新中显示的编号不正确。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
-workflow-type: ht
+exl-id: e753c392-846a-40f3-a957-fc0890fbda4c
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # 更新：编号列表的编号不正确
 

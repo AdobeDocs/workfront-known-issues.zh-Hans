@@ -5,7 +5,7 @@ keywords: 新建文件，添加文件
 exl-id: 480d4f21-ba17-4580-b2d8-0390fde17956
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -18,7 +18,6 @@ ht-degree: 100%
 >* 此问题已关闭，因为它不构成问题。
 >
 >* 此问题仅存在于“预览沙盒环境”中。
-
 
 当用户生成验证时，验证显示为“[!UICONTROL 正在生成验证]”。 这可能会持续几个小时。 如果用户在仍然显示“[!UICONTROL 正在生成验证]”时尝试打开验证，则无法打开。 验证已生成，但无法访问。
 

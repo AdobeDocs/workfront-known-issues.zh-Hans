@@ -4,7 +4,7 @@ description: “当用户查看有关文档批准的电子邮件通知时，文�
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 
