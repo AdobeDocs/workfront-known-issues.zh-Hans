@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '888'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [敏捷：添加子任务时故事板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月10日 |
+| [敏捷：添加子任务时故事展示板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 10 日 |
 | [主页：无法从[!UICONTROL 主日程表] 或 [!UICONTROL 工作列]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)表中打开项目” | 2024 年 7 月 8 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
@@ -50,8 +50,8 @@ ht-degree: 97%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日 |
-| [用户：用户配置文件页面持续加载](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024年7月10日 |
-| [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年7月9日 |
+| [用户：用户配置文件页面持续加载](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024 年 7 月 10 日 |
+| [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024 年 7 月 9 日 |
 | [作品集：用户无法设置作品集](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024 年 7 月 8 日 |
 | [Workfront：不适用自定义术语](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024 年 7 月 8 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |

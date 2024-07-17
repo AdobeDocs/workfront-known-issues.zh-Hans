@@ -5,7 +5,7 @@ role: User
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '1837'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 98%
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md)
-      + [敏捷：添加子任务时故事板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [敏捷：添加子任务时故事展示板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [用户：用户配置文件页面持续加载](known-issues-workfront/wf-users-profile-continuously-reloads.md)
-      + [Workfront Mobile：无法打开验证](known-issues-workfront/wf-mobile-proofs-not-open.md)
+      + [Workfront Mobile：无法打开校样](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [“主页：无法从[!UICONTROL 主日程表] 或 [!UICONTROL 工作列表]中打开项目”](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
