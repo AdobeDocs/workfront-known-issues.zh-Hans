@@ -4,9 +4,9 @@ description: “当用户尝试批量编辑项目时，编辑窗口为空白，�
 hidefromtoc: true
 feature: Projects
 source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年7月8日修复
+>此问题已于 2024 年 7 月 8 日修复。
 
 当用户尝试批量编辑项目时，编辑窗口为空白，并且用户会看到以下错误：
 

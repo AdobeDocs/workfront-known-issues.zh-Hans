@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
 source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -37,4 +37,4 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Mobile：无法打开验证](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日 |
+| [Workfront Mobile：无法打开校样](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024 年 7 月 9 日 |
