@@ -3,15 +3,19 @@ title: “用户：用户配置文件页面持续加载”
 description: “当用户尝试查看用户配置文件页面时，该页面似乎正在加载，但并未完全加载。”
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 92%
 
 ---
 
 
 # 用户：用户配置文件页面持续加载
+
+>[!NOTE]
+>
+>此问题已于2024年7月18日修复。
 
 当用户尝试查看用户配置文件页面时，该页面似乎正在加载，但并未完全加载。
 
