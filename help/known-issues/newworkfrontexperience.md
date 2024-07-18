@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 98%
+source-wordcount: '852'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年7月18日 |
+| [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日 |
+| [验证：批准的验证显示在报告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2024年7月18日 |
 | [文件：文件数量不准确](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -42,6 +45,8 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [项目：导出](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)时货币符号不正确 | 2024年7月18日 |
+| [自定义表单：选择多个值时下拉列表关闭](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | 2024年7月18日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月18日 |
 | [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日 |
 | [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日 |

@@ -4,18 +4,21 @@ description: 当组管理员尝试修改组中用户的访问级别时，访问�
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # 用户：无法修改用户的访问级别
 
+
+<!--
 >[!NOTE]
 >
->此问题已于 2024 年 6 月 6 日修复。
+>This issue was fixed on June 6, 2024.
+-->
 
 当组管理员尝试修改组中用户的访问级别时，访问级别字段被禁用，并且组管理员无法更改用户的访问级别。
 

@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 99%
+source-wordcount: '4535'
+ht-degree: 98%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 99%
 
 
 
-+++**（已计划）2024年7月18日维护更新**
++++**2024年7月18日维护更新**
 
-### （已计划）2024年7月18日维护更新
+### 2024年7月18日维护更新
 
 #### 敏捷
 
@@ -39,6 +39,10 @@ ht-degree: 99%
 **无法打开[!UICONTROL 主页日历]或[!UICONTROL 工作列表]**&#x200B;中的项目
 
 “当用户尝试从其[!UICONTROL 主日程表] 或 [!UICONTROL 主工作列表]中打开工作项目或校样时，该项目不会打开。”
+
+以其他用户身份登录时显示&#x200B;**管理员自己的主页**
+
+当管理员以其他用户身份登录并查看该用户的主页时，显示该管理员自己的主页。
 
 #### 校样
 
