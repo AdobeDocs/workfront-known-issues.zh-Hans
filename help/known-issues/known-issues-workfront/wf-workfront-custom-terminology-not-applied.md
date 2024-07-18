@@ -3,15 +3,19 @@ title: ”Workfront：不适用自定义术语“
 description: “版面模板中设置的自定义术语不会出现在 Workfront 的某些区域中。相反，会出现默认的非自定义术语。”
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 92%
 
 ---
 
 
 # Workfront：不适用自定义术语
+
+>[!NOTE]
+>
+>此问题已于2024年7月18日修复
 
 版面模板中设置的自定义术语不会出现在 Workfront 的某些区域中。相反，会出现默认的非自定义术语。
 
