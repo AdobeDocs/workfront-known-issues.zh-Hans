@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 96%
+source-wordcount: '861'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月23日 |
 | [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年7月18日 |
 | [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日 |
 | [验证：批准的验证显示在报告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2024年7月18日 |
