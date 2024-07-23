@@ -4,9 +4,9 @@ description: “当用户将 Google Drive 中的文件夹链接到 Workfront 时
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 source-git-commit: 970a15011b8ff327306a7603f9edb32400d987b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,6 +17,6 @@ ht-degree: 95%
 
 **解决方法**
 
-重新验证您的Google连接。
+重新验证您的 Google 连接。
 
 _首次报告于 2024 年 6 月 1 日。_

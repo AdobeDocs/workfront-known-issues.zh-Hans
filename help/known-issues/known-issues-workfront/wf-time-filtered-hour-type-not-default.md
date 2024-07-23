@@ -4,9 +4,9 @@ description: “当用户记录时间时，预先选择的小时类型是任务�
 hidefromtoc: true
 feature: Timesheets, Work Management
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此问题已于2024年7月9日修复。
+>此问题已于 2024 年 7 月 9 日修复。
 
 当用户记录时间时，预先选择的小时类型是[!UICONTROL 任务时间]，而不是该项目的过滤小时类型。
 
