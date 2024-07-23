@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
 source-wordcount: '452'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 96%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
-| [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日 |
+| [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |
 | [文档：使用文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [项目：如果附加了 Web 校样，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
