@@ -3,7 +3,7 @@ title: “验证：打开验证会打开多个副本”
 description: “当用户打开验证时，两个浏览器选项卡将打开一个验证。 ”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 0a5eb31cd241a3ee5b878b71863ab3811d6b75ab
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 当用户打开验证时，两个浏览器选项卡将使用相同的验证打开。
 
-使用Unified Shell时已报告此问题
+使用Unified Shell时已报告此问题。
 
 **解决方法**
 
