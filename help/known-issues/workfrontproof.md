@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '437'
 ht-degree: 98%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 98%
 | -----------------------------------------------------------------| ----------------- |
 | [验证：打开验证会打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日 |
 | [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
-| [文件：文件数量不准确](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
-| [集成：无法从  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) 添加文档的新版本 | 2024 年 6 月 24 日 |
 | [集成：Dropbox 集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
 | [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 

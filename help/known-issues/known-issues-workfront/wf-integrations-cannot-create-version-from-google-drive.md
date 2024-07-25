@@ -1,17 +1,21 @@
 ---
-title: “集成：无法从  [!DNL Google Drive] 添加文档的新版本”
-description: “如果用户正在查看文档列表，并尝试从  [!DNL Google Drive] 添加新版本文档，则会看到一条消息。有解决方法可用。”
+title: '集成：无法添加来自 [!DNL Google Drive]的文档的新版本'
+description: 如果用户正在查看文档列表，并尝试从 [!DNL Google Drive]添加文档的新版本，他们会看到一条消息。 有解决方法可用。
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 1d1f820d9f68a687df58d432b4d18dd91b2d2b13
+exl-id: f3158228-7df2-4063-99f9-5d01a224ada4
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 67%
 
 ---
 
-
 # 集成：无法从 [!DNL Google Drive] 添加文档的新版本
+
+>[!NOTE]
+>
+>此问题已于2024年7月25日关闭。
 
 如果用户正在查看文档列表，并尝试从 [!DNL Google Drive] 添加新版本文档，则会看到该消息：
 

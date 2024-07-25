@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '857'
 ht-degree: 92%
 
 ---
@@ -27,12 +27,9 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [验证：打开验证会打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日 |
 | [登录身份：注销“登录身份”时，主页和pin显示不正确](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 2024年7月25日 |
-| [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月23日 |
 | [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日 |
-| [文件：文件数量不准确](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024 年 6 月 28 日 |
 | [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
-| [集成：无法从  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) 添加文档的新版本 | 2024 年 6 月 24 日 |
 | [展示板：用户使用 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) 时，展示板不会显示 | 2024 年 6 月 21 日 |
 | [集成：Dropbox 集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
 | [报告：查看按自定义日期分组的报告详细信息时出错](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
@@ -46,6 +43,7 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月25日 |
 | [更新：定向更新不会通知用户](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024年7月25日 |
 | [任务：任务缺少继承权限](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 2024年7月25日 |
 | [访问级别：“设置”区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日 |

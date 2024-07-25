@@ -1,17 +1,21 @@
 ---
-title: ”问题：对问题进行高级分配时出错“
-description: “当用户尝试在 Workfront 中对问题进行高级分配时，该问题未被分配，并且用户会看到一条错误消息。”
+title: '问题：对问题执行高级分配时出错'
+description: 当用户尝试在Workfront中对问题进行高级分配时，该问题未被分配，并且用户看到一条错误消息。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 512b2712607fb73c25cb599c2ad38fa5179f6ecb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+exl-id: d2064462-9e63-4eaf-bb01-4fa6b0f4205f
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 53%
 
 ---
 
-
 # 问题：对问题进行高级分配时出错
+
+>[!NOTE]
+>
+>此问题已于2024年7月25日修复。
 
 当用户尝试在 Workfront 中对问题进行高级分配时，该问题未被分配，并且用户会看到一条错误消息。
 
