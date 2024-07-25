@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '1864'
-ht-degree: 98%
+source-wordcount: '1908'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：定向更新不会通知用户](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [验证：打开验证会打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [登录身份：在注销“登录身份”时，主页和pin显示不准确](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [任务：任务缺少继承权限](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [访问级别：“设置”区域中的重复访问级别](known-issues-workfront/wf-access-duplicate-level.md)
       + [项目：导出时货币符号不正确](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [自定义表单：选择多个值时下拉菜单关闭](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md)

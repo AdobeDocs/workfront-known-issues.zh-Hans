@@ -1,17 +1,21 @@
 ---
-title: ”作品集：用户无法设置作品集“
-description: “如果用户无权访问投资组合，他们就无法更改项目的投资组合。”
+title: 'Portfolio：用户无法设置项目组合'
+description: 如果用户无权访问作品集，他们就无法更改项目的作品集。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
-
 # 作品集：用户无法设置作品集
+
+>[!NOTE]
+>
+>此问题已关闭，因为它已按设计运行。
 
 如果用户无权访问作品集，他们就无法更改项目的作品集。
 
