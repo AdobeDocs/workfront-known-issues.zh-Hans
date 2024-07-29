@@ -1,21 +1,21 @@
 ---
 title: “账单记录：缺少“添加更多账单记录”按钮”
-description: “当用户查看账单记录列表并尝试添加新账单记录时，他们会发现页面顶部缺少“添加新账单记录”按钮。”
+description: 当用户查看账单记录列表并尝试添加新账单记录时，他们会发现页面顶部缺少“添加新账单记录”按钮。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
-workflow-type: tm+mt
+exl-id: 131ac94b-af89-4e41-acba-e8eeacd290af
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
-
 
 # 账单记录：缺少“添加更多账单记录”按钮
 
 >[!NOTE]
 >
->此问题已于2024年7月18日修复。
+>此问题已于 2024 年 7 月 18 日修复。
 
 当用户查看账单记录列表并尝试添加新账单记录时，他们会发现页面顶部缺少“添加新账单记录”按钮。
 
