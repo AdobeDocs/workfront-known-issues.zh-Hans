@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
+source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 92%
+source-wordcount: '843'
+ht-degree: 96%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 92%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [验证：打开验证会打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日 |
-| [登录身份：注销“登录身份”时，主页和pin显示不正确](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 2024年7月25日 |
-| [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日 |
+| [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月23日 |
+| [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 7 月 18 日 |
 | [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [展示板：用户使用 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) 时，展示板不会显示 | 2024 年 6 月 21 日 |
@@ -45,10 +45,9 @@ ht-degree: 92%
 |----------------------------------| ----------------- |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月25日 |
 | [更新：定向更新不会通知用户](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024年7月25日 |
-| [任务：任务缺少继承权限](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 2024年7月25日 |
 | [访问级别：“设置”区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日 |
-| [项目：导出](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)时货币符号不正确 | 2024年7月18日 |
-| [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日 |
+| [项目：导出时货币符号不正确](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024 年 7 月 18 日 |
+| [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 18 日 |
 | [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
