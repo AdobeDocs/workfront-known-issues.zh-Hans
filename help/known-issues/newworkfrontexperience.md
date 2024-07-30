@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ee8a402825303927035fea84fd52751c26a46189
+source-git-commit: 476d10ffa4de9094a76a011b69b9a7acd11b0339
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '843'
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,6 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月29日 |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月25日 |
 | [更新：定向更新不会通知用户](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024年7月25日 |
 | [访问级别：“设置”区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日 |
