@@ -1,17 +1,17 @@
 ---
-title: “无法为文档列表创建视图”
-description: “当用户尝试在文档列表上创建新视图时，屏幕变为空白，并且用户无法创建该视图。”
+title: 无法为文档列表创建视图
+description: '''当用户尝试在文档列表上创建新视图时，屏幕变为空白，用户无法创建该视图。 “'
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
+source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 63%
 
 ---
 
-
-# 无法为文档列表创建视图
+# 文档：无法为文档列表创建视图
 
 当用户尝试在文档列表上创建新视图时，屏幕变为空白，并且用户无法创建该视图。
 

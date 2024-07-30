@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
+source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
-source-wordcount: '4620'
+source-wordcount: '4751'
 ht-degree: 99%
 
 ---
@@ -20,9 +20,34 @@ ht-degree: 99%
 
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
+## 2024 年 8 月更新
+
++++**（已计划）2024年8月1日维护更新**
+
+### （已计划）2024年8月1日维护更新
+
+#### 文档
+
+**无法为文档列表创建视图**
+
+当用户尝试在文档列表上创建新视图时，屏幕变为空白，并且用户无法创建该视图。
+
+现有视图按预期工作。
+
+#### 集成
+
+**Dropbox集成问题**
+
+关于 Dropbox 集成，报告了以下问题：
+
+* 当用户尝试在 Dropbox 文件选择器中搜索文件时，他们会看到授权错误消息，并且文件选择器不会从 Dropbox 检索该文件。
+* 当用户尝试打开链接文件夹时，用户会看到一条错误，指出该文件或文件夹不再存在于 Dropbox 中。
+
+这些问题是由于 Dropbox 的问题而不是 Workfront 的问题造成的。
+
++++
+
 ## 2024 年 7 月更新
-
-
 
 +++**2024年7月25日维护更新**
 
