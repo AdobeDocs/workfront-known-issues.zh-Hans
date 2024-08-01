@@ -1,18 +1,22 @@
 ---
-title: “更新：定向更新不会通知用户”
-description: “当用户发表评论并提及或标记另一个用户时，标记的用户不会收到有关评论的电子邮件或应用程序内通知。”
+title: ”更新：用户不会收到定向更新通知“
+description: 当用户发表评论并提及或标记其他用户时，被标记的用户不会收到有关该评论的电子邮件或应用内通知。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+exl-id: aa250248-a9a3-4ea5-8ddf-d9ab2cd24762
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 92%
 
 ---
 
+# 更新：用户不会收到定向更新通知
 
-# 更新：定向更新不会通知用户
+>[!NOTE]
+>
+>此问题已于2024年8月1日修复。
 
-当用户发表评论并提及或标记另一个用户时，标记的用户不会收到有关评论的电子邮件或应用程序内通知。
+当用户发表评论并提及或标记其他用户时，被标记的用户不会收到有关该评论的电子邮件或应用内通知。
 
-_首次报告于2024年7月23日。_
+_首次报告于 2024 年 7 月 23 日。_

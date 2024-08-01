@@ -4,14 +4,18 @@ description: 已报告有关 Dropbox 集成的问题。
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: 58df9050-d71a-4fee-834b-8b15b20f4946
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 94%
 
 ---
 
 # 集成：Dropbox 集成问题
+
+>[!NOTE]
+>
+>此问题已于2024年8月1日修复。
 
 关于 Dropbox 集成，报告了以下问题：
 

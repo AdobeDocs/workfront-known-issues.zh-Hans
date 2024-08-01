@@ -4,14 +4,18 @@ description: '''当用户尝试在文档列表上创建新视图时，屏幕变�
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
 exl-id: 19fe57f9-fea3-48da-8c82-51e2991958d7
-source-git-commit: a04d80ecff08c17a0e4006f71e23c841c20581b1
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 63%
+source-wordcount: '91'
+ht-degree: 59%
 
 ---
 
 # 文档：无法为文档列表创建视图
+
+>[!NOTE]
+>
+>此问题已于2024年8月1日修复。
 
 当用户尝试在文档列表上创建新视图时，屏幕变为空白，并且用户无法创建该视图。
 
