@@ -1,24 +1,24 @@
 ---
-title: “验证：打开验证会打开多个副本”
-description: “当用户打开验证时，两个浏览器选项卡将打开一个验证。 ”
+title: ”校样：打开校样即可打开多个副本“
+description: “当用户打开一份校样时，两个浏览器选项卡会打开相同的校样。“
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0a5eb31cd241a3ee5b878b71863ab3811d6b75ab
-workflow-type: tm+mt
+exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
+source-git-commit: cbb43c65b38fcfecfa5a7b49216266581945b7c5
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
+# 校样：打开校样即可打开多个副本
 
-# 验证：打开验证会打开多个副本
+当用户打开一份校样时，两个浏览器选项卡会打开相同的校样。
 
-当用户打开验证时，两个浏览器选项卡将使用相同的验证打开。
-
-使用Unified Shell时已报告此问题。
+使用 Unified Shell 时已报告此问题。
 
 **解决方法**
 
 关闭其中一个选项卡。
 
-_首次报告于2024年7月22日。_
+_首次报告于 2024 年 7 月 22 日。_

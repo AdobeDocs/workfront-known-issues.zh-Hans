@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Reports and Dashboards
 exl-id: 12bf8b0e-f31b-4320-b7f1-ea9964e86bf7
 source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '95'
+ht-degree: 100%
 
 ---
 

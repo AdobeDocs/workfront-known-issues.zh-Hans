@@ -1,20 +1,20 @@
 ---
-title: “访问级别：在‘设置’区域中复制访问级别”
-description: “当用户查看设置区域中的访问级别列表时，他们会看到某些访问级别重复。 这仅适用于内置级别。”
+title: ”Access 级别：设置区域中的访问级别重复“
+description: 当用户查看设置区域中的访问级别列表时，他们会发现某些访问级别是重复的。这仅适用于内置级别。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
-workflow-type: tm+mt
+exl-id: 26a131ae-91c9-4f81-baf5-7571213bcffc
+source-git-commit: cbb43c65b38fcfecfa5a7b49216266581945b7c5
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Access 级别：设置区域中的访问级别重复
 
-# 访问级别：“设置”区域中的重复访问级别
+当用户查看设置区域中的访问级别列表时，他们会发现某些访问级别是重复的。这仅适用于内置级别。
 
-当用户查看设置区域中的访问级别列表时，他们会看到某些访问级别重复。 这仅适用于内置级别。
+这是在某个组织的许可证被修改后报告的。
 
-修改组织的许可证后，已报告此问题。
-
-_首次报告于2024年7月18日。_
+_首次报告于 2024 年 7 月18 日。_
