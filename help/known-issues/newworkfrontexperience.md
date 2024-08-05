@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 100%
+source-wordcount: '924'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：设置通知首选项时出现Whoops错误](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月5日 |
+| [任务：时间轴重新计算有问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日 |
+| [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日 |
 | [校样：打开校样即可打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 23 日 |
 | [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 7 月 18 日 |
@@ -42,6 +45,14 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 7 月 25 日 |
+| [自定义表单：生成大型表单时浏览器崩溃](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
+| [报告：报告交付延迟或丢失](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 5 日 |
+| [自定义表单：表单生成器在输入显示逻辑时崩溃](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日 |
+| [文档：单击文档名称会导致空白页面](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日 |
+| [自定义表单：无法滚动外部查找字段](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024 年 8 月 5 日 |
+| [自定义表单：显示不正确值的计算字段](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 8 月 5 日 |
+| [设置：“以身份登录”导致空白屏幕](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 2024 年 8 月 5 日 |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 25 日 |
 | [Access 级别：设置区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
 | [项目：导出时货币符号不正确](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024 年 7 月 18 日 |
