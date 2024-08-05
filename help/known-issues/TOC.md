@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
-workflow-type: ht
-source-wordcount: '1908'
-ht-degree: 100%
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+workflow-type: tm+mt
+source-wordcount: '1991'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,17 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [通知：设置通知首选项时出现“糟糕”错误](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [自定义表单：构建大型表单时浏览器崩溃](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [报告：报告交付延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md)
+      + [任务：重新计算时间表时出现问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [自定义表单：输入显示逻辑时表单生成器崩溃](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [文档：单击文档名称会指向空白页](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [自定义表单：无法滚动外部查找字段](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion：无法使用Workfront登录身份功能验证连接](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [设置：“登录身份”导致出现空白屏幕](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md)
       + [更新：用户不会收到定向更新通知](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [校样：打开校样即可打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [登录身份：退出“登录身份”时，主页和图钉显示不准确](known-issues-workfront/wf-login-as-displays-when-logged-out.md)

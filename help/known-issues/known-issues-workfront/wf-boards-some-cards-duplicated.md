@@ -4,18 +4,22 @@ description: 已报告有关展示板中重复信息卡的问题。
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
 
 # 展示板：有关重复信息卡的问题
 
+<!--
+
 >[!NOTE]
 >
->此问题已于 2024 年 5 月 2 日修复。
+>This issue was fixed on May 2, 2024.
+
+-->
 
 已报告有关展示板中重复信息卡的以下问题：
 
