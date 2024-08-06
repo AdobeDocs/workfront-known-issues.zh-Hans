@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4749'
-ht-degree: 99%
+source-wordcount: '4858'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,30 @@ ht-degree: 99%
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 8 月更新
+
++++**（已计划）2024年8月8日维护更新**
+
+### （已计划）2024年8月8日维护更新
+
+#### 展示板
+
+**卡片不包含子任务**
+
+当用户查看作为父任务的任务的信息卡时，该父任务的子任务不会在信息卡上显示。相反，信息卡上显示有 0 个子任务。
+
+### 报告
+
+**报告交付延迟或缺失**
+
+具有计划投放的报告未按预期投放。 它们可能迟到，或根本无法送达。
+
+#### 设置
+
+**“登录身份”指向空白屏幕**
+
+当管理员以其他用户身份登录时，不会看到该用户的帐户，而是会看到一个空白屏幕。
+
++++
 
 +++**2024年8月1日维护更新**
 
