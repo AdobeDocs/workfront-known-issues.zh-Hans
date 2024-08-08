@@ -1,18 +1,22 @@
 ---
-title: “报告：报告交货延迟或丢失”
-description: “计划交付的报告未按预期交付。 它们可能迟到，或者根本无法送达。”
+title: “报告：报告交付延迟或缺失”
+description: “具有计划投放的报告未按预期投放。 它们可能迟到，也可能根本无法送达。”
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 8%
 
 ---
 
 
-# 报表：报表交货延迟或丢失
+# 报告：报告交付延迟或缺失
 
-计划交付的报告未按预期交付。 他们可能迟到，或者根本不能被送达。
+>[!NOTE]
+>
+>此问题已于2024年8月8日修复。
 
-_首次报告时间：2024年7月26日。_
+具有计划投放的报告未按预期投放。 它们可能迟到，或根本无法送达。
+
+_首次报告于2024年7月26日。_
