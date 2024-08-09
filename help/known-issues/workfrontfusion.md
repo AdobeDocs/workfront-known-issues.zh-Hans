@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日 |
+| [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 
 {style="table-layout:auto"}
 
