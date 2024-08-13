@@ -4,7 +4,7 @@ description: “预定交付的报告没有按预期交付。他们可能会迟�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 

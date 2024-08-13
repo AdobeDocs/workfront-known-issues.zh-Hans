@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -43,9 +43,9 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日 |
-| [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日 |
-| [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日 |
+| [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
+| [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
+| [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
 | [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 8 月 5 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
 | [自定义表单：构建大型表单时浏览器崩溃](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
