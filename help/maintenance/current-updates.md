@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5019'
+ht-degree: 99%
 
 ---
 
@@ -53,6 +53,12 @@ ht-degree: 0%
 导出&#x200B;**时**&#x200B;货币符号不正确
 
 当用户导出问题时，导出的货币符号与项目或问题中设置的货币不匹配。
+
+#### 校样
+
+**校对标记不准确**
+
+在从校样打印功能通过电子邮件接收的PDF打印输出中，校样标记未对齐。
 
 
 +++

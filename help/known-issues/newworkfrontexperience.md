@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
-workflow-type: ht
-source-wordcount: '910'
-ht-degree: 100%
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+workflow-type: tm+mt
+source-wordcount: '985'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,12 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront：多个浏览器选项卡导致Workfront注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年8月14日 |
+| [请求：尽管缺少权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日 |
+| [展示板：连接的卡位于不正确的列](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月14日 |
+| [Workfront Mobile：不使用SSO无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日 |
+| [报告：导出报告时出错](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日 |
+| [用户：用户的电子邮件区域设置设置未保存](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 5 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 | [校样：打开校样即可打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
@@ -43,6 +49,8 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [报告：无法单击来自设置](known-issues-workfront/wf-reports-cannot-click-on-report.md)的自定义字段区域的报告 | 2024年8月14日 |
+| [集成：从Outlook创建请求时出错](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
