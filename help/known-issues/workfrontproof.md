@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '459'
-ht-degree: 100%
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+workflow-type: tm+mt
+source-wordcount: '467'
+ht-degree: 98%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：无法预览具有预览链接的文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日 |
 | [文档：单击文档名称导致空白页](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |

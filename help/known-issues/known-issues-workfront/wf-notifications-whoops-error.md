@@ -3,15 +3,19 @@ title: ”通知：设置通知偏好时出错“
 description: ”用户在尝试查看通知偏好时看到一条错误消息。“
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '80'
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
 
 
 # 通知：设置通知偏好时出错
+
+>[!NOTE]
+>
+>此问题已于2024年8月15日修复。
 
 用户在尝试查看通知偏好时看到一条错误消息：
 

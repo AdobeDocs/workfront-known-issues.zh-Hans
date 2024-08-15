@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '2058'
-ht-degree: 96%
+source-wordcount: '2106'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [主页：“无权访问”显示为项目名称](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [文档：无法预览具有预览链接的文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [自定义表单：自定义表单发生显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [自定义表单：无法编辑字段列表页面上的字段](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [主页：主目录崩溃并出现“内存不足”错误](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [设置：以其他用户身份注销时出现问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront：多个浏览器选项卡会导致Workfront注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [报告：无法从设置的自定义字段区域单击报告](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [请求：尽管缺少权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)

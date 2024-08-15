@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 92%
+source-wordcount: '1025'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront：多个浏览器选项卡导致Workfront注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年8月14日 |
+| [主页：“无访问权限”显示为项目名称](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日 |
+| [主页：主目录崩溃，出现“内存不足”错误](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日 |
+| [Workfront：多个浏览器选项卡导致Workfront注销](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
 | [请求：尽管缺少权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日 |
 | [展示板：连接的卡位于不正确的列](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月14日 |
 | [Workfront Mobile：不使用SSO无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日 |
@@ -49,12 +51,15 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [文档：无法预览具有预览链接的文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日 |
+| [自定义表单：自定义表单显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日 |
+| [自定义表单：无法编辑字段列表页面上的字段](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024年8月15日 |
+| [设置：以其他用户身份注销时出现问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
 | [报告：无法单击来自设置](known-issues-workfront/wf-reports-cannot-click-on-report.md)的自定义字段区域的报告 | 2024年8月14日 |
 | [集成：从Outlook创建请求时出错](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
-| [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024 年 8 月 5 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |
 | [自定义表单：构建大型表单时浏览器崩溃](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
 | [自定义表单：输入显示逻辑时表单生成器崩溃](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日 |
@@ -62,7 +67,6 @@ ht-degree: 92%
 | [自定义表单：无法滚动外部查找字段](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024 年 8 月 5 日 |
 | [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 8 月 5 日 |
 | [Access 级别：设置区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
-| [项目：导出时货币符号不正确](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024 年 7 月 18 日 |
 | [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 18 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
