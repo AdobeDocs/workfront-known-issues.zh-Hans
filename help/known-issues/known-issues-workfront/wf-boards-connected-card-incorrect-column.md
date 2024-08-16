@@ -3,15 +3,19 @@ title: “展示板：已连接的信息卡位于不正确的列”
 description: “报告了在错误列中有关已连接卡的问题。”
 hidefromtoc: true
 feature: Agile
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
+source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 
 # 展示板：已连接的信息卡位于不正确的列中
+
+>[!NOTE]
+>
+>此问题已于2024年8月15日修复。
 
 已报告有关错误列中连接的信息卡的以下问题：
 
