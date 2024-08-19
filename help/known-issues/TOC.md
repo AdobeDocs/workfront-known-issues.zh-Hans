@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '2106'
+source-wordcount: '2113'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [主页：待审批小组件显示已删除文档](known-issues-workfront/wf-home-deleted-documents.md)
       + [主页：“无权访问”显示为项目名称](known-issues-workfront/wf-home-no-access-project-name.md)
       + [文档：无法预览具有预览链接的文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [自定义表单：自定义表单发生显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)

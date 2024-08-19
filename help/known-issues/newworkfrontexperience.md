@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1022'
 ht-degree: 87%
 
 ---
@@ -50,6 +50,8 @@ ht-degree: 87%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [主页：挂起的审批构件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024年8月19日 |
+| [展示板：信息卡未包含子任务](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日 |
 | [文档：无法预览具有预览链接的文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日 |
 | [自定义表单：自定义表单显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日 |
 | [自定义表单：无法编辑字段列表页面上的字段](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024年8月15日 |
