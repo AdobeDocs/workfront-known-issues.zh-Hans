@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
 workflow-type: tm+mt
-source-wordcount: '5017'
-ht-degree: 99%
+source-wordcount: '5093'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,18 @@ ht-degree: 99%
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 ## 2024 年 8 月更新
+
++++**2024年8月22日维护更新**
+
+### 8月22日维护更新
+
+#### 报告
+
+**无法单击“设置”的“自定义字段”区域中的报告**
+
+当用户查看设置的自定义Forms >字段区域，并且视图包含本机报表字段时，指向报表的链接不起作用。 用户应该能够单击报表名称并转到报表，但单击报表名称无效。
+
++++
 
 +++**2024年8月15日维护更新**
 
