@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
 workflow-type: tm+mt
-source-wordcount: '2113'
-ht-degree: 94%
+source-wordcount: '2139'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [集成：无法登录到Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [主页：用户移动主页小组件中的列时创建的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)
+      + [文档：文档更新时未显示验证评论](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [主页：待审批小组件显示已删除文档](known-issues-workfront/wf-home-deleted-documents.md)
       + [主页：“无权访问”显示为项目名称](known-issues-workfront/wf-home-no-access-project-name.md)
       + [文档：无法预览具有预览链接的文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)

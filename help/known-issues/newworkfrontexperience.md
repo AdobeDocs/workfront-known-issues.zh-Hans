@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 87%
+source-wordcount: '1051'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 87%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [集成：无法登录Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日 |
+| [主页：用户移动主页小部件中的列时创建的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md) | 2024年8月21日 |
+| [文档：文档更新未显示验证评论](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日 |
 | [主页：“无访问权限”显示为项目名称](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日 |
 | [主页：主目录崩溃，出现“内存不足”错误](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日 |
 | [Workfront：多个浏览器选项卡导致Workfront注销](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
