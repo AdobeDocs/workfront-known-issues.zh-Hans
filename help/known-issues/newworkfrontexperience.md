@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '1051'
-ht-degree: 84%
+source-wordcount: '1025'
+ht-degree: 97%
 
 ---
 
@@ -26,15 +26,14 @@ ht-degree: 84%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [集成：无法登录Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日 |
-| [主页：用户移动主页小部件中的列时创建的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md) | 2024年8月21日 |
 | [文档：文档更新未显示验证评论](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日 |
-| [主页：“无访问权限”显示为项目名称](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日 |
-| [主页：主目录崩溃，出现“内存不足”错误](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日 |
-| [Workfront：多个浏览器选项卡导致Workfront注销](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
-| [请求：尽管缺少权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日 |
-| [Workfront Mobile：不使用SSO无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日 |
-| [报告：导出报告时出错](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日 |
-| [用户：用户的电子邮件区域设置设置未保存](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日 |
+| [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
+| [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 15 日 |
+| [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
+| [请求：尽管缺乏权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024 年 8 月 14 日 |
+| [Workfront Mobile：不使用 SSO 则无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
+| [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 8 月 14 日 |
+| [用户：用户的电子邮件区域设置未保存](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024 年 8 月 14 日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 5 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 | [校样：打开校样即可打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
@@ -53,14 +52,13 @@ ht-degree: 84%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [主页：挂起的审批构件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024年8月19日 |
-| [展示板：信息卡未包含子任务](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日 |
-| [文档：无法预览具有预览链接的文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日 |
-| [自定义表单：自定义表单显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日 |
-| [自定义表单：无法编辑字段列表页面上的字段](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024年8月15日 |
-| [设置：以其他用户身份注销时出现问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日 |
-| [报告：无法单击来自设置](known-issues-workfront/wf-reports-cannot-click-on-report.md)的自定义字段区域的报告 | 2024年8月14日 |
-| [集成：从Outlook创建请求时出错](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日 |
+| [自定义表单： Forms默认为项目表单](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日 |
+| [主页：待批准小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 8 月 19 日 |
+| [展示板：信息卡未包含子任务](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 19 日 |
+| [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
+| [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 8 月 15 日 |
+| [设置：以其他用户身份注销时出现的问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
+| [集成：从 Outlook 提交请求时出现错误](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024 年 8 月 14 日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日 |

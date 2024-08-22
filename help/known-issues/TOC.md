@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 93%
+source-wordcount: '2146'
+ht-degree: 98%
 
 ---
 
@@ -17,24 +17,25 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [自定义表单：Forms默认为项目表单](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [集成：无法登录到Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [主页：用户移动主页小组件中的列时创建的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)
       + [文档：文档更新时未显示验证评论](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
-      + [主页：待审批小组件显示已删除文档](known-issues-workfront/wf-home-deleted-documents.md)
-      + [主页：“无权访问”显示为项目名称](known-issues-workfront/wf-home-no-access-project-name.md)
-      + [文档：无法预览具有预览链接的文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
-      + [自定义表单：自定义表单发生显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [主页：待批准小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md)
+      + [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
       + [自定义表单：无法编辑字段列表页面上的字段](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
-      + [主页：主目录崩溃并出现“内存不足”错误](known-issues-workfront/wf-home-crashes-with-error.md)
-      + [设置：以其他用户身份注销时出现问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
-      + [Workfront：多个浏览器选项卡会导致Workfront注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
-      + [报告：无法从设置的自定义字段区域单击报告](known-issues-workfront/wf-reports-cannot-click-on-report.md)
-      + [请求：尽管缺少权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
-      + [展示板：已连接的信息卡位于不正确的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
-      + [Workfront Mobile：不使用SSO无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
-      + [报告：导出报告时出错](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [设置：以其他用户身份注销时出现的问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
+      + [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [报告：无法单击设置的自定义字段区域中的报告](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [请求：尽管缺乏权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile：不使用 SSO 则无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md)
       + [用户：用户的电子邮件区域设置未保存](known-issues-workfront/wf-users-email-locale-not-saving.md)
-      + [集成：从Outlook创建请求时出错](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
+      + [集成：从 Outlook 提交请求时出现错误](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md)
       + [自定义表单：构建大型表单时浏览器崩溃](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [报告：报告交付延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md)
