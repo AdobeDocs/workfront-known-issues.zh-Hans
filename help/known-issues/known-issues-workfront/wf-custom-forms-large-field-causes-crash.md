@@ -3,15 +3,19 @@ title: “自定义表单：无法编辑字段列表页面上的字段”
 description: “当用户尝试在字段列表页面上添加大型字段时，页面会崩溃并出现错误。有解决方法可用。”
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
-workflow-type: ht
-source-wordcount: '107'
+source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 
 # 自定义表单：无法编辑字段列表页面上的字段
+
+>[!NOTE]
+>
+>此问题已于2024年8月22日修复。
 
 当用户尝试在字段列表页面上添加大型字段时，页面会崩溃并出现以下错误：
 

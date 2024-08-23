@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 97%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 97%
 | [文档：文档更新未显示验证评论](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日 |
 | [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
 | [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 15 日 |
-| [请求：尽管缺乏权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024 年 8 月 14 日 |
 | [Workfront Mobile：不使用 SSO 则无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
 | [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 8 月 14 日 |
 | [用户：用户的电子邮件区域设置未保存](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024 年 8 月 14 日 |
