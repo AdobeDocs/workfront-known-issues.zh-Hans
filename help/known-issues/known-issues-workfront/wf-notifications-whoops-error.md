@@ -4,7 +4,7 @@ description: ”用户在尝试查看通知偏好时看到一条错误消息。�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
