@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c4fc593215be4064e68806eec1d913cc88e55297
+source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
 workflow-type: tm+mt
-source-wordcount: '1005'
-ht-degree: 97%
+source-wordcount: '1035'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报告：报告交付延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日 |
+| [分配：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日 |
 | [集成：无法登录Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日 |
 | [文档：文档更新未显示验证评论](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日 |
 | [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
@@ -50,6 +52,8 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [用户：无法重新激活用户](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日 |
+| [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月26日 |
 | [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月22日 |
 | [自定义表单： Forms默认为项目表单](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日 |
 | [主页：待批准小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 8 月 19 日 |

@@ -3,9 +3,9 @@ title: "报告：报告交付延迟或缺失"
 description: “预定交付的报告没有按预期交付。他们可能会迟到，或者根本就送不到。”
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: ht
-source-wordcount: '68'
+source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # 报告：报告交付延迟或缺失
 
+<!--
+
 >[!NOTE]
 >
->此问题已于2024年8月8日修复。
+>This issue was fixed on August 8, 2024.
+
+-->
 
 预定交付的报告没有按预期交付。他们可能会迟到，或者根本就送不到。
 
