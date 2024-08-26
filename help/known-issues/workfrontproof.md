@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '467'
+source-git-commit: 6247cac863561cbe7a58dc61dff163356e8cd4c0
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,6 @@ ht-degree: 100%
 | [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024 年 7 月 8 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 | [集成：Dropbox 集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024 年 6 月 14 日 |
-| [通知：文档审批测试版的通知格式不正确](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024 年 4 月 22 日 |
 
 {style="table-layout:auto"}
 
@@ -47,7 +46,6 @@ ht-degree: 100%
 | [文档：使用文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024 年 6 月 5 日 |
 | [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 | [项目：如果附加了 Web 校样，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024 年 3 月 22 日 |
-| [校样：从电子邮件链接访问校样时缺少痕迹导航](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 3 日 |
 
 {style="table-layout:auto"}
 
@@ -80,7 +78,6 @@ ht-degree: 100%
 | [校样：[!UICONTROL 主要校样阶段]字段为空](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [[!DNL Workfront Proof]：无法通过在评论中标记用户来将用户添加到校样中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
 | [[!UICONTROL 主页]：[!UICONTROL 在校样中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
-| [[!DNL Workfront Proof]：自动访问校样延迟](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021 年 6 月 14 日 |
 | [[!DNL Workfront Proof]: [!UICONTROL 校样审批]报告无法准确地确定最后期限](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
 | [文档：校样工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 3 月 5 日 |
 
