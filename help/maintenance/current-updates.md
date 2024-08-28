@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5247'
-ht-degree: 99%
+source-wordcount: '5328'
+ht-degree: 97%
 
 ---
 
@@ -47,6 +47,14 @@ ht-degree: 99%
 **待处理审批构件显示已删除的文档**
 
 当用户查看他们的主页待批准小部件时，他们会看到已被删除的文档。如果用户点击其中一个文档，他们就会进入一个空白页。
+
+#### 用户
+
+**已禁用用户配置文件电子邮件区域设置字段**
+
+对于IMS上的组织，语言首选项存储在每个用户的Adobe Experience Cloud配置文件中。 Workfront用户配置文件中的电子邮件区域设置字段已禁用（仅适用于IMS组织），并且该字段上的工具提示提供了有关如何访问Adobe配置文件中语言设置的说明。
+
+这解决了当管理员尝试更改用户的电子邮件区域设置设置时，该设置会还原为英文的问题。
 
 +++
 
