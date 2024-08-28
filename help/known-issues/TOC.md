@@ -5,7 +5,7 @@ role: User
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
 source-wordcount: '1651'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 96%
       + [Workfront：无法使用SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [用户：无法重新激活用户](known-issues-workfront/wf-users-reactivate-user.md)
       + [分配：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [自定义表单：Forms默认为项目表单](known-issues-workfront/wf-custom-forms-default-to-project.md)
-      + [集成：无法登录到Workfront for Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [主页：用户移动主页小组件中的列时创建的&quot;widget.list.view&quot;](known-issues-workfront/wf-home-widget-list-view.md)
-      + [文档：文档更新时未显示验证评论](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
+      + [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [主页：当用户移动“主页”小组件中的列时会创建“widget.list.view”](known-issues-workfront/wf-home-widget-list-view.md)
+      + [文档：文档更新时不显示校样注释](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [主页：待批准小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md)
       + [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md)
       + [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)

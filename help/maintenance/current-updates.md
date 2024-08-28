@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
 source-wordcount: '5247'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->有关所有Adobe产品(包括Workfront)维护中断的信息，请参阅[Adobe状态页](https://status.adobe.com/)。
+>有关所有 Adobe 产品（包括 Workfront）因维护而出现中断的信息，请参阅 [Adobe 状态页面](https://status.adobe.com/)。
 
-本页介绍每周Workfront更新中修复的问题。
+本页面介绍了每周 Workfront 更新中修复的问题。
 
 这些更新还包括其他次要或不太突出的错误修复。 [!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
 
@@ -34,7 +34,7 @@ ht-degree: 97%
 
 **Forms默认为项目表单**
 
-当用户创建自定义表单并为表单选择对象类型时，对象类型被忽略，并且表单创建为“项目”自定义表单。
+当用户创建自定义表格并为该表格选择对象类型时，该对象类型会被忽略，并且表格会被创建为“项目”自定义表格。
 
 #### 文档
 
@@ -50,7 +50,7 @@ ht-degree: 97%
 
 +++
 
-+++**2024年8月22日维护更新**
++++**2024 年 8 月 22 日维护更新**
 
 ### 2024年8月22日维护更新
 
