@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '1043'
-ht-degree: 95%
+source-wordcount: '1051'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [展示板：连接的卡位于不正确的列](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日 |
 | [通知：参与者用户未收到电子邮件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日 |
 | [Workfront：无法使用SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日 |
 | [报告：报告交付延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日 |
