@@ -1,17 +1,21 @@
 ---
-title: “文档：无法通过预览链接预览文档”
-description: “用户无法查看文档预览。”
+title: '文档：无法使用预览链接预览文档'
+description: 用户无法查看文档预览。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 82%
 
 ---
 
-
 # 文档：无法通过预览链接预览文档
+
+>[!NOTE]
+>
+>此问题已于2024年8月29日修复。
 
 用户无法通过以下方式查看文档预览：
 
