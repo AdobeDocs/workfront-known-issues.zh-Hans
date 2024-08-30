@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1054'
-ht-degree: 93%
+source-wordcount: '1025'
+ht-degree: 96%
 
 ---
 
@@ -27,23 +27,18 @@ ht-degree: 93%
 | -----------------------------------------------------------------| ----------------- |
 | [展示板：连接的卡位于不正确的列](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日 |
 | [通知：参与者用户未收到电子邮件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日 |
-| [Workfront：无法使用SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日 |
-| [报告：报告交付延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日 |
-| [分配：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日 |
+| [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
+| [报告：报告传递延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 26 日 |
+| [任务：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024 年 8 月 26 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 8 月 21 日 |
-| [文档：文档更新时不显示校样注释](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024 年 8 月 21 日 |
 | [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
 | [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 15 日 |
 | [Workfront Mobile：不使用 SSO 则无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
 | [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 8 月 14 日 |
-| [用户：用户的电子邮件区域设置未保存](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024 年 8 月 14 日 |
-| [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 5 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 | [校样：打开校样即可打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 23 日 |
-| [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 6 月 28 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
-| [展示板：用户使用 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) 时，展示板不会显示 | 2024 年 6 月 21 日 |
 | [报告：查看按自定义日期分组的报告详细信息时出错](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024 年 6 月 14 日 |
 | [设置：以其他用户身份登录时，“登录身份”横幅不会出现](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024 年 5 月 7 日 |
 
@@ -55,11 +50,11 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月30日 |
 | [Workfront：日期显示格式不正确](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月30日 |
-| [文档：单击文档名称指向空白寻呼机](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月30日 |
 | [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月29日 |
 | [组：子组显示不正确](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024年8月28日 |
-| [用户：无法重新激活用户](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日 |
+| [用户：无法重新激活用户](known-issues-workfront/wf-users-reactivate-user.md) | 2024 年 8 月 26 日 |
 | [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 22 日 |
 | [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 19 日 |
@@ -86,24 +81,26 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月27日 |
-| [主页：我的问题构件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024 年 6 月 20 日 |
-| [主页：无法移除“提及”构件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024 年 6 月 12 日 |
+| [展示板：用户使用 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) 时，展示板不会显示 | 2024年8月30日 |
+| [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年8月30日 |
+| [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 27 日 |
+| [主页：我的问题小组件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024 年 6 月 20 日 |
+| [主页：无法移除“提及”小组件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024 年 6 月 12 日 |
 | [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024 年 6 月 7 日 |
 | [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024 年 6 月 7 日 |
 | [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2024 年 6 月 7 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 6 月 7 日 |
-| [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 20 日 |
+| [主页：审批小组件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 20 日 |
 | [时间表：固定的时间表变为空白页面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024 年 5 月 7 日 |
 | [报告：报告筛选条件未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024 年 4 月 1 日 |
 | [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023 年 11 月 30 日 |
 | [校样：从电子邮件链接共享校样时出错](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 16 日 |
 | [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 11 月 9 日 |
 | [仪表板：将仪表板打印为 PDF 时空白边距较大](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 7 日 |
-| [[!UICONTROL 主页]：[!UICONTROL 请求]构件未显示所有分配的团队](known-issues-workfront/inactive/wf-home-request-shows-one-team.md) | 2023 年 10 月 26 日 |
+| [[!UICONTROL 主页]：[!UICONTROL 请求]小组件未显示所有分配的团队](known-issues-workfront/inactive/wf-home-request-shows-one-team.md) | 2023 年 10 月 26 日 |
 | [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
-| [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”构件不限于其中标出了用户的消息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
-| [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
+| [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”小组件不限于其中标出了用户的消息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
+| [[!UICONTROL 主页]：新的[!UICONTROL 主页]小组件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
 | [校样：校样未在报告中显示为已批准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [校样：在预览环境中创建校样缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |

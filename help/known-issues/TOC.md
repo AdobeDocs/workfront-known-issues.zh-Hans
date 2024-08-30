@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1662'
+ht-degree: 98%
 
 ---
 
@@ -20,14 +20,14 @@ ht-degree: 0%
       + [Workfront：日期显示格式不正确](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [通知：参与者用户不会收到电子邮件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [组：子组显示不正确](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
-      + [Workfront：无法使用SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
+      + [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [用户：无法重新激活用户](known-issues-workfront/wf-users-reactivate-user.md)
-      + [分配：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
+      + [任务：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [主页：当用户移动“主页”小组件中的列时会创建“widget.list.view”](known-issues-workfront/wf-home-widget-list-view.md)
       + [文档：文档更新时不显示校样注释](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
-      + [主页：待批准小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md)
+      + [主页：待审批小组件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md)
       + [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md)
       + [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
@@ -40,11 +40,10 @@ ht-degree: 0%
       + [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile：不使用 SSO 则无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [用户：用户的电子邮件区域设置未保存](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [集成：从 Outlook 提交请求时出现错误](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md)
       + [自定义表单：构建大型表单时浏览器崩溃](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
-      + [报告：报告交付延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md)
+      + [报告：报告传递延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md)
       + [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
       + [自定义表单：输入显示逻辑时表单生成器崩溃](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
       + [文档：单击文档名称导致空白页](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
@@ -83,16 +82,16 @@ ht-degree: 0%
       + [校样：单击校样名称会导致屏幕空白](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [报告：默认货币为美元时，不会加载报告](known-issues-workfront/wf-reports-default-currency-error.md)
       + [展示板：用户使用 [!UICONTROL 登录身份] 时，展示板不会显示](known-issues-workfront/wf-boards-log-in-as.md)
-      + [主页：我的问题构件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [主页：我的问题小组件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [审批：重定向次数过多](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：复制的链接无法正确粘贴](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [报告：“当分组名称有正斜杠或反斜杠时，没有数据可显示”](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [集成：Dropbox 集成问题](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [报告：查看按自定义日期分组的报告详细信息时出错](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
-      + [主页：审批构件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
+      + [主页：审批小组件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [资源规划：[!UICONTROL 更多]按钮不可见](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [状态：无法重复使用之前删除的状态](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
-      + [主页：无法移除“提及”构件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
+      + [主页：无法移除“提及”小组件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [文档：使用文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
@@ -121,12 +120,12 @@ ht-degree: 0%
       + [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [布局模板：登陆页面不正确](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [报告：报告筛选条件未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
-      + [项目：如果附加了 Web 校样，则无法将问题转换为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [项目：如果附加了 Web 校样，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
       + [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [新 [!UICONTROL 主页]：构件筛选条件和分组默认值不遵循版面模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [新 [!UICONTROL 主页]：小组件筛选条件和分组默认值不遵循版面模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [团队：设置团队时 [!UICONTROL 完成] 按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md)
       + [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + [展示板：移至某列的信息卡在刷新后返回原始列](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
@@ -134,12 +133,12 @@ ht-degree: 0%
       + [仪表板：将仪表板打印为 PDF 时空白边距较大](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [[!DNL Workfront]：未应用品牌化](known-issues-workfront/inactive/wf-workfront-branding-not-applied.md)
-      + [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]构件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [校样：已完成的校样保留在[!UICONTROL 正在等待我的审批]小组件上](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [校样：从电子邮件链接共享校样时出错](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [[!UICONTROL 主页]：新的[!UICONTROL 主页]构件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL 主页]：[!UICONTROL 请求]构件未显示所有分配的团队](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL 主页]：新的[!UICONTROL 主页]小组件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL 主页]：[!UICONTROL 请求]小组件未显示所有分配的团队](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [布局模板：布局模板导致报告中出现不一致](known-issues-workfront/inactive/wf-layout-templates-classic.md)
-      + [[!UICONTROL 主页]：新 [!UICONTROL 主页] 中的 [!UICONTROL 提及] 构件不限于其中标出了用户的消息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL 主页]：新 [!UICONTROL 主页] 中的 [!UICONTROL 提及] 小组件不限于其中标出了用户的消息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [校样：校样未在报告中显示为已批准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md)
       + [校样：在预览环境中创建校样缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
@@ -215,7 +214,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [Workfront Fusion： 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
+      + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：RuntimeError，显示来自 Workfront 模块的 200 响应](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

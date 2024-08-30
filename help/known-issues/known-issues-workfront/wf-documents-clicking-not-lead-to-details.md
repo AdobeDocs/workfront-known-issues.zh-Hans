@@ -4,22 +4,20 @@ description: 当用户尝试通过单击文档列表中的文档名称来查看�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 683b2066-9812-4a22-a40b-49f0cd6450a1
-source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '88'
 ht-degree: 89%
 
 ---
 
 # 文档：单击文档名称导致空白页
 
-<!--
 
 >[!NOTE]
 >
->This issue was fixed on August 29, 2024.
+>此问题已于2024年8月29日修复。
 
--->
 
 当用户尝试通过单击文档列表中的文档名称来查看文档详细信息时，列表会消失，并且用户不会直接看到文档详细信息。
 
