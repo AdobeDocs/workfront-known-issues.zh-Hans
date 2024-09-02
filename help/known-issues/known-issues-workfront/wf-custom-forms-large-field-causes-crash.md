@@ -4,7 +4,7 @@ description: “当用户尝试在字段列表页面上添加大型字段时，�
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已于2024年8月22日修复。
+>此问题已于 2024 年 8 月 22 日修复。
 
 当用户尝试在字段列表页面上添加大型字段时，页面会崩溃并出现以下错误：
 

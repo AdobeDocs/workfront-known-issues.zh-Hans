@@ -4,7 +4,7 @@ description: “具有贡献访问权限但没有权限更改问题状态的用�
 hidefromtoc: true
 feature: Requests
 source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已关闭，因为它已按设计运行。
+>此问题已关闭，因为它已按预期运行。
 
 具有贡献访问权限但没有权限更改问题状态的用户可以更改状态。
 
