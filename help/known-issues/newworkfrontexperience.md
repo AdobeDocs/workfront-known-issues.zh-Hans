@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 96%
+source-wordcount: '1060'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [移动设备：无法注销，缺少用户配置文件信息](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日 |
+| [展示板：卡片状态与连接的对象不匹配，并绕过筛选器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日 |
+| [仪表板：选择报告中的“导出”按钮将滚动到页面顶部](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024年9月3日 |
 | [展示板：连接的卡位于不正确的列](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日 |
 | [通知：参与者用户未收到电子邮件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日 |
 | [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
