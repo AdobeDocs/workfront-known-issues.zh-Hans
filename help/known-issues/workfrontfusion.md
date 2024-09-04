@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
-workflow-type: ht
-source-wordcount: '161'
-ht-degree: 100%
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+workflow-type: tm+mt
+source-wordcount: '168'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion： Webhook队列未处理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024年9月4日 |
 | [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024 年 8 月 27 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 

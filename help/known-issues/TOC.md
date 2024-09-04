@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
-source-wordcount: '1694'
-ht-degree: 96%
+source-wordcount: '1700'
+ht-degree: 97%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 96%
       + [展示板：卡片状态与连接的对象不匹配，并绕过过滤器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [仪表板：在报表中选择导出按钮可滚动到页面顶部](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日期显示格式不正确](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [通知：参与者用户不会收到电子邮件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
-      + [组：子组显示不正确](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
+      + [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [群组：子群组无法正确显示](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [用户：无法重新激活用户](known-issues-workfront/wf-users-reactivate-user.md)
       + [任务：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
@@ -217,6 +217,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+      + [Workfront Fusion：Webhook队列未处理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
