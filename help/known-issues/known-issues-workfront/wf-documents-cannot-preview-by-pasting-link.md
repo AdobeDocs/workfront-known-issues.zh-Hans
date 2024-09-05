@@ -1,13 +1,13 @@
 ---
-title: '文档：无法使用预览链接预览文档'
+title: ”文档：无法通过预览链接预览文档“
 description: 用户无法查看文档预览。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
 source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 

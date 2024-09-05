@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5326'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 98%
 
 ## 2024 年 8 月更新
 
-+++**2024年8月29日维护更新**
++++**2024 年 8 月 29 日维护更新**
 
-### 2024年8月29日维护更新
+### 2024 年 8 月 29 日维护更新
 
 #### 自定义表单
 
@@ -50,11 +50,11 @@ ht-degree: 98%
 
 #### 用户
 
-**已禁用用户配置文件电子邮件区域设置字段**
+**用户个人资料电子邮件区域设置字段已被禁用**
 
-对于IMS上的组织，语言首选项存储在每个用户的Adobe Experience Cloud配置文件中。 Workfront用户配置文件中的电子邮件区域设置字段已禁用（仅适用于IMS组织），并且该字段上的工具提示提供了有关如何访问Adobe配置文件中语言设置的说明。
+对于 IMS 上的组织，语言偏好存储在每个用户的 Adobe Experience Cloud 配置文件中。Workfront 用户配置文件中的电子邮件区域设置字段已被禁用（仅适用于 IMS 组织），该字段上的工具提示提供了有关如何访问 Adobe 配置文件中的语言设置的说明。
 
-这解决了当管理员尝试更改用户的电子邮件区域设置设置时，该设置会还原为英文的问题。
+这解决了当管理员尝试更改用户的电子邮件区域设置时，设置会恢复为英语的问题。
 
 +++
 

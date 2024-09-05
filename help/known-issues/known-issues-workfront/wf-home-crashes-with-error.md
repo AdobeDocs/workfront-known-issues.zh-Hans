@@ -1,13 +1,13 @@
 ---
-title: '主页：主目录崩溃并出现内存不足错误'
-description: 当用户尝试查看新主页时，网站崩溃并出现错误消息。 有解决方法可用。
+title: ”主页：主页因内存不足错误而崩溃“
+description: 当用户尝试查看新主页时，网站会崩溃并显示错误消息。有解决方法可用。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
 source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
