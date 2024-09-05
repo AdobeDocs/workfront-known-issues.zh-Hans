@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: ht
-source-wordcount: '5326'
-ht-degree: 100%
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+workflow-type: tm+mt
+source-wordcount: '5452'
+ht-degree: 99%
 
 ---
 
@@ -23,6 +23,30 @@ ht-degree: 100%
 有关 2024 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 2024 年进行了以下维护更新。
+
+## 2024 年 9 月更新
+
++++**2024年9月5日维护更新**
+
+### 2024年9月5日维护更新
+
+#### 组
+
+**子组显示不正确**
+
+当用户查看设置区域中的组列表时，他们会发现子组未在父组下正确列出。子组正确保存在父组下，但列表可能会引起混淆。
+
+如果用户打开子组，他们可以在痕迹导航中看到子组已正确保存在父组下。
+
+#### 用户
+
+**无法重新激活用户**
+
+当用户尝试使用“更多”菜单中的“重新激活”用户选项重新激活用户时，他们可以为该用户选择一个访问级别，但更改不会保存。相反，用户会看到以下错误：
+
+“homeGroupID 不能为空”
+
++++
 
 ## 2024 年 8 月更新
 

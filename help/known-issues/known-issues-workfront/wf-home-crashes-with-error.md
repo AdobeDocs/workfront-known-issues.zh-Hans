@@ -4,14 +4,18 @@ description: 当用户尝试查看新主页时，网站会崩溃并显示错误�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 # 主页：主页因“内存不足”错误而崩溃
+
+>[!NOTE]
+>
+>产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
 
 当用户尝试查看新主页时，网站会崩溃并显示以下错误消息：
 

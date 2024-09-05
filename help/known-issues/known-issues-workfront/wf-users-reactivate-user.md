@@ -1,17 +1,21 @@
 ---
-title: “用户：无法重新激活用户”
-description: “当用户尝试使用“更多”菜单中的“重新激活”用户选项重新激活用户时，他们可以为该用户选择一个访问级别，但更改不会保存。相反，用户看到一个错误。有解决方法可用。”
+title: '用户：无法重新激活用户'
+description: 当用户尝试使用更多菜单中的重新激活用户选项重新激活用户时，他们可以为用户选择访问级别，但不会保存更改。 相反，用户看到一个错误。有解决方法可用。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 122608dfb019c55d370a3ffebede9fc5e68be76b
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+exl-id: 771c1393-ed95-4556-b053-e3e91348f5ac
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 66%
 
 ---
 
-
 # 用户：无法重新激活用户
+
+>[!NOTE]
+>
+>此文章已于2024年9月5日修复。
 
 当用户尝试使用“更多”菜单中的“重新激活”用户选项重新激活用户时，他们可以为该用户选择一个访问级别，但更改不会保存。相反，用户会看到以下错误：
 

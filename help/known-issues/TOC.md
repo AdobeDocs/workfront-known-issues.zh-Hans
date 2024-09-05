@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1708'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [展示板：无法从信息卡预览或下载文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [移动设备：无法注销，缺少用户配置文件信息](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [展示板：卡片状态与连接的对象不匹配，并绕过过滤器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [仪表板：在报表中选择导出按钮可滚动到页面顶部](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
