@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
 workflow-type: tm+mt
 source-wordcount: '1014'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 95%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [讨论区：无法从信息卡预览或下载文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日 |
-| [移动设备：无法注销，缺少用户配置文件信息](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日 |
-| [展示板：卡片状态与连接的对象不匹配，并绕过筛选器](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日 |
-| [仪表板：选择报告中的“导出”按钮将滚动到页面顶部](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024年9月3日 |
+| [移动端：无法登出且缺少用户个人资料信息](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024 年 9 月 3 日 |
+| [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
+| [仪表板：在报告中选择导出按钮会滚动到页面顶部](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024 年 9 月 3 日 |
 | [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
 | [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
 | [报告：报告传递延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 26 日 |
