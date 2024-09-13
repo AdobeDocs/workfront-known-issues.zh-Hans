@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
 workflow-type: tm+mt
-source-wordcount: '5452'
+source-wordcount: '5526'
 ht-degree: 99%
 
 ---
@@ -25,6 +25,20 @@ ht-degree: 99%
 2024 年进行了以下维护更新。
 
 ## 2024 年 9 月更新
+
++++**2024年9月12日维护更新**
+
+### 2024年9月12日维护更新
+
+#### 集成
+
+从Outlook创建请求时出现&#x200B;**错误**
+
+当用户尝试从 Workfront 创建 Outlook 集成请求并添加附件时。用户会看到“出现问题消息。请稍后重试。”
+
+请求已创建，并且请求中有一个用于电子邮件附件的文件夹，但该文件夹为空，并且未将附件添加到请求中。
+
++++
 
 +++**2024年9月5日维护更新**
 
