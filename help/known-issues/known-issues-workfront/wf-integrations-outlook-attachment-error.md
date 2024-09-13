@@ -4,18 +4,14 @@ description: 当用户尝试从 Workfront 创建 Outlook 集成请求并添加�
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 84%
+source-wordcount: '107'
+ht-degree: 89%
 
 ---
 
 # 集成：从 Outlook 提交请求时出现错误
-
->[!NOTE]
->
->此文章已于2024年9月12日修复。
 
 当用户尝试从 Workfront 创建 Outlook 集成请求并添加附件时。用户会看到“出现问题消息。请稍后重试。”
 

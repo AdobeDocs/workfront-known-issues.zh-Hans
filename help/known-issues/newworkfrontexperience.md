@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3a52af7587a41db66d379dad13907baf3064a977
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '1058'
-ht-degree: 95%
+source-wordcount: '1014'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [敏捷：在分配Scrum团队时，添加到开发周期选项列出两次](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024年9月12日 |
-| [API：由于SQL错误，API调用失败](known-issues-workfront/wf-api-call-failed-sql-error.md) | 2024年9月12日 |
 | [讨论区：无法从信息卡预览或下载文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日 |
 | [移动端：无法登出且缺少用户个人资料信息](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024 年 9 月 3 日 |
 | [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
@@ -53,10 +51,6 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [分配：任务分配失败且继承的权限已移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | 2024年9月12日 |
-| [组：已删除的组状态重新显示](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日 |
-| [主页：待审批小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024年9月12日 |
-| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年9月12日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 30 日 |
 | [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 8 月 29 日 |
 | [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 8 月 22 日 |
@@ -64,6 +58,7 @@ ht-degree: 95%
 | [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 8 月 19 日 |
 | [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 8 月 15 日 |
 | [设置：以其他用户身份注销时出现的问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
+| [集成：从 Outlook 提交请求时出现错误](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024 年 8 月 14 日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
 | [自定义表单：构建大型表单时浏览器崩溃](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |

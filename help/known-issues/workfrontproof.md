@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 98%
+source-wordcount: '418'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：活动用户显示为已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日 |
 | [敏捷：添加子任务时故事展示板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 26 日 |
 | [校样：打开校样即可打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
