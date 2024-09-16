@@ -1,13 +1,13 @@
 ---
 title: ”Workfront：日期显示格式不正确“
-description: “Workfront 中的日期显示为 MM/DD/YYYY。即使用户将其浏览器设置为本地日期显示偏好设置，也是如此。”
+description: “Workfront 中的日期显示为 MM/DD/YYYY。即使用户将浏览器设置为本地日期显示首选项，情况也是如此。”
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 2afa4965-d261-48e4-9325-341caba75f8a
 source-git-commit: c92704a7ddab443c76ed315775f0d26b95667207
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
