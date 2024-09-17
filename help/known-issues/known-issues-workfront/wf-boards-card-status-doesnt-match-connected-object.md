@@ -1,17 +1,21 @@
 ---
 title: "展示板：信息卡状态与连接的对象不匹配并绕过筛选条件"
-description: "动态展示板的接收列中的信息卡显示不正确的状态信息，并且无法根据其状态正确筛选。"
+description: 动态展示板的接收列中的信息卡显示不正确的状态信息，并且无法根据其状态正确筛选。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
-workflow-type: ht
-source-wordcount: '68'
-ht-degree: 100%
+exl-id: 28c0e503-f634-45ba-b957-824fcbbcfe77
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 91%
 
 ---
 
-
 # 展示板：信息卡状态与连接的对象不匹配并绕过筛选条件
+
+>[!NOTE]
+>
+>此问题已于2024年9月13日修复。
 
 动态展示板的接收列中的信息卡显示不正确的状态信息，并且无法根据其状态正确筛选。
 
