@@ -4,14 +4,18 @@ description: “当用户打开一份校样时，两个浏览器选项卡会打�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
-source-git-commit: cbb43c65b38fcfecfa5a7b49216266581945b7c5
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 90%
 
 ---
 
 # 校样：打开校样即可打开多个副本
+
+>[!NOTE]
+>
+>此问题已于2024年9月10日修复。
 
 当用户打开一份校样时，两个浏览器选项卡会打开相同的校样。
 

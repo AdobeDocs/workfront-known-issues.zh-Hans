@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
-source-wordcount: '1708'
-ht-degree: 100%
+source-wordcount: '1746'
+ht-degree: 97%
 
 ---
 
@@ -17,12 +17,17 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [分配：任务分配失败并删除继承的权限](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [组：已删除的组状态重新显示](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API：由于SQL错误，API调用失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [敏捷：将“添加到开发周期”选项在分配Scrum团队时列出两次](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [验证：活动用户显示为已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [展示板：无法预览或下载卡上的文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [移动端：无法登出且缺少用户个人资料信息](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [仪表板：在报告中选择导出按钮会滚动到页面顶部](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日期显示格式不正确](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [群组：子群组无法正确显示](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [用户：无法重新激活用户](known-issues-workfront/wf-users-reactivate-user.md)
