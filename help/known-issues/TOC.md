@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '1746'
-ht-degree: 97%
+source-wordcount: '1774'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报告：Report Builder加载时间较长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
+      + [报告：无法滚动查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [分配：任务分配失败并删除继承的权限](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [组：已删除的组状态重新显示](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API：由于SQL错误，API调用失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -198,6 +200,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [Workfront Proof：内容在桌面验证查看器的“更新”部分中粘贴不正确](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]：创建校样时无法为资源重新排序](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]上的时间戳不准确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)

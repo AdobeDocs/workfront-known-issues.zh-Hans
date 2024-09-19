@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 95%
+source-wordcount: '1048'
+ht-degree: 93%
 
 ---
 
@@ -25,13 +25,12 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报告：报告生成器加载时间较长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日 |
 | [API：由于SQL错误，API调用失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日 |
 | [敏捷：在分配Scrum团队时，添加到开发周期选项列出两次](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024年9月12日 |
 | [验证：活动用户显示为已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日 |
 | [展示板：无法预览或下载卡上的文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024 年 9 月 5 日 |
-| [移动端：无法登出且缺少用户个人资料信息](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024 年 9 月 3 日 |
 | [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
-| [仪表板：在报告中选择导出按钮会滚动到页面顶部](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024 年 9 月 3 日 |
 | [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
 | [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
 | [报告：报告传递延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 26 日 |
@@ -79,6 +78,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报告：无法滚动查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日 |
 | [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年9月18日 |
 | [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日 |
 | [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月12日 |

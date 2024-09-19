@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '5452'
-ht-degree: 100%
+source-wordcount: '5578'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,32 @@ ht-degree: 100%
 2024 年进行了以下维护更新。
 
 ## 2024 年 9 月更新
+
++++**2024年9月19日维护更新**
+
+### 2024年9月19日维护更新
+
+#### 仪表板
+
+**在报表中选择“导出”按钮将滚动到页面顶部**
+
+在仪表板中点击报告的导出按钮时，窗口会滚动到页面顶部，需要向下滚动才能找到打开的导出选项菜单。
+
++++
+
++++**2024年9月12日维护更新**
+
+### 2024年9月12日维护更新
+
+#### 集成
+
+从Outlook创建请求时出现&#x200B;**错误**
+
+当用户尝试从 Workfront 创建 Outlook 集成请求并添加附件时。用户会看到“出现问题消息。请稍后重试。”
+
+请求已创建，并且请求中有一个用于电子邮件附件的文件夹，但该文件夹为空，并且未将附件添加到请求中。
+
++++
 
 +++**2024 年 9 月 5 日维护更新**
 
