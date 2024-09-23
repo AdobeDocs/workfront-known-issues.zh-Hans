@@ -1,13 +1,13 @@
 ---
-title: '集成：从Outlook创建请求时出错'
-description: 当用户尝试从 Workfront 创建 Outlook 集成请求并添加附件时。用户会看到“出现问题”消息。请稍后再试。
+title: “集成：从 Outlook 提交请求时出现错误”
+description: 当用户尝试从 Workfront 创建 Outlook 集成请求并添加附件时。用户会看到“出现问题”消息。请稍后重试。
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
 exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 84%
+ht-degree: 94%
 
 ---
 
