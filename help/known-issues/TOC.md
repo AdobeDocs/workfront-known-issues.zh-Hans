@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
 workflow-type: tm+mt
-source-wordcount: '1774'
-ht-degree: 96%
+source-wordcount: '1782'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [展示板：移动信息卡或分配用户时出错](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [报告：Report Builder加载时间较长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [报告：无法滚动查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [分配：任务分配失败并删除继承的权限](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
