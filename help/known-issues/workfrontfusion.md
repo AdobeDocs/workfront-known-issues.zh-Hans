@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: e39c40827508ace70eed836bc07f67ab11f40a15
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 99%
+source-wordcount: '178'
+ht-degree: 93%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| 无 |  |
+| [Workfront Fusion：无法从Workfront Fusion添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 2024年9月24日 |
 
 {style="table-layout:auto"}
 
