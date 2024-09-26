@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b9206238976884e19b286d3a401ec32b58c144a4
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '1057'
-ht-degree: 93%
+source-wordcount: '1021'
+ht-degree: 99%
 
 ---
 
@@ -25,15 +25,13 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [报告：报告生成器加载时间较长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日 |
-| [API：由于SQL错误，API调用失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日 |
-| [敏捷：在分配Scrum团队时，添加到开发周期选项列出两次](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024年9月12日 |
-| [验证：活动用户显示为已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日 |
+| [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
+| [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
+| [校样：活跃用户显示为已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024 年 9 月 12 日 |
 | [展示板：无法预览或下载卡上的文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024 年 9 月 5 日 |
 | [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
 | [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
 | [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
-| [报告：报告传递延迟或缺失](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 26 日 |
 | [任务：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024 年 8 月 26 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 8 月 21 日 |
 | [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
@@ -53,13 +51,11 @@ ht-degree: 93%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日 |
-| [分配：任务分配失败且继承的权限已移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | 2024年9月12日 |
-| [组：已删除的组状态重新显示](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日 |
-| [主页：待审批小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024年9月12日 |
-| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年9月12日 |
+| [群组：已删除的群组状态重新出现](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024 年 9 月 12 日 |
+| [主页：待审批小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 9 月 12 日 |
+| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 9 月 12 日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 30 日 |
 | [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
-| [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 8 月 19 日 |
 | [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 8 月 15 日 |
 | [设置：以其他用户身份注销时出现的问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
@@ -79,10 +75,10 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [报告：无法滚动查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日 |
-| [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年9月18日 |
-| [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日 |
-| [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月12日 |
+| [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |
+| [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 9 月 18 日 |
+| [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 9 月 12 日 |
+| [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 9 月 12 日 |
 | [展示板：用户使用 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) 时，展示板不会显示 | 2024 年 8 月 30 日 |
 | [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024 年 8 月 30 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 27 日 |
