@@ -1,17 +1,17 @@
 ---
-title: “组：已删除的组状态重新显示”
-description: “删除组的状态后，尽管该组不再显示状态，并且组的更新中显示删除时间，但它最终会在用户不修改的情况下重新显示。”
+title: “群组：已删除的群组状态重新出现”
+description: “删除群组状态后，尽管群组不再显示状态，并且移除时间会在群组的更新中出现，但它最终会重新显示而无需用户进行修改。”
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# 组：已删除的组状态重新显示
+# 群组：已删除的群组状态重新出现
 
-删除组的状态后，尽管组不再显示状态并且组的更新中显示删除时间，但该组最终会重新显示，用户不会对其进行修改。
+删除群组状态后，尽管群组不再显示状态，并且移除时间会在群组的更新中出现，但它最终会重新显示而无需用户进行修改。
 
 _首次报告于 2024 年 6 月 26 日。_

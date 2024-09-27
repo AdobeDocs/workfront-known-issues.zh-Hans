@@ -1,18 +1,18 @@
 ---
-title: “报告：Report Builder加载时间较长”
-description: “Report Builder需要很长时间才能加载，在某些情况下，加载时间最长为一分钟。”
+title: “报告：Report Builder 加载时间过长”
+description: “Report Builder 需要较长时间才能加载，在某些情况下甚至需要长达一分钟。”
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 报告：Report Builder加载时间较长
+# 报告：Report Builder 加载时间过长
 
-Report Builder需要较长时间才能加载，在某些情况下最多需要一分钟。
+Report Builder 需要较长时间才能加载，在某些情况下甚至需要长达一分钟。
 
-_首次报告于2024年9月11日。_
+_首次报告于 2024 年 9 月 11 日。_

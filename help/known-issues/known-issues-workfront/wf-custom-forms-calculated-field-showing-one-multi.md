@@ -1,13 +1,13 @@
 ---
-title: '自定义表单：计算字段显示不正确的值'
+title: “自定义表单：计算字段显示不正确的值”
 description: 当用户查看引用多选外部查找字段值的计算字段时，该计算字段仅显示一个选定的值。即使选择了多个值，也可能会出现这种情况，并且当用户编辑字段时会显示多个值。
 hidefromtoc: true
 feature: Custom Forms
 exl-id: a6768daa-f248-4311-8274-3ad4310faad7
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
