@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1804'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [展示板：移动信息卡或分配用户时出错](known-issues-workfront/wf-boards-error-moving-cards.md)
+      + [展示板：移动卡片或分配用户时出错](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [分配：任务分配失败且继承的权限被移除](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
@@ -229,7 +229,7 @@ ht-degree: 98%
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
       + [Workfront Fusion：数据存储问题](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion：执行详细信息显示为正在处理](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
-      + [Workfront Fusion：无法从Workfront Fusion添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
+      + [Workfront Fusion：无法从 Workfront Fusion 添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：Webhook 队列未处理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)

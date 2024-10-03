@@ -4,9 +4,9 @@ description: “将任务或问题分配给敏捷 Scrum 团队时，“添加到
 hidefromtoc: true
 feature: Agile
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年9月26日修复。
+>此问题已于 2024 年 9 月 26 日修复。
 
 将任务或问题分配给敏捷 Scrum 团队时，“添加到迭代”选项会在“更多”菜单中出现两次。这不会影响分配团队的能力，并且不会在非 Scrum 敏捷团队中出现。
 
