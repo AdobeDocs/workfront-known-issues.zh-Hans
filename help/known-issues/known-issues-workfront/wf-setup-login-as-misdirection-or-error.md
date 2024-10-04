@@ -1,17 +1,21 @@
 ---
-title: “设置：以其他用户身份注销时出现的问题”
-description: “当管理员以其他用户身份登录并尝试注销时，可能会出现问题。”
+title: '设置：以其他用户身份注销时出现问题'
+description: 当管理员以其他用户身份登录并尝试注销时，可能会出现问题。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 63%
 
 ---
 
-
 # 设置：以其他用户身份注销时出现的问题
+
+>[!NOTE]
+>
+>此文章已于2024年9月20日修复。
 
 当管理员以其他用户身份登录并尝试注销时，可能会出现以下问题：
 

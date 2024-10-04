@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '185'
+ht-degree: 93%
 
 ---
 
@@ -25,10 +25,8 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：数据存储问题](known-issues-workfront-fusion/fusion-data-store-issues.md) | 2024 年 9 月 26 日 |
-| [Workfront Fusion：执行详细信息显示为正在处理](known-issues-workfront-fusion/fusion-execution-details-display-processing.md) | 2024 年 9 月 26 日 |
+| [验证：为通过Fusion从AEM链接的文档创建验证失败](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日 |
 | [Workfront Fusion：Webhook 队列未处理](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024 年 9 月 19 日 |
-| [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024 年 8 月 27 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 
 {style="table-layout:auto"}

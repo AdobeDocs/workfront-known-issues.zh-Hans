@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: ht
-source-wordcount: '1021'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '1039'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +27,6 @@ ht-degree: 100%
 | -----------------------------------------------------------------| ----------------- |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
-| [校样：活跃用户显示为已停用](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024 年 9 月 12 日 |
 | [展示板：无法预览或下载卡上的文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024 年 9 月 5 日 |
 | [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
 | [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
@@ -50,17 +49,19 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [登录身份重定向到登录或导致错误](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024年10月3日 |
+| [主页：“标记为完成”关闭“我的问题”小组件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 2024年10月3日 |
+| [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024年10月3日 |
+| [验证：为通过Fusion从AEM链接的文档创建验证失败](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日 |
+| [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年10月3日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [群组：已删除的群组状态重新出现](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024 年 9 月 12 日 |
 | [主页：待审批小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 9 月 12 日 |
-| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 9 月 12 日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 8 月 30 日 |
 | [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
-| [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 8 月 15 日 |
 | [设置：以其他用户身份注销时出现的问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [展示板：加载展示板时出错](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024 年 8 月 8 日 |
-| [自定义表单：构建大型表单时浏览器崩溃](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日 |
 | [自定义表单：输入显示逻辑时表单生成器崩溃](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日 |
 | [Access 级别：设置区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |

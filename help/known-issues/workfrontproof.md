@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '430'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：为通过Fusion从AEM链接的文档创建验证失败](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日 |
 | [敏捷：添加子任务时故事展示板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 26 日 |
 | [校样：打开校样即可打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -38,7 +39,6 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof：内容在桌面校样查看器的更新部分中粘贴不正确](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | 2024 年 9 月 19 日 |
 | [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |

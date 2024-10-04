@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: ht
-source-wordcount: '1804'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '1845'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [登录身份重定向到登录或导致错误](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [主页：“标记为完成”关闭“我的问题”小组件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [验证：为通过Fusion从AEM链接的文档创建验证失败](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [展示板：移动卡片或分配用户时出错](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md)

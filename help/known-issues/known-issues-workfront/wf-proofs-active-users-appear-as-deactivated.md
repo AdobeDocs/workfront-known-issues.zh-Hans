@@ -3,14 +3,18 @@ title: “校样：活跃用户显示为已停用”
 description: “尽管用户处于活跃状态，但在某些校样中却显示为已停用，并且无法访问它们。”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 89%
 
 ---
 
 # 校样：活跃用户显示为已停用
+
+>[!NOTE]
+>
+>这篇文章已得到解决。
 
 尽管用户处于活跃状态，但在某些校样中却显示为已停用，并且无法访问它们。
 
