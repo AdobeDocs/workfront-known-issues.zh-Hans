@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1087'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,9 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [文档：无法从对象“文档”选项卡](known-issues-workfront/wf-documents-cannot-move-from-object.md)移动文档 | 2024年10月9日 |
+| [讨论区：任务和问题的状态选项重复](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024年10月9日 |
+| [Workfront Mobile：验证电子邮件链接无法在iPhone中打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：无法预览或下载卡上的文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024 年 9 月 5 日 |
@@ -49,11 +52,11 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [登录身份重定向到登录或导致错误](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024年10月3日 |
-| [主页：“标记为完成”关闭“我的问题”小组件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 2024年10月3日 |
-| [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024年10月3日 |
-| [验证：为通过Fusion从AEM链接的文档创建验证失败](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日 |
-| [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年10月3日 |
+| [登录身份重定向到登录或导致错误](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024 年 10 月 3 日 |
+| [主页：“标记为已完成”关闭我的问题小部件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 2024 年 10 月 3 日 |
+| [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日 |
+| [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
+| [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 10 月 3 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [群组：已删除的群组状态重新出现](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024 年 9 月 12 日 |
 | [主页：待审批小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 9 月 12 日 |
@@ -76,6 +79,8 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [主页：已删除的自定义字段在项目、任务和问题小组件中持续存在](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8 |
+| [优先级：分组阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024年10月8 |
 | [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |
 | [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 9 月 18 日 |
 | [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 9 月 12 日 |

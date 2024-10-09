@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1845'
+source-wordcount: '1888'
 ht-degree: 97%
 
 ---
@@ -17,10 +17,14 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [文档：无法从对象的“文档”选项卡移动文档](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [讨论区：任务和问题的重复状态选项](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [主页：已删除的自定义字段在项目、任务和问题小组件中持续存在](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [优先级：分组阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [登录身份重定向到登录或导致错误](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [主页：“标记为完成”关闭“我的问题”小组件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [主页：“标记为已完成”关闭“我的问题”小部件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [验证：为通过Fusion从AEM链接的文档创建验证失败](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
+      + [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [展示板：移动卡片或分配用户时出错](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md)
@@ -205,6 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
    + [!DNL Workfront Proof] {#proof-current} 的当前问题
+      + [Workfront Mobile：验证电子邮件链接无法在iPhone中打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof：内容在桌面校样查看器的更新部分中粘贴不正确](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]：创建校样时无法为资源重新排序](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]上的时间戳不准确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
