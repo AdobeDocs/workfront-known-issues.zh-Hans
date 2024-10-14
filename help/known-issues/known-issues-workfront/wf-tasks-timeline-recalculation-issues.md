@@ -1,17 +1,21 @@
 ---
-title: ”任务：时间线重新计算的问题“
-description: ”关于时间线重新计算，报告了以下问题。“
+title: '任务：重新计算时间表时出现问题'
+description: 已报告有关重新计算时间表的以下问题。
 hidefromtoc: true
 feature: Tasks, Work Management
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 73%
 
 ---
 
-
 # 任务：时间线重新计算的问题
+
+>[!NOTE]
+>
+>此文章已于2024年10月10日修复。
 
 关于时间线重新计算，报告了以下问题：
 
