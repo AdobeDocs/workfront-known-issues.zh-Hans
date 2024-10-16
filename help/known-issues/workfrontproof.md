@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Mobile：验证电子邮件链接无法在iPhone中打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日 |
+| [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
 | [敏捷：添加子任务时故事展示板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 26 日 |
 | [校样：打开校样即可打开多个副本](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024 年 7 月 25 日 |

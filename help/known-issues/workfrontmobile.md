@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 86%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Mobile：验证电子邮件链接无法在iPhone中打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日 |
+| [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 
 <!--
 ## Current Issues
