@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
 source-wordcount: '1028'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [讨论区：任务和问题的状态选项重复](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024年10月9日 |
-| [Workfront Mobile：验证电子邮件链接无法在iPhone中打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日 |
+| [展示板：任务和问题的重复状态选项](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024 年 10 月 9 日 |
+| [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：无法预览或下载卡上的文档](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024 年 9 月 5 日 |
@@ -72,8 +72,8 @@ ht-degree: 96%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年10月14 |
-| [主页：已删除的自定义字段在项目、任务和问题小组件中持续存在](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8 |
-| [优先级：分组阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024年10月8 |
+| [主页：已删除的自定义字段保留在项目、任务和问题构件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
+| [优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日 |
 | [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |
 | [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 9 月 18 日 |
 | [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 9 月 12 日 |
