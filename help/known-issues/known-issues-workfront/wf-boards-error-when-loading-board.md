@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: 5ba4609f-9ad1-4fda-af28-913286acc327
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此文章已于2024年10月10日修复。
+>此项已于 2024 年 10 月 10 日修复。
 
 当用户尝试加载展示板时，该展示板无法加载，而用户看到下列消息：
 

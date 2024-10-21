@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1028'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年10月14 |
+| [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
 | [主页：已删除的自定义字段保留在项目、任务和问题构件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
 | [优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日 |
 | [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |

@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1898'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 99%
       + [主页：已删除的自定义字段保留在项目、任务和问题构件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [登录身份重定向到登录或导致错误](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [主页：“标记为已完成”关闭“我的问题”小部件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [主页：“标记为已完成”关闭“我的问题”构件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [展示板：移动卡片或分配用户时出错](known-issues-workfront/wf-boards-error-moving-cards.md)
@@ -236,7 +236,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
-      + [Workfront Fusion：从现在开始，开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
+      + [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：数据存储问题](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion：执行详细信息显示为正在处理](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion：无法从 Workfront Fusion 添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

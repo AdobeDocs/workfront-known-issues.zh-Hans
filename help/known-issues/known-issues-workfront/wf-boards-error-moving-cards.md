@@ -4,9 +4,9 @@ description: “移动卡片或分配用户时，有时操作无法完成，而�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此文章已于2024年10月10日修复。
+>此项已于 2024 年 10 月 10 日修复。
 
 移动卡片或分配用户时，有时操作无法完成，而是产生错误&quot;响应不成功：延迟后收到状态代码 502。”
 

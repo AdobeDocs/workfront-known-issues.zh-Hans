@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024年10月14 |
+| [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024 年 10 月 14 日 |
 | [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 8 月 5 日 |
 

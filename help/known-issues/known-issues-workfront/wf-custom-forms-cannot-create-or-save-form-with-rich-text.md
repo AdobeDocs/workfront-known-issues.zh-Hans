@@ -1,13 +1,13 @@
 ---
-title: '自定义表单：自定义表单发生显示类型转换错误'
-description: 富文本字段导致自定义表单上显示错误。
+title: ”自定义表单：自定义表单上显示类型转换错误“
+description: 富文本字段导致自定义表单上出现错误。
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 73%
 
 >[!NOTE]
 >
->此文章已于2024年10月9日修复。
+>此项已于 2024 年 10 月 9 日修复。
 
 富文本字段导致自定义表单上出现以下错误。
 

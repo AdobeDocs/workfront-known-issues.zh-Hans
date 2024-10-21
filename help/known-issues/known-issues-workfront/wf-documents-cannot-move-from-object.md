@@ -4,9 +4,9 @@ description: “当尝试从项目、任务或问题的“文档”选项卡移�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此文章已于2024年10月10日修复。
+>此项已于 2024 年 10 月 10 日修复。
 
 当尝试从项目、任务或问题的“文档”选项卡移动文档时，用户会遇到以下错误：&quot;加载辅助内容时出错。&quot;
 

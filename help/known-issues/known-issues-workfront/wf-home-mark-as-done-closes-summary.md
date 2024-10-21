@@ -4,9 +4,9 @@ description: “当尝试使用通过我的问题小部件打开的问题摘要�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此文章已于2024年10月10日修复。
+>此项已于 2024 年 10 月 10 日修复。
 
 当尝试使用通过我的问题小部件打开的问题摘要窗格中的“标记为完成”按钮时，摘要窗格会意外关闭。
 
