@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 100%
+source-wordcount: '1071'
+ht-degree: 94%
 
 ---
 
@@ -32,7 +32,6 @@ ht-degree: 100%
 | [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
 | [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
 | [任务：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024 年 8 月 26 日 |
-| [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 8 月 21 日 |
 | [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
 | [Workfront Mobile：不使用 SSO 则无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -47,6 +46,14 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
+| [项目：甘特图不准确](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 2024年10月22日 |
+| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日 |
+| [项目：无法向已完成的项目添加问题](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 2024年10月22日 |
+| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年10月22日 |
+| [自定义表单：无法更新已完成项目中的自定义数据](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 2024年10月22日 |
+| [主页：当优先级区域被禁用时，可以访问它](known-issues-workfront/wf-home-priorities-accessible.md) | 2024年10月22日 |
+| [主页：我的审批构件无法正常工作](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024年10月22日 |
+| [验证：无法在预览环境中创建验证](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024年10月22日 |
 | [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日 |
 | [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
