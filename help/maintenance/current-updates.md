@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 96%
 
 ---
@@ -26,9 +26,15 @@ ht-degree: 96%
 
 ## 2024 年 10 月更新
 
-+++**（已计划）2024年10月24日维护更新**
++++**2024年10月24日维护更新**
 
-### （已计划）2024年10月24日维护更新
+### 2024年10月24日维护更新
+
+#### 分配
+
+分配任务时不显示&#x200B;**休息时间图标**
+
+当用户分配任务并开始输入在执行任务期间安排休息时间的受让人的姓名时，“建议任务”区域下的用户图标不会显示休息时间（飞机）图标。如果用户继续输入，以使名称在“用户和团队”区域下显示，则会显示该图标。
 
 #### 自定义表单
 

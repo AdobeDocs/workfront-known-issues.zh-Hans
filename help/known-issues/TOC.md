@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1944'
-ht-degree: 97%
+source-wordcount: '1958'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报告：显示过滤器/隐藏过滤器选项缺失](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [项目：甘特图不准确](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [项目：无法向已完成的项目添加问题](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [自定义表单：无法更新已完成项目中的自定义数据](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)

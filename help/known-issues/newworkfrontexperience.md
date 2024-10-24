@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 94%
+source-wordcount: '1053'
+ht-degree: 95%
 
 ---
 
@@ -25,13 +25,14 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报告：“显示筛选器/隐藏筛选器”选项缺失](known-issues-workfront/wf-reports-show-filter-missing.md) | 2024年10月24日 |
+| [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024年10月24日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
 | [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
 | [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024 年 8 月 26 日 |
-| [任务：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024 年 8 月 26 日 |
 | [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md) | 2024 年 8 月 15 日 |
 | [Workfront Mobile：不使用 SSO 则无法登录](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024 年 8 月 14 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -46,11 +47,9 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [项目：甘特图不准确](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 2024年10月22日 |
+| [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024年10月24日 |
 | [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日 |
-| [项目：无法向已完成的项目添加问题](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 2024年10月22日 |
 | [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年10月22日 |
-| [自定义表单：无法更新已完成项目中的自定义数据](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 2024年10月22日 |
 | [主页：当优先级区域被禁用时，可以访问它](known-issues-workfront/wf-home-priorities-accessible.md) | 2024年10月22日 |
 | [主页：我的审批构件无法正常工作](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024年10月22日 |
 | [验证：无法在预览环境中创建验证](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024年10月22日 |
