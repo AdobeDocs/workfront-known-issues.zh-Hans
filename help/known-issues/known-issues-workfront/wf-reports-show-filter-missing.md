@@ -1,22 +1,26 @@
 ---
-title: “报告：显示过滤器/隐藏过滤器选项缺失”
-description: “当用户查看报告时，显示过滤器和隐藏过滤器选项不可见。”
+title: “报告：缺少“显示过滤器”/“隐藏过滤器”选项”
+description: “当用户查看报告时，“显示过滤器”和“隐藏过滤器”选项不可见。”
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 75%
 
 ---
 
 
-# 报告：显示过滤器/隐藏过滤器选项缺失
+# 报告：缺少“显示过滤器”/“隐藏过滤器”选项
+
+>[!NOTE]
+>
+>此问题已于 2024 年 10 月 24 日修复。
 
 当用户查看报告时，“显示过滤器”和“隐藏过滤器”选项不可见。
 
 **解决方法**
 
-仍可以通过Report Builder访问过滤器。
+仍然可以通过 Report builder 访问过滤器。
 
-_首次报告于2024年10月23日。_
+_首次报告于 2024 年 10 月 23 日。_

@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '1053'
-ht-degree: 95%
+source-wordcount: '1030'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [报告：“显示筛选器/隐藏筛选器”选项缺失](known-issues-workfront/wf-reports-show-filter-missing.md) | 2024年10月24日 |
-| [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024年10月24日 |
+| [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024 年 10 月 24 日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
@@ -47,12 +46,11 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024年10月24日 |
-| [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日 |
-| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年10月22日 |
-| [主页：当优先级区域被禁用时，可以访问它](known-issues-workfront/wf-home-priorities-accessible.md) | 2024年10月22日 |
-| [主页：我的审批构件无法正常工作](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024年10月22日 |
-| [验证：无法在预览环境中创建验证](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024年10月22日 |
+| [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
+| [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024 年 10 月 22 日 |
+| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 10 月 22 日 |
+| [主页：“我的审批”小组件不起作用](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024 年 10 月 22 日 |
+| [校样：无法在预览环境中创建校样](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024 年 10 月 22 日 |
 | [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日 |
 | [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
@@ -61,7 +59,6 @@ ht-degree: 95%
 | [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [设置：以其他用户身份注销时出现的问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
-| [自定义表单：输入显示逻辑时表单生成器崩溃](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日 |
 | [Access 级别：设置区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
@@ -75,6 +72,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024年10月29日 |
 | [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
 | [主页：已删除的自定义字段保留在项目、任务和问题构件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
 | [优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日 |

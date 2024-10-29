@@ -1,17 +1,21 @@
 ---
-title: “自定义表单：输入显示逻辑时表单生成器崩溃”
-description: "当用户尝试构建自定义表单并输入显示逻辑时，表单构建器会崩溃，并且用户会看到一条消息。"
+title: '自定义表单：输入显示逻辑时表单生成器崩溃'
+description: 当用户尝试构建自定义表单并输入显示逻辑时，表单生成器崩溃，用户看到一条消息。
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+exl-id: e0eb16d0-fa9f-4f90-8c98-97c7291188a9
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 64%
 
 ---
 
-
 # 自定义表单：输入显示逻辑时表单生成器崩溃
+
+>[!NOTE]
+>
+>由于无法重现此问题，因此已关闭它。
 
 当用户尝试构建自定义表单并输入显示逻辑时，表单构建器会崩溃，并且用户会看到下列一条消息。
 

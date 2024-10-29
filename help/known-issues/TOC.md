@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '1958'
-ht-degree: 96%
+source-wordcount: '1967'
+ht-degree: 99%
 
 ---
 
@@ -17,14 +17,15 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [报告：显示过滤器/隐藏过滤器选项缺失](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [报告：缺少“显示过滤器”/“隐藏过滤器”选项](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [项目：甘特图不准确](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
-      + [项目：无法向已完成的项目添加问题](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [项目：无法将问题添加到已完成的项目](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [自定义表单：无法更新已完成项目中的自定义数据](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
-      + [主页：优先级区域在禁用后可访问](known-issues-workfront/wf-home-priorities-accessible.md)
-      + [主页：我的审批构件无法正常工作](known-issues-workfront/wf-home-my-approval-not-working.md)
-      + [验证：无法在预览环境中创建验证](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
+      + [主页：优先级区域在被禁用时可以访问](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [主页：“我的审批”小组件不起作用](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [校样：无法在预览环境中创建校样](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [文档：无法从对象文档选项卡中移动文档](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [展示板：任务和问题的重复状态选项](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [主页：已删除的自定义字段保留在项目、任务和问题构件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
