@@ -1,13 +1,13 @@
 ---
-title: '分配：分配任务时未显示休息时间图标'
+title: “任务：分配任务时不显示休息时间图标”
 description: 当用户分配任务并开始输入在执行任务期间安排休息时间的受让人的姓名时，“建议任务”区域下的用户图标不会显示休息时间（飞机）图标。如果用户继续输入，以使名称在“用户和团队”区域下显示，则会显示该图标。
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 exl-id: 8129366e-fc85-488b-b60f-3ee8ffce3851
 source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此问题已于2024年10月24日修复。
+>此问题已于 2024 年 10 月 24 日修复。
 
 当用户分配任务并开始输入在执行任务期间安排休息时间的受让人的姓名时，“建议任务”区域下的用户图标不会显示休息时间（飞机）图标。如果用户继续输入，以使名称在“用户和团队”区域下显示，则会显示该图标。
 

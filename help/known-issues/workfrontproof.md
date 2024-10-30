@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：无法在预览环境中创建验证](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024年10月22日 |
+| [校样：无法在预览环境中创建校样](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024 年 10 月 22 日 |
 | [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |
