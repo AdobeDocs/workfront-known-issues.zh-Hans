@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024年10月29日 |
+| [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024 年 10 月 29 日 |
 | [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024 年 2 月 5 日 |
 | [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024 年 1 月 31 日 |
 | [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 16 日 |

@@ -4,9 +4,9 @@ description: “当用户查看报告时，“显示过滤器”和“隐藏过�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
