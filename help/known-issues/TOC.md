@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1967'
-ht-degree: 99%
+source-wordcount: '2013'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [布局模板：通过布局模板添加到任务摘要时自定义数据字段不显示](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [主页：我的更新构件无法正常工作](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [文档：文档上缺少审批选项按钮](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [主页：新待办事项和已完成的待办事项的待办事项小部件错误](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [集成：JumpSeat集成对于Unified Shell上的组织失败](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [报告：缺少“显示过滤器”/“隐藏过滤器”选项](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
