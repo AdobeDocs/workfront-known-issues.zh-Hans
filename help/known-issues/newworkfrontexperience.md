@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1071'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 96%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024年11月4 |
-| [主页：我的更新构件无法正常工作](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024年11月4 |
-| [文档：文档](known-issues-workfront/wf-documents-missing-approval-button.md)上缺少审批选项按钮 | 2024年11月4 |
-| [主页：新的和已完成的待办事项的待办事项小部件错误](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024年11月4 |
+| [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
+| [主页：“我的更新”小组件不起作用](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024 年 11 月 4 日 |
+| [文档：文档上缺少审批选项按钮](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024 年 11 月 4 日 |
+| [主页：“待办事项”小组件中新的和已完成的待办事项出错](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024 年 11 月 4 日 |
 | [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024 年 10 月 24 日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |

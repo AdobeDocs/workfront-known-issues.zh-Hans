@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6472'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,11 +26,11 @@ ht-degree: 99%
 
 ## 2024 年 10 月更新
 
-+++**2024年10月31日维护更新**
++++**2024 年 10 月 31 日维护更新**
 
-### 2024年10月31日维护更新
+### 2024 年 10 月 31 日维护更新
 
-此更新仅包含次要或影响不大的错误修复。当您提交的问题得到修复时，Workfront支持将通知您。
+此更新仅包含次要或影响不大的错误修复。当您提交的问题得到修复时，Workfront 支持人员会通知您。
 
 +++
 
