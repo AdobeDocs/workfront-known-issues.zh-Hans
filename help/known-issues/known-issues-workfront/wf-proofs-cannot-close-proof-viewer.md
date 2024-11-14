@@ -4,20 +4,19 @@ description: 当用户在校样查看器中查看校样并尝试通过单击右�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
-source-wordcount: '123'
-ht-degree: 100%
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 90%
 
 ---
 
 # 校样：无法关闭校样查看器
 
-
 <!--
 >[!NOTE]
 >
->This issue was fixed on October 31, 2024.
+>This issue was fixed on October 24, 2024.
 -->
 
 当用户在校样查看器中查看校样并尝试通过单击右上角的 X 来关闭校样时，校样不会关闭。
@@ -26,8 +25,8 @@ ht-degree: 100%
 
 尝试下列操作之一：
 
-* 单击电子邮件中的文档名称转到文档，然后从那里打开校样。这可能使 X 能够按预期工作。
+* 通过文档列表访问验证。 这可能使 X 能够按预期工作。
 * 重试关闭校样。
 * 通过关闭浏览器选项卡来关闭校样。
 
-_首次报告于 2024 年 5 月 31 日。_
+_首次报告于2024年11月5日。_

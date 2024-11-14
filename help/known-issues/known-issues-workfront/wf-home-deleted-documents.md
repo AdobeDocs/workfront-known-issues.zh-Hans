@@ -4,10 +4,10 @@ description: 当用户查看他们的主页待审批小部件时，他们会看�
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
 exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
-workflow-type: ht
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已于2024年8月29日修复。
+>此问题已于2024年11月14日修复。
 
 当用户查看他们的主页待审批小部件时，他们会看到已被删除的文档。如果用户点击其中一个文档，他们就会进入一个空白页。
 

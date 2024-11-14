@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '2013'
-ht-degree: 100%
+source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+workflow-type: tm+mt
+source-wordcount: '2120'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,19 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [时间表：投稿人用户具有“提交以供审批”按钮](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [通知：未发送更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [自定义表单：无法添加“estimateByHours”或“hoursPerPoint”任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [文档：审批“快速添加”不包括新版本的截止日期条目](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [布局模板：管理员无法编辑主页布局模板](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [用户：“未注册”标记在登录后仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront：参与者用户无法访问程序或Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [审批：“全部”过滤器不包括个人提交的审批](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [任务：具有子任务的父任务占用天数持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [报告：在图表列表中批量编辑无响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront：保持打开的浏览器选项卡加载失败](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [资源规划者：无法访问资源规划者](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [主页：我的任务小组件未加载](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [主页：“我的更新”小组件不起作用](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [文档：文档上缺少审批选项按钮](known-issues-workfront/wf-documents-missing-approval-button.md)

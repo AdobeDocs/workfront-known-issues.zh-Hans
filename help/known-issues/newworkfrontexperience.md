@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '1071'
-ht-degree: 100%
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '1157'
+ht-degree: 88%
 
 ---
 
@@ -25,13 +25,25 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [时间表：参与者用户具有“提交以供审批”按钮](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024年11月13日 |
+| [通知：未发送更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024年11月13日 |
+| [自定义表单：无法添加“estimateByHours”或“hoursPerPoint”任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年11月13日 |
+| [文档：审批“快速添加”不包含新版本的截止日期条目](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024年11月13日 |
+| [布局模板：管理员无法编辑主页布局模板](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024年11月13日 |
+| [用户：“未注册”标记在登录后仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024年11月13日 |
+| [Workfront：参与者用户无法访问程序或Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年11月13日 |
+| [审批：“全部”筛选器不包括个人提交的审批](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024年11月13日 |
+| [任务：具有子任务的父任务占用天数持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日 |
+| [报告：在图表列表中批量编辑无响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日 |
+| [Workfront：保持打开的浏览器选项卡加载失败](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日 |
+| [报告：报告加载失败](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日 |
+| [资源规划者：无法访问资源规划者](known-issues-workfront/wf-resource-planner-inaccessible.md) | 2024年11月12日 |
+| [主页：我的任务小组件未加载](known-issues-workfront/wf-home-task-widget-wont-load.md) | 2024年11月12日 |
 | [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [主页：“我的更新”小组件不起作用](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024 年 11 月 4 日 |
 | [文档：文档上缺少审批选项按钮](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024 年 11 月 4 日 |
 | [主页：“待办事项”小组件中新的和已完成的待办事项出错](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024 年 11 月 4 日 |
-| [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024 年 10 月 24 日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
-| [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 9 月 19 日 |
 | [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |
 | [主板：连接的信息卡位于错误的列中](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024 年 8 月 28 日 |
@@ -51,15 +63,10 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
-| [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024 年 10 月 22 日 |
-| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 10 月 22 日 |
-| [主页：“我的审批”小组件不起作用](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024 年 10 月 22 日 |
 | [校样：无法在预览环境中创建校样](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024 年 10 月 22 日 |
 | [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日 |
-| [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [群组：已删除的群组状态重新出现](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024 年 9 月 12 日 |
-| [主页：待审批小部件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md) | 2024 年 9 月 12 日 |
 | [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [设置：以其他用户身份注销时出现的问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
@@ -76,6 +83,8 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年11月12日 |
+| [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日 |
 | [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |
 | [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
 | [主页：已删除的自定义字段保留在项目、任务和问题构件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
