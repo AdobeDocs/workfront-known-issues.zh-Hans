@@ -3,14 +3,19 @@ title: “主页：“待办事项”小组件中新的和已完成的待办事�
 description: 当尝试在“主页待办事项”小组件中创建新待办事项或完成现有待办事项时，用户会遇到错误，无法创建或完成待办事项。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+exl-id: ec2f77f8-ca29-4516-b5c0-6b084ceefab7
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+workflow-type: tm+mt
+source-wordcount: '88'
+ht-degree: 93%
 
 ---
 
 # 主页：“待办事项”小组件中新的和已完成的待办事项出错
+
+>[!NOTE]
+>
+>此问题已于2024年11月14日修复。
 
 当尝试在“主页待办事项”小组件中创建新待办事项或完成现有待办事项时，用户会遇到错误，无法创建或完成待办事项。
 

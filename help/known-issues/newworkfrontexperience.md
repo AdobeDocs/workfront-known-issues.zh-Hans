@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 88%
+source-wordcount: '1126'
+ht-degree: 90%
 
 ---
 
@@ -36,13 +36,9 @@ ht-degree: 88%
 | [任务：具有子任务的父任务占用天数持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日 |
 | [报告：在图表列表中批量编辑无响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日 |
 | [Workfront：保持打开的浏览器选项卡加载失败](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日 |
-| [报告：报告加载失败](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日 |
-| [资源规划者：无法访问资源规划者](known-issues-workfront/wf-resource-planner-inaccessible.md) | 2024年11月12日 |
-| [主页：我的任务小组件未加载](known-issues-workfront/wf-home-task-widget-wont-load.md) | 2024年11月12日 |
 | [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [主页：“我的更新”小组件不起作用](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024 年 11 月 4 日 |
 | [文档：文档上缺少审批选项按钮](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024 年 11 月 4 日 |
-| [主页：“待办事项”小组件中新的和已完成的待办事项出错](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024 年 11 月 4 日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
 | [展示板：信息卡状态与连接的对象不匹配并绕过筛选条件](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024 年 9 月 3 日 |

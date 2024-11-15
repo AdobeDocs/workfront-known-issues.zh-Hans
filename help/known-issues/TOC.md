@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2125'
 ht-degree: 94%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 94%
       + [任务：具有子任务的父任务占用天数持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [报告：在图表列表中批量编辑无响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront：保持打开的浏览器选项卡加载失败](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [报告：报告加载失败](known-issues-workfront/wf-reports-fail-to-load.md)
       + [资源规划者：无法访问资源规划者](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [主页：我的任务小组件未加载](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
