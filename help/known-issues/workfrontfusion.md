@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '177'
+ht-degree: 100%
 
 ---
 
