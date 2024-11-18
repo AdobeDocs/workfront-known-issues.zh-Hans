@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '1126'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -25,17 +25,17 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [时间表：参与者用户具有“提交以供审批”按钮](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024年11月13日 |
-| [通知：未发送更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024年11月13日 |
-| [自定义表单：无法添加“estimateByHours”或“hoursPerPoint”任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年11月13日 |
-| [文档：审批“快速添加”不包含新版本的截止日期条目](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024年11月13日 |
-| [布局模板：管理员无法编辑主页布局模板](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024年11月13日 |
-| [用户：“未注册”标记在登录后仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024年11月13日 |
-| [Workfront：参与者用户无法访问程序或Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年11月13日 |
-| [审批：“全部”筛选器不包括个人提交的审批](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024年11月13日 |
-| [任务：具有子任务的父任务占用天数持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日 |
-| [报告：在图表列表中批量编辑无响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日 |
-| [Workfront：保持打开的浏览器选项卡加载失败](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日 |
+| [时间表：投稿人用户有一个“提交以供审批”按钮](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024 年 11 月 13 日 |
+| [通知：未发送更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024 年 11 月 13 日 |
+| [自定义表单：无法添加 “estimateByHours” 或 “hoursPerPoint” 任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024 年 11 月 13 日 |
+| [文档：审批“快速添加”不包括新版本的截止日期条目](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024 年 11 月 13 日 |
+| [布局模板：管理员无法编辑”主页“布局模板](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024 年 11 月 13 日 |
+| [用户：登录后“未注册”标记仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024 年 11 月 13 日 |
+| [Workfront：投稿人用户无法访问”项目或项目组合“](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024 年 11 月 13 日 |
+| [审批：“全部”筛选条件排除个人提交的审批](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024 年 11 月 13 日 |
+| [任务：有子任务的父任务“占用天数”持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024 年 11 月 13 日 |
+| [报告：图表列表中的批量编辑没有响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024 年 11 月 13 日 |
+| [Workfront：打开的浏览器选项卡无法加载](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
 | [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [主页：“我的更新”小组件不起作用](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024 年 11 月 4 日 |
 | [文档：文档上缺少审批选项按钮](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024 年 11 月 4 日 |
@@ -79,11 +79,11 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年11月12日 |
-| [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日 |
+| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 11 月 12 日 |
+| [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 12 日 |
 | [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |
 | [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
-| [主页：已删除的自定义字段保留在项目、任务和问题构件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
+| [主页：已删除的自定义字段保留在项目、任务和问题小组件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
 | [优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日 |
 | [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |
 | [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 9 月 18 日 |

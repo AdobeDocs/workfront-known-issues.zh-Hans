@@ -5,7 +5,7 @@ role: User
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '2125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,20 +17,20 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [时间表：投稿人用户具有“提交以供审批”按钮](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [时间表：投稿人用户有一个“提交以供审批”按钮](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：未发送更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [自定义表单：无法添加“estimateByHours”或“hoursPerPoint”任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [自定义表单：无法添加 “estimateByHours” 或 “hoursPerPoint” 任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md)
       + [文档：审批“快速添加”不包括新版本的截止日期条目](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [布局模板：管理员无法编辑主页布局模板](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
-      + [用户：“未注册”标记在登录后仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
-      + [Workfront：参与者用户无法访问程序或Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
-      + [审批：“全部”过滤器不包括个人提交的审批](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
-      + [任务：具有子任务的父任务占用天数持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [报告：在图表列表中批量编辑无响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
-      + [Workfront：保持打开的浏览器选项卡加载失败](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [报告：报告加载失败](known-issues-workfront/wf-reports-fail-to-load.md)
-      + [资源规划者：无法访问资源规划者](known-issues-workfront/wf-resource-planner-inaccessible.md)
-      + [主页：我的任务小组件未加载](known-issues-workfront/wf-home-task-widget-wont-load.md)
+      + [布局模板：管理员无法编辑”主页“布局模板](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [用户：登录后“未注册”标记仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront：投稿人用户无法访问”项目或项目组合“](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [审批：“全部”筛选条件排除个人提交的审批](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [任务：有子任务的父任务“占用天数”持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [报告：图表列表中的批量编辑没有响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront：打开的浏览器选项卡无法加载](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [报告：无法加载报告](known-issues-workfront/wf-reports-fail-to-load.md)
+      + [资源规划程序：无法访问”资源规划程序“](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [主页：“我的任务”小组件无法加载](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [主页：“我的更新”小组件不起作用](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [文档：文档上缺少审批选项按钮](known-issues-workfront/wf-documents-missing-approval-button.md)
@@ -38,7 +38,7 @@ ht-degree: 94%
       + [集成：Unified Shell 组织的 JumpSeat 集成失效](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [报告：缺少“显示过滤器”/“隐藏过滤器”选项](known-issues-workfront/wf-reports-show-filter-missing.md)
-      + [主页：完成百分比被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
+      + [主页：”完成百分比“被截断](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [项目：甘特图不准确](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [项目：无法将问题添加到已完成的项目](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [自定义表单：无法更新已完成项目中的自定义数据](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
@@ -47,10 +47,10 @@ ht-degree: 94%
       + [校样：无法在预览环境中创建校样](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [文档：无法从对象文档选项卡中移动文档](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [展示板：任务和问题的重复状态选项](known-issues-workfront/wf-boards-duplicate-status-options.md)
-      + [主页：已删除的自定义字段保留在项目、任务和问题构件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [主页：已删除的自定义字段保留在项目、任务和问题小组件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [登录身份重定向到登录或导致错误](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [主页：“标记为已完成”关闭“我的问题”构件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [主页：“标记为已完成”关闭“我的问题”小组件的摘要窗格](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [校样：无法为通过 Fusion 从 AEM 链接的文档创建校样](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [展示板：移动卡片或分配用户时出错](known-issues-workfront/wf-boards-error-moving-cards.md)
@@ -73,9 +73,9 @@ ht-degree: 94%
       + [任务：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [主页：当用户移动“主页”小组件中的列时会创建“widget.list.view”](known-issues-workfront/wf-home-widget-list-view.md)
+      + [主页：当用户移动“主页”小组件中的列时会创建 “widget.list.view”](known-issues-workfront/wf-home-widget-list-view.md)
       + [文档：文档更新时不显示校样注释](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
-      + [主页：待审批小组件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md)
+      + [主页：”待审批“小组件显示已删除的文档](known-issues-workfront/wf-home-deleted-documents.md)
       + [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md)
       + [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [自定义表单：自定义表单上显示类型转换错误](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)

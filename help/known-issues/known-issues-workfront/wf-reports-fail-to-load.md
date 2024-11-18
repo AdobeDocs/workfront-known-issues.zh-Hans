@@ -1,21 +1,22 @@
 ---
-title: '报告：报告加载失败'
-description: 尝试访问报告时，报告无法加载。 图表、摘要和详细信息视图已报告此问题，并且报告在Report Builder中编辑报告。
+title: “报告：无法加载报告”
+description: 尝试访问报告时，无法将其加载。图表、摘要和详细视图以及在 Report Builder 中编辑报告时都会出现这种情况。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 6fe58622-6673-4830-b867-d4bb8eee1467
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 报告：报告加载失败
+# 报告：无法加载报告
 
 >[!NOTE]
 >
->此问题已于2024年11月14日修复。
+>此问题已于 2024 年 11 月 14 日修复。
 
-尝试访问报告时，报告无法加载。 图表、摘要和详细信息视图已报告此问题，并且报告在Report Builder中编辑报告。
+尝试访问报告时，无法将其加载。图表、摘要和详细视图以及在 Report Builder 中编辑报告时都会出现这种情况。
 
-_首次报告于2024年11月7日。_
+_首次报告于 2024 年 11 月 7 日。_
