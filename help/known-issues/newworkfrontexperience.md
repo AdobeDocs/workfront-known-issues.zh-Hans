@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
 workflow-type: tm+mt
-source-wordcount: '1126'
-ht-degree: 100%
+source-wordcount: '1134'
+ht-degree: 99%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront： ZScalar设置可能会导致性能降低](known-issues-workfront//wf-workfront-zscalar.md) | 2024年11月20日 |
 | [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 11 月 12 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 12 日 |
 | [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |
