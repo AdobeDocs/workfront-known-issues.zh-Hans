@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2024年11月12日修复。
+>此问题已于 2024 年 11 月 12 日修复。
 
 当用户在校样查看器中查看校样并尝试通过单击右上角的 X 来关闭校样时，校样不会关闭。
 

@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ec2f77f8-ca29-4516-b5c0-6b084ceefab7
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2024年11月14日修复。
+>此问题已于 2024 年 11 月 14 日修复。
 
 当尝试在“主页待办事项”小组件中创建新待办事项或完成现有待办事项时，用户会遇到错误，无法创建或完成待办事项。
 
