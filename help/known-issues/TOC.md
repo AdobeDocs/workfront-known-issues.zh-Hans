@@ -1,6 +1,6 @@
 ---
 user-guide-title: 已知问题
-user-guide-description: 已知问题 [!DNL Adobe Workfront]
+user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
 source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
 workflow-type: tm+mt
@@ -114,7 +114,7 @@ ht-degree: 99%
       + [敏捷：添加子任务时故事展示板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [用户：用户配置文件页面持续加载](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile：无法打开校样](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [“主页：无法从[!UICONTROL 主日程表] 或 [!UICONTROL 工作列表]中打开项目”](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [主页：无法从[!UICONTROL 主日程表] 或 [!UICONTROL 工作列表]中打开项目](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [自定义表单：自定义表单不会从文档中删除](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [问题：对问题进行高级分配时出错](known-issues-workfront/wf-issues-error-when-making-assignment.md)
@@ -221,12 +221,12 @@ ht-degree: 99%
       + [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段显示已停用的用户](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [更新：团队名称未出现在 @提及中](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + [敏捷：开发周期[!UICONTROL 完成点]的差异](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
-      + [“电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
+      + [电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [电子邮件通知：用户未定向到评论会话](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [日程表： [!DNL OR]  过滤语句不包括过滤规则](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [[!UICONTROL 主页]：项目名称在[!UICONTROL 工作列表]显示为 GUID](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [报告：日程表默认为旧日期](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
-      + [‘电子邮件通知： [!DNL Outlook] 中的电子邮件格式不正确](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
+      + [电子邮件通知： [!DNL Outlook] 中的电子邮件格式不正确](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
       + [[!UICONTROL 主页]：无法在[!UICONTROL 工作列表]中查看文档图像](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [列表：显示名称未应用于自定义字段分组](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL 主页]：刷新后审批委派日期发生变化并发送 2 封电子邮件](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)

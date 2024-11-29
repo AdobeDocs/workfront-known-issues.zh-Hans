@@ -55,7 +55,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 |----------------------------------| ----------------- |
-| [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月21日 |
+| [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
 | [项目：由于“访问删除”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
@@ -76,7 +76,7 @@ ht-degree: 99%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront： ZScaler设置可能会导致性能降低](known-issues-workfront//wf-workfront-zscaler.md) | 2024年11月20日 |
+| [Workfront： ZScaler设置可能会导致性能降低](known-issues-workfront//wf-workfront-zscaler.md) | 2024 年 11 月 20 日 |
 | [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 11 月 12 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 12 日 |
 | [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |
