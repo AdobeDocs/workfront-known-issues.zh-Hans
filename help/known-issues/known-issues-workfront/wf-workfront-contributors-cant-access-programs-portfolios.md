@@ -1,16 +1,21 @@
 ---
-title: “Workfront：投稿人用户无法访问”项目或项目组合“”
+title: Workfront：投稿人用户无法访问”项目或项目组合“
 description: 具有新投稿人访问级别的用户无法访问”项目或项目组合“，尽管访问级别中包含对两者的访问权限。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '66'
+exl-id: 463d212d-ff0a-4de2-ae6e-70a538de497e
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # Workfront：投稿人用户无法访问”项目或项目组合“
+
+>[!NOTE]
+>
+>此问题已关闭，因为它已按预期运行。
 
 具有新投稿人访问级别的用户无法访问”项目或项目组合“，尽管访问级别中包含对两者的访问权限。
 

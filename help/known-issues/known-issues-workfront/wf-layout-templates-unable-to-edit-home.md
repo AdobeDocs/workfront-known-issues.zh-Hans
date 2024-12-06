@@ -1,17 +1,21 @@
 ---
-title: “布局模板：管理员无法编辑”主页“布局模板”
+title: 布局模板：管理员无法编辑”主页“布局模板
 description: 当管理员尝试为用户编辑“主页”布局模板时，界面没有响应且无法保存更改。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
-source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: 273f533553626082787f579b171ab4b314743d58
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 92%
 
 ---
 
 # 布局模板：管理员无法编辑”主页“布局模板
+
+>[!NOTE]
+>
+>此问题已于2024年12月5日修复。
 
 当管理员尝试为用户编辑“主页”布局模板时，界面没有响应且无法保存更改。
 

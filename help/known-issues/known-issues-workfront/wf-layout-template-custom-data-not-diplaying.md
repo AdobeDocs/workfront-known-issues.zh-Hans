@@ -1,17 +1,26 @@
 ---
-title: “布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段”
+title: 布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段
 description: 当管理员通过布局模板将自定义数据字段添加到任务摘要部分时，对于查看任务摘要部分的用户来说，字段显示为空。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
+source-git-commit: 273f533553626082787f579b171ab4b314743d58
+workflow-type: tm+mt
+source-wordcount: '137'
+ht-degree: 77%
 
 ---
 
 # 布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段
 
+>[!NOTE]
+>
+>此问题已关闭，因为它就是如此设计的。请参阅下面的解决方法。
+
 当管理员通过布局模板将自定义数据字段添加到任务摘要部分时，对于查看任务摘要部分的用户来说，字段显示为空。
+
+**解决方法**
+
+避免使用句点“。” 在自定义字段名称中以避免出现此问题。 您可以重新标记“摘要”部分中的自定义字段，并根据需要添加句点。
 
 _首次报告于 2024 年 10 月 2 日。_

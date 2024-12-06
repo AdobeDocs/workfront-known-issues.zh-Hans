@@ -1,17 +1,21 @@
 ---
-title: “项目：由于访问删除错误，无法共享项目”
-description: “当尝试共享项目时，用户收到错误信息：您没有足够的权限删除该项目。尽管用户没有尝试删除该项目，而且用户是该项目所有者并具有该项目的共享和管理访问权限，但还是会发生这种情况。”
+title: 项目：由于访问删除错误导致无法共享项目
+description: 尝试共享项目时，用户收到错误：您没有足够的权限删除此项目。 尽管用户没有尝试删除该项目，而且用户是该项目所有者并具有该项目的共享和管理访问权限，但还是会发生这种情况。
 hidefromtoc: true
 feature: Projects
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
-source-wordcount: '124'
-ht-degree: 100%
+exl-id: 4eb533ed-babc-4ba8-8ac2-5c99e55b95b4
+source-git-commit: a086b3cbc07d6d53dabf88b4575677257621cd1a
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 71%
 
 ---
 
-
 # 项目：由于“访问删除”错误，无法共享项目
+
+>[!NOTE]
+>
+>此文章已于2024年11月28日修复。
 
 当尝试共享项目时，用户收到错误信息：“您没有足够的权限删除该项目”。尽管用户没有尝试删除该项目，而且用户是该项目所有者并具有该项目的共享和管理访问权限，但还是会发生这种情况。
 

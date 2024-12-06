@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
-workflow-type: ht
-source-wordcount: '2132'
-ht-degree: 100%
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '2166'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [审批：未向委托显示委托的审批](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [文档：将表单添加到文档时出现“未保存更改”错误](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [任务：准备开始字段未更新，尽管已完成前置任务](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront：整个应用程序中的日期格式更改](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 设置可能会导致性能下降](known-issues-workfront//wf-workfront-zscaler.md)
       + [时间表：投稿人用户有一个“提交以供审批”按钮](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：未发送更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
