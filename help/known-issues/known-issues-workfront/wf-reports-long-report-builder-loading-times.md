@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: ca850f76-8cdb-47ac-8687-4a3c57deb1dd
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->此文章已于2024年11月28日修复。
+>此文章已于 2024 年 11 月 28 日修复。
 
 报告需要较长的时间来加载。这会影响查看报告以及在 Report Builder 中编辑和创建报告。
 
