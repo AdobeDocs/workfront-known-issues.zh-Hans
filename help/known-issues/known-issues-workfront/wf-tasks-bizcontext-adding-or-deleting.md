@@ -1,18 +1,22 @@
 ---
-title: “任务：添加或删除任务时出现 Bizcontext 错误”
-description: 当用户尝试添加或删除任务时，该任务不会被添加或删除，并且用户会看到 Bizcontext 错误。
+title: 任务：添加或删除任务时出现数据库错误（以前为Bizcontext错误）
+description: 当用户尝试添加或删除任务时，任务未添加或删除，并且显示以下错误：“数据库错误：由于临时系统问题，您的请求无法完成。 请重试”。 此错误消息以前是Bizcontext错误。
 hidefromtoc: true
 feature: Tasks
 exl-id: 581a73c4-2743-473b-9c42-84591e5800a1
-source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+source-git-commit: d646e08c6733909733779734222db2f728b92850
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 21%
 
 ---
 
-# 任务：添加或删除任务时出现 Bizcontext 错误
+# 任务：添加或删除任务时出现数据库错误（以前为Bizcontext错误）
 
-当用户尝试添加或删除任务时，该任务不会被添加或删除，并且用户会看到 Bizcontext 错误。
+>[!NOTE]
+>
+>产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
+
+当用户尝试添加或删除任务时，任务未添加或删除，并且显示以下错误：“数据库错误：由于临时系统问题，您的请求无法完成。 请重试”。 此错误消息以前是Bizcontext错误。
 
 _首次报告于 2024 年 3 月 7 日。_

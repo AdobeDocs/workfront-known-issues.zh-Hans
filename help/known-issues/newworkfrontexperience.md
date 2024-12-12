@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '1111'
-ht-degree: 100%
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+workflow-type: tm+mt
+source-wordcount: '1165'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [敏捷：无法批量编辑迭代中的故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 2024 年 12 月 5 日 |
 | [审批：被委派人无法看到委派的审批](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024 年 12 月 5 日 |
 | [文档：向文档添加表单时出现“未保存的更改”错误](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024 年 12 月 5 日 |
 | [任务：尽管前置任务已完成，但“准备开始”字段未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 2024 年 12 月 3 日 |
@@ -53,6 +54,11 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [自定义表单：“摘要”面板中未显示自定义数据](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11 |
+| [验证：无法将收件人添加到验证](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024年12月11 |
+| [验证：验证名称未出现在浏览器选项卡](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)上 | 2024年12月11 |
+| [任务：添加个人任务时出现“糟糕”错误](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 2024年12月11 |
+| [验证：Webcapture验证未生成](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月11 |
 | [报告：图表列表中的批量编辑没有响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024 年 12 月 3 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
@@ -63,7 +69,6 @@ ht-degree: 100%
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [Access 级别：设置区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
-| [任务：添加或删除任务时出现 Bizcontext 错误](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 4 月 4 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
@@ -74,6 +79,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [任务：添加或删除任务时出现数据库错误（以前为Bizcontext错误）](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年12月10 |
 | [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [通知：未发送有关更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024 年 12 月 5 日 |
 | [Workfront：投稿人用户无法访问”项目“或”项目组合“](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024 年 12 月 5 日 |

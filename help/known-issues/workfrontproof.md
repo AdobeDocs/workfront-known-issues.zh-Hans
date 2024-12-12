@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
-source-wordcount: '428'
-ht-degree: 100%
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 94%
 
 ---
 
@@ -39,6 +39,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：无法将收件人添加到验证](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024年12月11 |
+| [验证：验证名称未出现在浏览器选项卡](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)上 | 2024年12月11 |
+| [验证：Webcapture验证未生成](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月11 |
 | [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |
