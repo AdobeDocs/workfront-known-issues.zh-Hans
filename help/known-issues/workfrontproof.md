@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '452'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -39,9 +39,9 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：无法将收件人添加到验证](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024年12月11 |
-| [验证：验证名称未出现在浏览器选项卡](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)上 | 2024年12月11 |
-| [验证：Webcapture验证未生成](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月11 |
+| [校样：无法将收件人添加到校样中](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024 年 12 月 11 日 |
+| [校样：浏览器选项卡上未显示校样名称](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |
+| [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 11 日 |
 | [文档：无法通过预览链接预览文档](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024 年 8 月 15 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [无法为文档列表创建视图](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024 年 7 月 15 日 |

@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
 source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2214'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [自定义表单：“摘要”面板中未显示自定义数据](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [敏捷：无法批量编辑开发周期中的故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [验证：无法将收件人添加到验证](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [验证：验证名称未出现在浏览器选项卡上](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [敏捷：无法在开发周期中批量编辑故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [校样：无法将收件人添加到校样中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [校样：浏览器选项卡上未显示校样名称](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
       + [任务：添加个人任务时出现“糟糕”错误](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
-      + [验证：Webcapture验证未生成](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
+      + [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [审批：被委派人无法看到委派的审批](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [文档：向文档添加表单时出现“未保存的更改”错误](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [任务：尽管前置任务已完成，但“准备开始”字段未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -176,7 +176,7 @@ ht-degree: 97%
       + [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [任务：添加或删除任务时出现数据库错误（以前为Bizcontext错误）](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [任务：添加或删除任务时出现数据库错误（以前是 Bizcontext 错误）](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [布局模板：登陆页面不正确](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [报告：报告筛选条件未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [项目：如果附加了 Web 校样，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
