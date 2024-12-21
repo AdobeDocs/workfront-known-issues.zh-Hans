@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: ht
-source-wordcount: '1165'
-ht-degree: 100%
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '1135'
+ht-degree: 99%
 
 ---
 
@@ -25,14 +25,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [敏捷：无法在开发周期中批量编辑故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 2024 年 12 月 5 日 |
-| [审批：被委派人无法看到委派的审批](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024 年 12 月 5 日 |
 | [文档：向文档添加表单时出现“未保存的更改”错误](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024 年 12 月 5 日 |
-| [任务：尽管前置任务已完成，但“准备开始”字段未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 2024 年 12 月 3 日 |
-| [Workfront：整个应用程序的日期格式都会发生变化](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024 年 12 月 3 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 12 月 3 日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
-| [文档：审批“快速添加”不包括新版本的截止日期条目](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024 年 11 月 13 日 |
 | [用户：登录后“未注册”标记仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024 年 11 月 13 日 |
 | [Workfront：打开的浏览器选项卡无法加载](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
@@ -54,11 +49,10 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [自定义表单：无法添加 “estimateByHours” 或 “hoursPerPoint” 任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年12月20 |
 | [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
-| [校样：无法将收件人添加到校样中](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024 年 12 月 11 日 |
 | [校样：浏览器选项卡上未显示校样名称](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |
 | [任务：添加个人任务时出现“糟糕”错误](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 2024 年 12 月 11 日 |
-| [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 11 日 |
 | [报告：图表列表中的批量编辑没有响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024 年 12 月 3 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
@@ -79,6 +73,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月20 |
+| [Workfront：整个应用程序的日期格式都会发生变化](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024年12月20 |
+| [审批：被委派人无法看到委派的审批](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024年12月20 |
 | [任务：添加或删除任务时出现数据库错误（以前是 Bizcontext 错误）](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 12 月 10 日 |
 | [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [通知：未发送有关更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024 年 12 月 5 日 |
