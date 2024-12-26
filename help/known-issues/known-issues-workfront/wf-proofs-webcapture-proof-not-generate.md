@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 339c5a0a-cfc8-4cfc-946d-b87d760f9106
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 59%
 
 **解决方法**
 
-此问题是由某些PDF文件的验证生成时间较长导致的。 要将生成超时从默认的30秒增加到30秒，请在验证管理员的帐户级别的处理设置中编辑以下属性：
+此问题是由于某些 PDF 文件的校样生成时间过长而导致的。要将生成超时时间从默认的 30 秒增加，请在 Proof Admin 的帐户级别的处理设置中编辑以下属性：
 
 `WebCaptureNavigationTimeout -> 120`
 

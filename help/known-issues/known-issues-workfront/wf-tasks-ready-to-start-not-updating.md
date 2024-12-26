@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Tasks
 exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此问题已于2024年12月9日修复。
+>此问题已于 2024 年 12 月 9 日修复。
 
 尽管所有必要的前置任务均已标记为“完成”，但具有前置任务的任务的“准备开始”字段无法更新为“True”。
 
