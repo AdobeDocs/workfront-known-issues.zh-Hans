@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: ht
-source-wordcount: '2214'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '2268'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：记录的小时数未显示在更新区域的日志时间标签上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [通知：将通知推送到Workfront Mobile应用程序不起作用](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [文档：文档区域未显示所有文档](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [自定义表单：通过列编辑自定义表单时出错](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [请求和问题：高级用户分配出错](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [敏捷：无法在开发周期中批量编辑故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [校样：无法将收件人添加到校样中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)

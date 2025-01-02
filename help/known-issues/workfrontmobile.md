@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront]  移动应用程序的已知问�
 keywords: 新建文件，添加文件
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 85%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：推送到Workfront Mobile应用的通知不起作用](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 
 <!--
