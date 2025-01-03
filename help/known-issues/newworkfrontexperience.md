@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 92%
+source-wordcount: '1246'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [自定义表单：自定义表单以旧版格式显示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日 |
+| [开票记录：未保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日 |
 | [更新：记录的小时数未显示在更新区域的日志时间标签上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024年1月2日 |
 | [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月2日 |
 | [通知：推送到Workfront Mobile应用的通知不起作用](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日 |
