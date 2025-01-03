@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 94%
+source-wordcount: '1230'
+ht-degree: 92%
 
 ---
 
@@ -54,6 +54,10 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [展示板：无法将信息卡移动到其他列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日 |
+| [自定义表单：编辑自定义表单时显示“字段无效”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025年1月2日 |
+| [用户：批量更新用户速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日 |
+| [自定义表单：水平列出单选按钮](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025年1月2日 |
 | [请求和问题：高级用户分配出错](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日 |
 | [自定义表单：无法添加 “estimateByHours” 或 “hoursPerPoint” 任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024 年 12 月 20 日 |
 | [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
