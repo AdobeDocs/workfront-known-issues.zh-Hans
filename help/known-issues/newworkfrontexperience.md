@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
 source-wordcount: '1246'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 91%
 | ----------------------------------------------------------------- | ----------------- |
 | [自定义表单：自定义表单以旧版格式显示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日 |
 | [开票记录：未保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日 |
-| [更新：记录的小时数未显示在更新区域的日志时间标签上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024年1月2日 |
-| [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月2日 |
-| [通知：推送到Workfront Mobile应用的通知不起作用](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日 |
-| [文档：文档区域未显示所有文档](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024年1月2日 |
-| [自定义表单：通过列](known-issues-workfront/wf-custom-forms-error-when-editing.md)编辑自定义表单时出错 | 2024年1月2日 |
+| [更新：记录的小时数不会显示在更新区域的日志时间标签上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024 年 1 月 2 日 |
+| [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 2 日 |
+| [通知：Workfront 移动设备应用程序的推送通知无法正常工作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024 年 1 月 2 日 |
+| [文档：文档区域不显示所有文档](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024 年 1 月 2 日 |
+| [自定义表单：通过列编辑自定义表单时出错](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024 年 1 月 2 日 |
 | [文档：向文档添加表单时出现“未保存的更改”错误](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024 年 12 月 5 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 12 月 3 日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
@@ -56,11 +56,11 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [展示板：无法将信息卡移动到其他列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日 |
-| [自定义表单：编辑自定义表单时显示“字段无效”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025年1月2日 |
-| [用户：批量更新用户速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日 |
-| [自定义表单：水平列出单选按钮](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025年1月2日 |
-| [请求和问题：高级用户分配出错](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日 |
+| [展示板：无法将信息卡移动到其他列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025 年 1 月 2 日 |
+| [自定义表单：编辑自定义表单时显示“字段无效”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025 年 1 月 2 日 |
+| [用户：批量更新用户速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025 年 1 月 2 日 |
+| [自定义表单：水平列出单选按钮](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025 年 1 月 2 日 |
+| [请求和问题：高级用户分配错误](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025 年 1 月 2 日 |
 | [自定义表单：无法添加 “estimateByHours” 或 “hoursPerPoint” 任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024 年 12 月 20 日 |
 | [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
 | [校样：浏览器选项卡上未显示校样名称](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |

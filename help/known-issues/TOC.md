@@ -5,7 +5,7 @@ role: User
 source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
 source-wordcount: '2313'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 95%
       + [自定义表单：编辑自定义表单时显示“字段无效”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [用户：批量更新用户速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
       + [自定义表单：单选按钮水平列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [更新：记录的小时数未显示在更新区域的日志时间标签上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [更新：记录的小时数不会显示在更新区域的日志时间标签上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
-      + [通知：将通知推送到Workfront Mobile应用程序不起作用](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [文档：文档区域未显示所有文档](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [通知：Workfront 移动设备应用程序的推送通知无法正常工作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [文档：文档区域不显示所有文档](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
       + [自定义表单：通过列编辑自定义表单时出错](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [请求和问题：高级用户分配出错](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
+      + [请求和问题：高级用户分配错误](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [敏捷：无法在开发周期中批量编辑故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [校样：无法将收件人添加到校样中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
