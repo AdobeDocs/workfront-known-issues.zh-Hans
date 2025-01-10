@@ -7,7 +7,7 @@ exl-id: 9522e9a8-e6c7-436f-b184-9cb73b7dba7a
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 当用户查看包含单选按钮的自定义表单时，单选按钮水平列出，而不是垂直列出。
 
-_首次报告于2024年12月12日。_
+_首次报告于 2024 年 12 月 12 日。_

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -28,8 +28,8 @@ ht-degree: 94%
 | [主页：等待审批构件中缺少审批按钮](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025年1月9日 |
 | [用户：更改系统管理员时创建的帐户重复](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日 |
 | [项目：延迟条件未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月9日 |
-| [自定义表单：自定义表单以旧版格式显示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日 |
-| [开票记录：未保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日 |
+| [自定义表单：自定义表单以旧版格式显示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024 年 1 月 3 日 |
+| [账单记录：不保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024 年 1 月 3 日 |
 | [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 2 日 |
 | [通知：Workfront 移动设备应用程序的推送通知无法正常工作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024 年 1 月 2 日 |
 | [自定义表单：通过列编辑自定义表单时出错](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024 年 1 月 2 日 |
@@ -57,9 +57,9 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [展示板：无法将信息卡移动到其他列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025 年 1 月 2 日 |
-| [自定义表单：编辑自定义表单时显示“字段无效”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025 年 1 月 2 日 |
-| [用户：批量更新用户速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025 年 1 月 2 日 |
+| [展示板：无法将信息卡移至不同列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025 年 1 月 2 日 |
+| [自定义表单：编辑自定义表单时出现“无效字段”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025 年 1 月 2 日 |
+| [用户：批量更新用户非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025 年 1 月 2 日 |
 | [请求和问题：高级用户分配错误](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025 年 1 月 2 日 |
 | [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
 | [校样：浏览器选项卡上未显示校样名称](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |
@@ -67,7 +67,7 @@ ht-degree: 94%
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
-| [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
+| [自定义表单：Forms 默认为项目表单](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024 年 8 月 22 日 |
 | [设置：以其他用户身份注销时出现的问题](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024 年 8 月 15 日 |
 | [通知：设置通知偏好时出错](known-issues-workfront/wf-notifications-whoops-error.md) | 2024 年 8 月 8 日 |
 | [Access 级别：设置区域中的访问级别重复](known-issues-workfront/wf-access-duplicate-level.md) | 2024 年 7 月 25 日 |

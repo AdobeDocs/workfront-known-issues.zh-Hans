@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '2336'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 97%
       + [用户：更改系统管理员时创建了重复的帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [项目：延迟条件未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [自定义表单：自定义表单以旧版格式显示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
-      + [开票记录：未保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md)
-      + [展示板：无法将信息卡移动到其他列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [自定义表单：编辑自定义表单时显示“字段无效”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
-      + [用户：批量更新用户速度非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [账单记录：不保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md)
+      + [展示板：无法将信息卡移至不同列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [自定义表单：编辑自定义表单时出现“无效字段”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [用户：批量更新用户非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
       + [自定义表单：单选按钮水平列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [更新：记录的小时数不会显示在更新区域的日志时间标签上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
@@ -97,7 +97,7 @@ ht-degree: 97%
       + [Workfront：无法使用 SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [用户：无法重新激活用户](known-issues-workfront/wf-users-reactivate-user.md)
       + [任务：分配任务时不显示休息时间图标](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [自定义表格：Forms 默认为项目表格](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [自定义表单：Forms 默认为项目表单](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [主页：当用户移动“主页”小组件中的列时会创建 “widget.list.view”](known-issues-workfront/wf-home-widget-list-view.md)
       + [文档：文档更新时不显示校样注释](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
