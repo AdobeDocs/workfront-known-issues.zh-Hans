@@ -1,17 +1,18 @@
 ---
-title: 项目：延迟条件未按预期应用
-description: 符合系统标记为“延迟”的标准的项目不按预期应用该条件。
+title: 项目：逾期完成情况未按预期应用
+description: 符合系统标记为“逾期”标准的项目未按预期完成情况应用。
 hidefromtoc: true
 feature: Projects
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 61a366bc-b2dc-49e1-86f2-e159312e8567
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 项目：延迟条件未按预期应用
+# 项目：逾期完成情况未按预期应用
 
-符合系统标记为“延迟”的标准的项目不按预期应用该条件。
+符合系统标记为“逾期”标准的项目未按预期完成情况应用。
 
-_首次报告于2024年12月18日。_
+_首次报告于 2024 年 12 月 18 日。_

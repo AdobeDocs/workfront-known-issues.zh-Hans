@@ -2,10 +2,11 @@
 title: Workfront 的 2024 年维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '7353'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -53,11 +54,11 @@ ht-degree: 99%
 
 尝试批量编辑或删除多个报告项目时，有时不会显示“编辑”和“删除”图标。
 
-项目（财务数据）报表中有&#x200B;**个错误**
+**项目（财务数据）报告中的错误**
 
-“糟糕”错误间歇性地出现在项目（财务数据）报表中，详细信息页面和矩阵页面均如此。
+项目（财务数据）报告的详细信息页面和矩阵页面间歇性地出现“糟糕”错误。
 
-作为更正此问题的一部分，此报告类型中的项目在加载数据之前不再自动重新计算。 用户必须手动重新计算单个项目的财务以更新财务数据报表中的数据。
+为了纠正这一问题，在加载数据之前，该报告类型中的项目不再自动重新计算。用户必须手动重新计算个体项目的财务数据，才能更新财务数据报告中的数据。
 
 +++
 

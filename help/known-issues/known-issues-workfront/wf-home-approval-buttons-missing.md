@@ -1,21 +1,22 @@
 ---
-title: 主页：等待审批构件中缺少审批按钮
-description: 在主页使用等待审批构件时，不显示用于选择审批决策的按钮。
+title: 主页：等待审批小组件中缺少审批按钮
+description: 在主页中使用等待审批小组件时，不会出现选择审批决策的按钮。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 9e3c4d32-680e-4839-a0b8-8a70d16e5465
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# 主页：等待审批构件中缺少审批按钮
+# 主页：等待审批小组件中缺少审批按钮
 
-在主页使用等待审批构件时，不显示用于选择审批决策的按钮。
+在主页中使用等待审批小组件时，不会出现选择审批决策的按钮。
 
 **解决方法**
 
-可以直接导航到批准来做出批准决定。
+可以通过直接导航至审批来做出审批决策。
 
-_首次报告于2024年11月21日。_
+_首次报告于 2024 年 11 月 21 日。_

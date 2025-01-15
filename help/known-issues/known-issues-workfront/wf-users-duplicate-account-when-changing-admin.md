@@ -1,17 +1,18 @@
 ---
-title: 用户：更改系统管理员时创建了重复的帐户
-description: 当系统主管理员更改为其他用户时，将创建该用户帐户的副本，其名称为“管理员用户”，电子邮件地址相同。
+title: 用户：更改系统管理员时创建重复帐户
+description: 当系统主要管理员更改为其他用户时，会创建一个名称为 “管理员用户”、电子邮件地址相同的重复用户帐户。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: c39a8765871393b457c81d01306255400e023be5
-workflow-type: tm+mt
+exl-id: 93319b7b-a182-4149-a1c8-08f5f71df094
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 用户：更改系统管理员时创建了重复的帐户
+# 用户：更改系统管理员时创建重复帐户
 
-当系统的主要管理员更改为其他用户时，将创建该用户帐户的副本，其中包含“管理员用户”名称和相同的电子邮件地址。
+当系统主要管理员更改为其他用户时，会创建一个名称为 “管理员用户”、电子邮件地址相同的重复用户帐户。
 
-_首次报告于2024年12月6日。_
+_首次报告于 2024 年 12 月 6 日。_

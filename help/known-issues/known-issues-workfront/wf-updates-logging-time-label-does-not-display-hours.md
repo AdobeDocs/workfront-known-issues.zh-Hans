@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: e29be9fb-33d4-462d-9d69-83e5a1c682b7
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此文章已于2025年1月9日修复。
+>本文已于 2025 年 1 月 9 日修复。
 
 当用户在更新区域记录小时数时，这些小时数会显示在“记录时间”选项卡标签上。但是，如果用户刷新页面或者离开并返回，该标签将不会显示小时数。
 

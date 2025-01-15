@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2336'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [主页：等待审批构件中缺少审批按钮](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
-      + [用户：更改系统管理员时创建了重复的帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
-      + [项目：延迟条件未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
+      + [主页：等待审批小组件中缺少审批按钮](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+      + [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+      + [项目：逾期完成情况未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [自定义表单：自定义表单以旧版格式显示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [账单记录：不保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [展示板：无法将信息卡移至不同列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)

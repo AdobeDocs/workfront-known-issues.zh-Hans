@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Tasks
 exl-id: afe057ed-662c-4beb-98db-e11b58b97165
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->此文章已于2024年12月26日修复。
+>本文已于 2024 年 12 月 26 日修复。
 
 当个人任务列表中的用户尝试通过单击“添加更多任务”按钮来创建新任务时，他们无法创建该任务，并且会看到以下消息：
 
