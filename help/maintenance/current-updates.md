@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 75%
 
 ---
 
@@ -26,13 +26,37 @@ ht-degree: 100%
 
 ## 2025 年 1 月更新
 
-+++**2025 年 1 月 9 日维护更新**
++++**2025年1月16日维护更新**
 
-<!-- Delete this entry when next is added, no updates were made. -->
+### 2025年1月16日维护更新
 
-### 2025 年 1 月 9 日维护更新
+#### 文档
 
-此更新仅包含次要或影响不大的错误修复。当您提交的问题得到修复时，Workfront 支持人员会通知您。
+将表单添加到文档时出现&#x200B;**“未保存的更改”错误**
+
+向文档添加表单时，出现“未保存的更改”错误，该错误无法关闭并会阻止与应用程序的交互。
+
+#### 校样
+
+**验证名称未出现在浏览器选项卡上**
+
+当用户查看校样时，校样名称不会显示在浏览器选项卡上。相反，浏览器选项卡会显示 “Workfront”。
+
+#### 请求和问题
+
+**高级用户分配出错**
+
+当用户尝试对请求或问题进行高级用户分配时，用户未被分配，并且会看到以下错误：
+
+“出现错误，我们正在寻找解决问题的方法。要继续工作，请尝试刷新此浏览器页面。”
+
+刷新浏览器页面无效。
+
+#### 请求
+
+**无法在预览环境中创建请求**
+
+尝试在预览Sandbox环境中创建新请求时，显示错误，说明请求队列不再可用，并且无法创建请求。
 
 +++
 

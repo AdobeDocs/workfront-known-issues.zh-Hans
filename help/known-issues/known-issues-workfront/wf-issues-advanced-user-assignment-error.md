@@ -3,15 +3,19 @@ title: 请求和问题：高级用户分配错误
 description: 当用户尝试对请求或问题进行高级用户分配时，用户未被分配，并且会看到错误信息。
 hidefromtoc: true
 feature: Requests, Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+exl-id: 9310726c-646e-46f0-a419-a232086f4738
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 94%
 
 ---
 
-
 # 请求和问题：高级用户分配错误
+
+>[!NOTE]
+>
+>此问题已于2025年1月16日修复。
 
 当用户尝试对请求或问题进行高级用户分配时，用户未被分配，并且会看到以下错误：
 

@@ -4,14 +4,18 @@ description: 当用户在对象的详细信息区域中编辑自定义表单时�
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 8e812a51-617f-4aa7-be29-184f018e9baa
-source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '168'
+ht-degree: 96%
 
 ---
 
 # 自定义表单：编辑自定义表单时出现“无效字段”消息
+
+>[!NOTE]
+>
+>此文章已于2025年1月13日修复。
 
 当用户在对象的详细信息区域中编辑自定义表单时，如果其中一个自定义表单的必填字段当前为空，则用户无法编辑表单，并会看到以下消息：
 

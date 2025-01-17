@@ -3,20 +3,19 @@ title: 文档：向文档添加表单时出现“未保存的更改”错误
 description: 向文档添加表单时，出现“未保存的更改”错误，该错误无法关闭并会阻止与应用程序的交互。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+exl-id: 18911774-ab76-458a-8c59-87695e151d2c
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '93'
+ht-degree: 93%
 
 ---
 
 # 文档：向文档添加表单时出现“未保存的更改”错误
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 10, 2024.
--->
+>此文章已于2025年1月16日修复。
 
 向文档添加表单时，出现“未保存的更改”错误，该错误无法关闭并会阻止与应用程序的交互。
 

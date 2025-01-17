@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '1217'
-ht-degree: 100%
+source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
+workflow-type: tm+mt
+source-wordcount: '1179'
+ht-degree: 97%
 
 ---
 
@@ -25,15 +25,14 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [任务：移动后上一个项目剩余的记录小时数](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025年1月16日 |
+| [报告：小时报告筛选器包含不正确的日期](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 2025年1月16日 |
+| [时间表：不正确的总小时数](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025年1月16日 |
 | [主页：等待审批小组件中缺少审批按钮](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025 年 1 月 9 日 |
 | [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
 | [项目：逾期完成情况未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025 年 1 月 9 日 |
-| [自定义表单：自定义表单以旧版格式显示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024 年 1 月 3 日 |
 | [账单记录：不保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024 年 1 月 3 日 |
-| [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 2 日 |
 | [通知：Workfront 移动设备应用程序的推送通知无法正常工作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024 年 1 月 2 日 |
-| [自定义表单：通过列编辑自定义表单时出错](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024 年 1 月 2 日 |
-| [文档：向文档添加表单时出现“未保存的更改”错误](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024 年 12 月 5 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 12 月 3 日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
 | [用户：登录后“未注册”标记仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024 年 11 月 13 日 |
@@ -58,11 +57,8 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [展示板：无法将信息卡移至不同列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025 年 1 月 2 日 |
-| [自定义表单：编辑自定义表单时出现“无效字段”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025 年 1 月 2 日 |
 | [用户：批量更新用户非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025 年 1 月 2 日 |
-| [请求和问题：高级用户分配错误](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025 年 1 月 2 日 |
 | [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
-| [校样：浏览器选项卡上未显示校样名称](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024 年 12 月 11 日 |
 | [报告：图表列表中的批量编辑没有响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024 年 12 月 3 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |
 | [API：请求超时](known-issues-workfront/wf-api-request-timing-out.md) | 2024 年 10 月 24 日 |
@@ -82,6 +78,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月16日 |
 | [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
 | [Workfront：整个应用程序的日期格式都会发生变化](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024 年 12 月 20 日 |
 | [审批：被委派人无法看到委派的审批](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024 年 12 月 20 日 |
