@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ee341bb6-49d4-4acb-ac70-fce43c617a7a
 source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此问题已于2025年1月16日修复。
+>此问题已于 2025 年 1 月 16 日修复。
 
 当用户查看校样时，校样名称不会显示在浏览器选项卡上。相反，浏览器选项卡会显示 “Workfront”。
 

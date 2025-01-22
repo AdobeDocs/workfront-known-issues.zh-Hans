@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Custom Forms
 exl-id: 8e812a51-617f-4aa7-be29-184f018e9baa
 source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->此文章已于2025年1月13日修复。
+>本文已于 2025 年 1 月 13 日修复。
 
 当用户在对象的详细信息区域中编辑自定义表单时，如果其中一个自定义表单的必填字段当前为空，则用户无法编辑表单，并会看到以下消息：
 
