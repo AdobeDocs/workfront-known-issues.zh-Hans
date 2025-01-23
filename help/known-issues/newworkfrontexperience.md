@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: ht
-source-wordcount: '1179'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '1189'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [报告：向下钻取中的自定义预输入字段无响应](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025年1月23日 |
+| [登录身份：显示管理员主页布局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025年1月23日 |
+| [用户：编辑成本率错误](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | 2025年1月23日 |
 | [任务：移动后，记录时间仍保留在上一个项目上](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025 年 1 月 16 日 |
 | [报告：小时报告过滤器包含错误的日期](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 2025 年 1 月 16 日 |
 | [时间表：总小时数不正确](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025 年 1 月 16 日 |
@@ -35,7 +38,6 @@ ht-degree: 100%
 | [通知：Workfront 移动设备应用程序的推送通知无法正常工作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024 年 1 月 2 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 12 月 3 日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
-| [用户：登录后“未注册”标记仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024 年 11 月 13 日 |
 | [Workfront：打开的浏览器选项卡无法加载](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [API: API 调用因 SQL 错误而失败](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024 年 9 月 12 日 |
@@ -57,7 +59,6 @@ ht-degree: 100%
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [展示板：无法将信息卡移至不同列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025 年 1 月 2 日 |
-| [用户：批量更新用户非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025 年 1 月 2 日 |
 | [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024 年 12 月 11 日 |
 | [报告：图表列表中的批量编辑没有响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024 年 12 月 3 日 |
 | [报告：Report Builder 加载时间过长](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024 年 11 月 21 日 |

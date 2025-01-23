@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: ht
-source-wordcount: '2356'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '2378'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [报告：向下钻取中的自定义预输入字段无响应](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [登录身份：显示管理员主页布局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [用户：编辑成本率错误](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [任务：移动后，记录时间仍保留在上一个项目上](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [报告：小时报告过滤器包含错误的日期](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
       + [时间表：总小时数不正确](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)

@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 100%
 2025 年进行了以下维护更新。
 
 ## 2025 年 1 月更新
+
++++**2025年1月23日维护更新**
+
+### 2025年1月23日维护更新
+
+#### 报告
+
+**自定义货币字段导致报告错误**
+
+当报表视图包含两个或多个自定义货币字段时，报表将返回并出现错误。
+
+#### 用户
+
+**“未注册”标记在登录**&#x200B;后仍然存在
+
+尽管至少成功登录过一次，但“未注册”标记并没有像新用户预期的那样消失。
+
++++
 
 +++**2025 年 1 月 16 日维护更新**
 

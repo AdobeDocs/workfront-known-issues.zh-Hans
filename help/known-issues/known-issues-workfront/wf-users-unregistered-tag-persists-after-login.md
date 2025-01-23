@@ -1,16 +1,21 @@
 ---
-title: “用户：登录后“未注册”标记仍然存在”
-description: “尽管至少成功登录过一次，但“未注册”标记并没有像新用户预期的那样消失。”
+title: 用户：登录后“未注册”标记仍然存在
+description: 尽管至少成功登录过一次，但“未注册”标记并没有像新用户预期的那样消失。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '60'
+ht-degree: 90%
 
 ---
 
 # 用户：登录后“未注册”标记仍然存在
+
+>[!NOTE]
+>
+>此文章已于2025年1月23日修复。
 
 尽管至少成功登录过一次，但“未注册”标记并没有像新用户预期的那样消失。
 
