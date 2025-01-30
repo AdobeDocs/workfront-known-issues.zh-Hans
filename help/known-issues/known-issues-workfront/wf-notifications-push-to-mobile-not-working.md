@@ -3,15 +3,19 @@ title: 通知：Workfront 移动设备应用程序的推送通知无法正常工
 description: 当发生应触发向 Workfront 移动设备应用程序推送通知的事件时，不会收到通知。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 0031b3acdaba091cc83ae44b9d47fb473dae6053
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+exl-id: 5f2fab99-d825-4abf-ae4a-d03de6d10de2
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '87'
+ht-degree: 93%
 
 ---
 
-
 # 通知：Workfront 移动设备应用程序的推送通知无法正常工作
+
+>[!NOTE]
+>
+>此文章已于2025年1月22日修复。
 
 当发生应触发向 Workfront 移动设备应用程序推送通知的事件时，不会收到通知。
 

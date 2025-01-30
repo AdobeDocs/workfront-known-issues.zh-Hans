@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '2378'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '2391'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [验证：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [任务：可用于任务的项目级筛选器和视图](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [报告：深入分析中的自定义预输入字段无响应](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [登录为：显示管理员主页布局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [用户：编辑成本费率错误](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 100%
       + [状态：无法重复使用之前删除的状态](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [主页：无法移除“提及”小组件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [文档：使用文档的公共链接时出错](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [文档：使用文档的公共链接时出错](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [项目：共享菜单未加载](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [报告：报告的公共链接无效](known-issues-workfront/wf-reports-public-link-not-working.md)

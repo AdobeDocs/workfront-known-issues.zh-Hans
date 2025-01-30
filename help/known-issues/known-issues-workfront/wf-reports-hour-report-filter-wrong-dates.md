@@ -3,14 +3,19 @@ title: 报告：小时报告过滤器包含错误的日期
 description: 筛选小时报告使其仅显示某个特定日期时，报告中实际上包含了另一个相邻日期。该问题似乎与时区设置有关。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 94%
 
 ---
 
 # 报告：小时报告过滤器包含错误的日期
+
+>[!NOTE]
+>
+>此文章已于2025年1月30日修复。
 
 筛选小时报告使其仅显示某个特定日期时，报告中实际上包含了另一个相邻日期。该问题似乎与时区设置有关。
 

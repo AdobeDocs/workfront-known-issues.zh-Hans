@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '337'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '410'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 100%
 2025 年进行了以下维护更新。
 
 ## 2025 年 1 月更新
+
++++**2025年1月30日维护更新**
+
+### 2025年1月30日维护更新
+
+#### 主页
+
+**审批未出现在主页小组件**
+
+用户提交的审批不会显示在其自己的我的审批小部件中，即使进行了筛选以专门显示这些审批也是如此。
+
+#### 报告
+
+**小时报告筛选器包含不正确的日期**
+
+筛选小时报告使其仅显示某个特定日期时，报告中实际上包含了另一个相邻日期。该问题似乎与时区设置有关。
+
++++
 
 +++**2025 年 1 月 23 日维护更新**
 

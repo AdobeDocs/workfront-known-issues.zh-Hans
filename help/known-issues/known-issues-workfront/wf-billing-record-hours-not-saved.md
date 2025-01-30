@@ -4,14 +4,18 @@ description: 当用户尝试将符合条件的小时数添加到业务记录时�
 hidefromtoc: true
 feature: Work Management
 exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
-source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 92%
 
 ---
 
 # 账单记录：不保存小时数
+
+>[!NOTE]
+>
+>此文章已于2025年1月29日修复。
 
 当用户尝试将符合条件的小时数添加到业务记录时，这些小时数不会被保存，并且用户会看到以下消息：
 
