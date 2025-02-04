@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5f2fab99-d825-4abf-ae4a-d03de6d10de2
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此文章已于2025年1月22日修复。
+>本文已于 2025 年 1 月 22 日修复。
 
 当发生应触发向 Workfront 移动设备应用程序推送通知的事件时，不会收到通知。
 

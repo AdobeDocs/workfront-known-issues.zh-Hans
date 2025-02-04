@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1174'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [验证：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年1月30日 |
-| [文档：使用文档的公共链接时出错](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025年1月30日 |
-| [任务：任务可用的项目级筛选器和视图](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025年1月30日 |
+| [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 1 月 30 日 |
+| [文档：使用文档的公共链接时出错](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025 年 1 月 30 日 |
+| [任务：可用于任务的项目级过滤器和视图](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025 年 1 月 30 日 |
 | [报告：深入分析中的自定义预输入字段无响应](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025 年 1 月 23 日 |
 | [任务：移动后，记录时间仍保留在上一个项目上](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025 年 1 月 16 日 |
 | [时间表：总小时数不正确](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025 年 1 月 16 日 |

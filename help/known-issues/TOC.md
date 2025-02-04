@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2391'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [验证：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
-      + [任务：可用于任务的项目级筛选器和视图](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
+      + [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [任务：可用于任务的项目级过滤器和视图](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [报告：深入分析中的自定义预输入字段无响应](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [登录为：显示管理员主页布局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [用户：编辑成本费率错误](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)

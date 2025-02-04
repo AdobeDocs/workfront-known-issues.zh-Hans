@@ -5,9 +5,9 @@ keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '450'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年1月30日 |
+| [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 1 月 30 日 |
 | [文档：文档区域不显示所有文档](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024 年 1 月 2 日 |
 | [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日 |
 | [敏捷：添加子任务时故事展示板变为空白](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024 年 7 月 26 日 |
