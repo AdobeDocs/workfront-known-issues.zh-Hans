@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '410'
-ht-degree: 100%
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+workflow-type: tm+mt
+source-wordcount: '458'
+ht-degree: 90%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 100%
 有关 2025 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 2025 年进行了以下维护更新。
+
+## 2025 年 2 月更新
+
++++**2025年2月6日维护更新**
+
+### 2025年2月6日维护更新
+
+#### 列表
+
+**上传验证后无法编辑任务列表**
+
+将验证上传到项目时，在页面刷新或验证完成上传之前，无法内联编辑该项目的任务列表。
+
++++
 
 ## 2025 年 1 月更新
 
