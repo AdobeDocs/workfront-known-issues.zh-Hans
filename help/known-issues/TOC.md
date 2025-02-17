@@ -19,8 +19,8 @@ ht-degree: 99%
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
       + [验证：无法为通过Fusion从AEM链接的视频创建验证](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [布局模板：已删除的视图仍然可用](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
-      + [自定义表单：自定义预输入字段中缺少公司](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
-      + [文档：无法上传到AEM文件夹文档列表](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
+      + [自定义表格：自定义预先输入字段中缺少公司信息](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [文档：无法上传到 AEM 文件夹文档列表](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [任务：可用于任务的项目级过滤器和视图](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [报告：深入分析中的自定义预输入字段无响应](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
