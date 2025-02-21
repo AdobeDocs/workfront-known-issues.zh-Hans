@@ -3,14 +3,19 @@ title: 自定义表格：自定义预先输入字段中缺少公司信息
 description: 尝试在引用公司对象的自定义预先输入字段中查找公司时，仅显示与该用户相关联的公司，尽管该用户与其他公司位于同一组中也是如此。在某些情况下，不会推荐任何公司。
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: ht
-source-wordcount: '102'
+exl-id: ec96c136-3442-48d8-9ed1-38d169658c10
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 # 自定义表格：自定义预先输入字段中缺少公司信息
+
+>[!NOTE]
+>
+>此问题已关闭，因为它已按预期运行。
 
 尝试在引用公司对象的自定义预先输入字段中查找公司时，仅显示与该用户相关联的公司，尽管该用户与其他公司位于同一组中也是如此。在某些情况下，不会推荐任何公司。
 
