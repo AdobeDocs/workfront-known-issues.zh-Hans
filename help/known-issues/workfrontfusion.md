@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 9b24b2758215149cbc2517f3c7cbac24b4070f10
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 100%
+source-wordcount: '190'
+ht-degree: 96%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com)。有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新](../maintenance/current-updates.md)。
 
-<!--
-## New
+## 新
 
-These recently reported issues are currently under review.
+这些最近报告的问题目前正在审查中。
 
-| **Issue** | **Last Modified** |
+| **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：场景连接错误](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | 2025年2月24日 |
 
-{style="table-layout:auto"}-->
+{style="table-layout:auto"}
 
 ## 进行中
 
