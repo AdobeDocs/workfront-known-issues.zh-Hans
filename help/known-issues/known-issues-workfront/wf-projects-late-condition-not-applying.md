@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Projects
 exl-id: 61a366bc-b2dc-49e1-86f2-e159312e8567
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->此问题已关闭，因为无法复制。
+>由于无法重现，此问题已关闭。
 
 符合系统标记为“逾期”标准的项目未按预期完成情况应用。
 

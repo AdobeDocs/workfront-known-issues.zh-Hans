@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->此问题已于2025年2月14日修复。
+>此问题已于 2025 年 2 月 14 日修复。
 
 当用户单击公共链接转到 Workfront 中的文档时，他们可能会看到以下错误：“该文件已不存在”。
 

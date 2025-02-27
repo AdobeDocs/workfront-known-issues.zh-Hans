@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Tasks
 exl-id: d66210f8-eb94-4d49-84e1-4133b1683f76
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->此问题已于2025年2月20日修复。
+>此问题已于 2025 年 2 月 20 日修复。
 
 任务移至新项目后，原项目的项目总小时数包含了被移动任务的小时数。在新项目中，这些任务仍然正确地保留其记录时间。
 
