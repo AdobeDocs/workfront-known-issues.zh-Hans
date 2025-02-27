@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
 source-wordcount: '1153'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 98%
 | ----------------------------------------------------------------- | ----------------- |
 | [布局模板：自定义迭代部分不可访问](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 2025年2月24日 |
 | [通知：重复的电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025年2月24日 |
-| [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日 |
+| [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [文档：无法上传到 AEM 文件夹文档列表](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025 年 2 月 11 日 |
 | [任务：可用于任务的项目级过滤器和视图](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025 年 1 月 30 日 |
 | [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
@@ -70,9 +70,9 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025年2月20日 |
-| [项目：逾期完成情况未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月20日 |
-| [自定义表格：自定义预先输入字段中缺少公司信息](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025年2月20日 |
+| [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025 年 2 月 20 日 |
+| [项目：逾期完成情况未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025 年 1 月 20 日 |
+| [自定义表格：自定义预先输入字段中缺少公司信息](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025 年 2 月 20 日 |
 | [校样：无法为通过 Fusion 从 AEM 链接的视频创建校样](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [登录为：显示管理员主页布局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025 年 1 月 23 日 |
 | [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024 年 1 月 16 日 |
