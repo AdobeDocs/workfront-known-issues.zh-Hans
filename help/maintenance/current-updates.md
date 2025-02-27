@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '649'
-ht-degree: 100%
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+workflow-type: tm+mt
+source-wordcount: '693'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 100%
 2025 年进行了以下维护更新。
 
 ## 2025 年 2 月更新
+
++++**2025年2月27日维护更新**
+
+### 2025年2月27日维护更新
+
+#### 组
+
+**无法共享管理员访问级别**
+
+当试图将管理员访问级别共享到组时，选中每个组的框没有响应，并且组没有获得预期的访问级别。
+
++++
 
 +++**2025 年 2 月 20 日维护更新**
 
