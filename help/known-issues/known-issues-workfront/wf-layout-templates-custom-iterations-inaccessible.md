@@ -1,17 +1,18 @@
 ---
-title: 布局模板：自定义迭代部分不可访问
-description: 在布局模板中编辑开发周期时，如果尝试导航到自定义分区，该分区不会加载，而是重定向到更新分区。
+title: 布局模板：自定义迭代部分无法访问
+description: 在编辑布局模板中的迭代时尝试导航到自定义部分，该部分不加载，而是重定向到更新部分。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: tm+mt
+exl-id: 22b36104-8ec1-4a8c-9b50-58b0d0945598
+source-git-commit: fc79f8aec41eaf077edccc2309ef86e4724c7787
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 布局模板：自定义迭代部分不可访问
+# 布局模板：自定义迭代部分无法访问
 
-在布局模板中编辑开发周期时，如果尝试导航到自定义分区，该分区不会加载，而是重定向到更新分区。
+在编辑布局模板中的迭代时尝试导航到自定义部分，该部分不加载，而是重定向到更新部分。
 
-_首次报告于2025年1月2日。_
+_首次报告于 2025 年 1 月 2 日。_

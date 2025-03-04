@@ -3,9 +3,9 @@ user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
 source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2438'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
-      + [布局模板：自定义迭代部分不可访问](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
-      + [通知：重复电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
-      + [Workfront Fusion：场景连接错误](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
+      + [布局模板：自定义迭代部分无法访问](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
+      + [通知：重复的电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
+      + [Workfront Fusion：场景连接出错](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [校样：无法为通过 Fusion 从 AEM 链接的视频创建校样](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [布局模板：已删除的视图仍然可用](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [自定义表格：自定义预先输入字段中缺少公司信息](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
