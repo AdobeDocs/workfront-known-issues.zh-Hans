@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
 workflow-type: tm+mt
 source-wordcount: '1162'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [布局模板：自定义迭代部分不可访问](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 2025年2月24日 |
+| [布局模板：自定义迭代部分无法访问](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 2025 年 2 月 24 日 |
 | [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [任务：可用于任务的项目级过滤器和视图](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025 年 1 月 30 日 |
 | [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
