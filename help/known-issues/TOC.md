@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2355'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [登录身份：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [集成：使用Workfront for Outlook时出现outlookIdentityToken错误](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [布局模板：自定义迭代部分无法访问](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [通知：重复的电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -180,30 +181,18 @@ ht-degree: 99%
       + [报告：查看按自定义日期分组的报告详细信息时出错](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [主页：审批小组件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [资源规划：[!UICONTROL 更多]按钮不可见](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [状态：无法重复使用之前删除的状态](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [主页：无法移除“提及”小组件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [文档：使用文档的公共链接时出错](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [校样：无法关闭校样查看器](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [项目：共享菜单未加载](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [报告：报告的公共链接无效](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL 资源规划员]：无法共享过滤器](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [实际完成日期显示为 N/A](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [任务：当用户被分配任务时，工作角色不会从列表中消失](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [用户：批量分配时缺少用户](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [自定义表单：编辑描述性文本字段时出错](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [组：无法添加子组](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [更新：被标记的用户无法看到是谁标记了他们](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [文档：下载或预览资产时出现错误屏幕](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [程序：更新用户对程序的访问权限时，将丢失对程序的所有访问权限](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [文档：链接集成文档时使用 UNK 文件扩展名](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [更新：复制并粘贴提及不会通知被提及的用户](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [项目：使用模板从问题创建的项目未反映模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [时间表：固定的时间表变为空白页面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [设置：以其他用户身份登录时，登录横幅不会出现。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [校样审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [[!DNL Workfront Goals]：无法删除目标](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [用户：无法修改用户的访问级别](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [更新：评论中的链接转至空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [校样：校样可防止将任务或问题转化为项目](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
@@ -212,7 +201,6 @@ ht-degree: 99%
       + [报告：报告筛选条件未返回预期结果](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [项目：如果附加了 Web 校样，则无法将问题转化为项目](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
       + [更新：请求者用户无法在更新中添加图像](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [展示板：信息卡未包含子任务](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [展示板：有关重复信息卡的问题](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [新 [!UICONTROL 主页]：小组件筛选条件和分组默认值不遵循版面模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
