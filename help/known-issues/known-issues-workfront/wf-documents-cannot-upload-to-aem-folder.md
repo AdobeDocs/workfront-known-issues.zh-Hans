@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 0cc4c326-0e84-40ac-80ab-c3eeeae68595
 source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->此问题已关闭，因为无法复制。
+>由于无法重现，此问题已关闭。
 
 用户无法将文件拖放到 AEM 文件夹内的主文档列表区域。
 
