@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -56,8 +56,8 @@ ht-degree: 97%
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
 | [集成：使用Workfront for Outlook时出现outlookIdentityToken错误](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日 |
-| [通知：重复的电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025年2月27日 |
-| [文档：无法上传到 AEM 文件夹文档列表](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月27日 |
+| [通知：重复的电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025 年 2 月 27 日 |
+| [文档：无法上传到 AEM 文件夹文档列表](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025 年 2 月 27 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025 年 2 月 20 日 |
 | [项目：逾期完成情况未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025 年 1 月 20 日 |
 | [自定义表格：自定义预先输入字段中缺少公司信息](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025 年 2 月 20 日 |
