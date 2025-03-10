@@ -1,13 +1,13 @@
 ---
-title: '主页：无法在工作列表中查看文档图像'
+title: 主页：无法在工作列表中查看文档图像
 description: 当用户单击 .docx 缩略图查看文档预览时，视频播放器会打开，且用户无法看到文档。
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '107'
+ht-degree: 81%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->产品团队目前正在评估此问题的解决方案。 解决此问题后，将在“产品公告”中进行沟通，而非在“维护更新”中进行沟通。
+>与此问题相关的功能已被弃用。
 
 当用户单击 [!UICONTROL .docx] 缩略图查看文档预览时，视频播放器会打开，且用户无法看到文档。
 

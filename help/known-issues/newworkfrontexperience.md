@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '1036'
-ht-degree: 98%
+source-wordcount: '979'
+ht-degree: 97%
 
 ---
 
@@ -77,6 +77,7 @@ ht-degree: 98%
 | [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
 | [主页：已删除的自定义字段保留在项目、任务和问题小组件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
 | [优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日 |
+| [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 9 月 5 日 |
 | [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024 年 9 月 19 日 |
 | [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024 年 9 月 18 日 |
 | [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 9 月 12 日 |
@@ -119,27 +120,21 @@ ht-degree: 98%
 | [校样：未与校样工作流中的用户共享校样](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
 | [校样：[!UICONTROL 主要校样阶段]字段为空](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 5 日 |
-| [[!UICONTROL 主页]：自定义术语不适用于”主页“区域](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 3 日 |
 | [敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 11 日 |
 | [敏捷：在[!UICONTROL 敏捷]展示板](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)移动信息卡时的问题 | 2022 年 4 月 27 日 |
 | [审批：为不正确的天数设置了审批委派](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | 2022 年 4 月 20 日 |
 | [[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)显示已停用的用户 | 2021 年 10 月 1 日 |
 | [更新：团队名称未出现在 @提及中](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 2021 年 10 月 1 日 |
 | [敏捷：开发周期[!UICONTROL 完成点]的差异](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 2021 年 6 月 22 日 |
-| [[!UICONTROL 主页]：[!UICONTROL 在校样中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
 | [电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021 年 6 月 2 日 |
 | [电子邮件通知：用户未定向到评论会话](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 23 日 |
 | [日程表： [!DNL OR]  过滤语句不包括过滤规则](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 2021 年 4 月 23 日 |
 | [[!UICONTROL Workfront Proof]：[!UICONTROL 校样审批]报告无法准确确定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
-| [[!UICONTROL 主页]：项目名称在[!UICONTROL 工作列表]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)显示为 GUID | 2021 年 2 月 11 日 |
 | [文档：校样工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 1 月 25 日 |
 | [报告：日程表默认为旧日期](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 2021 年 2 月 5 日 |
 | [电子邮件通知： [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) 中的电子邮件格式不正确 | 2021 年 3 月 30 日 |
-| [[!UICONTROL 主页]：无法在[!UICONTROL 工作列表]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)中查看文档图像 | 2020 年 11 月 9 日 |
 | [列表：显示名称未应用于自定义字段分组](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 2020 年 11 月 9 日 |
-| [主页：刷新后审批委派日期发生变化并发送 2 封电子邮件](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 2020 年 11 月 9 日 |
 | [日程表：未显示任务](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020 年 11 月 9 日 |
-| [主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md) | 2024 年 9 月 5 日 |
 
 {style="table-layout:auto"}
 
