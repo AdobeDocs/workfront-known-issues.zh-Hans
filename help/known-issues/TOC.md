@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: ea402fb97b93de9805da8e534aeb641fe1762d60
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '1690'
+source-wordcount: '1701'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：某些用户看不到附加到注释的图像或文档](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [登录身份：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [集成：使用Workfront for Outlook时出现outlookIdentityToken错误](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [布局模板：自定义迭代部分无法访问](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)

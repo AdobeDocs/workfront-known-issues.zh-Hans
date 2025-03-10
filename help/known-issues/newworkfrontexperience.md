@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
+source-git-commit: 8e83060ba2fddb328ca6750d6eb72b2d9e860e6a
 workflow-type: tm+mt
-source-wordcount: '979'
-ht-degree: 97%
+source-wordcount: '977'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [布局模板：自定义迭代部分无法访问](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 2025 年 2 月 24 日 |
 | [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
 | [任务：时间线重新计算的问题](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024 年 12 月 3 日 |
@@ -41,8 +40,8 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [更新：某些用户看不到附加到评论的图像或文档](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日 |
 | [登录身份：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日 |
-| [校样：已批准的校样出现在报告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025 年 2 月 11 日 |
 | [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024 年 9 月 24 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024 年 4 月 11 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

@@ -3,10 +3,10 @@ title: Workfront 的 2022 年维护更新
 description: ' [!DNL Adobe Workfront] 的 2022 年维护更新'
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '16797'
-ht-degree: 100%
+source-wordcount: '16794'
+ht-degree: 99%
 
 ---
 
@@ -1079,14 +1079,13 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 之前，验证电子邮件地址包含您组织的子域。 例如，通知 @[公司域名].my.workfront.com
 
-现在，验证电子邮件地址不再包含组织子域。 所有验证电子邮件通知将来自以下地址：notification@my.workfront.com
+现在，验证电子邮件地址不再包含组织子域。 所有验证电子邮件通知将来自以下地址：`notification@my.workfront.com`
 
 因此，我们建议您采取以下措施：
 
-* 更新您的垃圾邮件过滤器，接受来自 notification@my.workfront.com 的电子邮件
-* 更新您的允许列表，接受来自 notification@my.workfront.com 的电子邮件
-
-**在工作流模板中进行初始配置后无法修改用户选项**
+* 更新垃圾邮件筛选器以接受来自`notification@my.workfront.com`的电子邮件
+* 更新您的允许列表以接受来自`notification@my.workfront.com`的电子邮件
+  **在工作流模板中进行初始配置后无法修改用户选项**
 
 *[!DNL Workfront Proof]*
 
