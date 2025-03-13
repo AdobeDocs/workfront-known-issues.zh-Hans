@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
+source-git-commit: a463b80b8f40ef00f074a855b3a6265595d70198
 workflow-type: tm+mt
-source-wordcount: '727'
-ht-degree: 98%
+source-wordcount: '797'
+ht-degree: 91%
 
 ---
 
@@ -26,9 +26,21 @@ ht-degree: 98%
 
 ## 2025 年 3 月更新
 
-+++**2025年3月6日维护更新**
++++**2025年3月13日维护更新**
 
-### 2025年3月6日维护更新
+### 2025年3月13日维护更新
+
+#### 报告
+
+图表中的&#x200B;**项计数不准确**
+
+在功能板报表中，单击包含15个以上的项目并选择仅显示15个的图表结果可按预期工作。 但是，如果您在功能板外打开同一报告并单击同一图表结果，则表示显示了所有项目，但实际上只显示了15个。
+
++++
+
++++**2025 年 3 月 6 日维护更新**
+
+### 2025 年 3 月 6 日维护更新
 
 此更新仅包含次要或影响不大的错误修复。当您提交的问题得到修复时，Workfront 支持人员会通知您。
 
