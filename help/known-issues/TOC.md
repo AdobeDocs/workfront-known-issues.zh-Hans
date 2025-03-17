@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '1716'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [更新：更新延迟](known-issues-workfront/wf-updates-delay-in-updates.md)
+      + [验证：验证的生成速度非常慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
       + [请求：请求队列不可用](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [项目：项目进度状态不会自动更新为延迟](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [更新：某些用户看不到附加到注释的图像或文档](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
