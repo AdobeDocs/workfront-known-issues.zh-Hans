@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
+source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '984'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [验证：验证生成速度非常慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025年3月17日 |
+| [验证：验证生成缓慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025年3月17日 |
 | [项目：项目进度状态不会自动更新为延迟](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | 2025年3月13日 |
 | [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |

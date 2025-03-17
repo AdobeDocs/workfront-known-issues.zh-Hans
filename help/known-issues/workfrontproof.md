@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
+source-git-commit: 9369fd311a0d3610cc431ce51bcfb4bf25a20005
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [验证：验证生成速度非常慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025年3月17日 |
+| [验证：验证生成缓慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md) | 2025年3月17日 |
 | [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [文档：文档区域不显示所有文档](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024 年 1 月 2 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
