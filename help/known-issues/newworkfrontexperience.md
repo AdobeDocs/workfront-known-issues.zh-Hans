@@ -41,7 +41,7 @@ ht-degree: 96%
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [更新：某些用户看不到附加到评论的图像或文档](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日 |
-| [登录为：群组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
+| [登录为：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
 {style="table-layout:auto"}
