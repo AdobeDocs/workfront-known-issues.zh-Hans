@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 >
 >* 此问题已于 2024 年 9 月 5 日修复。
 >* 预览沙盒环境和自定义刷新沙盒环境中已经报告了这个问题。
->* 使用旧版(非Adobe) SSO的组织已报告此问题。
+>* 据报告，使用旧版（非 Adobe）SSO 的组织存在此问题。
 
 使用 SSO 的 Workfront 功能返回以下错误：
 

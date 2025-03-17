@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Tasks
 exl-id: 3f28e60d-8c19-432b-94af-be217d607cad
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->此问题已于2025年2月21日修复。
+>此问题已于 2025 年 2 月 21 日修复。
 
 打开任务的过滤器或视图列表时，在项目级别创建的过滤器和视图会出现在选项列表中。
 

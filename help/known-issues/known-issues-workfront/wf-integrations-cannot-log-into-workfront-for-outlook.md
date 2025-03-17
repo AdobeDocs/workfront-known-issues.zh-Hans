@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
 source-git-commit: c60a7c70346bda8d794899c6d924c8f3605f1c9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此问题已于2024年10月12日修复。
+>此问题已于 2024 年 10 月 12 日修复。
 
 当用户尝试登录 Workfront 以使用 Outlook 时，按钮没有响应，造成用户无法登录。
 
