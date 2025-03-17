@@ -3,10 +3,10 @@ title: 验证：验证的生成速度非常慢
 description: 当用户在Workfront中创建验证时，验证可能需要3-10分钟才能生成。 证据产生了，但很慢。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7b4146154fa50c77daf237ec8c480b900c0aa277
+source-git-commit: 6243a56d1b351bc7dd343cd8580a2b7ce3eae588
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 19%
 
 ---
 
