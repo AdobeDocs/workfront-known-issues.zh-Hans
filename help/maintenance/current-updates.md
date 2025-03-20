@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a463b80b8f40ef00f074a855b3a6265595d70198
+source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
 workflow-type: tm+mt
-source-wordcount: '797'
-ht-degree: 91%
+source-wordcount: '827'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,16 @@ ht-degree: 91%
 2025 年进行了以下维护更新。
 
 ## 2025 年 3 月更新
+
+
+
++++**2025年3月20日维护更新**
+
+### 2025年3月20日维护更新
+
+此更新仅包含次要或影响不大的错误修复。当您提交的问题得到修复时，Workfront 支持人员会通知您。
+
++++
 
 +++**2025年3月13日维护更新**
 
