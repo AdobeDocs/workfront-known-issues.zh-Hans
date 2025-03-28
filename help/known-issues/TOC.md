@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
+source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
 workflow-type: tm+mt
-source-wordcount: '1745'
-ht-degree: 96%
+source-wordcount: '1772'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [请求：嵌入的代码URL无法正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+      + [报告：不同时区的用户获得不同的报告结果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+      + [用户：组管理员无法停用用户](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [过滤器：单击滚动条时，下拉菜单消失](known-issues-workfront/wf-filter-scroll-bar.md)
       + [主页：无法从提及小组件发送回复](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [更新：更新延迟](known-issues-workfront/wf-updates-delay-in-updates.md)
