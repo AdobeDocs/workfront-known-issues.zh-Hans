@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '986'
 ht-degree: 95%
 
 ---
@@ -106,7 +106,6 @@ ht-degree: 95%
 | [校样：校样未在报告中显示为已批准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023 年 7 月 20 日 |
 | [校样：在预览环境中创建校样缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
-| [文档：[!UICONTROL 校样活动]选项引向登录页面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [筛选条件：无法在仪表板上共享报告中的筛选条件](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
 | [校样：测量工具不接受小数点](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
 | [文档：访问从  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误 | 2023 年 3 月 23 日 |

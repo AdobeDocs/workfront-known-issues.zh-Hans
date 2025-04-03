@@ -4,9 +4,9 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+source-git-commit: ab447226ac968d1efee5a8846e8aa1f02661af47
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '416'
 ht-degree: 95%
 
 ---
@@ -63,7 +63,6 @@ ht-degree: 95%
 | [校样：校样预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023 年 6 月 9 日 |
 | [校样：在预览环境中创建校样缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)访问 [!DNL Workfront Proof] 时出现 500 错误 | 2023 年 5 月 25 日 |
-| [文档：[!UICONTROL 校样活动]选项引向登录页面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 21 日 |
 | [校样：测量工具不接受小数点](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |
 | [文档：访问从  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误 | 2023 年 3 月 23 日 |
 | [文档：文档列表有问题](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023 年 3 月 23 日 |
