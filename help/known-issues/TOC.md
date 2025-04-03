@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '1772'
-ht-degree: 95%
+source-wordcount: '1794'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [仪表板：自定义仪表板未打开](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [请求：嵌入的代码URL无法正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [报告：不同时区的用户获得不同的报告结果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
       + [用户：组管理员无法停用用户](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -225,6 +226,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+      + [Workfront Fusion：连接到沙盒环境时，Workfront事件订阅版本2选项不可用](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion：场景未运行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：无法从 Workfront Fusion 添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 94%
+source-wordcount: '995'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [仪表板：自定义仪表板未打开](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 2025年4月3日 |
 | [请求：嵌入的代码URL未正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年3月27日 |
 | [报告：不同时区的用户获得不同的报告结果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 2025年3月27日 |
 | [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
@@ -41,7 +42,6 @@ ht-degree: 94%
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [用户：组管理员无法停用用户](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 2025年3月27日 |
-| [更新：某些用户看不到附加到评论的图像或文档](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日 |
 | [登录为：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
