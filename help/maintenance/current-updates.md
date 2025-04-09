@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
+source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
 workflow-type: tm+mt
-source-wordcount: '891'
-ht-degree: 89%
+source-wordcount: '964'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 89%
 2025 年进行了以下维护更新。
 
 ## 2025 年 4 月更新
+
++++**（已计划）2025年4月10日维护更新**
+
+### **（已计划）2025年4月10日维护更新**
+
+#### 仪表板
+
+**自定义仪表板未打开**
+
+当用户查看对象并尝试打开附加到对象的自定义仪表板时，仪表板未打开。
+
+#### 报告
+
+**不同时区的用户将获得不同的报告结果**
+
+处于不同时区、使用日期选择器获取特定日期的报告的用户会获得该报告的不同结果。
+
++++
 
 +++**2025年4月3日维护更新**
 
