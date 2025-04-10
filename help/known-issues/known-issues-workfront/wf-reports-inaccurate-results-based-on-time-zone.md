@@ -4,14 +4,18 @@ description: 处于不同时区、使用日期选择器获取特定日期的报�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 56e1c820-0199-4fe6-9d81-c518ae0d4309
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '97'
 ht-degree: 1%
 
 ---
 
 # 报告：不同时区的用户获得不同的报告结果
+
+>[!NOTE]
+>
+>此问题已于4月10日解决。 2025年。
 
 处于不同时区、使用日期选择器获取特定日期的报告的用户会获得该报告的不同结果。
 

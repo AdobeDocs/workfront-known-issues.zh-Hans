@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '986'
-ht-degree: 95%
+source-wordcount: '968'
+ht-degree: 97%
 
 ---
 
@@ -25,9 +25,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [仪表板：自定义仪表板未打开](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 2025年4月3日 |
 | [请求：嵌入的代码URL未正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年3月27日 |
-| [报告：不同时区的用户获得不同的报告结果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 2025年3月27日 |
 | [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
 | [Workfront：打开的浏览器选项卡无法加载](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
