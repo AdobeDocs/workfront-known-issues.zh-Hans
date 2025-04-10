@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
+source-git-commit: cb008302e356aebf208353058a6fada352155c61
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: '952'
 ht-degree: 97%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [请求：嵌入的代码URL未正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年3月27日 |
 | [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
-| [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025 年 1 月 9 日 |
 | [Workfront：打开的浏览器选项卡无法加载](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024 年 11 月 12 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -39,7 +37,7 @@ ht-degree: 97%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [用户：组管理员无法停用用户](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 2025年3月27日 |
+| [请求：嵌入的代码URL未正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年4月10日 |
 | [登录为：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
