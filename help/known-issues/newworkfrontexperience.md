@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: fcea0943bdcea64988c6db4584a79486d12611f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '947'
+ht-degree: 98%
 
 ---
 
@@ -38,7 +38,6 @@ ht-degree: 0%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [请求：嵌入的代码URL未正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年4月10日 |
 | [登录为：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 
