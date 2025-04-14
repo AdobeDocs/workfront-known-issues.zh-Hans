@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
+source-git-commit: 769cf7631661402b5add6e719838358859e25a21
 workflow-type: tm+mt
-source-wordcount: '1794'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+      + [模板：无法与Contribute访问权限共享](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [仪表板：自定义仪表板未打开](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [请求：嵌入的代码URL无法正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [报告：不同时区的用户获得不同的报告结果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
