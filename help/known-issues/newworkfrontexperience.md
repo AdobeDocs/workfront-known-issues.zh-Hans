@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fcea0943bdcea64988c6db4584a79486d12611f1
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '947'
-ht-degree: 98%
+source-wordcount: '954'
+ht-degree: 97%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 98%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
 | [登录为：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025 年 3 月 6 日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |
 

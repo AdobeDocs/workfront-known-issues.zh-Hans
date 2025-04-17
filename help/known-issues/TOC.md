@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1806'
+ht-degree: 92%
 
 ---
 
@@ -16,7 +16,8 @@ ht-degree: 0%
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
-   + [!DNL Adobe Workfront] {#wf-current} 的当前问题
+   + [!DNL Adobe Workfront]中的当前问题 {#wf-current}
+      + [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [模板：无法与Contribute访问权限共享](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [仪表板：自定义仪表板未打开](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [请求：嵌入的代码URL无法正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
@@ -200,7 +201,7 @@ ht-degree: 0%
 
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
-   + [!DNL Workfront Proof] {#proof-current} 的当前问题
+   + [!DNL Workfront Proof]中的当前问题 {#proof-current}
       + [Workfront Mobile：校样电子邮件链接无法在 iPhone 上打开](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [[!UICONTROL Workfront Proof]：创建校样时无法为资源重新排序](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]上的时间戳不准确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -220,13 +221,13 @@ ht-degree: 0%
       + [[!UICONTROL 校样审批]报告无法准确确定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL 主页]：已完成的校样停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [文档：校样工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + [!DNL Workfront]校样{#proof-resolved}中已解决的问题
+   + [!DNL Workfront]校对中已解决的问题 {#proof-resolved}
       + [校样：校样显示为“[!UICONTROL 正在生成校样]”的时间过长](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
-   + [!DNL Workfront Fusion] {#fusion-current} 的当前问题
+   + [!DNL Workfront Fusion]中的当前问题 {#fusion-current}
       + [Workfront Fusion：连接到沙盒环境时，Workfront事件订阅版本2选项不可用](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion：场景未运行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
@@ -241,11 +242,11 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront 模板] {#goals}
++ [!UICONTROL Adobe Workfront目标] {#goals}
    + [存在于  [!DNL Workfront Goals] 的已知问题](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [存在于  [!DNL Workfront Library] 的已知问题](workfrontlibrary.md)
-+ [!DNL Workfront]移动设备应用程序{#mobile}
++ [!DNL Workfront]移动应用 {#mobile}
    + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [存在于  [!DNL Workfront Scenario Planner] 的已知问题](workfrontscenarioplanner.md)
