@@ -4,10 +4,10 @@ description: 当用户尝试将符合条件的小时数添加到业务记录时�
 hidefromtoc: true
 feature: Work Management
 exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->本文已于 2025 年 1 月 29 日修复。
+>此问题已于2025年1月29日修复。
 
 当用户尝试将符合条件的小时数添加到业务记录时，这些小时数不会被保存，并且用户会看到以下消息：
 

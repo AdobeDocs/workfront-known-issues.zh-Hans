@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
-source-wordcount: '1806'
-ht-degree: 92%
+source-wordcount: '1625'
+ht-degree: 91%
 
 ---
 
@@ -50,50 +50,29 @@ ht-degree: 92%
       + [主页：等待审批小组件中缺少审批按钮](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [项目：逾期完成情况未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [自定义表单：自定义表单以旧版格式显示](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [账单记录：不保存小时数](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [展示板：无法将信息卡移至不同列](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [自定义表单：编辑自定义表单时出现“无效字段”消息](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [用户：批量更新用户非常慢](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [自定义表单：单选按钮水平列出](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [更新：记录的小时数不会显示在更新区域的日志时间标签上](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [通知：Workfront 移动设备应用程序的推送通知无法正常工作](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [文档：文档区域不显示所有文档](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [自定义表单：通过列编辑自定义表单时出错](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [请求和问题：高级用户分配错误](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [自定义表单：自定义数据未显示在“摘要”面板中](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [敏捷：无法在开发周期中批量编辑故事](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [校样：无法将收件人添加到校样中](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [校样：浏览器选项卡上未显示校样名称](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [任务：添加个人任务时出现“糟糕”错误](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [审批：被委派人无法看到委派的审批](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [文档：向文档添加表单时出现“未保存的更改”错误](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [任务：尽管前置任务已完成，但“准备开始”字段未更新](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront：整个应用程序的日期格式都会发生变化](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 设置可能会导致性能下降](known-issues-workfront//wf-workfront-zscaler.md)
-      + [时间表：投稿人用户有一个“提交以供审批”按钮](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
-      + [通知：未发送更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [自定义表单：无法添加 “estimateByHours” 或 “hoursPerPoint” 任务字段](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [文档：审批“快速添加”不包括新版本的截止日期条目](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [布局模板：管理员无法编辑”主页“布局模板](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [通知：未发送有关更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
       + [用户：登录后“未注册”标记仍然存在](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront：投稿人用户无法访问”项目或项目组合“](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [审批：“全部”筛选条件排除个人提交的审批](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [任务：有子任务的父任务“占用天数”持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [报告：图表列表中的批量编辑没有响应](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront：打开的浏览器选项卡无法加载](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [报告：无法加载报告](known-issues-workfront/wf-reports-fail-to-load.md)
       + [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [主页：“我的更新”小组件不起作用](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [文档：文档上缺少审批选项按钮](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [集成：Unified Shell 组织的 JumpSeat 集成失效](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [校样：无法在预览环境中创建校样](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [主页：已删除的自定义字段保留在项目、任务和问题小组件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [项目：由于“删除权限”错误，无法共享项目](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [群组：已删除的群组状态重新出现](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)

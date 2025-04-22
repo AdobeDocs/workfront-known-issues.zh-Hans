@@ -4,10 +4,10 @@ description: 当用户尝试将信息卡移动到另一列时，信息卡不会�
 hidefromtoc: true
 feature: Agile
 exl-id: adac7c77-8517-4b7e-ae55-ad72cace8d54
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->本文已于 2025 年 1 月 30 日修复。
+>此问题已于2025年1月30日修复。
 
 当用户尝试将信息卡移动到另一列时，信息卡不会移动，并且用户会看到以下消息：
 

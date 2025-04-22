@@ -1,13 +1,13 @@
 ---
 title: Workfront：品牌推广不可用
-description: 当用户将文件上传到设置的品牌化区域时，似乎正确上传了这些文件。但如果用户查看“主菜单”，却看不到徽标，而是看到一条错误消息。
+description: 品牌推广不适用于已迁移到Adobe Admin Console、Adobe Unified Shell或Adobe IMS (Identity Management System)的组织。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 56%
+source-wordcount: '181'
+ht-degree: 39%
 
 ---
 

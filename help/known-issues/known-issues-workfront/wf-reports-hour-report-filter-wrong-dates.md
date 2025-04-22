@@ -4,10 +4,10 @@ description: 筛选小时报告使其仅显示某个特定日期时，报告中�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->本文已于 2025 年 1 月 30 日修复。
+>此问题已于2025年1月30日修复。
 
 筛选小时报告使其仅显示某个特定日期时，报告中实际上包含了另一个相邻日期。该问题似乎与时区设置有关。
 
