@@ -4,10 +4,10 @@ description: 当用户长时间打开 Workfront 浏览器选项卡，以至于 W
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 91%
+source-wordcount: '115'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->此问题的修复正在逐步推出。
+>已解决此问题。
 
 当用户长时间打开 Workfront 浏览器选项卡，以至于 Workfront 要求再次登录时，页面不会提示用户再次登录，而是显示错误：“500-001a：无法加载页面”。
 
