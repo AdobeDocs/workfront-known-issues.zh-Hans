@@ -299,7 +299,7 @@ Kanban 团队不受此问题的影响。
 
 +++**[!DNL Workfront Fusion]2022 年11 月 3 日维护更新**
 
-[!DNL Workfront] >[!UICONTROL  关注事件]模块&#x200B;**中** apiKey[!UICONTROL  的错误]
+[!DNL Workfront] >[!UICONTROL &#x200B; 关注事件]模块&#x200B;**中** apiKey[!UICONTROL &#x200B; 的错误]
 
 *[!DNL Workfront Fusion]*
 
@@ -1536,7 +1536,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 *[!DNL Workfront Proof]*
 
-显示在给定用户 [!DNL Workfront Proof] 的[!UICONTROL 联系人]区域的电子邮件警报设置与用户的[!UICONTROL 用户详细信息 ]页面的电子邮件警报设置不同。
+显示在给定用户 [!DNL Workfront Proof] 的[!UICONTROL 联系人]区域的电子邮件警报设置与用户的[!UICONTROL 用户详细信息 &#x200B;]页面的电子邮件警报设置不同。
 
 **对验证进行评论时无法使用“文本”工具**
 
@@ -1933,7 +1933,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 *报告*
 
-当使用[!UICONTROL 里程碑]视图显示项目报告时，用户收到“[!UICONTROL  APIModel INTERNAL 不支持 namedQuery TILE:milestone-view (UIVW)]“错误。
+当使用[!UICONTROL 里程碑]视图显示项目报告时，用户收到“[!UICONTROL &#x200B; APIModel INTERNAL 不支持 namedQuery TILE:milestone-view (UIVW)]“错误。
 
 **自定义术语不一致**
 
