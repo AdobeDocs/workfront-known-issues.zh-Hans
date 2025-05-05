@@ -649,7 +649,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 自 2022 年 9 月 8 日星期四起，我们已移除将验证通过电子邮件发送到独立版 [!DNL Workfront Proof] 产品中的拖放区域的功能。
 
-您仍然可以通过其他方式使用拖放区域向您的帐户提交新验证和新版本验证，而无需登录您的帐户。 有关更多信息，请参阅[拖放区域](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html)。
+您仍然可以通过其他方式使用拖放区域向您的帐户提交新验证和新版本验证，而无需登录您的帐户。 有关更多信息，请参阅[拖放区域](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=zh-Hans)。
 
 +++
 
