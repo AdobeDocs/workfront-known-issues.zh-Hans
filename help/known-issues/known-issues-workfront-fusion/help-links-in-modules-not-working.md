@@ -4,10 +4,10 @@ description: ' [!DNL Workfront Fusion]  中的帮助链接当前不指向预期�
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已于 2023 年 4 月 25 日修复。
+>此问题已于2025年5月5日修复。
 
 [!DNL Workfront Fusion] 中的帮助链接当前不指向预期的帮助页面。 相反，所有 [!DNL Fusion] 帮助链接都指向 [!DNL Workfront] 文档主页。 从该登陆页面，您可以搜索您需要的信息。
 

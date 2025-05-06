@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 91%
+source-wordcount: '185'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：连接到沙盒环境时，Workfront事件订阅版本2选项不可用](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | 2025年4月3日 |
+| 无 |  |
 
 {style="table-layout:auto"}
 
