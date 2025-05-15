@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
+source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
 workflow-type: tm+mt
-source-wordcount: '1086'
-ht-degree: 82%
+source-wordcount: '1129'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 82%
 2025 年进行了以下维护更新。
 
 ## 2025 年 5 月更新
+
++++**2025年5月15日维护更新**
+
+### 2025年5月15日维护更新
+
+#### 报告
+
+**查看具有里程碑视图的报告时出错**
+
+当用户尝试查看启用了里程碑视图的报告时，报告未加载并显示错误。
+
++++
 
 +++**2025年5月8日维护更新**
 
