@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '937'
 ht-degree: 94%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [搜索：高级搜索未返回预期结果](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | 2025年5月29日 |
+| [时间表：未正确生成时间表](known-issues-workfront/wf-timesheets-one-week-created.md) | 2025年6月3日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
