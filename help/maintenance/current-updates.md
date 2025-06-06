@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 23766d8e6c6e67c7106f138c83057ba99cb1da1a
+source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
 workflow-type: tm+mt
-source-wordcount: '1196'
-ht-degree: 77%
+source-wordcount: '1248'
+ht-degree: 74%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 77%
 有关 2025 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 2025 年进行了以下维护更新。
+
+## 2025 年 6 月更新
+
++++**2025年6月2日至6日维护更新**
+
+### 2025年6月2日至6日维护更新
+
+### 搜索
+
+**高级搜索未返回预期结果**
+
+当用户使用高级搜索时，不会返回预期结果。 即使没有将过滤器应用于高级搜索，也可能发生这种情况。
+
++++
 
 ## 2025 年 5 月更新
 
