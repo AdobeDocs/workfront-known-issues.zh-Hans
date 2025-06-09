@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
+source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 91%
+source-wordcount: '419'
+ht-degree: 90%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 91%
 
 ## 新
 
-这些最近报告的问题目前正在审查中。
+这些最近报告的问题目前正在审阅中。
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
@@ -37,6 +37,7 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：无法从直接链接](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)打开验证 | 2025年6月9日 |
 | [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
 | [更新：某些用户看不到附加到评论的图像或文档](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日 |
 | [校样：已批准的校样出现在报告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025 年 2 月 11 日 |
