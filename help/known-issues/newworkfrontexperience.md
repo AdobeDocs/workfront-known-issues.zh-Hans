@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '911'
 ht-degree: 94%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 94%
 | [集成：使用 Workfront for Outlook 时出现 outlookIdentityToken 错误](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025 年 3 月 4 日 |
 | [通知：重复的电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025 年 2 月 27 日 |
 | [文档：无法上传到 AEM 文件夹文档列表](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025 年 2 月 27 日 |
-| [集成：无法登录 Workfront 以使用 Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025 年 2 月 20 日 |
 | [项目：逾期完成情况未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025 年 1 月 20 日 |
 | [自定义表格：自定义预先输入字段中缺少公司信息](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025 年 2 月 20 日 |
 | [校样：无法为通过 Fusion 从 AEM 链接的视频创建校样](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
@@ -70,7 +69,6 @@ ht-degree: 94%
 | [通知：未发送有关更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024 年 12 月 5 日 |
 | [Workfront：投稿人用户无法访问”项目“或”项目组合“](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024 年 12 月 5 日 |
 | [Workfront：ZScaler 设置可能会导致性能下降](known-issues-workfront//wf-workfront-zscaler.md) | 2024 年 11 月 20 日 |
-| [通知：投稿人用户未收到电子邮件通知](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024 年 11 月 12 日 |
 | [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024 年 10 月 29 日 |
 | [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md) | 2024 年 10 月 14 日 |
 | [主页：已删除的自定义字段保留在项目、任务和问题小组件中](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日 |
@@ -99,7 +97,6 @@ ht-degree: 94%
 | [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
 | [[!UICONTROL 主页]：新[!UICONTROL 主页]中的“[!UICONTROL 提及]”小组件不限于其中标出了用户的消息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023 年 9 月 25 日 |
 | [[!UICONTROL 主页]：新的[!UICONTROL 主页]小组件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 7 日 |
-| [校样：校样未在报告中显示为已批准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [校样：在预览环境中创建校样缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [筛选条件：无法在仪表板上共享报告中的筛选条件](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 11 日 |
 | [校样：测量工具不接受小数点](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023 年 3 月 27 日 |

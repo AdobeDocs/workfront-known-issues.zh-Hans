@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 90%
+source-wordcount: '393'
+ht-degree: 89%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 90%
 | [验证：无法从直接链接](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)打开验证 | 2025年6月9日 |
 | [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
 | [更新：某些用户看不到附加到评论的图像或文档](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日 |
-| [校样：已批准的校样出现在报告中](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025 年 2 月 11 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [主页：审批小组件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 
@@ -60,7 +59,6 @@ ht-degree: 90%
 | [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 25 日 |
 | [Workfront Proof：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
 | [Workfront Proof：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023 年 9 月 19 日 |
-| [校样：校样未在报告中显示为已批准](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 3 日 |
 | [校样：校样预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023 年 6 月 9 日 |
 | [校样：在预览环境中创建校样缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 8 日 |
 | [[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)访问 [!DNL Workfront Proof] 时出现 500 错误 | 2023 年 5 月 25 日 |
@@ -76,7 +74,6 @@ ht-degree: 90%
 | [校样：未与校样工作流中的用户共享校样](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 18 日 |
 | [校样：[!UICONTROL 主要校样阶段]字段为空](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 14 日 |
 | [[!DNL Workfront Proof]：无法通过在评论中标记用户来将用户添加到校样中](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022 年 3 月 23 日 |
-| [[!UICONTROL 主页]：[!UICONTROL 在校样中回复]按钮行为不一致](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 21 日 |
 | [[!DNL Workfront Proof]: [!UICONTROL 校样审批]报告无法准确地确定最后期限](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 21 日 |
 | [文档：校样工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 3 月 5 日 |
 
