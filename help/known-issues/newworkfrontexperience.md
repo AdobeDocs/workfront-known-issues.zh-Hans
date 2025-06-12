@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '952'
-ht-degree: 93%
+source-wordcount: '939'
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 93%
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
 | [报告：图表明细包含不准确的结果](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | 2025年6月9日 |
-| [时间表：未正确生成时间表](known-issues-workfront/wf-timesheets-one-week-created.md) | 2025年6月3日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
@@ -38,7 +37,6 @@ ht-degree: 93%
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
 | [验证：无法从直接链接](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)打开验证 | 2025年6月9日 |
-| [资源规划者：“导出”按钮已禁用](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 2025年5月29日 |
 | [用户：新用户上显示“未决批准”徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
 | [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
 | [[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 2 日 |

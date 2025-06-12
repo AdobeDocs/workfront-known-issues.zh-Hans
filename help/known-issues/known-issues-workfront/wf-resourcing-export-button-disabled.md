@@ -3,15 +3,19 @@ title: 资源规划者：“导出”按钮被禁用
 description: 当用户尝试从资源规划者导出时，按钮被禁用（灰显）并且用户无法导出。
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+exl-id: cafaefa6-f0f5-4366-88e8-6c433c98280e
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-
 # 资源规划者：“导出”按钮被禁用
+
+>[!NOTE]
+>
+>此问题已于2025年6月9日修复。
 
 当用户尝试从资源规划者导出时，按钮被禁用（灰显）并且用户无法导出。
 
