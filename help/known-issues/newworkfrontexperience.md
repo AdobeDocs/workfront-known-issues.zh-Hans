@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 94%
+source-wordcount: '925'
+ht-degree: 93%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [验证：无法在预览环境中按名称将用户添加到验证](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日 |
 | [验证：关闭验证重定向到文档列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日 |
 | [筛选器：单击滚动条时下拉菜单消失](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日 |
