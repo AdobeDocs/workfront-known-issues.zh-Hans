@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 66%
+source-wordcount: '1463'
+ht-degree: 64%
 
 ---
 
@@ -35,6 +35,14 @@ ht-degree: 66%
 **无法从直接链接打开校对**
 
 当用户尝试从直接链接打开验证时，验证未打开。 即使用户正在验证的工作流中，或者用户是Workfront管理员，也可能发生此情况。
+
+#### 报告
+
+**图表深入分析包含不准确的结果**
+
+当用户查看图表报告并尝试深入到特定分组时，详细信息包括不在选定分组中的结果。
+
+该问题已在按日期分组的报告中报告。
 
 +++
 

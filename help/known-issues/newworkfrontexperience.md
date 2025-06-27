@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '936'
 ht-degree: 92%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [报告：图表明细包含不准确的结果](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | 2025年6月9日 |
+| [任务：审批区域从左侧导航中消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025年6月27日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
