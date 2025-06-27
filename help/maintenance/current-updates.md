@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '1360'
-ht-degree: 69%
+source-wordcount: '1421'
+ht-degree: 66%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 69%
 2025 年进行了以下维护更新。
 
 ## 2025 年 6 月更新
+
++++**2025年6月22日至27日的一周维护更新**
+
+### 2025年6月22日至27日维护更新周
+
+#### 校样
+
+**无法从直接链接打开校对**
+
+当用户尝试从直接链接打开验证时，验证未打开。 即使用户正在验证的工作流中，或者用户是Workfront管理员，也可能发生此情况。
+
++++
 
 +++**2025年6月15日至21日的一周维护更新**
 
