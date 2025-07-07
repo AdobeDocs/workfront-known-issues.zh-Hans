@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
 workflow-type: tm+mt
-source-wordcount: '1426'
-ht-degree: 84%
+source-wordcount: '1441'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中的当前问题 {#wf-current}
+      + [设置：无法以其他用户身份登录](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
+      + [集成：Workfront与Slack集成的问题](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [任务：审批区域从左侧导航中消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [项目：无法将项目移动到指定的项目群](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront：Workfront与Snowflake之间不同步的对象](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
@@ -192,7 +194,7 @@ ht-degree: 84%
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL &#x200B; 自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法校样连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
