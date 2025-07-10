@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '955'
 ht-degree: 90%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [项目：无法将项目移动到指定的项目](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | 2025年6月20日 |
+| [项目：将项目添加到项目群时出错](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | 2025年7月10日 |
 | [Workfront：对象在Workfront和Snowflake之间不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
 | [用户：新用户上显示“未决批准”徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
 | [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
