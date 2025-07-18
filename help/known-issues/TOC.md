@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 82%
+source-wordcount: '1367'
+ht-degree: 86%
 
 ---
 
@@ -36,17 +36,8 @@ ht-degree: 82%
       + [验证：关闭验证重定向到文档列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [模板：无法与Contribute访问权限共享](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
-      + [仪表板：自定义仪表板未打开](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [请求：嵌入的代码URL无法正确加载请求队列](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [报告：不同时区的用户获得不同的报告结果](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [用户：组管理员无法停用用户](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [过滤器：单击滚动条时，下拉菜单消失](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [主页：无法从提及小组件发送回复](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [更新：更新延迟](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [验证：验证的生成速度较慢](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [请求：请求队列不可用](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [项目：项目进度状态不会自动更新为延迟](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [更新：某些用户看不到附加到注释的图像或文档](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [登录为：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [集成：使用 Workfront for Outlook 时出现 outlookIdentityToken 错误](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [通知：重复的电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -56,7 +47,6 @@ ht-degree: 82%
       + [文档：无法上传到 AEM 文件夹文档列表](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [登录为：显示管理员主页布局模板](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [用户：更改系统管理员时创建重复帐户](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [项目：逾期完成情况未按预期应用](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [报告：报告提示加载缓慢](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -82,7 +72,6 @@ ht-degree: 82%
       + [Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [请求：尽管缺乏权限，用户仍可以更改状态](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [报告：导出报告时出现错误](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [自定义表单：计算字段显示不正确的值](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion：无法使用 Workfront 登录功能验证连接](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [作品集：用户无法设置作品集](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
@@ -128,7 +117,6 @@ ht-degree: 82%
       + [校样：测量工具不接受小数点](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [文档：文档列表有问题](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [文档：访问从  [!DNL SharePoint] 链接的文档时出现 404 错误](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [文档：[!UICONTROL 校样活动]选项会导向登录页面](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL 工作负载平衡器]：小时数不调整以解释用户休假时间](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：无法在[!UICONTROL 更新]区域中记录当天的时间](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [文档：将文档移至新项目时不继承权限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
@@ -189,7 +177,6 @@ ht-degree: 82%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
    + [!DNL Workfront Fusion]中的当前问题 {#fusion-current}
-      + [Workfront Fusion：连接到沙盒环境时，Workfront事件订阅版本2选项不可用](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion：场景未运行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：无法从 Workfront Fusion 添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -198,7 +185,7 @@ ht-degree: 82%
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL &#x200B; 自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法校样连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
