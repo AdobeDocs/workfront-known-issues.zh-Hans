@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '954'
-ht-degree: 90%
+source-wordcount: '960'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [验证：无法在验证评论中标记用户](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月18日 |
 | [权限：未正确继承对象权限](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025年7月16日 |
 | [任务：审批区域从左侧导航中消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025年6月27日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
@@ -37,7 +38,7 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [项目：将项目添加到项目群时出错](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | 2025年7月10日 |
+| [验证：无法在验证评论中标记用户](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日 |
 | [Workfront：对象在Workfront和Snowflake之间不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
 | [用户：新用户上显示“未决批准”徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
 | [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
