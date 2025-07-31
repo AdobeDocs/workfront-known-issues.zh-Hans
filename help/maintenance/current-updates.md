@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 59%
+source-wordcount: '1646'
+ht-degree: 58%
 
 ---
 
@@ -30,7 +30,11 @@ ht-degree: 59%
 
 ### 2025年7月20日至26日维护更新周
 
-本周更新仅包括次要或不太突出的错误修复。 当您提交的问题得到修复时，Workfront 支持人员会通知您。
+#### 校样
+
+**无法在验证评论中标记用户**
+
+当用户尝试在验证评论中标记另一个用户并开始键入用户名时，该用户未出现在列表中，并且无法选择进行标记。
 
 +++
 
