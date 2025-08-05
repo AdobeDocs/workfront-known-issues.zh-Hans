@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '1760'
-ht-degree: 54%
+source-wordcount: '1801'
+ht-degree: 53%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 54%
 
 ## 2025 年 8 月更新
 
-+++**2025年7月27日至8月3日的一周维护更新**
++++**2025年7月27日至8月2日的一周维护更新**
 
-### 2025年7月27日至8月3日为期一周的维护更新
+### 2025年7月27日至8月2日开始的维护更新周
 
 #### 项目
 
@@ -41,6 +41,12 @@ ht-degree: 54%
 有时，由于项目极其复杂，时间表可能无法重新计算。 例如，具有多个依赖项、大量任务、多个跨项目前置任务或多个任务缩进的项目可能会受到影响。
 
 以前，没有迹象表明时间表未重新计算。
+
+#### 任务
+
+**审批区域从左侧导航中消失**
+
+当用户查看任务时，审批区域可能从左侧导航中消失。 移除审批区域并将其添加到布局模板可解决此问题，但问题可能会再次发生。
 
 +++
 
