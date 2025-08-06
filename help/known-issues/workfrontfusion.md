@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 889157407be97219b0a258c038f5094b197238b1
+source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 95%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## 新
 
-这些最近报告的问题目前正在审查中。
+这些最近报告的问题目前正在审阅中。
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
@@ -45,6 +45,7 @@ ht-degree: 100%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：对webhook的更新未自动保存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025年8月6日 |
 | [校样：无法为通过 Fusion 从 AEM 链接的视频创建校样](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024 年 10 月 29 日 |
 | [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024 年 2 月 5 日 |
