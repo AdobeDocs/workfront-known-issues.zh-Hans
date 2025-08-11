@@ -1,13 +1,13 @@
 ---
-title: 'Workfront Fusion：内存不足错误'
+title: Workfront Fusion：内存不足错误
 description: 场景执行失败并出现内存不足错误。即使以前成功执行过该场景，也可能会发生这种情况。
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: df39ee6b-1693-4b8d-8d42-d3567f8bf1dd
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 94%
+source-wordcount: '67'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
+>已解决此问题。
 
 场景执行失败并出现内存不足错误。即使以前成功执行过该场景，也可能会发生这种情况。
 
