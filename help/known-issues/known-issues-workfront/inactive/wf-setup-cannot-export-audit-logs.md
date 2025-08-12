@@ -4,7 +4,7 @@ description: 当用户尝试导出大量审核日志时，日志不会导出。�
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 86%
@@ -24,6 +24,4 @@ ht-degree: 86%
 在一次导出中导出较少的日志。
 
 _首次报告于 2023 年 6 月 20 日。_
-
-<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
 
