@@ -4,10 +4,10 @@ description: 在“主页”上的“我的审批”小组件或“我的更新�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 94%
+source-wordcount: '107'
+ht-degree: 92%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 94%
 
 _首次报告于 2024 年 10 月 16 日。_
 
-&lt;！—CHECK ME—1次查看2025年4月至6月 — >
+&lt;！—CHECK ME—1次查看2025年4月至6月（7月7日） — >
