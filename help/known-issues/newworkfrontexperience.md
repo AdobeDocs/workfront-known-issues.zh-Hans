@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '936'
 ht-degree: 90%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [权限：未正确继承对象权限](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025年7月16日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
@@ -54,7 +53,7 @@ ht-degree: 90%
 | [权限：未正确继承对象权限](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日 |
 | [验证：无法在预览环境中按名称将用户添加到验证](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日 |
 | [验证：关闭验证重定向到文档列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日 |
-| [筛选器：单击滚动条时下拉菜单消失](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日 |
+| [筛选器：单击滚动条时下拉菜单消失](known-issues-workfront/wf-filter-scroll-bar.md) | 2025 年 3 月 26 日 |
 | [团队：无法查看团队所有者或删除团队](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日 |
 | [主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日 |
 | [集成：使用 Workfront for Outlook 时出现 outlookIdentityToken 错误](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025 年 3 月 4 日 |
@@ -68,7 +67,6 @@ ht-degree: 90%
 | [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
 | [Workfront：整个应用程序的日期格式都会发生变化](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024 年 12 月 20 日 |
 | [审批：被委派人无法看到委派的审批](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024 年 12 月 20 日 |
-| [任务：添加或删除任务时出现数据库错误（以前是 Bizcontext 错误）](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024 年 12 月 10 日 |
 | [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日 |
 | [通知：未发送有关更新的电子邮件通知](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024 年 12 月 5 日 |
 | [Workfront：投稿人用户无法访问”项目“或”项目组合“](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024 年 12 月 5 日 |
