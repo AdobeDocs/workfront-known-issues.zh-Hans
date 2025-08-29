@@ -1,10 +1,10 @@
 ---
-title: '敏捷：开发周期完成点数的差异'
+title: 敏捷：开发周期完成点数的差异
 description: “故事板”上显示的“已完成点数”有时与开发周期中故事的实际完成点数不匹配
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 130e615f63c90d843f0f7f6e3adbea80c784164a
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%

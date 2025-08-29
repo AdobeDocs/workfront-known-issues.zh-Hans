@@ -1,10 +1,10 @@
 ---
-title: '敏捷：无法从信息卡上的自定义表单中编辑字段'
+title: 敏捷：无法从信息卡上的自定义表单中编辑字段
 description: 当 Kanban 展示板上信息卡中某个字段从自定义表单中提取时，用户无法直接从该信息卡中编辑该字段。
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -24,3 +24,4 @@ ht-degree: 100%
 打开任务并从[!UICONTROL 编辑任务]窗口编辑字段。
 
 _首次报告于 2022 年 4 月 12 日。_
+
