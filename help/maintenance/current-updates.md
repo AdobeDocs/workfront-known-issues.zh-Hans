@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
-source-wordcount: '2091'
-ht-degree: 48%
+source-wordcount: '2133'
+ht-degree: 47%
 
 ---
 
@@ -35,6 +35,12 @@ ht-degree: 48%
 **新护栏以避免事件订阅过载**
 
 事件订阅旨在为所有用户提供可靠的事件交付。 为确保这一点，已实施保护措施以防止单个用户产生过多事件，这可能会对所有用户造成潜在服务质量问题。 因此，在短时间内以高速率生成过多事件的用户可能会遇到沙箱处理和事件投放延迟的情况。
+
+#### 文档
+
+**审批完成后添加为审批者的用户不会收到通知**
+
+当用户审批文档，然后添加更多用户作为审批者时，新添加的审批者不会收到审批请求的应用程序内或电子邮件通知。
 
 +++
 
