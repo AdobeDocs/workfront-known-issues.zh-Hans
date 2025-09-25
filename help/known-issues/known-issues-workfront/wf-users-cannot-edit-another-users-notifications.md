@@ -3,15 +3,19 @@ title: 用户：无法编辑其他用户的通知设置
 description: 当用户尝试编辑其他用户的通知设置时，无法编辑设置，并且看到错误消息。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+exl-id: 2dfcd3e2-2c7d-4307-b36c-205e9cc95410
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-
 # 用户：无法编辑其他用户的通知设置
+
+>[!NOTE]
+>
+>此问题已于2025年9月25日修复。
 
 当用户尝试编辑其他用户的通知设置时，无法编辑设置，并且会看到以下消息：
 
