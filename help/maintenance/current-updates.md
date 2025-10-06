@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '2269'
-ht-degree: 45%
+source-wordcount: '2314'
+ht-degree: 44%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 45%
 有关 2025 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 2025 年进行了以下维护更新。
+
+## 2025 年 10 月更新
+
++++**2025年9月28日至10月4日为期一周的维护更新**
+
+### 2025年9月28日至10月4日为期一周的维护更新
+
+#### 项目群
+
+编辑程序时无法保存&#x200B;****
+
+当用户编辑项目并尝试保存更改时，更改未保存。
+
++++
 
 ## 2025 年 9 月更新
 
