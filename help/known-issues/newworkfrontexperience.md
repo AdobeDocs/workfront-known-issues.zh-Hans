@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
 workflow-type: tm+mt
-source-wordcount: '1017'
-ht-degree: 84%
+source-wordcount: '1042'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 84%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [自定义表单：字段显示逻辑未正确遵循](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 2025年10月14 |
+| [校样：无法关闭校样查看器](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | 2025年10月14 |
 | [用户：无法更改用户的访问级别](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -36,6 +38,7 @@ ht-degree: 84%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [用户：创建用户时无法使用高级选项](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md) | 2025年10月14 |
 | [审批：当截止日期中不包含时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日 |
 | [文档：批准完成后添加为批准者的用户不会收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日 |
 | [验证：无法在验证评论中标记用户](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日 |
