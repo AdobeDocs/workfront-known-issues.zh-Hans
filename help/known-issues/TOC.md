@@ -200,7 +200,7 @@ ht-degree: 81%
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]移动应用 {#mobile}
-   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 
 <!--
 
