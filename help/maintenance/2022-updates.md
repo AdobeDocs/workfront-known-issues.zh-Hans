@@ -980,7 +980,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。以前，仅�
 
 *[!UICONTROL 主菜单]*
 
-如果您的组织有自定义内部帮助站点，您可以配置[!UICONTROL 主菜单][!UICONTROL 帮助]图标指向该站点。 如果帮助站点包含有关您组织如何使用 [!DNL Workfront] 的信息，这将很有用。
+如果您的组织有自定义内部帮助站点，您可以配置[!UICONTROL 主菜单]&#x200B;[!UICONTROL 帮助]图标指向该站点。 如果帮助站点包含有关您组织如何使用 [!DNL Workfront] 的信息，这将很有用。
 此自定义 URL 不会影响 [!DNL Workfront] 顶部区域中的主帮助链接，也不会影响整个 [!DNL Workfront] 中的上下文相关帮助链接，这些链接会将用户带到 [!DNL Workfront] 帮助站点。
 
 **内联编辑[!UICONTROL 任务持续时间]**&#x200B;时无法选择占用时长
