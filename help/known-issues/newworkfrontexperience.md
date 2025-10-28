@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1033'
 ht-degree: 83%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 83%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [自定义表单：字段显示逻辑未正确遵循](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 2025年10月14 |
-| [校样：无法关闭校样查看器](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | 2025年10月14 |
+| [报告：有关图表中的下拉列表的问题](known-issues-workfront/wf-reports-dropdown-not-working.md) | 2025年10月28日 |
 | [用户：无法更改用户的访问级别](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
