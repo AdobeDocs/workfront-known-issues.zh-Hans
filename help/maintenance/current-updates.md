@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '2492'
-ht-degree: 43%
+source-wordcount: '2607'
+ht-degree: 42%
 
 ---
 
@@ -23,6 +23,39 @@ ht-degree: 43%
 有关 2025 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 2025 年进行了以下维护更新。
+
+
+
+## 2025 年 11 月更新
+
++++**2025年10月26日至11月1日为期一周的维护更新**
+
+### 2025年10月26日至11月1日为期一周的维护更新
+
+#### 报告
+
+**有关图表中的下拉列表的问题**
+
+已报告有关图表中的下拉列表的以下问题：
+
+* 当用户使用下拉列查看报告并使用图表功能时，“图表”窗口中的下拉菜单不起作用。
+* 当用户尝试使用下拉菜单从报表分配用户时，分配未保存。
+
+#### 用户
+
+**创建用户时无法使用高级选项**
+
+当Workfront管理员创建用户并尝试使用高级选项时，他们无法使用选项，并且会看到以下消息：
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## 2025 年 10 月更新
 
@@ -66,7 +99,7 @@ ht-degree: 43%
 
 #### 项目群
 
-编辑程序时无法保存&#x200B;**&#x200B;**
+编辑程序时无法保存&#x200B;****
 
 当用户编辑项目并尝试保存更改时，更改未保存。
 

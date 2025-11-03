@@ -3,15 +3,19 @@ title: 报告：有关图表中的下拉列表的问题
 description: 已报告有关图表中的下拉菜单的问题。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b226eee1f982acf3e37c6d2c319067e139f6c559
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 
 # 报告：有关图表中的下拉列表的问题
+
+>[!NOTE]
+>
+>此问题已于2025年10月29日修复。
 
 已报告有关图表中的下拉列表的以下问题：
 
