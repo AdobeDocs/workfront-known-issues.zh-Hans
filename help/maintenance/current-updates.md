@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
-ht-degree: 42%
+source-wordcount: '2712'
+ht-degree: 41%
 
 ---
 
@@ -27,6 +27,18 @@ ht-degree: 42%
 
 
 ## 2025 年 11 月更新
+
++++**2025年11月9日至15日的一周维护更新**
+
+### 2025年11月9日至15日为期一周的维护更新
+
+#### 任务
+
+**添加前置任务不再依赖于访问级别中的“任务编辑”子设置**
+
+当在任务的访问级别中启用“编辑”访问权限时，无论您选择了什么子设置，用户都可以将前置任务添加到任务中。 现在，这与现有的API功能相一致。
+
++++
 
 +++**2025年11月2日至8日的一周维护更新**
 
@@ -107,7 +119,7 @@ Error fetching object details
 
 #### 项目群
 
-编辑程序时无法保存&#x200B;**&#x200B;**
+编辑程序时无法保存&#x200B;****
 
 当用户编辑项目并尝试保存更改时，更改未保存。
 
