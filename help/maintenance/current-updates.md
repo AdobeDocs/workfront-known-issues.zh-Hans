@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
+source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
 workflow-type: tm+mt
-source-wordcount: '2790'
+source-wordcount: '2791'
 ht-degree: 40%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 40%
 
 #### 记录类型
 
-**添加前置任务不再依赖于访问级别中的“任务编辑”子设置**
+**已从记录类型的“更多”菜单中删除编辑和设置选项**
 
 我们已从全局记录类型的“更多”菜单中删除了“编辑和设置”选项，该记录类型已从现有的全局记录类型添加到辅助工作区。 在此更新之前，菜单变暗且无法正常工作。
 
@@ -131,7 +131,7 @@ Error fetching object details
 
 #### 项目群
 
-编辑程序时无法保存&#x200B;**&#x200B;**
+编辑程序时无法保存&#x200B;****
 
 当用户编辑项目并尝试保存更改时，更改未保存。
 
