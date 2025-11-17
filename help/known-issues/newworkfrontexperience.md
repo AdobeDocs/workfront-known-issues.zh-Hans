@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
 workflow-type: tm+mt
-source-wordcount: '1054'
+source-wordcount: '1059'
 ht-degree: 81%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 81%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [任务：内联编辑任务时显示“访问权限不足”消息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月13日 |
+| [时间表：未生成时间表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17 |
 | [用户：无法更改用户的访问级别](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -37,6 +37,7 @@ ht-degree: 81%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [任务：内联编辑任务时显示“访问权限不足”消息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月17 |
 | [用户：只能按第一个单词搜索职位角色](known-issues-workfront/wf-users-job-role-first-word.md) | 2025年11月13日 |
 | [审批：指向审批的链接不可用](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日 |
 | [请求：请求表单创建者无权访问表单](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025年11月4日 |
