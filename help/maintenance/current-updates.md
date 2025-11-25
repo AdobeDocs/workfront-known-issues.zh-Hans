@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '2791'
-ht-degree: 40%
+source-wordcount: '2900'
+ht-degree: 38%
 
 ---
 
@@ -27,6 +27,20 @@ ht-degree: 40%
 
 
 ## 2025 年 11 月更新
+
++++**2025年11月16日至22日的Workfront计划维护更新周**
+
+### 2025年11月16日至22日的Workfront计划维护更新周
+
+#### 自定义表单
+
+**已添加到使用字段的自定义表单列表中的活动/非活动指示器**
+
+在自定义表单设计器中，您可以选择字段并单击&#x200B;**查看相关的Forms**&#x200B;以查看使用该字段的所有其他表单的列表。 这显示了如果编辑该字段将影响哪些其他表单。
+
+此列表的增强功能是每个表单的有效/无效指示器。 您可以一眼看出字段当前是在活动表单上还是在非活动表单上使用。
+
++++
 
 +++**2025年11月9日至15日的Workfront计划维护更新周**
 
@@ -131,7 +145,7 @@ Error fetching object details
 
 #### 项目群
 
-编辑程序时无法保存&#x200B;**&#x200B;**
+编辑程序时无法保存&#x200B;****
 
 当用户编辑项目并尝试保存更改时，更改未保存。
 

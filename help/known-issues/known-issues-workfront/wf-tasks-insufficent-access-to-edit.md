@@ -3,15 +3,19 @@ title: 任务：内联编辑任务时访问消息不足
 description: 当用户尝试在列表或报告中内联编辑任务时，无法编辑该任务，并且看到消息“您没有足够的权限为该任务分配工作”。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
 
 # 任务：内联编辑任务时显示“访问不足”消息
+
+>[!NOTE]
+>
+>此问题已于2025年11月21日修复。
 
 当用户尝试在列表或报告中内联编辑任务时，无法编辑该任务，并且看到消息“您没有足够的权限为该任务分配工作。”
 

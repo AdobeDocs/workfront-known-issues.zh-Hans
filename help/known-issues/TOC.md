@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1504'
-ht-degree: 78%
+source-wordcount: '1534'
+ht-degree: 76%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 78%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中的当前问题 {#wf-current}
+      + [请求：创建请求时不继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [计划：为组撤消计划的权限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [分配：未保存团队分配](known-issues-workfront/wf-assignments-not-saved.md)
+      + [任务：创建任务时未保存计划的小时数](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
       + [时间表：未生成时间表](known-issues-workfront/wf-timesheets-not-generated.md)
       + [任务：内联编辑任务时显示“访问不足”消息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [审批：指向审批的链接不可用](known-issues-workfront/wf-approvals-link-not-appearing.md)
@@ -203,13 +207,13 @@ ht-degree: 78%
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL &#x200B; 自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法校样连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]移动应用 {#mobile}
-   + [&#x200B; [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
+   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 
 <!--
 

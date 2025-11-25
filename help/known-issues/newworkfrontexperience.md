@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1049'
-ht-degree: 82%
+source-wordcount: '1074'
+ht-degree: 80%
 
 ---
 
@@ -37,7 +37,10 @@ ht-degree: 82%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
-| [任务：内联编辑任务时显示“访问权限不足”消息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月17 |
+| [请求：创建请求时未继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
+| [工作：未保存团队工作](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日 |
+| [计划：已撤销群组的计划权限](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | 2025年11月25日 |
+| [任务：创建任务时未保存计划小时数](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | 2025年11月25日 |
 | [审批：指向审批的链接不可用](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日 |
 | [请求：请求表单创建者无权访问表单](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025年11月4日 |
 | [审批：当截止日期中不包含时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日 |
