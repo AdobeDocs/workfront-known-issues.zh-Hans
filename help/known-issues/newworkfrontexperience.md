@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
 workflow-type: tm+mt
-source-wordcount: '1083'
-ht-degree: 79%
+source-wordcount: '1092'
+ht-degree: 78%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 79%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [请求：无法上传文档以从GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)请求 | 2025年12月2日 |
 | [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [请求：创建请求时未继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
 | [工作：未保存团队工作](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日 |
