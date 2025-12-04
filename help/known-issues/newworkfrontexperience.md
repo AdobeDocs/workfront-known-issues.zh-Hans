@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
+source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
 workflow-type: tm+mt
-source-wordcount: '1092'
-ht-degree: 78%
+source-wordcount: '1083'
+ht-degree: 79%
 
 ---
 
@@ -43,7 +43,6 @@ ht-degree: 78%
 | [请求：创建请求时未继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
 | [工作：未保存团队工作](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日 |
 | [计划：已撤销群组的计划权限](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | 2025年11月25日 |
-| [任务：创建任务时未保存计划小时数](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | 2025年11月25日 |
 | [审批：指向审批的链接不可用](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日 |
 | [审批：当截止日期中不包含时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日 |
 | [文档：批准完成后添加为批准者的用户不会收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日 |
