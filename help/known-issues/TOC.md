@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
 workflow-type: tm+mt
-source-wordcount: '1579'
-ht-degree: 74%
+source-wordcount: '1607'
+ht-degree: 73%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 74%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中的当前问题 {#wf-current}
+      + [自定义表单：无法编辑富文本字段](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+      + [用户：打开用户页面时出错](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [任务：创建任务时无法选择用户角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + [任务：对任务的内联编辑未保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [用户：批量编辑用户会删除资源池和直接报告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [请求：无法上传文档以向GDrive请求](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
@@ -212,13 +216,13 @@ ht-degree: 74%
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL &#x200B; 自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法校样连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]移动应用 {#mobile}
-   + [&#x200B; [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
+   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 
 <!--
 

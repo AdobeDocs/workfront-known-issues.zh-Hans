@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
 workflow-type: tm+mt
-source-wordcount: '1096'
-ht-degree: 78%
+source-wordcount: '1128'
+ht-degree: 76%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 78%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [自定义表单：无法编辑富文本字段](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日 |
+| [任务：创建任务时无法选择用户角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日 |
 | [任务：对任务的内联编辑未保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025年12月5日 |
 | [时间表：未生成时间表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17 |
 | [用户：无法更改用户的访问级别](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
@@ -38,6 +40,8 @@ ht-degree: 78%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [用户：打开用户页面时出错](known-issues-workfront/wf-users-cannot-open-user-tab.md) | 2025年12月8日 |
+| [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [用户：批量编辑用户将删除资源池和直接报告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md) | 2025年12月4日 |
 | [请求：无法上传文档以从GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)请求 | 2025年12月2日 |
 | [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
