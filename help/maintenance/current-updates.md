@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
-ht-degree: 38%
+source-wordcount: '3008'
+ht-degree: 37%
 
 ---
 
@@ -25,6 +25,20 @@ ht-degree: 38%
 2025 年进行了以下维护更新。
 
 ## 2025 年 12 月更新
+
++++**2025年12月7日至13日的一周维护更新**
+
+### 2025年12月7日至13日为期一周的维护更新
+
+#### 用户
+
+**批量编辑用户将删除资源池和直接报告**
+
+当用户批量编辑用户，点击资源池字段，但未输入值时，所有已编辑用户的资源池将被删除。
+
+批量编辑也可能会从已编辑的用户中删除直接报告。
+
++++
 
 +++**2025年11月30日至12月6日的一周维护更新**
 
@@ -153,7 +167,7 @@ Error fetching object details
 
 #### 项目群
 
-编辑程序时无法保存&#x200B;**&#x200B;**
+编辑程序时无法保存&#x200B;****
 
 当用户编辑项目并尝试保存更改时，更改未保存。
 
