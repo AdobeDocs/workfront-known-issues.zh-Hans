@@ -4,7 +4,7 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: b8d2f9e8568ff35b92be88eb03c795b3f2dd691d
 workflow-type: tm+mt
 source-wordcount: '1129'
 ht-degree: 76%
@@ -28,7 +28,6 @@ ht-degree: 76%
 | [自定义表单：无法编辑富文本字段](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日 |
 | [任务：创建任务时无法选择用户角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日 |
 | [任务：对任务的内联编辑未保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025年12月5日 |
-| [时间表：未生成时间表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17 |
 | [用户：无法更改用户的访问级别](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -40,6 +39,7 @@ ht-degree: 76%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [时间表：未生成时间表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年12月11日 |
 | [用户：用户配置文件中缺少自动生成验证的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10 |
 | [用户：打开用户页面时出错](known-issues-workfront/wf-users-cannot-open-user-tab.md) | 2025年12月8日 |
 | [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
