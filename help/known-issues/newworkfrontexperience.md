@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b8d2f9e8568ff35b92be88eb03c795b3f2dd691d
+source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 76%
+source-wordcount: '1145'
+ht-degree: 75%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 76%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Workfront计划：删除连接的字段时出错](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日 |
 | [自定义表单：无法编辑富文本字段](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日 |
 | [任务：创建任务时无法选择用户角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日 |
 | [任务：对任务的内联编辑未保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025年12月5日 |
@@ -39,6 +40,7 @@ ht-degree: 76%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [用户：验证配置文件的更改问题](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月12日 |
 | [时间表：未生成时间表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年12月11日 |
 | [用户：用户配置文件中缺少自动生成验证的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10 |
 | [用户：打开用户页面时出错](known-issues-workfront/wf-users-cannot-open-user-tab.md) | 2025年12月8日 |
