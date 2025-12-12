@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '3008'
+source-wordcount: '3103'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,13 @@ ht-degree: 37%
 
 ### 2025年12月7日至13日为期一周的维护更新
 
+#### 请求
+
+**无法上传文档以从GDrive**&#x200B;请求
+
+当用户在新请求体验中创建请求并尝试从GDrive上传文档时，GDrive窗口无响应。 用户无法选择文件或关闭窗口。
+
+
 #### 用户
 
 **批量编辑用户将删除资源池和直接报告**
@@ -37,6 +44,12 @@ ht-degree: 37%
 当用户批量编辑用户，点击资源池字段，但未输入值时，所有已编辑用户的资源池将被删除。
 
 批量编辑也可能会从已编辑的用户中删除直接报告。
+
+**打开用户页面时出错**
+
+当用户尝试从主菜单打开用户页面时，该页面未打开，并且用户看到以下错误消息：
+
+“出现错误，我们正在寻找解决问题的方法。要继续工作，请尝试刷新此浏览器页面。”
 
 +++
 
@@ -167,7 +180,7 @@ Error fetching object details
 
 #### 项目群
 
-编辑程序时无法保存&#x200B;**&#x200B;**
+编辑程序时无法保存&#x200B;****
 
 当用户编辑项目并尝试保存更改时，更改未保存。
 

@@ -3,9 +3,9 @@ title: 请求：无法上传文档以向GDrive请求
 description: 当用户在新请求体验中创建请求并尝试从GDrive上传文档时，GDrive窗口无响应。 用户无法选择文件或关闭窗口。 有解决方法可用。
 hidefromtoc: true
 feature: Requests, Digital Content and Documents
-source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '120'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->此问题会影响新的请求体验。
+>* 此问题会影响新的请求体验。
+>* 此问题已于2025年12月12日修复。
 
 当用户在新请求体验中创建请求并尝试从GDrive上传文档时，GDrive窗口无响应。 用户无法选择文件或关闭窗口。
 

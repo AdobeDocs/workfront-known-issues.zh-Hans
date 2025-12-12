@@ -3,15 +3,19 @@ title: 用户：打开用户页面时出错
 description: 当用户尝试从主菜单打开用户页面时，该页面未打开，并且用户看到一条错误消息。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 25%
+source-wordcount: '94'
+ht-degree: 23%
 
 ---
 
 
 # 用户：打开用户页面时出错
+
+>[!NOTE]
+>
+>此问题已于2025年12月12日修复。
 
 当用户尝试从主菜单打开用户页面时，该页面未打开，并且用户看到以下错误消息：
 
