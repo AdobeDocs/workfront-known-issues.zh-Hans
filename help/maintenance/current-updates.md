@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '3103'
-ht-degree: 37%
+source-wordcount: '3210'
+ht-degree: 36%
 
 ---
 
@@ -25,6 +25,30 @@ ht-degree: 37%
 2025 年进行了以下维护更新。
 
 ## 2025 年 12 月更新
+
++++**2025年12月14日至20日的一周维护更新**
+
+### 2025年12月14日至20日为期一周的维护更新
+
+#### 任务
+
+**未保存团队分配**
+
+当用户将团队分配给Workfront中的工作项时，团队分配未保存，并且团队未收到工作通知。
+
+#### 任务
+
+**对任务的内联编辑未保存**
+
+当用户对旧版任务体验中的任务进行内联更改并进行保存时，更改未保存。
+
+#### 时间表
+
+**未生成工时表**
+
+时间表未按预期自动生成。 即使时间表配置文件准确并且已正确生成其他周的时间表，也可能发生这种情况。
+
++++
 
 +++**2025年12月7日至13日的一周维护更新**
 
@@ -180,7 +204,7 @@ Error fetching object details
 
 #### 项目群
 
-编辑程序时无法保存&#x200B;**&#x200B;**
+编辑程序时无法保存&#x200B;****
 
 当用户编辑项目并尝试保存更改时，更改未保存。
 

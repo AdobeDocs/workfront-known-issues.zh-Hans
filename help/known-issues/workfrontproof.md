@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 81%
+source-wordcount: '439'
+ht-degree: 80%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 81%
 
 | **问题** | **上次修改** |
 | -----------------------------------------------------------------| ----------------- |
+| [审批：“我的审批”小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [用户：用户配置文件中缺少自动生成验证的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10 |
 | [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [文档：批准完成后添加为批准者的用户不会收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日 |

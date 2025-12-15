@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 76%
+source-wordcount: '1115'
+ht-degree: 77%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 76%
 | [Workfront计划：删除连接的字段时出错](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日 |
 | [自定义表单：无法编辑富文本字段](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日 |
 | [任务：创建任务时无法选择用户角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日 |
-| [任务：对任务的内联编辑未保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025年12月5日 |
 | [用户：无法更改用户的访问级别](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
@@ -40,13 +39,12 @@ ht-degree: 76%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [审批：“我的审批”小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [用户：验证配置文件的更改问题](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月12日 |
-| [时间表：未生成时间表](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年12月11日 |
 | [用户：用户配置文件中缺少自动生成验证的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10 |
 | [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [请求：创建请求时未继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
-| [工作：未保存团队工作](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日 |
 | [计划：已撤销群组的计划权限](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | 2025年11月25日 |
 | [审批：指向审批的链接不可用](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日 |
 | [审批：当截止日期中不包含时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日 |
