@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 77%
+source-wordcount: '1105'
+ht-degree: 78%
 
 ---
 
@@ -39,9 +39,8 @@ ht-degree: 77%
 
 | **问题** | **上次修改** |
 | ---------------------------------- | ----------------- |
+| [Workfront规划：无法向视图添加字段](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025年12月15日 |
 | [审批：“我的审批”小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
-| [用户：验证配置文件的更改问题](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月12日 |
-| [用户：用户配置文件中缺少自动生成验证的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10 |
 | [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [请求：创建请求时未继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |

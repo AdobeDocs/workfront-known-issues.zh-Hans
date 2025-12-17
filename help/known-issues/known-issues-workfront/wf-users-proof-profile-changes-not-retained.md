@@ -3,9 +3,9 @@ title: 用户：验证配置文件的更改问题
 description: 已报告有关更改用户验证配置文件的问题。
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # 用户：验证配置文件的更改问题
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 5, 2025.
--->
+>此问题已于2025年12月17日修复。
 
 已报告以下有关对用户的验证配置文件进行更改的问题：
 
