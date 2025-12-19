@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
 workflow-type: tm+mt
-source-wordcount: '1641'
-ht-degree: 71%
+source-wordcount: '1523'
+ht-degree: 76%
 
 ---
 
@@ -48,28 +48,13 @@ ht-degree: 71%
       + [审批：当截止日期中不包含时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [验证：无法从PowerPoint文件生成验证](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [用户：无法编辑其他用户的通知设置](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [用户：无法更改用户的访问级别](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [用户：无法编辑用户的联合ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [文档：批准完成后添加为批准者的用户不会收到通知](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
-      + [验证：无法在验证评论中标记用户](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
-      + [权限：对象权限继承不正确](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [权限：对象权限继承不正确](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [项目：将项目添加到项目群时出错](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [设置：无法以其他用户身份登录](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [集成：Workfront与Slack集成的问题](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
-      + [任务：审批区域从左侧导航中消失](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
-      + [项目：无法将项目移动到指定的项目群](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront：Workfront与Snowflake之间不同步的对象](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [验证：无法在预览环境中按名称将用户添加到验证](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [验证：无法从直接链接打开验证](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [报告：图表明细包含不准确的结果](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
-      + [时间表：未正确生成时间表](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [搜索：高级搜索未返回预期结果](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [用户：新用户会显示“未决批准”标记](known-issues-workfront/wf-users-pending-approval.md)
-      + [资源规划者：“导出”按钮被禁用](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [验证：关闭验证重定向到文档列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [模板：无法与Contribute访问权限共享](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [过滤器：单击滚动条时，下拉菜单消失](known-issues-workfront/wf-filter-scroll-bar.md)
       + [项目：项目进度状态不会自动更新为延迟](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [登录为：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -91,7 +76,6 @@ ht-degree: 71%
       + [Workfront：投稿人用户无法访问”项目或项目组合“](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [审批：“全部”筛选条件排除个人提交的审批](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [任务：有子任务的父任务“占用天数”持续时间不正确](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Workfront：打开的浏览器选项卡无法加载](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [布局模板：通过布局模板添加到任务摘要时不显示自定义数据字段](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [集成：Unified Shell 组织的 JumpSeat 集成失效](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：文档通知电子邮件无法显示图像预览](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
@@ -142,7 +126,6 @@ ht-degree: 71%
       + [[!UICONTROL 主页]：新的[!UICONTROL 主页]小组件预览不显示正确的对象名称](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL 主页]：[!UICONTROL 请求]小组件未显示所有分配的团队](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [[!UICONTROL 主页]：新 [!UICONTROL 主页] 中的 [!UICONTROL 提及] 小组件不限于其中标出了用户的消息](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL 设置]：无法导出审核日志](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [校样：在预览环境中创建校样缓慢](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [自定义表单：设置计算字段时出现“[!UICONTROL 糟糕]”错误](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [校样：[!UICONTROL 校样活动]选项卡打开[!UICONTROL 校样详细信息]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -220,13 +203,16 @@ ht-degree: 71%
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL &#x200B; 自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法校样连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
++ [!DNL Workfront]计划 {#planning}
+   + [ [!DNL Workfront] Planning中的已知问题](workfrontplanning.md)
+
 + [!DNL Workfront]移动应用 {#mobile}
-   + [&#x200B; [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
+   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 
 <!--
 
