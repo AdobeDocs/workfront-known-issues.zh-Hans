@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7205e0ba40ca755843cd12fae66ae147548618dc
+source-git-commit: bf06e93ba58692c35f9561c7bed67cb1da3541b5
 workflow-type: tm+mt
-source-wordcount: '1041'
-ht-degree: 82%
+source-wordcount: '1052'
+ht-degree: 81%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 82%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [报告：用户可以在画布仪表板可视化中查看财务数据](known-issues-workfront/wf-reporting-users-can-see-financial-date.md) | 2025年12月19日 |
 | [审批：“我的审批”小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
