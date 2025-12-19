@@ -3,7 +3,7 @@ title: 报告：用户可以在画布功能板可视化图表中查看财务数�
 description: 对具有访问级别的财务数据的“查看”或“编辑”权限的用户可以在画布仪表板可视化中查看财务数据，即使已在任务或项目级别删除了“查看财务”权限。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
