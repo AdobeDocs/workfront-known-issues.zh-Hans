@@ -3,9 +3,9 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '3378'
+source-wordcount: '3415'
 ht-degree: 34%
 
 ---
@@ -29,6 +29,12 @@ ht-degree: 34%
 +++**2025年12月14日至20日的一周维护更新**
 
 ### 2025年12月14日至20日为期一周的维护更新
+
+#### 审批
+
+**指向审批的链接不可用**
+
+当用户被指定为对象的审批者时，该对象的链接不会出现在我的更新区域或主页中的我的审批小部件中。
 
 #### 任务
 
@@ -225,7 +231,7 @@ Error fetching object details
 
 #### 项目群
 
-编辑程序时无法保存&#x200B;**&#x200B;**
+编辑程序时无法保存&#x200B;****
 
 当用户编辑项目并尝试保存更改时，更改未保存。
 
