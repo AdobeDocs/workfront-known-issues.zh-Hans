@@ -18,4 +18,4 @@ ht-degree: 88%
 * [存在于  [!DNL Workfront]  Proof 的已知问题](workfrontproof.md)
 * [Workfront Fusion 中的已知问题](workfrontfusion.md)
 * [Workfront Planning中的已知问题](workfrontplanning.md)
-* [ [!DNL Workfront]  移动应用程序中的已知问题](workfrontmobile.md)
+* [&#x200B; [!DNL Workfront]  移动应用程序中的已知问题](workfrontmobile.md)
