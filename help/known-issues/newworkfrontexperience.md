@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1054'
 ht-degree: 81%
 
 ---
@@ -25,8 +25,9 @@ ht-degree: 81%
 
 | **问题** | **上次修改** |
 | --- | --- |
-| [自定义表单：无法编辑富文本字段](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日 |
-| [任务：创建任务时无法选择用户角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日 |
+| [请求：请求队列出现多次](known-issues-workfront/wf-requests-queues-duplicated.md) | 热努亚里5,2026年 |
+| [用户：无法更新用户访问权限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 热努亚里5,2026年 |
+| [报告： Data Lake查询未返回预期结果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 热努亚里5,2026年 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
@@ -41,7 +42,6 @@ ht-degree: 81%
 | [审批：“我的审批”小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日 |
 | [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
-| [请求：创建请求时未继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日 |
 | [审批：当截止日期中不包含时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日 |
 | [Workfront：对象在Workfront和Snowflake之间不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
 | [用户：新用户上显示“未决批准”徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |

@@ -3,10 +3,10 @@ title: 存在于  [!DNL Adobe Workfront Planning] 的已知问题
 description: 已报告  [!DNL Adobe Workfront Planning] 的已知问题
 keywords: 新建文件，添加文件
 feature: Workfront Planning
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 72%
+source-wordcount: '134'
+ht-degree: 82%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 72%
 
 | **问题** | **上次修改** |
 | --- | --- |
-| [Workfront计划：删除连接的字段时出错](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日 |
+| 无 | |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 72%
 
 | **问题** | **上次修改** |
 | --- | --- |
-| [Workfront规划：无法向视图添加字段](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025年12月15日 |
+| 无 | |
 
 {style="table-layout:auto"}
 

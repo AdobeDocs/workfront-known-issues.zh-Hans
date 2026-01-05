@@ -3,15 +3,19 @@ title: 任务：创建任务时无法选择用户角色
 description: 当用户创建任务并尝试分配用户角色时，分配角色的选项不存在，用户无法分配用户角色。 有解决方法可用。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 4%
 
 ---
 
 
 # 任务：创建任务时无法选择用户角色
+
+>[!NOTE]
+>
+>此问题已于2025年12月21日修复。
 
 当用户创建任务并尝试分配用户角色时，分配角色的选项不存在，用户无法分配用户角色。
 
