@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8c2f913bcda64043a42ffe8477ba23d2dad7d210
+source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 81%
+source-wordcount: '232'
+ht-degree: 78%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 81%
 这些最近报告的问题目前正在审阅中。
 
 | **问题** | **上次修改** |
-| -----------------------------------------------------------------| ----------------- |
-| 无 |  |
+| ----------------------------------------------------------------- | ----------------- |
+| [Workfront Fusion：AWS模块上缺少标头错误](known-issues-workfront-fusion/fusion-missing-header-aws.md) | 2026年1月6日 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 81%
 这些问题的修复当前正在进行中，或计划在不久的将来进行。
 
 | **问题** | **上次修改** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Workfront Fusion：无法从 Workfront Fusion 添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 2024 年 9 月 24 日 |
 
 {style="table-layout:auto"}
@@ -44,7 +44,7 @@ ht-degree: 81%
 这些问题的修复目前不在路线图中，但有解决方法，并详见每个问题的文章。
 
 | **问题** | **上次修改** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [Workfront Fusion： Jira搜索模块返回错误](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025年9月16日 |
 | [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024 年 2 月 5 日 |
 | [Workfront Fusion：对webhook的更新未自动保存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025年8月6日 |
@@ -54,7 +54,7 @@ ht-degree: 81%
 这些问题的修复尚未纳入规划中。在某些情况下，这些问题将通过新功能或功能更新的方式修复。
 
 | **问题** | **上次修改** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [校样：无法为通过 Fusion 从 AEM 链接的视频创建校样](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024 年 10 月 29 日 |
 | [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024 年 1 月 31 日 |
