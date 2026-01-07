@@ -4,7 +4,7 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 02c511b92e31bb00688414d062587c9ddb747c5e
+source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
 workflow-type: tm+mt
 source-wordcount: '1041'
 ht-degree: 82%
@@ -41,7 +41,7 @@ ht-degree: 82%
 | [报告：用户可以在画布仪表板可视化中查看财务数据](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日 |
 | [审批：“我的审批”小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日 |
 | [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
-| [审批：当截止日期中不包含时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日 |
+| [审批：当时间未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中时，审批显示为“无截止日期” | 2025年9月25日 |
 | [Workfront：对象在Workfront和Snowflake之间不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
 | [用户：新用户上显示“未决批准”徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
 | [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
