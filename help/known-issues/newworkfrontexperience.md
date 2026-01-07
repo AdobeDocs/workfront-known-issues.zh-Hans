@@ -4,9 +4,9 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
+source-git-commit: 02c511b92e31bb00688414d062587c9ddb747c5e
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1041'
 ht-degree: 82%
 
 ---
@@ -25,9 +25,9 @@ ht-degree: 82%
 
 | **问题** | **上次修改** |
 | --- | --- |
-| [请求：请求队列出现多次](known-issues-workfront/wf-requests-queues-duplicated.md) | 热努亚里5,2026年 |
-| [用户：无法更新用户访问权限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 热努亚里5,2026年 |
-| [报告： Data Lake查询未返回预期结果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 热努亚里5,2026年 |
+| [请求：请求队列出现多次](known-issues-workfront/wf-requests-queues-duplicated.md) | 2026年1月5日 |
+| [用户：无法更新用户访问权限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日 |
+| [报告： Data Lake查询未返回预期结果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026年1月5日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
