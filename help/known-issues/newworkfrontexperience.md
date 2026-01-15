@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '1048'
-ht-degree: 82%
+source-wordcount: '1077'
+ht-degree: 80%
 
 ---
 
@@ -38,9 +38,11 @@ ht-degree: 82%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [请求：与请求一起创建的草稿导致问题](known-issues-workfront/wf-requests-draft-created-with-request.md) | 2026年1月15日 |
+| [请求：复制请求时出现“您必须是系统管理员”错误](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日 |
+| [审批：“我的审批”小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
 | [请求：新请求体验中的草稿存在问题](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月7日 |
 | [报告：用户可以在画布仪表板可视化中查看财务数据](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日 |
-| [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日 |
 | [审批：当时间未包含在截止日期](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)中时，审批显示为“无截止日期” | 2025年9月25日 |
 | [Workfront：对象在Workfront和Snowflake之间不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日 |
 | [用户：新用户上显示“未决批准”徽章](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日 |
@@ -55,6 +57,7 @@ ht-degree: 82%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2026年1月15日 |
 | [审批：审批决策按钮未显示在验证查看者中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日 |
 | [验证：无法从PowerPoint文件生成验证](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025年9月11日 |
 | [权限：未正确继承对象权限](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日 |

@@ -3,10 +3,10 @@ title: 在任务的“编辑”对话框中所做的编辑不保存
 description: 当用户在旧版任务对话框中更改任务的编辑部分并保存时，更改未保存。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '122'
+ht-degree: 23%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->此问题适用于旧版任务体验。
+>* 此问题适用于旧版任务体验。
+>* 产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
 
 当用户在旧版任务对话框中更改任务的编辑部分并保存时，更改未保存。
 

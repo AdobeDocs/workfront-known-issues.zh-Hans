@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '1581'
-ht-degree: 73%
+source-wordcount: '1600'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 73%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
    + [!DNL Adobe Workfront]中的当前问题 {#wf-current}
+      + [请求：与请求一起创建的草稿导致问题](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [请求：复制请求时出现“您必须是系统管理员”错误](known-issues-workfront/wf-requests-error-when-copying.md)
       + [用户：未在Adobe Admin Console上正确配置用户](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
       + [请求：新请求体验中的草稿问题](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [请求：请求队列出现多次](known-issues-workfront/wf-requests-queues-duplicated.md)
@@ -122,7 +124,7 @@ ht-degree: 73%
       + [新 [!UICONTROL 主页]：小组件筛选条件和分组默认值不遵循版面模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [团队：设置团队时 [!UICONTROL 完成] 按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md)
       + [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
-      + [展示板：移至某列的信息卡在刷新后返回原始列](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
+      + [展示板：移至列的信息卡在刷新后返回到原始列](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
       + [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
       + [仪表板：将仪表板打印为 PDF 时空白边距较大](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
@@ -210,16 +212,16 @@ ht-degree: 73%
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL &#x200B; 自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法校样连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront]计划 {#planning}
-   + [&#x200B; [!DNL Workfront] Planning中的已知问题](workfrontplanning.md)
+   + [ [!DNL Workfront] Planning中的已知问题](workfrontplanning.md)
 
 + [!DNL Workfront]移动应用 {#mobile}
-   + [&#x200B; [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
+   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 
 <!--
 
