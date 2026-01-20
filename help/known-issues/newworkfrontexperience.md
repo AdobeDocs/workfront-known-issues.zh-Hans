@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 34cba5746ea94bbbc24e2dc6bd6541d210777024
+source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
 workflow-type: tm+mt
-source-wordcount: '1104'
-ht-degree: 78%
+source-wordcount: '1116'
+ht-degree: 77%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 78%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [请求：复制请求时出现“您没有足够的访问权限”错误](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日 |
 | [计划：看不到以前年份的异常](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | 2026年1月20日 |
 | [请求：“全部”视图未显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自定义表单：计算字段未显示非管理员的数据](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
