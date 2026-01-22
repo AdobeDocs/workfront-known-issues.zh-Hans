@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
+source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1648'
 ht-degree: 70%
 
 ---
@@ -16,10 +16,11 @@ ht-degree: 70%
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
-   + [!DNL Adobe Workfront]中的当前问题 {#wf-current}
-      + [请求：复制请求时出现“您没有足够的访问权限”错误](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
-      + [计划：看不到以前年份的例外](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
-      + [请求：“全部”视图不显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md)
+   + 当前问题 [!DNL Adobe Workfront] {#wf-current}
+      + [文档：摘要面板为空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
+      + [请求：“您没有足够的访问权限”，复制请求时出现错误](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
+      + [时间表：无法查看往年例外情况](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
+      + [请求：“全部”视图并未显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md)
       + [自定义表单：计算字段未显示非管理员的数据](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [请求：与请求一起创建的草稿导致问题](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [请求：复制请求时出现“您必须是系统管理员”错误](known-issues-workfront/wf-requests-error-when-copying.md)
@@ -31,17 +32,17 @@ ht-degree: 70%
       + [报表：用户可以在画布功能板可视化图表中查看财务数据](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
       + [Workfront规划：无法向视图添加字段](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [审批：我的审批小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
-      + [Workfront Planning：删除连接的字段时出错](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
-      + [用户：用户配置文件中缺少自动生成验证的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
+      + [工作前期规划：移除连接字段时出现错误](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
+      + [用户：用户资料中缺少自动生成校样的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [自定义表单：无法编辑富文本字段](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
       + [用户：打开用户页面时出错](known-issues-workfront/wf-users-cannot-open-user-tab.md)
       + [任务：创建任务时无法选择用户角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
       + [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md)
-      + [任务：对任务的内联编辑未保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
-      + [用户：批量编辑用户会删除资源池和直接报告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
-      + [请求：无法上传文档以向GDrive请求](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
-      + [任务：对任务的“工作总揽”部分的编辑未保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
-      + [用户：验证配置文件的更改问题](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
+      + [任务：对任务的内联编辑无法保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
+      + [用户：批量编辑用户移除资源池并直接引导下属](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
+      + [请求：无法上传文件以请求GDrive。](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
+      + [任务：任务的分配编辑部分无法保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [用户：关于证明配置文件更改的问题](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
       + [请求：创建请求时不继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md)
       + [计划：为组撤消计划的权限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [分配：未保存团队分配](known-issues-workfront/wf-assignments-not-saved.md)
@@ -53,7 +54,7 @@ ht-degree: 70%
       + [用户：只能按第一个词搜索职位角色](known-issues-workfront/wf-users-job-role-first-word.md)
       + [报告：有关图表中的下拉列表的问题](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [用户：创建用户时无法使用高级选项](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
-      + [自定义表单：字段显示逻辑未正确遵循](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [自定义表单：现场显示逻辑未正确执行](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [校样：无法关闭校样查看器](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [程序：编辑程序时无法保存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [审批：审批决策按钮未显示在验证查看器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
@@ -180,8 +181,8 @@ ht-degree: 70%
 
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
-   + [!DNL Workfront Proof]中的当前问题 {#proof-current}
-      + [Workfront Proof：验证未显示在文件夹中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
+   + 当前问题 [!DNL Workfront Proof] {#proof-current}
+      + [工作前台校样：校样不会出现在文件夹中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：创建校样时无法为资源重新排序](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]上的时间戳不准确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -205,10 +206,10 @@ ht-degree: 70%
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
-   + [!DNL Workfront Fusion]中的当前问题 {#fusion-current}
-      + [Workfront Fusion：AWS模块上缺少标头错误](known-issues-workfront-fusion/fusion-missing-header-aws.md)
-      + [Workfront Fusion：Jira搜索模块返回错误](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
-      + [Workfront Fusion：对webhook的更新不会自动保存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
+   + 当前问题 [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion：AWS 模块缺少头部错误](known-issues-workfront-fusion/fusion-missing-header-aws.md)
+      + [Workfront Fusion：Jira 搜索模块返回错误](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
+      + [Workfront Fusion：webhook 的更新不会自动保存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion：场景未运行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：无法从 Workfront Fusion 添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -217,16 +218,16 @@ ht-degree: 70%
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL &#x200B; 自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法校样连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!DNL Workfront]计划 {#planning}
-   + [&#x200B; [!DNL Workfront] Planning中的已知问题](workfrontplanning.md)
++ [!DNL Workfront] 规划 {#planning}
+   + [规划中 [!DNL Workfront] 已知的问题](workfrontplanning.md)
 
-+ [!DNL Workfront]移动应用 {#mobile}
-   + [&#x200B; [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
++ [!DNL Workfront] 移动应用 {#mobile}
+   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 
 <!--
 
