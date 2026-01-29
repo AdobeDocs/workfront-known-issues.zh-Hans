@@ -2,10 +2,10 @@
 user-guide-title: 已知问题
 user-guide-description: ' 已知问题 [!DNL Adobe Workfront]'
 role: User
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '1648'
-ht-degree: 70%
+source-wordcount: '1657'
+ht-degree: 95%
 
 ---
 
@@ -16,60 +16,61 @@ ht-degree: 70%
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [存在于  [!DNL Adobe Workfront] 的已知问题](newworkfrontexperience.md)
-   + 当前问题 [!DNL Adobe Workfront] {#wf-current}
+   + [!DNL Adobe Workfront] 中的当前问题 {#wf-current}
+      + [工作负载均衡器：未正确计算每个用户的小时数](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [文档：摘要面板为空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
-      + [请求：“您没有足够的访问权限”，复制请求时出现错误](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
-      + [时间表：无法查看往年例外情况](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
-      + [请求：“全部”视图并未显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md)
+      + [请求：复制请求时出现“您没有足够的访问权限”错误](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
+      + [计划：看不到以前年份的例外](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
+      + [请求：“全部”视图不显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md)
       + [自定义表单：计算字段未显示非管理员的数据](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [请求：与请求一起创建的草稿导致问题](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [请求：复制请求时出现“您必须是系统管理员”错误](known-issues-workfront/wf-requests-error-when-copying.md)
-      + [用户：未在Adobe Admin Console上正确配置用户](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
-      + [请求：新请求体验中的草稿问题](known-issues-workfront/wf-requests-issues-with-drafts.md)
-      + [请求：请求队列出现多次](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [用户：用户未在 Adobe Admin Console 中正确预配](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [请求：新请求体验中的草稿存在问题](known-issues-workfront/wf-requests-issues-with-drafts.md)
+      + [请求：请求队列会重复显示多次](known-issues-workfront/wf-requests-queues-duplicated.md)
       + [用户：无法更新用户访问权限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
       + [报告：数据湖查询未返回预期结果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
-      + [报表：用户可以在画布功能板可视化图表中查看财务数据](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
-      + [Workfront规划：无法向视图添加字段](known-issues-workfront/wf-planning-cannot-add-field.md)
-      + [审批：我的审批小组件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
-      + [工作前期规划：移除连接字段时出现错误](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
-      + [用户：用户资料中缺少自动生成校样的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
+      + [报告：用户可在 Canvas 仪表板可视化中看到财务数据](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
+      + [Workfront 规划：无法向视图添加字段](known-issues-workfront/wf-planning-cannot-add-field.md)
+      + [审批：我的审批小组件会显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
+      + [Workfront 规划：移除连接字段时出错](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
+      + [用户：用户轮廓中缺少自动生成校样的选项](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [自定义表单：无法编辑富文本字段](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
-      + [用户：打开用户页面时出错](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [用户：打开“用户”页面时出错](known-issues-workfront/wf-users-cannot-open-user-tab.md)
       + [任务：创建任务时无法选择用户角色](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
-      + [验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md)
-      + [任务：对任务的内联编辑无法保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
-      + [用户：批量编辑用户移除资源池并直接引导下属](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
-      + [请求：无法上传文件以请求GDrive。](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
-      + [任务：任务的分配编辑部分无法保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
-      + [用户：关于证明配置文件更改的问题](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
-      + [请求：创建请求时不继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md)
-      + [计划：为组撤消计划的权限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
-      + [分配：未保存团队分配](known-issues-workfront/wf-assignments-not-saved.md)
-      + [任务：创建任务时未保存计划的小时数](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [校样：校样状态更改存在延迟](known-issues-workfront/wf-proof-status-sync-delayed.md)
+      + [任务：对任务进行内联编辑后无法保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
+      + [用户：批量编辑用户会移除资源池和直接汇报关系](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
+      + [请求：无法从 GDrive 向请求上传文档](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
+      + [任务：对任务“分配”部分的编辑无法保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [用户：更改校样轮廓时存在问题](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
+      + [请求：创建请求时权限不会继承](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [计划：为某个组授予的计划权限遭到撤销](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [分配：团队分配不会保存](known-issues-workfront/wf-assignments-not-saved.md)
+      + [任务：创建任务时“计划工时”不会保存](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
       + [时间表：未生成时间表](known-issues-workfront/wf-timesheets-not-generated.md)
-      + [任务：内联编辑任务时显示“访问不足”消息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
-      + [审批：指向审批的链接不可用](known-issues-workfront/wf-approvals-link-not-appearing.md)
-      + [请求：请求表单创建者无权访问表单](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
-      + [用户：只能按第一个词搜索职位角色](known-issues-workfront/wf-users-job-role-first-word.md)
-      + [报告：有关图表中的下拉列表的问题](known-issues-workfront/wf-reports-dropdown-not-working.md)
+      + [任务：内联编辑任务时显示“访问权限不足”消息](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
+      + [审批：无法访问审批链接](known-issues-workfront/wf-approvals-link-not-appearing.md)
+      + [请求：请求表单创建者无权访问该表单](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
+      + [用户：只能按第一个词搜索工作角色](known-issues-workfront/wf-users-job-role-first-word.md)
+      + [报告：图表中的下拉列表存在问题](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [用户：创建用户时无法使用高级选项](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
-      + [自定义表单：现场显示逻辑未正确执行](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [自定义表单：字段显示逻辑未正确遵循](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [校样：无法关闭校样查看器](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
-      + [程序：编辑程序时无法保存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
-      + [审批：审批决策按钮未显示在验证查看器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
-      + [审批：当截止日期中不包含时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
-      + [验证：无法从PowerPoint文件生成验证](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
+      + [项目集：编辑项目集时无法保存](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
+      + [审批：校样查看器中未显示审批决策按钮](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
+      + [审批：截止时间未包含具体时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
+      + [校样：无法从 PowerPoint 文件生成校样](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [用户：无法编辑其他用户的通知设置](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [用户：无法编辑用户的联合ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [权限：对象权限继承不正确](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Workfront：Workfront与Snowflake之间不同步的对象](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
-      + [验证：无法在预览环境中按名称将用户添加到验证](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [用户：新用户会显示“未决批准”标记](known-issues-workfront/wf-users-pending-approval.md)
-      + [验证：关闭验证重定向到文档列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
-      + [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [过滤器：单击滚动条时，下拉菜单消失](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [项目：项目进度状态不会自动更新为延迟](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
+      + [用户：无法编辑用户的联合身份 ID](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
+      + [权限：对象权限未正确继承](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
+      + [Workfront：Workfront 与 Snowflake 之间的对象不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
+      + [校样：在预览环境中无法按姓名将用户添加到校样](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
+      + [用户：新用户显示“待审批”徽章](known-issues-workfront/wf-users-pending-approval.md)
+      + [校样：关闭校样后会重定向到文档列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
+      + [文档：不显示文档缩略图](known-issues-workfront/wf-documents-thumbnails-not-display.md)
+      + [过滤器：点击滚动条时下拉列表会消失](known-issues-workfront/wf-filter-scroll-bar.md)
+      + [项目：项目进度状态不会自动更新为“延迟”](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [登录为：组管理员无法以其他用户身份登录](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [集成：使用 Workfront for Outlook 时出现 outlookIdentityToken 错误](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [通知：重复的电子邮件](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -129,7 +130,7 @@ ht-degree: 70%
       + [新 [!UICONTROL 主页]：小组件筛选条件和分组默认值不遵循版面模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [团队：设置团队时 [!UICONTROL 完成] 按钮的状态有问题](known-issues-workfront/wf-teams-statuses-missing.md)
       + [设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
-      + [展示板：移至列的信息卡在刷新后返回到原始列](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
+      + [展示板：移至某列的信息卡在刷新后返回原始列](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
       + [文档：无法访问 [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
       + [仪表板：将仪表板打印为 PDF 时空白边距较大](known-issues-workfront/inactive/wf-dashboard-blank-area-when-printing.md)
       + [主页：“我的任务”或“主页工作列表”中不含处于“已批准”或“正在规划”状态的项目中的任务](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
@@ -181,8 +182,8 @@ ht-degree: 70%
 
 + [!DNL Workfront Proof] {#proof}
    + [存在于  [!DNL Workfront Proof] 的已知问题](workfrontproof.md)
-   + 当前问题 [!DNL Workfront Proof] {#proof-current}
-      + [工作前台校样：校样不会出现在文件夹中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
+   + [!DNL Workfront Proof] 中的当前问题 {#proof-current}
+      + [Workfront Proof：验证未显示在文件夹中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：创建校样时无法为资源重新排序](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL 校样摘要]上的时间戳不准确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -200,16 +201,16 @@ ht-degree: 70%
       + [[!UICONTROL 校样审批]报告无法准确确定截止日期](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL 主页]：已完成的校样停留在[!UICONTROL 工作列表]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [文档：校样工作流图标未显示](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + [!DNL Workfront]校对中已解决的问题 {#proof-resolved}
+   + [!DNL Workfront] 校样中的已解决问题 {#proof-resolved}
       + [校样：校样显示为“[!UICONTROL 正在生成校样]”的时间过长](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion 中的已知问题](workfrontfusion.md)
-   + 当前问题 [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion：AWS 模块缺少头部错误](known-issues-workfront-fusion/fusion-missing-header-aws.md)
+   + [!DNL Workfront Fusion] 中的当前问题 {#fusion-current}
+      + [Workfront Fusion：AWS 模块出现缺少请求标头的错误](known-issues-workfront-fusion/fusion-missing-header-aws.md)
       + [Workfront Fusion：Jira 搜索模块返回错误](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
-      + [Workfront Fusion：webhook 的更新不会自动保存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
+      + [Workfront Fusion：Webhook 的更新不会自动保存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion：场景未运行](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：开始设置“从现在开始”处理所有数据](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：无法从 Workfront Fusion 添加或删除用户](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -218,16 +219,16 @@ ht-degree: 70%
       + [Workfront Fusion：日期的输出格式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：内存不足错误](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：从单个模块创建的项目重复](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL &#x200B; 自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] >[!UICONTROL  自定义 API 调用]模块返回 404 或 422 错误](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：“无法校样连接”错误](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion] 模块返回 404 错误，没有更多信息](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] 应用内帮助链接不会指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] 规划 {#planning}
-   + [规划中 [!DNL Workfront] 已知的问题](workfrontplanning.md)
+   + [ [!DNL Workfront]  规划中的已知问题](workfrontplanning.md)
 
-+ [!DNL Workfront] 移动应用 {#mobile}
-   + [&#x200B; [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
++ [!DNL Workfront] 移动设备应用程序 {#mobile}
+   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 
 <!--
 

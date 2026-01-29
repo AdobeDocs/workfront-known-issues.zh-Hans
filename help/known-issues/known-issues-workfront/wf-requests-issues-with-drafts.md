@@ -3,19 +3,15 @@ title: 请求：新请求体验中的草稿存在问题
 description: 关于新请求体验中的草稿，已报告多个问题。
 hidefromtoc: true
 feature: Requests
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 93%
+source-wordcount: '85'
+ht-degree: 100%
 
 ---
 
 
 # 请求：新请求体验中的草稿存在问题
-
->[!NOTE]
->
->此问题已于2026年1月23日修复。
 
 关于新请求体验中的草稿，已报告以下问题：
 

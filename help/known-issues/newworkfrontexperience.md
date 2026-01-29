@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
 workflow-type: tm+mt
-source-wordcount: '1105'
-ht-degree: 95%
+source-wordcount: '1124'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [工作负载均衡器：未正确计算每个用户的小时数](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026年1月29日 |
 | [用户：用户未在 Adobe Admin Console 中正确预配](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026 年 1 月 7 日 |
 | [用户：无法更新用户访问权限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026 年 1 月 5 日 |
 | [报告：数据湖查询未返回预期结果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026 年 1 月 5 日 |
@@ -38,6 +39,7 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [请求：与请求一起创建的草稿导致问题](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日 |
 | [文档：摘要面板为空](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日 |
 | [请求：复制请求时出现“您没有足够的访问权限”错误](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日 |
 | [请求：“全部”视图未显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
