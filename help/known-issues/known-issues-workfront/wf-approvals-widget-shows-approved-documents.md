@@ -1,26 +1,23 @@
 ---
-title: 审批：我的审批小组件显示已完成的审批
-description: 当用户在家中查看我的审批构件时，该构件包含已审批的验证。
+title: 审批：我的审批小组件会显示已完成的审批
+description: 当用户在主页查看“我的审批”小组件时，该小组件会包含已经完成审批的校样。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 90%
 
 ---
 
 
-# 审批：我的审批小组件显示已完成的审批
-
-<!--
+# 审批：我的审批小组件会显示已完成的审批
 
 >[!NOTE]
 >
->This issue was fixed on January 8, 2026.
+>此问题已于2026年1月29日修复。
 
--->
 
-当用户在家中查看我的审批构件时，该构件包含已审批的验证。
+当用户在主页查看“我的审批”小组件时，该小组件会包含已经完成审批的校样。
 
-_首次报告于2025年12月1日。_
+_首次报告于 2025 年 12 月 1 日。_

@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 81%
+source-wordcount: '449'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 81%
 2026 年进行了以下维护更新。
 
 ## 2026 年 1 月更新
+
++++**2026年1月25日至31日维护更新周**
+
+### 2026年1月25日至31日维护更新周
+
+#### 审批
+
+**我的审批小组件会显示已完成的审批**
+
+当用户在主页查看“我的审批”小组件时，该小组件会包含已经完成审批的校样。
+
++++
 
 +++**2026年1月18日至24日维护更新周**
 
