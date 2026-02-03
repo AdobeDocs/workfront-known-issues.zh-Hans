@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 79%
+source-wordcount: '601'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,34 @@ ht-degree: 79%
 有关 2026 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 2026 年进行了以下维护更新。
+
+## 2026 年 2 月更新
+
++++**2026年2月1日至7日维护更新周**
+
+### 2026年2月1日至7日维护更新周
+
+#### 请求
+
+**复制请求时出现“您没有足够的访问权限”错误**
+
+当用户尝试通过请求页面复制请求时，请求不会复制，并且用户会看到以下错误消息：
+
+“您没有足够的权限编辑此问题。”
+
+**复制请求时出现“您必须是系统管理员”错误**
+
+当用户复制请求并尝试保存时，请求无法保存，且用户看到以下错误消息：
+
+“您必须是系统管理员才能更改此自定义数据参数值。”
+
+#### 用户
+
+**未在Adobe Admin Console上正确配置用户**
+
+如果某个用户已存在于 Adobe Admin Console 中，随后又自动预配到包含 Workfront 的控制台，则该用户不会正确预配到新的控制台中。
+
++++
 
 ## 2026 年 1 月更新
 
