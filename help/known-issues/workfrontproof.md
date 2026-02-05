@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 0c073b41fc21ca7951c961e0bba94e05b66c958b
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 85%
+source-wordcount: '405'
+ht-degree: 98%
 
 ---
 
@@ -36,10 +36,9 @@ ht-degree: 85%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [文档：摘要面板为空白](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日 |
-| [工作前台校样：校样不会出现在文件夹中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年1月16日 |
-| [审批：我的审批小部件显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
-| [文档：文档缩略图不显示](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日 |
+| [文档：摘要面板为空](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日 |
+| [审批：我的审批小组件会显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
+| [文档：不显示文档缩略图](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025 年 4 月 17 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
 | [主页：审批小组件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024 年 5 月 8 日 |
 
@@ -51,9 +50,9 @@ ht-degree: 85%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [批准：审批决策按钮未显示在校样查看器中](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日 |
-| [证明：在预览环境中不能按姓名添加用户到证明中](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日 |
-| [证明：结尾证明重定向到文档列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日 |
+| [审批：校样查看器中未显示审批决策按钮](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025 年 9 月 30 日 |
+| [校样：在预览环境中无法按姓名将用户添加到校样](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025 年 6 月 16 日 |
+| [校样：关闭校样后会重定向到文档列表](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025 年 5 月 14 日 |
 | [校样：无法为通过 Fusion 从 AEM 链接的视频创建校样](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025 年 2 月 13 日 |
 | [校样：不会生成网络捕获校样](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024 年 12 月 20 日 |
 | [校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024 年 6 月 7 日 |
