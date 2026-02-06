@@ -3,15 +3,19 @@ title: 文档：摘要面板为空白
 description: 当用户查看文档列表并单击文档时，摘要面板打开，但保持空白。 用户无法关闭“摘要”面板。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '117'
 ht-degree: 4%
 
 ---
 
-
 # 文档：摘要面板为空白
+
+>[!NOTE]
+>
+>此问题已于2026年2月5日修复。
 
 当用户查看文档列表并单击文档时，摘要面板打开，但保持空白。 用户无法关闭“摘要”面板。
 
