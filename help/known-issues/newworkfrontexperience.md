@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: db5ab2c4c91561c635955f1c7f1a360165a5efec
 workflow-type: tm+mt
-source-wordcount: '1092'
-ht-degree: 94%
+source-wordcount: '1084'
+ht-degree: 95%
 
 ---
 
@@ -39,7 +39,6 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | --- | --- |
-| [请求：“无主题”显示在请求列表](known-issues-workfront/wf-requests-no-subject.md)中 | 2026年2月2 |
 | [请求：与请求一起创建的草稿导致问题](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日 |
 | [请求：“全部”视图未显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自定义表单：计算字段未显示非管理员的数据](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
