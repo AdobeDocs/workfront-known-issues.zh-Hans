@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 96%
+source-wordcount: '408'
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,6 @@ ht-degree: 96%
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Workfront Proof：验证未出现在文件夹中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年2月6日 |
-| [文档：摘要面板为空](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日 |
 | [审批：我的审批小组件会显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
 | [文档：不显示文档缩略图](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025 年 4 月 17 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
