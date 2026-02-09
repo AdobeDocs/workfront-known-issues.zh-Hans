@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db5ab2c4c91561c635955f1c7f1a360165a5efec
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 95%
+source-wordcount: '1085'
+ht-degree: 94%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 95%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [请求：填写请求时无法上载文档](known-issues-workfront/wf-request-cannot-submit-with-document.md) | 2026年2月9日 |
 | [自定义表单：显示逻辑在请求表单上未正确显示](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | 2026年1月29日 |
 | [登录：登录后未加载Workfront](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日 |
 | [用户：无法更新用户访问权限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026 年 1 月 5 日 |
-| [报告：数据湖查询未返回预期结果](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026 年 1 月 5 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
