@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 94%
+source-wordcount: '1081'
+ht-degree: 93%
 
 ---
 
@@ -39,10 +39,10 @@ ht-degree: 94%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [用户：无法删除直接下属](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日 |
 | [请求：与请求一起创建的草稿导致问题](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日 |
 | [请求：“全部”视图未显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自定义表单：计算字段未显示非管理员的数据](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
-| [请求：新请求体验中的草稿存在问题](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026 年 1 月 7 日 |
 | [报告：用户可在 Canvas 仪表板可视化中看到财务数据](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025 年 12 月 19 日 |
 | [审批：截止时间未包含具体时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025 年 9 月 25 日 |
 | [Workfront：Workfront 与 Snowflake 之间的对象不同步](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025 年 6 月 17 日 |
