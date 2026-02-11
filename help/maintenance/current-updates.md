@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 53%
+source-wordcount: '951'
+ht-degree: 48%
 
 ---
 
@@ -37,6 +37,12 @@ ht-degree: 53%
 在查询数据湖时，未返回所有预期结果。
 
 #### 请求
+
+与请求一起创建的&#x200B;**草稿导致问题**
+
+当用户在新请求Experience中创建并提交新请求时，也会创建草稿。 草稿仅显示已提交请求名称的第一个字母，尝试打开该请求会导致“无法检索”错误。
+
+此外，如果随后删除了提交的请求，则该请求似乎会被删除，但仍会显示在Workfront的请求区域中。 如果用户尝试重新打开请求，他们会看到一条消息，指示请求不存在。
 
 **新请求体验中的草稿存在问题**
 
