@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 93%
+source-wordcount: '1095'
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [工作：无法从报表中保存高级工作更改](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026年2月12日 |
 | [报告：Workfront Planning字段未出现在画布功能板Report Builder中](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日 |
 | [用户：无法删除直接下属](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日 |
 | [请求：“全部”视图未显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
