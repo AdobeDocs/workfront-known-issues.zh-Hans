@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '1095'
-ht-degree: 92%
+source-wordcount: '1114'
+ht-degree: 90%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [集成：未触发来自Workfront的Slack通知](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026年2月17日 |
+| [审批：审批被自动锁定](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日 |
 | [请求：填写请求时无法上载文档](known-issues-workfront/wf-request-cannot-submit-with-document.md) | 2026年2月9日 |
-| [自定义表单：显示逻辑在请求表单上未正确显示](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | 2026年1月29日 |
 | [登录：登录后未加载Workfront](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日 |
-| [用户：无法更新用户访问权限](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026 年 1 月 5 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |
 
 {style="table-layout:auto"}
@@ -39,6 +39,8 @@ ht-degree: 92%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [主页：验证中的提及次数未出现在提及小组件](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)中 | 2026年2月17日 |
+| [审批：无法从主页中的“我的审批”小组件审批文档](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日 |
 | [工作：无法从报表中保存高级工作更改](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026年2月12日 |
 | [报告：Workfront Planning字段未出现在画布功能板Report Builder中](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日 |
 | [用户：无法删除直接下属](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日 |
