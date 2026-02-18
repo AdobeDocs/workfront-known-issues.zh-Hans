@@ -4,10 +4,10 @@ description: 已报告新  [!DNL Adobe Workfront]  Experience 中的已知问题
 keywords: 新建文件，添加文件
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1114'
-ht-degree: 90%
+source-wordcount: '1137'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 90%
 
 | **问题** | **上次修改** |
 | --- | --- |
+| [任务：大型任务列表意外跳转到列表中的其他位置](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026年2月18日 |
+| [审批：“我的审批”小组件显示的验证未处于用户被分配到的阶段](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026年2月18日 |
 | [集成：未触发来自Workfront的Slack通知](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026年2月17日 |
 | [审批：审批被自动锁定](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日 |
 | [请求：填写请求时无法上载文档](known-issues-workfront/wf-request-cannot-submit-with-document.md) | 2026年2月9日 |
@@ -44,7 +46,6 @@ ht-degree: 90%
 | [工作：无法从报表中保存高级工作更改](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026年2月12日 |
 | [报告：Workfront Planning字段未出现在画布功能板Report Builder中](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日 |
 | [用户：无法删除直接下属](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日 |
-| [请求：“全部”视图未显示所有请求](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日 |
 | [自定义表单：计算字段未显示非管理员的数据](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日 |
 | [报告：用户可在 Canvas 仪表板可视化中看到财务数据](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025 年 12 月 19 日 |
 | [审批：截止时间未包含具体时间时，审批显示为“无截止日期”](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025 年 9 月 25 日 |

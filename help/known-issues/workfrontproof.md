@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 91%
+source-wordcount: '454'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 91%
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
+| [审批：“我的审批”小组件显示的验证未处于用户被分配到的阶段](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026年2月18日 |
 | [审批：审批被自动锁定](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日 |
 | [校样：无法标记某些用户](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025 年 2 月 20 日 |
 | [集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024 年 6 月 25 日 |

@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
-ht-degree: 46%
+source-wordcount: '1040'
+ht-degree: 44%
 
 ---
 
@@ -35,6 +35,13 @@ ht-degree: 46%
 **显示逻辑在请求表单上未正确显示**
 
 当用户填写连接到请求的自定义表单时，显示逻辑无法遵循，并且某些字段可能无法按预期显示。
+
+#### 请求
+
+**“全部”视图未显示所有请求**
+
+当用户在新请求体验中查看请求列表，并且该视图设置为显示所有请求时，仅显示部分请求。
+
 
 +++
 
