@@ -4,9 +4,9 @@ description: 当用户在新请求体验中查看请求列表，并且该视图�
 hidefromtoc: true
 feature: Requests
 exl-id: 38251fcd-4f6f-4e11-af09-cf21b287cd52
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* 此问题已在新请求体验中报告。
->* 此问题已于2026年2月18日修复。
+
 
 当用户在新请求体验中查看请求列表，并且该视图设置为显示所有请求时，仅显示部分请求。
 

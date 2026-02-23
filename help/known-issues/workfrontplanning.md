@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Planning] 的已知问题
 keywords: 新建文件，添加文件
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 86%
+source-wordcount: '141'
+ht-degree: 94%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 86%
 
 | **问题** | **上次修改** |
 | --- | --- |
-| [报告：Workfront Planning字段未出现在画布功能板Report Builder中](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日 |
+| 无 | |
 
 {style="table-layout:auto"}
 
