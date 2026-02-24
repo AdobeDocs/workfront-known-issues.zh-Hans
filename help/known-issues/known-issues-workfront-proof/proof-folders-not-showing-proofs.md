@@ -4,20 +4,20 @@ description: 当用户查看文件夹中应有资产时，该文件夹不显示�
 hidefromtoc: true
 feature: Workfront Proof
 exl-id: a288781d-ef63-4e88-ab6c-3ce33eac3259
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Workfront Proof：验证未出现在文件夹中
 
-<!--
+
 >[!NOTE]
 >
->This issue was fixed on February 4, 2026.
--->
+>此问题已于2026年2月23日修复。
+
 
 当用户查看文件夹中应有资产时，该文件夹不显示资产。
 

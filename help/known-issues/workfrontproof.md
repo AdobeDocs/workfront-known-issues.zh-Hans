@@ -4,10 +4,10 @@ description: 已报告  [!DNL Adobe Workfront Proof] 的已知问题
 keywords: 新建文件，添加文件
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 87%
+source-wordcount: '445'
+ht-degree: 89%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 87%
 | ----------------------------------------------------------------- | ----------------- |
 | [主页：验证中的提及次数未出现在提及小组件](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)中 | 2026年2月17日 |
 | [审批：无法从主页中的“我的审批”小组件审批文档](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日 |
-| [Workfront Proof：验证未出现在文件夹中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年2月6日 |
 | [审批：我的审批小组件会显示已完成的审批](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日 |
 | [文档：不显示文档缩略图](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025 年 4 月 17 日 |
 | [通知：电子邮件通知中不显示缩略图](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 8 日 |
