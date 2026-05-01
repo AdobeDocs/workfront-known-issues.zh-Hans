@@ -4,19 +4,19 @@ solution: Workfront
 product: experience cloud
 type: Troubleshooting
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/workfront-known-issues.zh-Hans
+git-repo: https://github.com/AdobeDocs/workfront-known-issues.en
 index: true
 feature-set: Workfront
-source-git-commit: e758575bf35ef5e54b79472ec9611b237e7456a5
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+source-git-commit: 78d1aa2666e1c267ce838befa24b754d0dea9efd
+workflow-type: tm+mt
+source-wordcount: '69'
+ht-degree: 49%
 
 ---
 
 
-# 内部使用的元数据
+# 供内部使用的元数据
 
-[!DNL metadata].md 文件中包含存储库级别的元数据，这些元数据会传送到存储库中的用户指南 [!DNL TOC.md] 文件。如果要更改任何用户指南的 metadata.md 内容，请在相应的 TOC.md 文件中进行更改。
+[!DNL metadata].md文件包含存储库级别的元数据，这些元数据将传递到存储库中的用户指南[!DNL TOC.md]文件。 如果要更改任何用户指南的 metadata.md 内容，请在任何 TOC.md 文件中进行更改。
 
-请参阅[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=zh-Hans)以获取 **solution**、**product** 和 **type** 的有效值的列表。
+查看[元数据](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)以获取&#x200B;**解决方案**、**产品**&#x200B;和&#x200B;**类型**&#x200B;的有效值列表。
