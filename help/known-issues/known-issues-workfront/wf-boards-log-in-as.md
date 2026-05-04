@@ -1,13 +1,12 @@
 ---
-title: “展示板：用户使用 登录身份 时，展示板不会显示”
+title: 展示板：使用登录身份时，展示板不显示为用户
 description: 当管理员或群组管理员以其他用户身份登录并查看展示板时，显示的展示板是管理员展示板，而非用户展示板。
-hidefromtoc: true
 feature: Agile
 exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 89%
 
 ---
 

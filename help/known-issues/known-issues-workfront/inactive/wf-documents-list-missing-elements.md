@@ -1,12 +1,11 @@
 ---
-title: '文档：文档列表有问题'
+title: '文档：文档列表有问题 '
 description: 本文描述最近关于文档列表报告的问题。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---

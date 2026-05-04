@@ -1,22 +1,21 @@
 ---
-title: 请求：创建请求时不继承权限
-description: 当用户创建请求时，该请求不继承权限。 这意味着用户可能无法访问该请求。
-hidefromtoc: true
+title: 请求：创建请求时权限不会继承
+description: 当用户创建请求时，请求不会继承权限。 这意味着用户可能无法访问该请求。
 feature: Requests
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: ab6e3a57-efc3-4791-97be-68dfa5f990c0
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 100%
 
 ---
 
-
-# 请求：创建请求时不继承权限
+# 请求：创建请求时权限不会继承
 
 >[!NOTE]
 >
->此问题已于2025年12月19日修复。
+>此问题已于 2025 年 12 月 19 日修复。
 
-当用户创建请求时，该请求不继承权限。 这意味着用户可能无法访问该请求。
+当用户创建请求时，请求不会继承权限。 这意味着用户可能无法访问该请求。
 
-_首次报告于2025年11月20日。_
+_首次报告时间：2025 年 11 月 20 日。_

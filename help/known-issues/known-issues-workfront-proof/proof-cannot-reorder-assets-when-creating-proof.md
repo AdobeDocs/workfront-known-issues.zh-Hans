@@ -1,13 +1,12 @@
 ---
-title: 'Workfront Proof：创建验证时无法重新排序资源'
+title: Workfront Proof：创建验证时无法重新排序资源
 description: 当Workfront Proof中的用户尝试重新排序将合并到验证中的资源时，他们无法拖动文件，并且文件的顺序未更改。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d7651c5d-1a68-4a4f-a7aa-a9354eedead0
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 59%
+source-wordcount: '100'
+ht-degree: 60%
 
 ---
 

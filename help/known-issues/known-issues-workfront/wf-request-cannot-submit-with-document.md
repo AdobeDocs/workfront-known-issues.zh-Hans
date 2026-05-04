@@ -1,13 +1,12 @@
 ---
 title: 请求：填写请求时无法上传文档
 description: 当用户填写请求并尝试上传文档时，文档未上传，并且用户看到错误消息。
-hidefromtoc: true
 feature: Requests
 exl-id: e73b00ef-b5ab-4458-a9be-49a4954b560e
-source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '96'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->此问题已于 2023 年 2 月 23 日修复。
+>此问题已于2023年2月23日修复。
 
 当用户填写请求并尝试上传文档时，文档未上传，并且用户看到以下错误消息：
 

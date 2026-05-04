@@ -1,12 +1,11 @@
 ---
-title: “报告：报告筛选条件未返回预期结果”
-description: 报告中的筛选条件可能不会返回所有预期结果。有解决方法可用。
-hidefromtoc: true
+title: 报告：报告筛选条件未返回预期结果
+description: 报告中的筛选条件可能不会返回所有预期结果。 有解决方法可用。
 feature: Reports and Dashboards
 exl-id: d9ca1eac-1478-4ee0-a713-24743c1487c5
-source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---

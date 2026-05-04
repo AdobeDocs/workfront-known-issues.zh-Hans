@@ -1,13 +1,12 @@
 ---
 title: 用户：无法更新用户访问权限
 description: ''
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 317ba095-0e7a-4f47-b388-f168acfdec40
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 81%
+source-wordcount: '67'
+ht-degree: 82%
 
 ---
 

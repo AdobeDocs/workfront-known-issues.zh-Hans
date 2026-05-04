@@ -1,12 +1,11 @@
 ---
 title: 文档：将文档移至新项目时不继承权限
-description: '当用户将一个文档移至其他项目时，该文档不从新项目继承共享权限。该文档不共享到将该项目共享到的用户。 '
-hidefromtoc: true
+description: '当用户将一个文档移至其他项目时，该文档不从新项目继承共享权限。 该文档不共享到将该项目共享到的用户。 '
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '182'
 ht-degree: 100%
 
 ---
@@ -17,7 +16,7 @@ ht-degree: 100%
 
 <!--Won't fix tab: Valid issue, won't fix.-->
 
-当用户将一个文档移至其他项目时，该文档不从新项目继承共享权限。该文档不共享到将该项目共享到的用户。
+当用户将一个文档移至其他项目时，该文档不从新项目继承共享权限。 该文档不共享到将该项目共享到的用户。
 
 **解决方法：**
 

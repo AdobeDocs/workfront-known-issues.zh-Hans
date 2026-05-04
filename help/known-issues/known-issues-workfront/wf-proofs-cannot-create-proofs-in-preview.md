@@ -1,12 +1,11 @@
 ---
-title: “校样：无法在预览环境中创建校样”
+title: 校样：无法在预览环境中创建校样
 description: 当用户尝试在预览沙盒环境中创建校样时，无法创建校样，并且用户会看到生成失败消息。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 3cade5ee-e561-48d4-a570-6fc1cbf409f1
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
-source-wordcount: '83'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---

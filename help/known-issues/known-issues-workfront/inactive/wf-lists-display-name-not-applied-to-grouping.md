@@ -1,12 +1,11 @@
 ---
-title: '列表：显示名称未应用于自定义字段分组'
+title: 列表：显示名称未应用于自定义字段分组
 description: 当用户按自定义字段对列表进行分组并在”文本“模式下更改显示名称时，显示该字段的原始名称。
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
-hidefromtoc: true
 feature: Text Mode Reporting
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---

@@ -1,13 +1,12 @@
 ---
 title: Workfront Fusion：场景未运行
-description: 如果某个方案不再运行，则可能是由于夏令时问题造成的。 有解决方法可用。
-hidefromtoc: true
+description: 如果场景不再运行，可能与夏令时问题有关。 有解决方法可用。
 feature: Workfront Fusion
 exl-id: bd9f5a8a-0cbd-47ff-8d95-f06640a3b84b
-source-git-commit: 5a4359cd01d05926ca9fea631091cc0767cf0109
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 14%
+source-wordcount: '70'
+ht-degree: 100%
 
 ---
 
@@ -17,11 +16,11 @@ ht-degree: 14%
 >
 >已解决此问题。
 
-如果某个方案不再运行，则可能是由于夏令时问题造成的。
+如果场景不再运行，可能与夏令时问题有关。
 
 **解决方法**
 
-停用并重新激活受影响的方案。
+停用并重新启用受影响的场景。
 
-_首次报告于2025年3月18日。_
+_首次报告时间：2025 年 3 月 18 日。_
 

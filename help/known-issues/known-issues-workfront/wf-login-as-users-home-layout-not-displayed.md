@@ -1,12 +1,11 @@
 ---
 title: 登录为：显示管理员主页布局模板
 description: 当管理员以其他用户身份登录并导航到“设置”中的布局模板时，将显示他们自己的主页布局模板，而不是他们以用户身份登录的模板。
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1276dd02-2399-4284-997e-8bdf3c2ce411
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---

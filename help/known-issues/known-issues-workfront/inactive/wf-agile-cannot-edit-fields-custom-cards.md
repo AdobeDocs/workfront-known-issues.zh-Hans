@@ -1,12 +1,11 @@
 ---
 title: 敏捷：无法从信息卡上的自定义表单中编辑字段
-description: 当 Kanban 展示板上信息卡中某个字段从自定义表单中提取时，用户无法直接从该信息卡中编辑该字段。
+description: 当看板展示板上信息卡中某个字段从自定义表单中提取时，用户无法直接从该信息卡中编辑该字段。
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
-hidefromtoc: true
-source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -17,7 +16,7 @@ ht-degree: 100%
 >
 >产品团队目前正在评估此问题的解决方案，这可能需要产品增强功能。 产品增强功能在“产品公告”中而非“维护更新”中传送。
 
-当 Kanban 展示板上信息卡中某个字段从自定义表单中提取时，用户无法直接从该信息卡中编辑该字段。
+当看板展示板上信息卡中某个字段从自定义表单中提取时，用户无法直接从该信息卡中编辑该字段。
 
 **解决方法**
 

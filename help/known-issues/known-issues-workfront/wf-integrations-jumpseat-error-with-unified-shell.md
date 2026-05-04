@@ -1,11 +1,11 @@
 ---
-title: “集成：Unified Shell 组织的 JumpSeat 集成失效”
+title: 集成：Unified Shell 组织的 JumpSeat 集成失效
 description: 当用户的组织迁移到 Adobe Unified Shell 上时，其现有的 JumpSeat 集成会失效。
-hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '84'
+exl-id: 0476729e-4e25-4180-84b5-d6b59ae90de8
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---

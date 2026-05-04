@@ -1,13 +1,12 @@
 ---
 title: 请求：新请求体验中的草稿存在问题
 description: 关于新请求体验中的草稿，已报告多个问题。
-hidefromtoc: true
 feature: Requests
 exl-id: 951ea13c-774d-484d-99fd-ca119d258870
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 93%
+source-wordcount: '95'
+ht-degree: 91%
 
 ---
 

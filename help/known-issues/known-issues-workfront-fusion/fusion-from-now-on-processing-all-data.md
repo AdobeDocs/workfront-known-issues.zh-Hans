@@ -1,15 +1,14 @@
 ---
-title: "Workfront Fusion：开始设置从现在开始处理所有数据"
-description: “在选择从现在开始作为场景的选择何时开始设置后，如果用户将场景恢复到以前的版本，它将尝试处理所有数据而不管日期如何，而不是仅包含选择开始选项后的数据。”
-hidefromtoc: true
+title: Workfront Fusion：从现在开始设置以处理所有数据
+description: 选择从现在起作为方案的选择开始时间设置后，如果用户将方案还原为以前的版本，则它将尝试处理所有数据，而不管日期如何，而不是仅包括选择开始选项后的数据。
 feature: Workfront Fusion
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
-source-wordcount: '146'
-ht-degree: 100%
+exl-id: 498c7487-a828-4ed1-a38d-26c89d2a70dc
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 61%
 
 ---
-
 
 # Workfront Fusion：开始设置“从现在开始”处理所有数据
 

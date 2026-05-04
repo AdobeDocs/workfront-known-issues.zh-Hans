@@ -1,12 +1,11 @@
 ---
-title: “设置：无法使用 [!UICONTROL Kick-Starts] 设置分组”
+title: 设置：无法使用 [!UICONTROL Kick-Starts] 设置分组
 description: 当用户尝试使用 [!UICONTROL Kick-Starts] 进行分组时，导入失败，并且用户会看到一条错误消息。
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
-source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
@@ -19,8 +18,8 @@ ht-degree: 100%
 
 当用户尝试使用 [!UICONTROL Kick-Starts] 进行分组时，导入失败，而用户看到一条类似于以下某个内容的错误消息：
 
-* [!UICONTROL 发生以下错误：提供的数据似乎采用的是 Office 2007+ XML。您正在调用 POI 的处理 OLE2 Office 文档的部分。您需要调用 POI 的其他部分以处理此数据（如 XSSF 而非 HSSF）]
-* [!UICONTROL 糟糕！ 出现问题。 未找到参考文件。首选项键：临时行：3 个表：UIGB]
+* [!UICONTROL 发生以下错误：提供的数据似乎采用的是 Office 2007+ XML。 您正在调用 POI 的处理 OLE2 Office 文档的部分。 您需要调用 POI 的其他部分以处理此数据（如 XSSF 而非 HSSF）]
+* [!UICONTROL 糟糕！ 出现问题。 未找到参考文件。 首选项键：临时行：3 个表：UIGB]
 
 即使筛选条件和视图已成功[!UICONTROL 快速启动]，也可能发生此情况。
 

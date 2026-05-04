@@ -1,13 +1,12 @@
 ---
-title: ‘文档：无法从 Google Drive 添加文档’
+title: 文档：无法从Google Drive添加文档
 description: 当用户尝试从 Google Drive 向 Workfront 添加文档时，文件选择器不会显示任何文件，并且用户无法选择所需的文件。
-hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: 74447447-b4e5-426d-a293-18b3d6f421a0
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 93%
 
 ---
 

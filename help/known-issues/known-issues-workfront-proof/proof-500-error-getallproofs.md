@@ -1,13 +1,12 @@
 ---
-title: 'Workfront Proof：通过API或Workfront Fusion访问Workfront Proof时出现500错误'
-description: '当用户访问验证API getAllProofs操作时，Workfront Proof服务器返回消息：500内部服务器错误'
-hidefromtoc: true
+title: Workfront Proof：通过API或Workfront Fusion访问Workfront Proof时出现500错误
+description: 当用户访问验证API getAllProofs操作时，Workfront Proof服务器返回消息：500内部服务器错误
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862
-source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 68%
+source-wordcount: '108'
+ht-degree: 69%
 
 ---
 

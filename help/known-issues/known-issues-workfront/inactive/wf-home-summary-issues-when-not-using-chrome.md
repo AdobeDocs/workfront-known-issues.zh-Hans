@@ -1,13 +1,12 @@
 ---
-title: '主页：当使用非 Chrome 浏览器时，出现主页摘要问题'
+title: 主页：当使用Chrome以外的浏览器时，出现主页摘要问题
 description: 当用户查看其主页并使用 Chrome 以外的浏览器时，他们可能会看到各种问题。
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
-hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 91%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已关闭，因为无法复制。
+>由于无法重现，此问题已关闭。
 
 
 当用户查看其[!UICONTROL 主页]并使用 [!DNL Chrome] 以外的浏览器时，他们可能会看到以下问题：

@@ -1,22 +1,21 @@
 ---
-title: 审批：指向审批的链接不可用
-description: 当用户被指定为对象的审批者时，该对象的链接不会出现在我的更新区域或主页中的我的审批小部件中。
-hidefromtoc: true
+title: 审批：无法访问审批链接
+description: 当将用户分配为某个对象的审批人时，该对象的链接不会显示在主页中的“我的更新”区域或“我的审批”小组件中。
 feature: Digital Content and Documents, Get Started with Workfront, Updates and Notifications
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+exl-id: f5cb36b7-8d60-4a57-ab41-9b41f4202558
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
-
-# 审批：指向审批的链接不可用
+# 审批：无法访问审批链接
 
 >[!NOTE]
 >
->此问题已于2025年12月19日修复。
+>此问题已于 2025 年 12 月 19 日修复。
 
-当用户被指定为对象的审批者时，该对象的链接不会出现在我的更新区域或主页中的我的审批小部件中。
+当将用户分配为某个对象的审批人时，该对象的链接不会显示在主页中的“我的更新”区域或“我的审批”小组件中。
 
-_首次报告于2025年10月27日。_
+_首次报告于 2025 年 10 月 27 日。_

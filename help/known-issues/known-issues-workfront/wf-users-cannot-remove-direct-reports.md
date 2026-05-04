@@ -1,15 +1,14 @@
 ---
 title: 用户：无法删除直接报表
 description: '当用户尝试从用户删除直接报告时，如果直接报告字段已具有值，则无法更新该字段。 '
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+exl-id: 76d23a78-4eec-49e4-abaf-a22e5641ae45
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 7%
+source-wordcount: '87'
+ht-degree: 6%
 
 ---
-
 
 # 用户：无法删除直接报表
 

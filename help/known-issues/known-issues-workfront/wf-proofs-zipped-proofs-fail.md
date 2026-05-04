@@ -1,12 +1,11 @@
 ---
 title: 校样：未能生成压缩的校样
 description: 当用户尝试创建压缩的校样，并且该校样中有两个或更多文件同名时，未能生成该校样。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 100%
 
 ---

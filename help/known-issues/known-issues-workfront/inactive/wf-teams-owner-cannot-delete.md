@@ -1,13 +1,12 @@
 ---
-title: '团队：无法查看团队所有者或删除团队'
+title: 团队：无法查看团队所有者或删除团队
 description: 这些操作对组管理员不可用。
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 87%
+source-wordcount: '118'
+ht-degree: 94%
 
 ---
 

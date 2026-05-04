@@ -1,12 +1,11 @@
 ---
 title: 自定义表单：显示逻辑在请求表单上无法正确显示
 description: 当用户填写连接到请求的自定义表单时，显示逻辑无法遵循，并且某些字段可能无法按预期显示
-hidefromtoc: true
 feature: Custom Forms
 exl-id: f7e5f8e0-d4d5-4acc-865b-f459a2ca31ff
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '98'
 ht-degree: 1%
 
 ---

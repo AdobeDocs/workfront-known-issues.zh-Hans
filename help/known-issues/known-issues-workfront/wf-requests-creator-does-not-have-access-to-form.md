@@ -1,23 +1,22 @@
 ---
-title: 请求：请求表单创建者无权访问表单
-description: 当用户在Workfront Planning中创建请求表单，然后尝试访问该表单时，他们无法访问该表单，并且看到消息“您无权访问此表单”。
-hidefromtoc: true
+title: 请求：请求表单创建者无权访问该表单
+description: 当用户在 Workfront 规划中创建请求表单后尝试访问该表单时，无法访问，并会看到消息：“您无权访问此表单。”
 feature: Requests
-source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+exl-id: 52c8ab6b-a950-4e13-b30b-8199e7c89223
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 100%
 
 ---
 
-
-# 请求：请求表单创建者无权访问表单
+# 请求：请求表单创建者无权访问该表单
 
 >[!NOTE]
 >
->* 此问题已于2025年11月26日修复。
->* 此问题与仅在Workfront Planning中可用的功能相关。
+>* 此问题已于 2025 年 11 月 26 日修复。
+>* 此问题与仅在 Adobe Workfront 规划中提供的功能相关。
 
-当用户在Workfront Planning中创建请求表单，然后尝试访问该表单时，他们无法访问该表单，并且看到消息“您无权访问此表单”。
+当用户在 Workfront 规划中创建请求表单后尝试访问该表单时，无法访问，并会看到消息：“您无权访问此表单。”
 
-_首次报告于2025年10月29日。_
+_首次报告于 2025 年 10 月 29 日。_

@@ -1,13 +1,12 @@
 ---
-title: 'Workfront Fusion：Fusion 模块返回 404 错误，没有更多信息'
-description: 当 Workfront Fusion 模块返回 404 错误时，该错误未提供有关导致错误的原因的任何进一步详细信息。这是因为 404 错误是从与模块连接的应用程序发送到 Workfront Fusion，而该应用程序没有向 Workfront Fusion 提供更多详细信息。
-hidefromtoc: true
+title: Workfront Fusion： Fusion模块返回404错误，没有更多信息
+description: 当 Workfront Fusion 模块返回 404 错误时，该错误未提供有关导致错误的原因的任何进一步详细信息。 这是因为 404 错误是从与模块连接的应用程序发送到 Workfront Fusion，而该应用程序没有向 Workfront Fusion 提供更多详细信息。
 exl-id: 07a93454-2647-4c60-bdfd-3779e3c6f9b3
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '156'
+ht-degree: 92%
 
 ---
 
