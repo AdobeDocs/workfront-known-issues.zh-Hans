@@ -1,12 +1,11 @@
 ---
-title: “文档：链接集成文档时使用 UNK 文件扩展名”
+title: 文档：链接集成文档时使用 UNK 文件扩展名
 description: 当用户从文档集成链接文档时，该文档将以 UNK 文件扩展名出现在 Workfront 中。
-hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: ec37dbaa-4776-423d-abeb-a88691d92d16
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '76'
 ht-degree: 100%
 
 ---

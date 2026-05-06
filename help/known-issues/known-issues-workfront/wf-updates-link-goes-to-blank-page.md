@@ -1,13 +1,12 @@
 ---
-title: '更新：评论中的链接进入空白屏幕'
-description: 当用户单击评论中的链接时，该链接会将用户定向到空白屏幕。 有解决方法可用。
-hidefromtoc: true
+title: 更新：评论中的链接转至空白屏幕
+description: 当用户点击评论中的链接时，该链接会将用户引导至空白屏幕。 有解决方法可用。
 feature: Updates and Notifications
 exl-id: db510b1b-84ff-4e77-b028-7acc55ce9832
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 64%
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 

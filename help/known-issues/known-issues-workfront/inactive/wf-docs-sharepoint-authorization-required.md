@@ -1,13 +1,12 @@
 ---
-title: '文档：无法访问 SharePoint'
+title: 文档：无法访问SharePoint
 description: 当用户尝试在 Workfront 中打开 SharePoint 文件夹时，不打开该文件夹，而用户看到一条消息。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 6b6c4c13-5d43-4d30-a7d0-67ff8aa0b113
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '118'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +24,7 @@ ht-degree: 100%
 
 由 Microsoft 控制授权时机。
 
-**变通方法**
+**解决方法**
 
 重新授权。
 

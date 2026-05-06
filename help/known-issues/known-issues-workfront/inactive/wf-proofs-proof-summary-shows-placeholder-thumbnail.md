@@ -1,17 +1,16 @@
 ---
-title: ‘验证：[!UICONTROL 打印摘要]不显示图像缩略图’
-description: 当用户在  [!DNL Workfront] 中查看验证的[!UICONTROL 打印摘要]页面时，不显示该验证的缩略图。而是出现一个简单的占位符图像。
-hidefromtoc: true
+title: 校样：[!UICONTROL 打印摘要]不显示图像缩略图
+description: 当用户在  [!DNL Workfront] 中查看校样的[!UICONTROL 打印摘要]页面时，不显示该校样的缩略图。 而是出现一个简单的占位符图像。
 exl-id: e3ad759d-59a2-4c2b-b4a1-14a75c9d85d2
 feature: Digital Content and Documents
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
-# 验证：[!UICONTROL 打印摘要]不显示图像缩略图
+# 校样：[!UICONTROL 打印摘要]不显示图像缩略图
 
 <!--This is on both the WF and WFP TOCs-->
 
@@ -19,8 +18,8 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已关闭，因为它就是如此设计的。
+>此问题已关闭，因为它已按预期运行。
 
-当用户在 [!DNL Workfront] 中查看验证的[!UICONTROL 打印摘要]页面时，不显示该验证的缩略图。而是出现一个简单的占位符图像。
+当用户在 [!DNL Workfront] 中查看校样的[!UICONTROL 打印摘要]页面时，不显示该校样的缩略图。 而是出现一个简单的占位符图像。
 
 _首次报告于 2022 年 11 月 1 日。_

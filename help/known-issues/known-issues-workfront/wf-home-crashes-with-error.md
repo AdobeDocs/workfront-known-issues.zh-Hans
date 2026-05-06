@@ -1,13 +1,12 @@
 ---
-title: ”主页：主页因内存不足错误而崩溃“
-description: 当用户尝试查看新主页时，网站会崩溃并显示错误消息。有解决方法可用。
-hidefromtoc: true
+title: 主页：主目录崩溃并出现内存不足错误
+description: 当用户尝试查看新主页时，网站会崩溃并显示错误消息。 有解决方法可用。
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 93%
 
 ---
 
@@ -19,13 +18,13 @@ ht-degree: 100%
 
 当用户尝试查看新主页时，网站会崩溃并显示以下错误消息：
 
-“显示此页面时出现错误！错误代码：内存不足”
+“显示此页面时出现错误！ 错误代码：内存不足”
 
 **解决方法**
 
-这可能是由于小部件中的项目太多造成的。我们建议查看以下内容：
+这可能是由于小组件中的项目太多造成的。 我们建议查看以下内容：
 
-* 进行过滤，以便小部件中包含较少的项目
-* 从主页移除小部件
+* 进行过滤，以便小组件中包含较少的项目
+* 从主页移除小组件
 
 _首次报告于 2024 年 7 月 30 日。_

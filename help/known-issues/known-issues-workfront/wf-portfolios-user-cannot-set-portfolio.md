@@ -1,12 +1,11 @@
 ---
-title: ”作品集：用户无法设置作品集“
+title: 作品集：用户无法设置作品集
 description: 如果用户无权访问作品集，他们就无法更改项目的作品集。
-hidefromtoc: true
 feature: Work Management
 exl-id: 38ad277a-2087-486c-8715-93e275488697
-source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
-workflow-type: ht
-source-wordcount: '167'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '169'
 ht-degree: 100%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已关闭，因为它已按设计运行。
+>此问题已关闭，因为它已按预期运行。
 
 如果用户无权访问作品集，他们就无法更改项目的作品集。
 

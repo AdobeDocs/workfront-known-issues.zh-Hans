@@ -1,25 +1,24 @@
 ---
-title: Workfront规划：无法向视图添加字段
-description: 当用户尝试将字段添加到Workfront规划中的视图时，该字段未添加，且用户看到一条消息。
-hidefromtoc: true
+title: Workfront 规划：无法向视图添加字段
+description: 当用户在 Workfront 规划中尝试向视图添加字段时，字段未添加，并会看到一条消息。
 feature: Workfront Planning
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
+exl-id: 6c0dac0b-b294-491d-973a-88e0ff8d3aef
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
-
-# Workfront规划：无法向视图添加字段
+# Workfront 规划：无法向视图添加字段
 
 >[!NOTE]
 >
->* 此问题已于2025年12月19日修复。
+>* 此问题已于 2025 年 12 月 19 日修复。
 >* 此问题已在自定义刷新沙盒中报告。
 
-当用户尝试将字段添加到Workfront Planning中的视图时，该字段未添加，且用户看到以下消息：
+当用户在 Workfront 规划中尝试向视图添加字段时，字段未添加，并会看到以下消息：
 
-“无法创建字段列。 再试一次。”
+“无法创建字段列。 请重试。”
 
-_首次报告于2025年12月10日。_
+_首次报告于 2025 年 12 月 10 日。_

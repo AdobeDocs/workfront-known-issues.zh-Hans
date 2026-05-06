@@ -1,12 +1,11 @@
 ---
 title: 请求：与请求一起创建的草稿导致问题
 description: 当用户在新请求Experience中创建并提交新请求时，也会创建草稿。 草稿仅显示已提交请求名称的第一个字母，尝试打开该请求会导致“无法检索”错误。
-hidefromtoc: true
 feature: Requests
 exl-id: ab7288a4-dfff-4b1d-96d6-f05f0a2c14cb
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

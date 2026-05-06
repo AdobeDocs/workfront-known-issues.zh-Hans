@@ -1,12 +1,11 @@
 ---
-title: '报告：日程表默认为旧日期'
+title: 报告：日程表默认为旧日期
 description: 当用户导航到日程表时，日程表会加载过去的随机日期范围（例如，从 1800 年开始的一周）。
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---

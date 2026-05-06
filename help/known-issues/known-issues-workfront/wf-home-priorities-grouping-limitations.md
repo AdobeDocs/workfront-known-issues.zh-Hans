@@ -1,12 +1,11 @@
 ---
 title: 优先级：分组会阻止排序和内联编辑
 description: 当优先级工作列表应用分组时，它无法进行排序，并且内联编辑对工作列表中的字段不起作用。
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 9b36df42-30ea-47d2-b791-114d59429480
-source-git-commit: feb1a6d8a0b4c28c035415302746dfc8a3ee7e0d
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---

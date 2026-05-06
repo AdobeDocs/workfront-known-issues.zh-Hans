@@ -1,22 +1,21 @@
 ---
-title: 分配：未保存团队分配
-description: 当用户将团队分配给Workfront中的工作项时，团队分配未保存，并且团队未收到工作通知。
-hidefromtoc: true
+title: 分配：团队分配不会保存
+description: 当用户在 Workfront 中将团队分配给某个工作项时，团队分配不会保存，且团队不会收到该工作的通知。
 feature: Tasks, Work Management, People Teams and Groups
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+exl-id: e0940c6b-e58a-4ddc-a49a-de1557ac6fa1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 100%
 
 ---
 
-
-# 分配：未保存团队分配
+# 分配：团队分配不会保存
 
 >[!NOTE]
 >
->此问题已于2025年12月15日修复。
+>此问题已于 2025 年 12 月 15 日修复。
 
-当用户将团队分配给Workfront中的工作项时，团队分配未保存，并且团队未收到工作通知。
+当用户在 Workfront 中将团队分配给某个工作项时，团队分配不会保存，且团队不会收到该工作的通知。
 
-_首次报告于2025年11月13日。_
+_首次报告于 2025 年 11 月 13 日。_

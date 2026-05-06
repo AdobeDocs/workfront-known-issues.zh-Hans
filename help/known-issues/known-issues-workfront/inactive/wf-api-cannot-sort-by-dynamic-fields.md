@@ -1,12 +1,11 @@
 ---
-title: 'API：无法按动态字段排序'
-description: 'Workfront API 不允许按动态字段排序。'
-hidefromtoc: true
+title: API：无法按动态字段排序
+description: 'Workfront API 不允许按动态字段排序。 '
 exl-id: f681fca8-7def-4fe4-9ab1-18dd6e2502d6
 feature: Workfront API
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '49'
 ht-degree: 100%
 
 ---
@@ -17,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已关闭，因为它不构成问题。
+>此问题已关闭，因为它现在不构成问题。
 
 Workfront API 不允许按动态字段排序。
 

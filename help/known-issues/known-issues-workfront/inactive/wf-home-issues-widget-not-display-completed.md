@@ -1,18 +1,17 @@
 ---
-title: “主页：我的问题构件不显示已关闭或已完成的问题”
-description: 我的本地问题构件不显示已关闭或已完成的问题。即使过滤器设置为显示这些问题，也可能出现这种情况。
-hidefromtoc: true
+title: 主页：我的问题小组件不显示已关闭或已完成的问题
+description: 我的本地问题小组件不显示已关闭或已完成的问题。 即使过滤器设置为显示这些问题，也可能出现这种情况。
 feature: Get Started with Workfront
 exl-id: 569c45b3-77cf-4715-8426-899fdbeecb3f
-source-git-commit: 2ba6cd47c43c85717a968d48289460181a79aaa2
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
-# 主页：我的问题构件不显示已关闭或已完成的问题
+# 主页：我的问题小组件不显示已关闭或已完成的问题
 
-我的本地问题构件不显示已关闭或已完成的问题。即使过滤器设置为显示这些问题，也可能出现这种情况。
+我的本地问题小组件不显示已关闭或已完成的问题。 即使过滤器设置为显示这些问题，也可能出现这种情况。
 
 _首次报告于 2024 年 5 月 31 日。_

@@ -1,11 +1,11 @@
 ---
-title: ”通知：电子邮件通知中不显示缩略图“
+title: 通知：电子邮件通知中不显示缩略图
 description: 当用户查看有关文档审批的电子邮件通知时，文档缩略图在电子邮件中不可见”
-hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
-source-wordcount: '82'
+exl-id: 9b733328-e05f-4a28-b8eb-da83d68ac68c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---

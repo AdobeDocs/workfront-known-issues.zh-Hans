@@ -176,7 +176,7 @@ _[!DNL Workfront]_
 
 +++**2021 年 11 月 18 日维护更新**
 
-**[!DNL Workfront][!DNL Jira]“[!UICONTROL 无效的 clientID 或 clientSecret]”登录错误**
+**[!DNL Workfront] [!DNL Jira]“[!UICONTROL 无效的 clientID 或 clientSecret]”登录错误**
 
 _Workfront 集成_
 

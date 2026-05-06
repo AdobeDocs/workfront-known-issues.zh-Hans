@@ -1,12 +1,11 @@
 ---
-title: '仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色'
+title: 仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色
 description: 当用户在仪表板中查看报告图表时，使用的颜色与用户查看报告本身时不同。 如果用户预期给定的颜色具有给定的含义，则可能会导致混淆。
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 feature: Reports and Dashboards
-hidefromtoc: true
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '144'
 ht-degree: 100%
 
 ---

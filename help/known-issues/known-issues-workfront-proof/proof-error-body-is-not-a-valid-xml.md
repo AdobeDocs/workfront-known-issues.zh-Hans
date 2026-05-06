@@ -1,13 +1,12 @@
 ---
-title: 'Workfront 校样 API：正文不是有效的 XML 错误'
+title: Workfront Proof API：正文不是有效的XML错误
 description: 对 Workfront 校样 API 的调用返回错误。
-hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +20,7 @@ ht-degree: 100%
 
 对 [!DNL Workfront Proof] API 的调用返回以下错误：
 
-“[!UICONTROL 正文不是有效的 XML。根标记未闭合]”
+“[!UICONTROL 正文不是有效的 XML。 根标记未闭合]”
 
 当直接访问 [!DNL Workfront Proof] API 或通过 [!DNL Workfront Fusion] 访问它时，可能会发生此情况。
 

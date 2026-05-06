@@ -1,17 +1,16 @@
 ---
-title: ‘更新：无法在更新区域记录当天的时间’
+title: 更新：无法在更新区域记录当天的时间
 description: 当用户尝试在更新区域中记录当天的时间时，当前日期将灰显，并且用户无法输入任何小时。
-hidefromtoc: true
 exl-id: 2cbdadb8-0ab1-4f94-bd1d-7f8151f865bc
 feature: Updates and Notifications
-source-git-commit: e21428ea574bbe10779cf2a348e01917af0a2640
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 89%
 
 ---
 
-# [!UICONTROL 更新]：无法在[!UICONTROL 更新]区域记录当天的时间
+# [!UICONTROL 更新]：无法在[!UICONTROL 更新]区域中记录当天的时间
 
 >[!NOTE]
 >

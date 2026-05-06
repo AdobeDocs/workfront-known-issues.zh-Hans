@@ -1,13 +1,12 @@
 ---
-title: ‘任务：无法更改任务的规划完成日期’
-description: ‘当用户尝试更改任务的规划完成日期时，该字段不响应。'
-hidefromtoc: true
+title: 任务：无法更改任务的规划完成日期
+description: '当用户尝试更改任务的规划完成日期时，该字段不响应。 '
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 78%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->此问题已关闭，因为它就是如此设计的。
+>此问题已关闭，因为它已按预期运行。
 
 当用户尝试更改任务的[!UICONTROL 规划完成日期]时，该字段不响应。
 

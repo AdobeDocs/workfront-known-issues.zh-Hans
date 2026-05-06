@@ -1,12 +1,11 @@
 ---
-title: 通知：未发送更新的电子邮件通知
+title: 通知：未发送有关更新的电子邮件通知
 description: 启用了对象更新电子邮件通知的用户有时收不到预期的电子邮件通知。
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: d320a7cd-a732-49a7-a4f3-045b85b7fb2b
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '65'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
