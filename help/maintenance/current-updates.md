@@ -3,10 +3,10 @@ title: Workfront 维护更新
 description: ' [!DNL Adobe Workfront] 维护更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
+source-git-commit: eace4f6034ca11c6616e82b411c0dcfd936e5f9a
 workflow-type: tm+mt
-source-wordcount: '1265'
-ht-degree: 37%
+source-wordcount: '1270'
+ht-degree: 33%
 
 ---
 
@@ -14,17 +14,26 @@ ht-degree: 37%
 
 >[!NOTE]
 >
->有关所有 Adobe 产品（包括 Workfront）因维护而出现中断的信息，请参阅 [Adobe 状态页面](https://status.adobe.com/zh-cn/)。
+>由于我们制定了管理此页面内容的新流程，因此暂时暂停了对此页面的更新。
+
+
+
+<!--
+>[!NOTE] 
+>
+>For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/zh-cn/).
+
+-->
 
 本页面介绍了每周 Workfront 更新中修复的问题。
 
-这些更新还包括其他次要或不太突出的错误修复。[!DNL Workfront]当您提交的问题得到修复时，支持人员会通知您。
+这些更新还包括其他次要或不太突出的错误修复。[!DNL Workfront] 当您提交的问题得到修复时，支持人员会通知您。
 
 有关 2026 年之前的维护更新，请参阅[以前的维护更新](#previous-maintenance-updates)。
 
 2026 年进行了以下维护更新。
 
-## 2026 年 2 月更新
+## 2026年2月更新
 
 +++**2026年2月22日至28日维护更新周**
 
@@ -195,7 +204,7 @@ Workfront规划字段未显示在画布功能板Report Builder中
 
 ### 2026年1月11日至17日维护更新周
 
-此更新仅包含次要或影响不大的错误修复。当您提交的问题得到修复时，Workfront 支持人员会通知您。
+此更新仅包含次要或影响不大的错误修复。 当您提交的问题得到修复时，Workfront 支持人员会通知您。
 
 +++
 
@@ -225,7 +234,7 @@ AWS 模块会出现以下错误：
 
 **校样状态更改存在延迟**
 
-当对校样作出决策后，该决策在项目的“文档”区域中最长可能 24 小时内不会显示。这可能会引起混淆，因为即使已作出决策，状态仍显示为“待处理”或其他过期状态。
+当对校样作出决策后，该决策在项目的“文档”区域中最长可能 24 小时内不会显示。 这可能会引起混淆，因为即使已作出决策，状态仍显示为“待处理”或其他过期状态。
 
 #### 请求
 
@@ -245,4 +254,4 @@ AWS 模块会出现以下错误：
 * [[!DNL Workfront] 维护更新档案 - 2024](2024-updates.md)
 * [[!DNL Workfront] 维护更新档案 - 2023](2023-updates.md)
 * [[!DNL Workfront] 维护更新档案 - 2022](2022-updates.md)
-* [[!DNL Workfront] 维护更新档案 - 2021](2021-updates.md)
+* [[!DNL Workfront]2021 维护更新档案](2021-updates.md)
