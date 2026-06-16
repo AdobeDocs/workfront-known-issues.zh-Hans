@@ -2,9 +2,9 @@
 user-guide-title: 已知问题
 user-guide-description: 已知问题 [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+source-git-commit: 654ef2b12b254f34cf8943847873ec4d89c59965
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1823'
 ht-degree: 52%
 
 ---
@@ -117,7 +117,6 @@ ht-degree: 52%
       + {hide-from-toc}[优先级：分组会阻止排序和内联编辑](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + {hide-from-toc}[报告：无法通过滚动来查看整个图表报告](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + {hide-from-toc}[组：已删除的组状态重新显示](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + {hide-from-toc}[文档：文档更新未显示验证评论](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + {hide-from-toc}[主页：项目名称显示“无访问权限”](known-issues-workfront/wf-home-no-access-project-name.md)
       + {hide-from-toc}[主页：主页因“内存不足”错误而崩溃](known-issues-workfront/wf-home-crashes-with-error.md)
       + {hide-from-toc}[Workfront：多个浏览器选项卡导致 Workfront 注销](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
