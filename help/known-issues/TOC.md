@@ -24,7 +24,7 @@ ht-degree: 52%
       + {hide-from-toc}[展示板：展示板上显示重复的卡片](known-issues-workfront/wf-boards-duplicate-cards.md)
       + {hide-from-toc}[任务：大型任务列表意外跳转到列表中的其他位置](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
       + {hide-from-toc}[审批：“我的审批”小组件显示的验证未处于用户被分配到的阶段](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md)
-      + {hide-from-toc}[主页：验证中的提及次数未出现在提及小组件](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)中
+      + {hide-from-toc}[主页：验证中的提及次数未出现在提及小组件中](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
       + {hide-from-toc}[集成：未触发来自Workfront的Slack通知](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
       + {hide-from-toc}[审批：无法从主页中的“我的审批”小组件审批文档](known-issues-workfront/wf-approval-not-work-from-widget.md)
       + {hide-from-toc}[Workfront计划：“无法提交请求”错误](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
@@ -33,7 +33,7 @@ ht-degree: 52%
       + {hide-from-toc}[报告：Workfront Planning字段未出现在画布功能板Report Builder中](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + {hide-from-toc}[用户：无法删除直接下属](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
       + {hide-from-toc}[请求：填写请求时无法上载文档](known-issues-workfront/wf-request-cannot-submit-with-document.md)
-      + {hide-from-toc}[请求：“无主题”显示在请求列表](known-issues-workfront/wf-requests-no-subject.md)中
+      + {hide-from-toc}[请求：“无主题”显示在请求列表中](known-issues-workfront/wf-requests-no-subject.md)
       + {hide-from-toc}[自定义表单：显示逻辑在请求表单上未正确显示](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
       + {hide-from-toc}[登录：登录后未加载Workfront](known-issues-workfront/wf-login-wf-does-not-load.md)
       + {hide-from-toc}[工作负载均衡器：未正确计算每个用户的小时数](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
@@ -60,7 +60,7 @@ ht-degree: 52%
       + {hide-from-toc}[验证：验证状态更改延迟](known-issues-workfront/wf-proof-status-sync-delayed.md)
       + {hide-from-toc}[任务：对任务的内联编辑未保存](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + {hide-from-toc}[用户：批量编辑用户将删除资源池和直接报告](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
-      + {hide-from-toc}[请求：无法上传文档以从GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)请求
+      + {hide-from-toc}[请求：无法上传文档以从GDrive请求](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
       + {hide-from-toc}[任务：对任务“分配”部分的编辑无法保存](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
       + {hide-from-toc}[用户：验证配置文件的更改问题](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
       + {hide-from-toc}[请求：创建请求时未继承权限](known-issues-workfront/wf-requests-permissions-not-inherited.md)
@@ -127,14 +127,14 @@ ht-degree: 52%
       + {hide-from-toc}[项目组合：用户无法设置项目组合](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + {hide-from-toc}[任务：在任务分配中搜索名字未返回用户](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + {hide-from-toc}[集成：从  [!DNL Google Drive]  链接文件夹不会链接文件夹中的资产](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
-      + {hide-from-toc}[展示板：用户使用 [!UICONTROL 登录身份]](known-issues-workfront/wf-boards-log-in-as.md) 时，展示板不会显示
+      + {hide-from-toc}[展示板：用户使用 [!UICONTROL 登录身份] 时，展示板不会显示](known-issues-workfront/wf-boards-log-in-as.md)
       + {hide-from-toc}[主页：我的问题小组件不显示已关闭或已完成的问题](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + {hide-from-toc}[主页：审批小组件不准确](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + {hide-from-toc}[主页：无法移除“提及”小组件](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + {hide-from-toc}[导航：“返回”按钮无法返回上一页](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + {hide-from-toc}[实际完成日期显示为](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + {hide-from-toc}[文档：链接集成中的文档时具有UNK文件扩展名](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + {hide-from-toc}[项目：使用模板从问题创建的项目不反映在模板](known-issues-workfront/wf-projects-priority-not-transfer.md)中设置的优先级
+      + {hide-from-toc}[项目：使用模板从问题创建的项目不反映在模板中设置的优先级](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + {hide-from-toc}[时间表：固定的时间表变为空白页面](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + {hide-from-toc}[校对审查方无法编辑权限](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + {hide-from-toc}[更新：评论中的链接进入空白屏幕](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
@@ -146,7 +146,7 @@ ht-degree: 52%
       + {hide-from-toc}[更新：请求者用户无法将图像添加到更新](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + {hide-from-toc}[校样：未能生成压缩的校样](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + {hide-from-toc}[新[!UICONTROL 主页]：构件筛选器和分组默认值不遵循布局模板](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
-      + {hide-from-toc}[团队：设置[!UICONTROL 完成]按钮](known-issues-workfront/wf-teams-statuses-missing.md)的团队状态时出现问题
+      + {hide-from-toc}[团队：设置[!UICONTROL 完成]按钮的团队状态时出现问题](known-issues-workfront/wf-teams-statuses-missing.md)
       + {hide-from-toc}[设置：无法使用 [!UICONTROL Kick-Starts] 设置分组](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md)
       + {hide-from-toc}[展示板：移动到列的卡片在刷新后返回到原始列](known-issues-workfront/inactive/wf-boards-cards-not-move-to-custom-status.md)
       + {hide-from-toc}[文档：无法访问 [!DNL SharePoint]](known-issues-workfront/inactive/wf-docs-sharepoint-authorization-required.md)
@@ -164,34 +164,34 @@ ht-degree: 52%
       + {hide-from-toc}[筛选条件：无法在仪表板上共享报告中的筛选条件](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + {hide-from-toc}[校样：测量工具不接受小数点](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + {hide-from-toc}[文档：文档列表有问题](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
-      + {hide-from-toc}[文档：访问从  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) 链接的文档时出现 404 错误
+      + {hide-from-toc}[文档：访问从  [!DNL SharePoint] 链接的文档时出现 404 错误](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + {hide-from-toc}[[!UICONTROL 工作负载均衡器]：小时数未调整以考虑用户空闲时间](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + {hide-from-toc}[[!UICONTROL 更新]：无法在[!UICONTROL 更新]区域](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)中记录当天的时间
+      + {hide-from-toc}[[!UICONTROL 更新]：无法在[!UICONTROL 更新]区域中记录当天的时间](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + {hide-from-toc}[文档：将文档移至新项目时不继承权限](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + {hide-from-toc}[文档：上载大文件时出错](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
-      + {hide-from-toc}[文档：无法添加来自 [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)的文档
+      + {hide-from-toc}[文档：无法添加来自 [!DNL Google Drive]的文档](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + {hide-from-toc}[校样：校样状态不会在[!UICONTROL 文档]列表中更新](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
       + {hide-from-toc}[自定义表单：跨对象自定义表单需要[!UICONTROL 管理]或者[!UICONTROL 编辑]权限来编辑字段](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md)
       + {hide-from-toc}[校样：打印摘要不显示图像缩略图](known-issues-workfront/inactive/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + {hide-from-toc}[任务：无法更改任务的[!UICONTROL 计划完成日期]](known-issues-workfront/inactive/wf-tasks-cannot-change-planned-completion-date.md)
       + {hide-from-toc}[API：无法按动态字段排序](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
-      + {hide-from-toc}[[!UICONTROL 设置]：列表在[!UICONTROL 设置]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)中加载缓慢
-      + {hide-from-toc}[任务：在任务的[!UICONTROL 摘要]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)面板中输入小时数时未保存该数值
+      + {hide-from-toc}[[!UICONTROL 设置]：列表在[!UICONTROL 设置]中加载缓慢](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)
+      + {hide-from-toc}[任务：在任务的[!UICONTROL 摘要]面板中输入小时数时未保存该数值](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + {hide-from-toc}[校样：[!UICONTROL 主要校样阶段]字段为空](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + {hide-from-toc}[[!DNL Workfront]：在 Experience League 上提交 [!DNL Workfront] 支持案例有问题](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + {hide-from-toc}[仪表板：在仪表板中查看的报告图表使用与在报告中查看时不同的颜色](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + {hide-from-toc}[敏捷：在敏捷展示板上移动信息卡时出现问题](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
       + {hide-from-toc}[敏捷：无法从信息卡上的自定义表单中编辑字段](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + {hide-from-toc}[审批：为不正确的天数设置了审批委派](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + {hide-from-toc}[[!UICONTROL 主页]：当使用非  [!DNL Chrome]](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md) 浏览器时，出现[!UICONTROL 主页]摘要问题
-      + {hide-from-toc}[[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)显示已停用的用户
+      + {hide-from-toc}[[!UICONTROL 主页]：当使用非  [!DNL Chrome] 浏览器时，出现[!UICONTROL 主页]摘要问题](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + {hide-from-toc}[[!UICONTROL 主页]：“新任务”选项在[!UICONTROL 分配给]字段显示已停用的用户](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + {hide-from-toc}[更新：团队名称未出现在 @提及中](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + {hide-from-toc}[敏捷：开发周期[!UICONTROL 完成点]的差异](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + {hide-from-toc}[电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + {hide-from-toc}[电子邮件通知：用户未定向到评论会话](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + {hide-from-toc}[日程表： [!DNL OR]  过滤语句不包括过滤规则](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + {hide-from-toc}[报告：日程表默认为旧日期](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
-      + {hide-from-toc}[电子邮件通知： [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) 中的电子邮件格式不正确
+      + {hide-from-toc}[电子邮件通知： [!DNL Outlook] 中的电子邮件格式不正确](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
       + {hide-from-toc}[列表：显示名称未应用于自定义字段分组](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
       + {hide-from-toc}[日程表：未显示任务](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
@@ -203,12 +203,12 @@ ht-degree: 52%
    + [!DNL Workfront Proof] 中的当前问题 {#proof-current}
       + {hide-from-toc}[Workfront Proof：验证未出现在文件夹中](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + {hide-from-toc}[[!UICONTROL Workfront Proof]：创建验证时无法重新排序资源](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
-      + {hide-from-toc}[[!DNL Workfront Proof]：[!UICONTROL 校样摘要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)上的时间戳不准确
+      + {hide-from-toc}[[!DNL Workfront Proof]：[!UICONTROL 校样摘要]上的时间戳不准确](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + {hide-from-toc}[[!DNL Workfront Proof]：无法展开工作流](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + {hide-from-toc}[Workfront Proof：仪表板数据并不总是准确](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + {hide-from-toc}[Workfront Proof：搜索数据并不总是准确](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + {hide-from-toc}[校样：校样预览环境中创建缓慢](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
-      + {hide-from-toc}[[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 访问 [!DNL Workfront Proof] 时出现 500 错误
+      + {hide-from-toc}[[!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + {hide-from-toc}[[!DNL Workfront Proof]：列表未正确排序](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + {hide-from-toc}[[!DNL Workfront Proof]：不再支持[!UICONTROL 报告]区域](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + {hide-from-toc}[验证：在验证评论中标记时，用户未收到电子邮件](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -243,10 +243,10 @@ ht-degree: 52%
       + {hide-from-toc}[[!DNL Workfront Fusion] 应用内帮助链接未指向特定的帮助页面](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] 规划 {#planning}
-   + [ [!DNL Workfront]  规划中的已知问题](workfrontplanning.md)
+   + [&#x200B; [!DNL Workfront]  规划中的已知问题](workfrontplanning.md)
 
 + [!DNL Workfront] 移动设备应用程序 {#mobile}
-   + [ [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  移动设备应用程序中的已知问题](workfrontmobile.md)
 
 <!--
 
