@@ -5,7 +5,7 @@ exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '17045'
+source-wordcount: '17047'
 ht-degree: 98%
 
 ---
@@ -980,7 +980,8 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。 以前，仅�
 
 *[!UICONTROL 主菜单]*
 
-如果您的组织有自定义内部帮助站点，您可以配置[!UICONTROL 主菜单]&#x200B;[!UICONTROL 帮助]图标指向该站点。 如果帮助站点包含有关您组织如何使用 [!DNL Workfront] 的信息，这将很有用。此自定义 URL 不会影响 [!DNL Workfront] 顶部区域中的主帮助链接，也不会影响整个 [!DNL Workfront] 中的上下文相关帮助链接，这些链接会将用户带到 [!DNL Workfront] 帮助站点。
+如果您的组织有自定义内部帮助站点，您可以配置[!UICONTROL 主菜单]&#x200B;[!UICONTROL 帮助]图标指向该站点。 如果帮助站点包含有关您组织如何使用 [!DNL Workfront] 的信息，这将很有用。
+此自定义 URL 不会影响 [!DNL Workfront] 顶部区域中的主帮助链接，也不会影响整个 [!DNL Workfront] 中的上下文相关帮助链接，这些链接会将用户带到 [!DNL Workfront] 帮助站点。
 
 **内联编辑[!UICONTROL 任务持续时间]**&#x200B;时无法选择占用时长
 
@@ -1083,7 +1084,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。 以前，仅�
 因此，我们建议您采取以下措施：
 
 * 请更新您的垃圾邮件过滤器，以接收来自 `notification@my.workfront.com` 的电子邮件
-* 更新您的允许列表以接受来自的电子邮件 
+* 更新您的允许列表以接受来自的电子邮件 `notification@my.workfront.com`
   **在工作流模板中进行初始配置后无法修改用户选项**
 
 *[!DNL Workfront Proof]*
@@ -1377,7 +1378,8 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。 以前，仅�
 *仪表板*
 
 将功能板打印到PDF时，报告了以下问题：
-PDF不会打印报告中的每一行。 行缺失的地方，只显示空白。PDF 在列标题和报告的第一行之间包含空格。
+PDF不会打印报告中的每一行。 行缺失的地方，只显示空白。
+PDF 在列标题和报告的第一行之间包含空格。
 
 **[!DNL Portfolio Optimizer]使用英语以外的语言时显示 0 分**
 
@@ -1861,7 +1863,8 @@ PDF不会打印报告中的每一行。 行缺失的地方，只显示空白。P
 
 *项目*
 
-将带有所需自定义字段的模板附加到该字段已存在并已填写的项目时，用户会看到以下错误：“[!UICONTROL 字段不完整。 在继续之前，请输入必填字段的值。]单击“[!UICONTROL 跳转]”后，用户会看到字段已填写并且他们可以成功附加模板。
+将带有所需自定义字段的模板附加到该字段已存在并已填写的项目时，用户会看到以下错误：“[!UICONTROL 字段不完整。 在继续之前，请输入必填字段的值。]
+单击“[!UICONTROL 跳转]”后，用户会看到字段已填写并且他们可以成功附加模板。
 
 **在日期之间切换时，[!UICONTROL 工作负载平衡器]闪烁**
 
