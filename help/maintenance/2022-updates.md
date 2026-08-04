@@ -299,7 +299,7 @@ ht-degree: 98%
 
 +++**[!DNL Workfront Fusion]2022 年11 月 3 日维护更新**
 
-[!DNL Workfront] >[!UICONTROL  关注事件]模块&#x200B;**中** apiKey[!UICONTROL  的错误]
+[!DNL Workfront] >[!UICONTROL &#x200B; 关注事件]模块&#x200B;**中** apiKey[!UICONTROL &#x200B; 的错误]
 
 *[!DNL Workfront Fusion]*
 
@@ -980,7 +980,7 @@ Blueprint 类型“仪表板”已添加到 Blueprint 目录中。 以前，仅�
 
 *[!UICONTROL 主菜单]*
 
-如果您的组织有自定义内部帮助站点，您可以配置[!UICONTROL 主菜单][!UICONTROL 帮助]图标指向该站点。 如果帮助站点包含有关您组织如何使用 [!DNL Workfront] 的信息，这将很有用。
+如果您的组织有自定义内部帮助站点，您可以配置[!UICONTROL 主菜单]&#x200B;[!UICONTROL 帮助]图标指向该站点。 如果帮助站点包含有关您组织如何使用 [!DNL Workfront] 的信息，这将很有用。
 此自定义 URL 不会影响 [!DNL Workfront] 顶部区域中的主帮助链接，也不会影响整个 [!DNL Workfront] 中的上下文相关帮助链接，这些链接会将用户带到 [!DNL Workfront] 帮助站点。
 
 **内联编辑[!UICONTROL 任务持续时间]**&#x200B;时无法选择占用时长
@@ -1537,7 +1537,7 @@ PDF 在列标题和报告的第一行之间包含空格。
 
 *[!DNL Workfront Proof]*
 
-显示在给定用户 [!DNL Workfront Proof] 的[!UICONTROL 联系人]区域的电子邮件警报设置与用户的[!UICONTROL 用户详细信息 ]页面的电子邮件警报设置不同。
+显示在给定用户 [!DNL Workfront Proof] 的[!UICONTROL 联系人]区域的电子邮件警报设置与用户的[!UICONTROL 用户详细信息 &#x200B;]页面的电子邮件警报设置不同。
 
 **对校样进行评论时无法使用“文本”工具**
 
