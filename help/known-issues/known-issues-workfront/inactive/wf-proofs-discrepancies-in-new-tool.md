@@ -1,12 +1,12 @@
 ---
 title: 校样：处理静态文件时出现问题
-description: Workfront 最近已将其校样处理工具从第三方提供商更改为内部解决方案，并已发现两个系统的功能有一些差异。这些差异可能会导致在处理静态文件时出现问题，尤其是 PDF、Word 和 PPT 文件。有解决方法可用。
+description: Workfront 最近已将其校样处理工具从第三方提供商更改为内部解决方案，并已发现两个系统的功能有一些差异。 这些差异可能会导致在处理静态文件时出现问题，尤其是 PDF、Word 和 PPT 文件。 有解决方法可用。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '155'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 <!--WF and WFP TOCs-->
 
-Workfront 最近已将其校样处理工具从第三方提供商更改为内部解决方案，并已发现两个系统的功能有一些差异。这些差异可能会导致在处理静态文件时出现问题，尤其是 PDF、Word 和 PPT 文件。
+Workfront 最近已将其校样处理工具从第三方提供商更改为内部解决方案，并已发现两个系统的功能有一些差异。 这些差异可能会导致在处理静态文件时出现问题，尤其是 PDF、Word 和 PPT 文件。
 
 Workfront 正在努力升级其库以匹配旧工具，并将在 Workfront 发布页面上通知您这些更改。
 
