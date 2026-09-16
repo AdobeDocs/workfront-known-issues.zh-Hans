@@ -1,20 +1,19 @@
 ---
 title: Workfront 的 2024 年维护更新
-description: ' [!DNL Adobe Workfront] 维护更新'
+description: '[!DNL Adobe Workfront]的维护更新'
 feature: Get Started with Workfront
 exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
-source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '7587'
 ht-degree: 99%
-
 ---
-
 # [!DNL Workfront] 维护更新
 
 >[!NOTE]
 >
->有关所有 Adobe 产品（包括 Workfront）因维护而出现中断的信息，请参阅 [Adobe 状态页面](https://status.adobe.com/zh-cn/)。
+>有关所有 Adobe 产品（包括 Workfront）因维护而出现中断的信息，请参阅 [Adobe 状态页面](https://status.adobe.com/)。
 
 本页面介绍了每周 Workfront 更新中修复的问题。
 
@@ -1125,11 +1124,11 @@ Workfront 模块可以返回 `RuntimeError [200]` 响应。 200 意味着响应�
 
 #### 主页
 
-**[!UICONTROL 主页]：[!UICONTROL Workspace &#x200B;]和大头针未加载**
+**[!UICONTROL 主页]：[!UICONTROL Workspace ]和大头针未加载**
 
 当用户登录时，可能会出现以下情况：
 
-* 该用户新的[!UICONTROL 主页 Workspace &#x200B;]未加载，他们看到错误“[!UICONTROL 我们无法加载您的 Workspace 信息。 请联系 Workfront，以便我们找出错误并加以修复。]”
+* 该用户新的[!UICONTROL 主页 Workspace ]未加载，他们看到错误“[!UICONTROL 我们无法加载您的 Workspace 信息。 请联系 Workfront，以便我们找出错误并加以修复。]”
 * 用户的大头针未加载，并且他们看到错误“[!UICONTROL 由于系统错误，您的 PIN 码不可用。 请尝试刷新浏览器来解决问题。]”
 
 #### 用户

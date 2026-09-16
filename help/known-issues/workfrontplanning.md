@@ -1,23 +1,22 @@
 ---
-title: 存在于  [!DNL Adobe Workfront Planning] 的已知问题
-description: 已报告  [!DNL Adobe Workfront Planning] 的已知问题
+title: 存在于 [!DNL Adobe Workfront Planning] 的已知问题
+description: 已报告[!DNL Adobe Workfront Planning]的已知问题
 keywords: 新建文件，添加文件
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 86%
-
+source-wordcount: '159'
+ht-degree: 81%
 ---
-
 # 存在于 [!DNL Adobe Workfront Planning] 的已知问题
 
 此页面包含当前在 [!DNL Adobe Workfront Planning] 中发现的问题。
 
 >[!IMPORTANT]
 >
->有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com/zh-cn)。有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新](../maintenance/current-updates.md)。
+>有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新](../maintenance/current-updates.md)。
 
 ## 新
 
@@ -50,7 +49,7 @@ ht-degree: 86%
 
 ## 无修复
 
-这些问题的修复尚未纳入规划中。在某些情况下，这些问题将通过新功能或功能更新的方式修复。
+这些问题的修复尚未纳入规划中。 在某些情况下，这些问题将通过新功能或功能更新的方式修复。
 
 | **问题** | **上次修改** |
 | --- | --- |
