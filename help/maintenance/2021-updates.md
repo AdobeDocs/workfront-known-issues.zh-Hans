@@ -175,7 +175,7 @@ _[!DNL Workfront]_
 
 +++**2021 年 11 月 18 日维护更新**
 
-**[!DNL Workfront][!DNL Jira]“[!UICONTROL 无效的 clientID 或 clientSecret]”登录错误**
+**[!DNL Workfront]&#x200B;[!DNL Jira]“[!UICONTROL 无效的 clientID 或 clientSecret]”登录错误**
 
 _Workfront 集成_
 
@@ -516,7 +516,7 @@ _主页_
 
 +++**2021 年 9 月 23 日维护更新**
 
-查看提交给 [!DNL Workfront]**的工单时出现**[!UICONTROL &#x200B;访问被拒绝]错误
+查看提交给 [!DNL Workfront]&#x200B;**的工单时出现**&#x200B;[!UICONTROL &#x200B;访问被拒绝]错误
 
 _问题_
 
@@ -1759,6 +1759,6 @@ _文档_
 
 _[!DNL Workfront Proof]_
 
-当用户通过电子邮件（[!UICONTROL 校样]>[!UICONTROL 打印评论]>[!UICONTROL  PDF 格式]）收到下载链接并且导出文件时，下载文件的标题是随机数字而不是校样 ID。
+当用户通过电子邮件（[!UICONTROL 校样]>[!UICONTROL 打印评论]>[!UICONTROL &#x200B; PDF 格式]）收到下载链接并且导出文件时，下载文件的标题是随机数字而不是校样 ID。
 
 +++
