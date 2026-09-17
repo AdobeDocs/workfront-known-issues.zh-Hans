@@ -1,15 +1,14 @@
 ---
 title: Workfront 的 2022 年维护更新
-description: ' [!DNL Adobe Workfront] 的 2022 年维护更新'
+description: '[!DNL Adobe Workfront]的2022年维护更新'
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '17047'
+source-wordcount: '17045'
 ht-degree: 98%
-
 ---
-
 # [!DNL Workfront] 的 2022 年维护更新
 
 2022 年进行了以下维护更新。

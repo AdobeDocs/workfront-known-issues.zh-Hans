@@ -1,23 +1,22 @@
 ---
-title: 存在于  [!DNL Adobe Workfront Fusion] 的已知问题
-description: 已报告  [!DNL Adobe Workfront Fusion] 的已知问题
+title: 存在于 [!DNL Adobe Workfront Fusion] 的已知问题
+description: 已报告[!DNL Adobe Workfront Fusion]的已知问题
 keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 81%
-
+source-wordcount: '244'
+ht-degree: 98%
 ---
-
 # 存在于 [!DNL Adobe Workfront Fusion] 的已知问题
 
 此页面包含当前在 [!DNL Adobe Workfront Fusion] 中发现的问题。
 
 >[!IMPORTANT]
 >
->有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com/zh-cn)。有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新](../maintenance/current-updates.md)。
+>有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com/zh-cn)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新](../maintenance/current-updates.md)。
 
 ## 新
 
@@ -39,19 +38,19 @@ ht-degree: 81%
 
 {style="table-layout:auto"}
 
-## 有可用的解决方法
+## 有解决方法可用
 
-这些问题的修复目前不在路线图中，但有解决方法，并详见每个问题的文章。
+这些问题的修复目前不在产品路线图中，但每个问题的文章中均提供了相应的解决方法。
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion： Jira搜索模块返回错误](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025年9月16日 |
+| [Workfront Fusion：Jira 搜索模块返回错误](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025 年 9 月 16 日 |
 | [Workfront Fusion：模块中缺少字段](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024 年 2 月 5 日 |
-| [Workfront Fusion：对webhook的更新未自动保存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025年8月6日 |
+| [Workfront Fusion：Webhook 的更新不会自动保存](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025 年 8 月 6 日 |
 
 ## 无修复
 
-这些问题的修复尚未纳入规划中。在某些情况下，这些问题将通过新功能或功能更新的方式修复。
+这些问题的修复尚未纳入规划中。 在某些情况下，这些问题将通过新功能或功能更新的方式修复。
 
 | **问题** | **上次修改** |
 | ----------------------------------------------------------------- | ----------------- |
