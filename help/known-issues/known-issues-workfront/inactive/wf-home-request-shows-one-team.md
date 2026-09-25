@@ -3,13 +3,20 @@ title: 主页：请求构件不显示所有已分配的团队
 description: 当用户在新的主页体验中查看“请求”小组件时，请求显示为仅分配了一个团队，即使实际上为请求分配了多个团队也是如此。
 feature: Get Started with Workfront
 exl-id: 464174a6-5b4e-4cea-a00b-db76bb16a04d
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 91%
-
 ---
-
 # [!UICONTROL 主页]：[!UICONTROL 请求]小组件未显示所有分配的团队
 
 >[!NOTE]

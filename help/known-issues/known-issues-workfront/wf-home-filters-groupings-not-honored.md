@@ -3,13 +3,20 @@ title: 新主页：小组件筛选器和分组默认值不遵循布局模板
 description: 当用户在新主页体验中查看我的项目、我的任务或我的问题小组件时，该小组件的默认筛选条件和分组不是分配给该用户的布局模板中的默认设置。
 feature: Get Started with Workfront
 exl-id: d7038535-98ff-405b-9c2b-d6474dc568c9
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 93%
-
 ---
-
 # 新 [!UICONTROL 主页]：小组件筛选条件和分组默认值不遵循版面模板
 
 >[!NOTE]

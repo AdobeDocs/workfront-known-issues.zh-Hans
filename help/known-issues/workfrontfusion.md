@@ -5,7 +5,16 @@ keywords: 新建文件，添加文件
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 98%
@@ -16,7 +25,7 @@ ht-degree: 98%
 
 >[!IMPORTANT]
 >
->有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com/zh-cn)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新](../maintenance/current-updates.md)。
+>有关服务器正常运行时间或中断的信息，请见 [status.adobe.com](https://status.adobe.com)。 有关最近修复的问题的信息，请见 [[!DNL Workfront]  维护更新](../maintenance/current-updates.md)。
 
 ## 新
 

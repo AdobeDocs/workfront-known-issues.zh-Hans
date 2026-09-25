@@ -3,13 +3,20 @@ title: 主页：主目录崩溃并出现内存不足错误
 description: 当用户尝试查看新主页时，网站会崩溃并显示错误消息。 有解决方法可用。
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 93%
-
 ---
-
 # 主页：主页因“内存不足”错误而崩溃
 
 >[!NOTE]

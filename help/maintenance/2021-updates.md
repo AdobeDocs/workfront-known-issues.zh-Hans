@@ -4,7 +4,16 @@ description: '[!DNL Adobe Workfront]的2021年维护更新历史记录'
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 recommendations: noDisplay, noCatalog
-source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '10226'
 ht-degree: 98%
@@ -175,7 +184,7 @@ _[!DNL Workfront]_
 
 +++**2021 年 11 月 18 日维护更新**
 
-**[!DNL Workfront]&#x200B;[!DNL Jira]“[!UICONTROL 无效的 clientID 或 clientSecret]”登录错误**
+**[!DNL Workfront][!DNL Jira]“[!UICONTROL 无效的 clientID 或 clientSecret]”登录错误**
 
 _Workfront 集成_
 
@@ -516,7 +525,7 @@ _主页_
 
 +++**2021 年 9 月 23 日维护更新**
 
-查看提交给 [!DNL Workfront]&#x200B;**的工单时出现**&#x200B;[!UICONTROL &#x200B;访问被拒绝]错误
+查看提交给 [!DNL Workfront]**的工单时出现**[!UICONTROL &#x200B;访问被拒绝]错误
 
 _问题_
 
@@ -1759,6 +1768,6 @@ _文档_
 
 _[!DNL Workfront Proof]_
 
-当用户通过电子邮件（[!UICONTROL 校样]>[!UICONTROL 打印评论]>[!UICONTROL &#x200B; PDF 格式]）收到下载链接并且导出文件时，下载文件的标题是随机数字而不是校样 ID。
+当用户通过电子邮件（[!UICONTROL 校样]>[!UICONTROL 打印评论]>[!UICONTROL  PDF 格式]）收到下载链接并且导出文件时，下载文件的标题是随机数字而不是校样 ID。
 
 +++
