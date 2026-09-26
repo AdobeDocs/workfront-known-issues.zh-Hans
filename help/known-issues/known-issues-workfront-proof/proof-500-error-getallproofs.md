@@ -3,13 +3,23 @@ title: Workfront Proof：通过API或Workfront Fusion访问Workfront Proof时出
 description: 当用户访问验证API getAllProofs操作时，Workfront Proof服务器返回消息：500内部服务器错误
 feature: Workfront Proof
 exl-id: 3c968354-58e2-43fc-8c27-2670683ac862
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 69%
-
 ---
-
 # [!DNL Workfront Proof]：通过 API 或 [!DNL Workfront Fusion] 访问 [!DNL Workfront Proof] 时出现 500 错误
 
 >[!NOTE]

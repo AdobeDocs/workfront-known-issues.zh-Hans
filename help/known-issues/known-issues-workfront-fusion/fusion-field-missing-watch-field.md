@@ -3,13 +3,20 @@ title: Workfront Fusion：模块中缺少字段
 description: 当用户在 Workfront Fusion 中配置模块时，他们可能会注意到可用选项中缺少一个字段。 当用户更新其自定义字段并在过去一小时内用过场景设计器时，可能会发生这种情况。
 feature: Workfront Fusion
 exl-id: c5d2d11c-ff31-4189-a630-b0248c02134e
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
-
 ---
-
 # Workfront Fusion：模块中缺少字段
 
 当用户在 Workfront Fusion 中配置模块时，他们可能会注意到可用选项中缺少一个字段。 当用户更新其自定义字段并在过去一小时内用过场景设计器时，可能会发生这种情况。

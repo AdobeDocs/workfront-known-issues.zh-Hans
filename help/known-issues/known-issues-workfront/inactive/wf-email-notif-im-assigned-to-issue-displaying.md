@@ -3,13 +3,23 @@ title: 电子邮件通知：显示我已分配到问题设置
 description: 在[!UICONTROL 设置]区域中，为具有“查看和请求”许可证的用户显示电子邮件通知设置“我已分配到问题”。 此设置不适用于这些许可证类型，启用此设置不会触发此事件的电子邮件通知。
 feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: b32bb3b9-ee65-4e05-939a-db6bf2bd20e5
+    internal-label: Updates and notifications
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 92%
-
 ---
-
 # 电子邮件通知：“[!UICONTROL 我已分配到问题]”设置正在显示
 
 <!--Article created by request-->
